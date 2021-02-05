@@ -33,7 +33,7 @@ function serve() {
 export default {
 	input: 'src/holocraft.ts',
 	output: {
-		sourcemap: true,
+		sourcemap: !production,
 		format: 'iife',
 		name: 'app',
 		file: 'public/build/holocraft.js'
@@ -61,6 +61,7 @@ export default {
 		}),
 		commonjs(),
 		typescript({
+			noEmitOnError: production,
 			sourceMap: !production,
 			inlineSources: !production
 		}),
