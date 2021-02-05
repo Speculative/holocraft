@@ -2,4 +2,4 @@
 . "$(dirname "$0")/_/husky.sh"
 
 npm run validate
-npm run build && git add "$(dirname "$0")/../public/build"
+npm run build && git add "$(dirname "$0")/../docs/build"
