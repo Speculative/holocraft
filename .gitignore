@@ -1,2 +1,5 @@
 /node_modules/
 **/*.js.map
+API_KEY
+.vscode
+__pycache__

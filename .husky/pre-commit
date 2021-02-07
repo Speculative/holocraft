@@ -1,6 +1,11 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
+ROOT_DIR="$(dirname $0)/.."
+
+poetry run black "$ROOT_DIR"
+poetry run mypy "$ROOT_DIR/update_holocraft.py"
+
 npx pretty-quick --staged
 npm run validate
-npm run build && git add "$(dirname "$0")/../docs/build"
+npm run build && git add "$ROOT_DIR/docs/build"
