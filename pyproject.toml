@@ -9,6 +9,8 @@ python = "^3.9"
 google-api-python-client = "^1.12.8"
 requests = "^2.25.1"
 dataclasses-json = "^0.5.2"
+marshmallow = "^3.10.0"
+python-dateutil = "^2.8.1"
 
 [tool.poetry.dev-dependencies]
 mypy = "^0.800"
