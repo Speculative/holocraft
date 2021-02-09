@@ -44,7 +44,12 @@ class HolocraftData(DataClassJsonMixin):
     # Channel ID -> Upload Playlist ID
     upload_playlists: Dict[str, str] = field(default_factory=dict)
     # Channel ID -> Video ID
-    seen_videos: Dict[str, Set[str]] = field(default_factory=dict)
+    seen_videos: Dict[str, Set[str]] = field(
+        default_factory=dict,
+        # We only want changes to show up in these sets when their membership changes,
+        # so we sort them to get a more stable serialization output
+        metadata=config(encoder=lambda d: {k: sorted(v) for k, v in d.items()}),
+    )
     # Video ID -> HolocraftStream
     craft_streams: Dict[str, HolocraftStream] = field(default_factory=dict)
     # Video ID -> [Source Stream IDs]
