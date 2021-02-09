@@ -53,7 +53,7 @@ class HolocraftData(DataClassJsonMixin):
     # Video ID -> HolocraftStream
     craft_streams: Dict[str, HolocraftStream] = field(default_factory=dict)
     # Video ID -> [Source Stream IDs]
-    craft_clips: Dict[str, List[str]] = field(default_factory=dict)
+    craft_clips: Dict[str, HolocraftClip] = field(default_factory=dict)
 
 
 def get_upload_playlist_id(youtube: api.Resource, channel_id: str):
@@ -85,7 +85,7 @@ def playlist_videos(youtube: api.Resource, playlist_id: str):
     page_token = None
     while True:
         request = youtube.playlistItems().list(
-            part="contentDetails,id,snippet",
+            part="contentDetails,snippet",
             maxResults=50,
             playlistId=playlist_id,
             pageToken=page_token,
@@ -119,7 +119,8 @@ def is_minecraft_video(playlist_item):
 
 def update_source_streams(youtube: api.Resource, data: HolocraftData):
     for member_name, member_channel_id in data.members.items():
-        print("Processing:", member_name)
+        print("Processing member channel:", member_name)
+        dirty = False
         upload_playlist_id = data.upload_playlists[member_channel_id]
         if not member_channel_id in data.seen_videos:
             data.seen_videos[member_channel_id] = set()
@@ -130,6 +131,7 @@ def update_source_streams(youtube: api.Resource, data: HolocraftData):
 
             video_id = content_details["videoId"]
             if not video_id in data.seen_videos[member_channel_id]:
+                dirty = True
                 if is_minecraft_video(playlist_item):
                     print(f"{video_id}: {snippet['channelTitle']} - {snippet['title']}")
                     published_at = isoparse(content_details["videoPublishedAt"])
@@ -142,11 +144,42 @@ def update_source_streams(youtube: api.Resource, data: HolocraftData):
                 data.seen_videos[member_channel_id].add(video_id)
 
         # Checkpoint the data to disk after each channel
-        write_data(data)
+        if dirty:
+            write_data(data)
 
 
 def update_clips(youtube: api.Resource, data: HolocraftData):
-    pass
+    for clipper_channel_id in data.clippers:
+        print("Processing clip channel", clipper_channel_id)
+        dirty = False
+        upload_playlist_id = data.upload_playlists[clipper_channel_id]
+        if not clipper_channel_id in data.seen_videos:
+            data.seen_videos[clipper_channel_id] = set()
+
+        for playlist_item in playlist_videos(youtube, upload_playlist_id):
+            snippet = playlist_item["snippet"]
+            video_id = playlist_item["contentDetails"]["videoId"]
+            if not video_id in data.seen_videos[clipper_channel_id]:
+                dirty = True
+                source_stream_ids = [
+                    match[1]  # just the video ID
+                    for match in re.findall(
+                        r"(youtube\.com/watch\?v=|youtu\.be/)([a-zA-Z0-9_-]+)",
+                        snippet["description"],
+                    )
+                ]
+                if len(source_stream_ids) == 0:
+                    print(video_id, "has no source streams!")
+                else:
+                    print(video_id, ":", ", ".join(source_stream_ids))
+                    data.craft_clips[video_id] = HolocraftClip(source_stream_ids)
+
+                # Mark this video as seen so we don't process it again
+                data.seen_videos[clipper_channel_id].add(video_id)
+
+        # Checkpoint data to disk after each channel
+        if dirty:
+            write_data(data)
 
 
 def load_data():
