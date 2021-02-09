@@ -13,10 +13,12 @@ from marshmallow import fields
 from dateutil.parser import isoparse
 
 DATAFILE_PATH = "docs/data/holocraft.json"
+total_quota_usage = 0
+total_html_fetches = 0
 
 
 @dataclass
-class HolocraftStream(DataClassJsonMixin):
+class HolocraftStream:
     # Member Channel ID whose source stream this is
     member: str
     # When the stream was published
@@ -30,7 +32,7 @@ class HolocraftStream(DataClassJsonMixin):
 
 
 @dataclass
-class HolocraftClip(DataClassJsonMixin):
+class HolocraftClip:
     # Video IDs of source streams
     source_streams: List[str]
 
@@ -57,6 +59,9 @@ class HolocraftData(DataClassJsonMixin):
 
 
 def get_upload_playlist_id(youtube: api.Resource, channel_id: str):
+    global total_quota_usage
+    total_quota_usage += 1
+
     request = youtube.channels().list(part="contentDetails", id=channel_id)
     response = request.execute()
     if response["pageInfo"]["totalResults"] == 0:
@@ -82,8 +87,11 @@ def ensure_upload_playlists(youtube: api.Resource, data: HolocraftData):
 
 
 def playlist_videos(youtube: api.Resource, playlist_id: str):
+    global total_quota_usage
+
     page_token = None
     while True:
+        total_quota_usage += 1
         request = youtube.playlistItems().list(
             part="contentDetails,snippet",
             maxResults=50,
@@ -101,6 +109,8 @@ def playlist_videos(youtube: api.Resource, playlist_id: str):
 
 
 def is_minecraft_video(playlist_item):
+    global total_html_fetches
+
     # If we see minecraft in the video title we can save some time
     normalized_title = playlist_item["snippet"]["title"].lower()
     if any(indicator in normalized_title for indicator in ["minecraft", "マイクラ"]):
@@ -111,6 +121,7 @@ def is_minecraft_video(playlist_item):
     # This will probably break some day in the distant future.
     #
     # Why would YouTube add this useful metadata to the API? Don't be ridiculous.
+    total_html_fetches += 1
     video_page = requests.get(
         f"https://youtube.com/watch?v={playlist_item['contentDetails']['videoId']}"
     )
@@ -212,6 +223,8 @@ def main():
 
     # Write out
     write_data(data)
+    print("Total quota usage:", total_quota_usage)
+    print("Total html fetches", total_html_fetches)
 
 
 if __name__ == "__main__":
