@@ -4,7 +4,7 @@ import re
 import requests
 import googleapiclient.discovery as api  # type: ignore
 from itertools import chain
-from typing import Dict, List, Set
+from typing import Dict, List, Set, Optional
 from timeit import timeit
 from dataclasses import dataclass, field
 from dataclasses_json import DataClassJsonMixin, config
@@ -58,26 +58,87 @@ class HolocraftData(DataClassJsonMixin):
     craft_clips: Dict[str, HolocraftClip] = field(default_factory=dict)
 
 
+@dataclass
+class YouTubeResponsePageInfo:
+    totalResults: int
+    resultsPerPage: int
+
+
+@dataclass
+class YouTubeResponseCommon:
+    pageInfo: YouTubeResponsePageInfo
+    nextPageToken: Optional[str] = None
+    prevPageToken: Optional[str] = None
+
+
+@dataclass
+class YouTubeChannelRelatedPlaylists:
+    uploads: str
+
+
+@dataclass
+class YouTubeChannelContentDetails:
+    relatedPlaylists: YouTubeChannelRelatedPlaylists
+
+
+@dataclass
+class YouTubeChannelResource:
+    contentDetails: YouTubeChannelContentDetails
+
+
+@dataclass
+class YouTubeChannelListResponse(DataClassJsonMixin, YouTubeResponseCommon):
+    items: List[YouTubeChannelResource] = field(default_factory=list)
+
+
+@dataclass
+class YouTubePlaylistItemContentDetails:
+    videoId: str
+    videoPublishedAt: datetime = field(
+        metadata=config(
+            decoder=isoparse,
+            mm_field=fields.DateTime(format="iso"),
+        )
+    )
+
+
+@dataclass
+class YouTubePlaylistItemSnippet:
+    title: str
+    description: str
+    channelTitle: str
+
+
+@dataclass
+class YouTubePlaylistItemResource:
+    contentDetails: YouTubePlaylistItemContentDetails
+    snippet: YouTubePlaylistItemSnippet
+
+
+@dataclass
+class YouTubePlaylistListResponse(DataClassJsonMixin, YouTubeResponseCommon):
+    items: List[YouTubePlaylistItemResource] = field(default_factory=list)
+
+
 def get_upload_playlist_id(youtube: api.Resource, channel_id: str):
     global total_quota_usage
     total_quota_usage += 1
 
     request = youtube.channels().list(part="contentDetails", id=channel_id)
-    response = request.execute()
-    if response["pageInfo"]["totalResults"] == 0:
+    response = YouTubeChannelListResponse.from_dict(
+        request.execute()
+    )
+    if response.pageInfo.totalResults == 0:
         return None
 
-    related_playlists = response["items"][0]["contentDetails"]["relatedPlaylists"]
-    if "uploads" in related_playlists:
-        return related_playlists["uploads"]
-    return None
+    return response.items[0].contentDetails.relatedPlaylists.uploads
 
 
 def ensure_upload_playlists(youtube: api.Resource, data: HolocraftData):
     for channel_id in chain(data.members.values(), data.clippers):
-        if not channel_id in data.upload_playlists:
+        if channel_id not in data.upload_playlists:
             upload_playlist_id = get_upload_playlist_id(youtube, channel_id)
-            if not upload_playlist_id is None:
+            if upload_playlist_id is not None:
                 print(
                     f"Now tracking upload playlist {upload_playlist_id} for channel {channel_id}"
                 )
@@ -98,21 +159,23 @@ def playlist_videos(youtube: api.Resource, playlist_id: str):
             playlistId=playlist_id,
             pageToken=page_token,
         )
-        response = request.execute()
+        response = YouTubePlaylistListResponse.from_dict(
+            request.execute()
+        )
 
-        for playlist_item in response["items"]:
+        for playlist_item in response.items:
             yield playlist_item
 
-        if not "nextPageToken" in response:
+        if response.nextPageToken is None:
             break
-        page_token = response["nextPageToken"]
+        page_token = response.nextPageToken
 
 
-def is_minecraft_video(playlist_item):
+def is_minecraft_video(playlist_item: YouTubePlaylistItemResource):
     global total_html_fetches
 
     # If we see minecraft in the video title we can save some time
-    normalized_title = playlist_item["snippet"]["title"].lower()
+    normalized_title = playlist_item.snippet.title.lower()
     if any(indicator in normalized_title for indicator in ["minecraft", "マイクラ"]):
         return True
 
@@ -123,7 +186,7 @@ def is_minecraft_video(playlist_item):
     # Why would YouTube add this useful metadata to the API? Don't be ridiculous.
     total_html_fetches += 1
     video_page = requests.get(
-        f"https://youtube.com/watch?v={playlist_item['contentDetails']['videoId']}"
+        f"https://youtube.com/watch?v={playlist_item.contentDetails.videoId}"
     )
     return re.search(r"\"simpleText\":\"Minecraft\"", video_page.text) is not None
 
@@ -133,22 +196,21 @@ def update_source_streams(youtube: api.Resource, data: HolocraftData):
         print("Processing member channel:", member_name)
         dirty = False
         upload_playlist_id = data.upload_playlists[member_channel_id]
-        if not member_channel_id in data.seen_videos:
+        if member_channel_id not in data.seen_videos:
             data.seen_videos[member_channel_id] = set()
 
         for playlist_item in playlist_videos(youtube, upload_playlist_id):
-            snippet = playlist_item["snippet"]
-            content_details = playlist_item["contentDetails"]
+            snippet = playlist_item.snippet
+            content_details = playlist_item.contentDetails
 
-            video_id = content_details["videoId"]
-            if not video_id in data.seen_videos[member_channel_id]:
+            video_id = content_details.videoId
+            if video_id not in data.seen_videos[member_channel_id]:
                 dirty = True
                 if is_minecraft_video(playlist_item):
-                    print(f"{video_id}: {snippet['channelTitle']} - {snippet['title']}")
-                    published_at = isoparse(content_details["videoPublishedAt"])
+                    print(f"{video_id}: {snippet.channelTitle} - {snippet.title}")
                     # Add this source stream to the holocraft database
                     data.craft_streams[video_id] = HolocraftStream(
-                        member_channel_id, published_at
+                        member_channel_id, content_details.videoPublishedAt
                     )
 
                 # Mark this video as seen so we don't process it again
@@ -164,19 +226,19 @@ def update_clips(youtube: api.Resource, data: HolocraftData):
         print("Processing clip channel", clipper_channel_id)
         dirty = False
         upload_playlist_id = data.upload_playlists[clipper_channel_id]
-        if not clipper_channel_id in data.seen_videos:
+        if clipper_channel_id not in data.seen_videos:
             data.seen_videos[clipper_channel_id] = set()
 
         for playlist_item in playlist_videos(youtube, upload_playlist_id):
-            snippet = playlist_item["snippet"]
-            video_id = playlist_item["contentDetails"]["videoId"]
-            if not video_id in data.seen_videos[clipper_channel_id]:
+            snippet = playlist_item.snippet
+            video_id = playlist_item.contentDetails.videoId
+            if video_id not in data.seen_videos[clipper_channel_id]:
                 dirty = True
                 source_stream_ids = [
                     match[1]  # just the video ID
                     for match in re.findall(
                         r"(youtube\.com/watch\?v=|youtu\.be/)([a-zA-Z0-9_-]+)",
-                        snippet["description"],
+                        snippet.description,
                     )
                 ]
                 if len(source_stream_ids) == 0:
