@@ -3,8 +3,8 @@
 
 ROOT_DIR="$(dirname $0)/.."
 
-poetry run black "$ROOT_DIR"
-poetry run mypy "$ROOT_DIR/update_holocraft.py"
+poetry run mypy "$ROOT_DIR/updater"
+poetry run black "$ROOT_DIR/updater" && git add "$ROOT_DIR/updater"
 
 npx pretty-quick --staged
 npm run validate
