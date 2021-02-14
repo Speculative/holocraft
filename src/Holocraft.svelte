@@ -1,33 +1,16 @@
 <script lang="ts">
-  export let name: string;
+  import { holocraftData } from "./data-store";
+  import Tailwind from "./Tailwind.svelte";
+
+  $: numStreams = Object.keys($holocraftData.streams).length;
+  $: numClips = Object.keys($holocraftData.clips).length;
 </script>
 
-<main>
-  <h1>Hello {name}!</h1>
-  <p>
-    Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn
-    how to build Svelte apps.
-  </p>
+<!-- Tailwind init goes before everything else -->
+<Tailwind />
+
+<main class="w-full h-full bg-gray-800">
+  <h1 class="text-white">Holocraft</h1>
+  <p class="font-bold italic text-white">Streams: {numStreams}</p>
+  <p class="font-bold text-white">Clips: {numClips}</p>
 </main>
-
-<style>
-  main {
-    text-align: center;
-    padding: 1em;
-    max-width: 240px;
-    margin: 0 auto;
-  }
-
-  h1 {
-    color: #ff3e00;
-    text-transform: uppercase;
-    font-size: 4em;
-    font-weight: 100;
-  }
-
-  @media (min-width: 640px) {
-    main {
-      max-width: none;
-    }
-  }
-</style>

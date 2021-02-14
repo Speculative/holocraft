@@ -3,6 +3,7 @@ from typing import Dict, List, Set, Optional
 from dataclasses import dataclass, field
 from dataclasses_json import DataClassJsonMixin, config
 from datetime import datetime
+from dataclasses_json.api import LetterCase, dataclass_json
 from marshmallow import fields
 
 
@@ -53,8 +54,9 @@ class HolocraftData(DataClassJsonMixin):
     craft_clips: Dict[str, HolocraftClip] = field(default_factory=dict)
 
 
+@dataclass_json(letter_case=LetterCase.CAMEL)
 @dataclass
-class HolocraftClientData(DataClassJsonMixin):
+class HolocraftClientData:
     """The data shipped with the client to render the timeline."""
 
     craft_streams: Dict[str, HolocraftStream]
