@@ -1,0 +1,3 @@
+# Treat the build products as "binary" files that aren't shown in `git diff`
+docs/build/holocraft.js -diff
+docs/build/holocraft.css -diff

@@ -56,20 +56,48 @@ class HolocraftData(DataClassJsonMixin):
 
 @dataclass_json(letter_case=LetterCase.CAMEL)
 @dataclass
+class ClientHolocraftStream(HolocraftStream):
+    video_id: str
+
+
+@dataclass_json(letter_case=LetterCase.CAMEL)
+@dataclass
+class ClientHolocraftClip(HolocraftClip):
+    video_id: str
+
+
+@dataclass_json(letter_case=LetterCase.CAMEL)
+@dataclass
 class HolocraftClientData:
     """The data shipped with the client to render the timeline."""
 
-    craft_streams: Dict[str, HolocraftStream]
-    craft_clips: Dict[str, HolocraftClip]
+    craft_streams: List[ClientHolocraftStream]
+    craft_clips: List[ClientHolocraftClip]
 
     @classmethod
     def from_holocraft_data(cls, data: HolocraftData):
-        filtered_clips = {
-            clip_id: clip
+        filtered_craft_clips = [
+            ClientHolocraftClip(source_streams, clip_id)
             for clip_id, clip in data.craft_clips.items()
-            if any(
-                craft_stream in clip.source_streams
-                for craft_stream in data.craft_streams
+            # We only take clips which have at least 1 known holocraft source stream
+            if len(
+                #  And we only list those source streams which are known holocraft source streams
+                source_streams := [
+                    craft_stream
+                    for craft_stream in clip.source_streams
+                    if craft_stream in data.craft_streams
+                ]
             )
-        }
-        return cls(data.craft_streams, filtered_clips)
+            > 0
+        ]
+        ordered_craft_streams = sorted(
+            [
+                ClientHolocraftStream(
+                    source_stream.member, source_stream.published_at, source_stream_id
+                )
+                for source_stream_id, source_stream in data.craft_streams.items()
+            ],
+            # Sorted by date
+            key=lambda stream: stream.published_at,
+        )
+        return cls(ordered_craft_streams, filtered_craft_clips)

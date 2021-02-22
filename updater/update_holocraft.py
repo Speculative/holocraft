@@ -115,13 +115,20 @@ def do_write_data(data: HolocraftData):
 
 def write_data(data: HolocraftData):
     write_time = timeit(lambda: do_write_data(data), setup="gc.enable()", number=1)
-    print(f"Wrote data in {write_time} seconds:")
+    print(f"Wrote sync metadata in {write_time} seconds")
 
 
-def emit_client_data(data: HolocraftData):
+def do_emit_client_data(data: HolocraftData):
     client_data = HolocraftClientData.from_holocraft_data(data)
     with open(CLIENT_DATA_PATH, "w") as holocraft_client_data_file:
         holocraft_client_data_file.write(json.dumps(client_data.to_dict(), indent=2))
+
+
+def emit_client_data(data: HolocraftData):
+    write_time = timeit(
+        lambda: do_emit_client_data(data), setup="gc.enable()", number=1
+    )
+    print(f"Wrote client data in {write_time} seconds")
 
 
 def main():
