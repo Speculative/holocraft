@@ -1,7 +1,7 @@
 import re
 import requests
 import googleapiclient.discovery as api  # type: ignore
-from typing import List, Optional
+from typing import List, Optional, Dict
 from dataclasses import dataclass, field
 from dataclasses_json import DataClassJsonMixin, config
 from datetime import datetime
@@ -36,13 +36,54 @@ class YouTubeChannelContentDetails:
 
 
 @dataclass
+class YouTubeChannelThumbnail:
+    url: str
+    width: int
+    height: int
+
+
+@dataclass
+class YouTubeChannelSnippet:
+    title: str
+    thumbnails: Dict[str, YouTubeChannelThumbnail]
+
+
+@dataclass
 class YouTubeChannelResource:
-    contentDetails: YouTubeChannelContentDetails
+    contentDetails: Optional[YouTubeChannelContentDetails] = None
+    snippet: Optional[YouTubeChannelSnippet] = None
 
 
 @dataclass
 class YouTubeChannelListResponse(DataClassJsonMixin, YouTubeResponseCommon):
     items: List[YouTubeChannelResource] = field(default_factory=list)
+
+
+def get_upload_playlist_id(youtube: api.Resource, channel_id: str):
+    global _total_quota_usage
+    _total_quota_usage += 1
+
+    request = youtube.channels().list(part="contentDetails", id=channel_id)
+    response = YouTubeChannelListResponse.from_dict(request.execute())
+    if response.pageInfo.totalResults == 0 or response.items[0].contentDetails is None:
+        return None
+
+    return response.items[0].contentDetails.relatedPlaylists.uploads
+
+
+def get_channel_picture(youtube: api.Resource, channel_id: str):
+    global _total_quota_usage
+    _total_quota_usage += 1
+
+    request = youtube.channels().list(part="snippet", id=channel_id)
+    response = YouTubeChannelListResponse.from_dict(request.execute())
+    if response.pageInfo.totalResults == 0 or response.items[0].snippet is None:
+        return None
+
+    thumbnails = response.items[0].snippet.thumbnails
+    if "default" in thumbnails:
+        return thumbnails["default"].url
+    return None
 
 
 @dataclass
@@ -72,18 +113,6 @@ class YouTubePlaylistItemResource:
 @dataclass
 class YouTubePlaylistListResponse(DataClassJsonMixin, YouTubeResponseCommon):
     items: List[YouTubePlaylistItemResource] = field(default_factory=list)
-
-
-def get_upload_playlist_id(youtube: api.Resource, channel_id: str):
-    global _total_quota_usage
-    _total_quota_usage += 1
-
-    request = youtube.channels().list(part="contentDetails", id=channel_id)
-    response = YouTubeChannelListResponse.from_dict(request.execute())
-    if response.pageInfo.totalResults == 0:
-        return None
-
-    return response.items[0].contentDetails.relatedPlaylists.uploads
 
 
 def playlist_videos(youtube: api.Resource, playlist_id: str):

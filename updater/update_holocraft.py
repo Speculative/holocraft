@@ -4,14 +4,15 @@ import re
 import googleapiclient.discovery as api  # type: ignore
 from itertools import chain
 from timeit import timeit
+from typing import Callable, TypeVar, Any
 
-from holocraft_data import (
+from updater.holocraft_data import (
     HolocraftData,
     HolocraftStream,
     HolocraftClip,
     HolocraftClientData,
 )
-from youtube import (
+from updater.youtube import (
     get_upload_playlist_id,
     playlist_videos,
     is_minecraft_video,
@@ -26,7 +27,10 @@ CLIENT_DATA_PATH = "docs/holocraft.json"
 
 
 def ensure_upload_playlists(youtube: api.Resource, data: HolocraftData):
-    for channel_id in chain(data.members.values(), data.clippers):
+    for channel_id in chain(
+        map(lambda member_info: member_info.channel_id, data.members.values()),
+        data.clippers,
+    ):
         if channel_id not in data.upload_playlists:
             upload_playlist_id = get_upload_playlist_id(youtube, channel_id)
             if upload_playlist_id is not None:
@@ -39,9 +43,10 @@ def ensure_upload_playlists(youtube: api.Resource, data: HolocraftData):
 
 
 def update_source_streams(youtube: api.Resource, data: HolocraftData):
-    for member_name, member_channel_id in data.members.items():
+    for member_name, member_info in data.members.items():
         print("Processing member channel:", member_name)
         dirty = False
+        member_channel_id = member_info.channel_id
         upload_playlist_id = data.upload_playlists[member_channel_id]
         if member_channel_id not in data.seen_videos:
             data.seen_videos[member_channel_id] = set()
@@ -102,19 +107,27 @@ def update_clips(youtube: api.Resource, data: HolocraftData):
             write_data(data)
 
 
-def load_data():
+TSchemaAll = TypeVar("TSchemaAll")
+
+
+def load_with_schema(deserialize: Callable[[str], TSchemaAll]) -> TSchemaAll:
     with open(DATAFILE_PATH, "r") as holocraft_data_file:
-        data = HolocraftData.from_json(holocraft_data_file.read())
-        return data
+        return deserialize(holocraft_data_file.read())
 
 
-def do_write_data(data: HolocraftData):
+def load_data():
+    return load_with_schema(HolocraftData.from_json)
+
+
+def write_with_schema(get_serializable_data: Callable[[], Any]):
     with open(DATAFILE_PATH, "w") as holocraft_data_file:
-        holocraft_data_file.write(json.dumps(data.to_dict(), indent=2))
+        holocraft_data_file.write(json.dumps(get_serializable_data(), indent=2))
 
 
 def write_data(data: HolocraftData):
-    write_time = timeit(lambda: do_write_data(data), setup="gc.enable()", number=1)
+    write_time = timeit(
+        lambda: write_with_schema(data.to_dict), setup="gc.enable()", number=1
+    )
     print(f"Wrote sync metadata in {write_time} seconds")
 
 

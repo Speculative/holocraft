@@ -1,5 +1,4 @@
-import json
-from typing import Dict, List, Set, Optional
+from typing import Dict, List, Set
 from dataclasses import dataclass, field
 from dataclasses_json import DataClassJsonMixin, config
 from datetime import datetime
@@ -32,11 +31,18 @@ class HolocraftClip:
 
 
 @dataclass
+class MemberInfo:
+    channel_id: str = field(default_factory=str)
+    name: str = field(default_factory=str)
+    channel_image_url: str = field(default_factory=str)
+
+
+@dataclass
 class HolocraftData(DataClassJsonMixin):
     """All Holocraft data, including metadata for running the updater."""
 
     # Member Name -> Channel ID
-    members: Dict[str, str] = field(default_factory=dict)
+    members: Dict[str, MemberInfo] = field(default_factory=dict)
     # [Clipper Channel ID]
     clippers: List[str] = field(default_factory=list)
     # Channel ID -> Upload Playlist ID
@@ -71,6 +77,7 @@ class ClientHolocraftClip(HolocraftClip):
 class HolocraftClientData:
     """The data shipped with the client to render the timeline."""
 
+    members: Dict[str, MemberInfo]
     craft_streams: List[ClientHolocraftStream]
     craft_clips: List[ClientHolocraftClip]
 
@@ -100,4 +107,4 @@ class HolocraftClientData:
             # Sorted by date
             key=lambda stream: stream.published_at,
         )
-        return cls(ordered_craft_streams, filtered_craft_clips)
+        return cls(data.members, ordered_craft_streams, filtered_craft_clips)
