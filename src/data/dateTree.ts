@@ -9,7 +9,7 @@ function* mapIterator<TOldValue, TNewValue>(
   }
 }
 
-type Granularity = dayjs.UnitType;
+export type Granularity = dayjs.UnitType;
 type DateTreeChild<
   TValue,
   TGranularities extends readonly Granularity[]
@@ -25,6 +25,9 @@ type DateTreeChild<
 
 export class DateTree<TValue, TGranularities extends readonly Granularity[]> {
   private children: DateMap<DateTreeChild<TValue, TGranularities>>;
+  private _isBottom: boolean;
+  private _granularity: Granularity;
+  private _totalEntriesInTree: number;
 
   constructor(
     /**
@@ -37,12 +40,15 @@ export class DateTree<TValue, TGranularities extends readonly Granularity[]> {
     granularities: TGranularities
   ) {
     const [granularity, ...childGranularities] = granularities;
+    this._granularity = granularity;
+    this._totalEntriesInTree = 0;
 
     // Partition entries
     // This is pretty weird. So inserting into the date map automatically partitions, but will lose the original dates.
     // To avoid this, we pack the original date into the value as well. That way, when we get it back out of the map,
     const partitions = new DateMap<[dayjs.Dayjs, TValue][]>([], granularity);
     for (const [date, value] of entries) {
+      this._totalEntriesInTree += 1;
       let bucket: [dayjs.Dayjs, TValue][] = [];
       if (partitions.has(date)) {
         bucket = partitions.get(date)!;
@@ -54,19 +60,21 @@ export class DateTree<TValue, TGranularities extends readonly Granularity[]> {
     // Construct child trees from partitions and the next granularity
     if (childGranularities.length > 0) {
       // Create the next level of the tree
+      this._isBottom = false;
       this.children = new DateMap(
         mapIterator(partitions.entries(), ([dateBucket, bucketEntries]) => [
           dateBucket,
+          // TODO: is there some way (type guard?) that we don't have to cast to any
           (new DateTree(
             bucketEntries,
             childGranularities
-            // TODO: is there some way (type guard?) that we don't have to cast to any
           ) as any) as DateTreeChild<TValue, TGranularities>,
         ]),
         granularity
       );
     } else {
       // This is the bottom of the tree
+      this._isBottom = true;
       this.children = new DateMap(
         mapIterator(partitions.entries(), ([dateBucket, bucketEntries]) => [
           dateBucket,
@@ -84,6 +92,10 @@ export class DateTree<TValue, TGranularities extends readonly Granularity[]> {
     return this.children.get(date);
   }
 
+  public unsafeGet(date: dayjs.Dayjs) {
+    return this.get(date)!;
+  }
+
   public keys() {
     return Array.from(this.children.keys());
   }
@@ -94,6 +106,25 @@ export class DateTree<TValue, TGranularities extends readonly Granularity[]> {
 
   public entries() {
     return Array.from(this.children.entries());
+  }
+
+  public isBottom(): this is DateTree<TValue, [Granularity]> {
+    return this._isBottom;
+  }
+
+  public isNotBottom(): this is DateTree<
+    TValue,
+    [Granularity, Granularity, ...Granularity[]]
+  > {
+    return !this._isBottom;
+  }
+
+  public granularity() {
+    return this._granularity;
+  }
+
+  public totalEntries() {
+    return this._totalEntriesInTree;
   }
 }
 

@@ -20,7 +20,9 @@ module.exports = {
     extend: {
       borderWidth: ["hover"],
       width: ["hover"],
-      height: ["hover"],
+      height: ["hover", "first"],
+      justifyContent: ["first"],
+      alignItems: ["first"],
     },
   },
 };

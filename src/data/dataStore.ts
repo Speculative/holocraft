@@ -2,19 +2,26 @@ import { readable } from "svelte/store";
 import dayjs from "dayjs";
 import { DateTree } from "./dateTree";
 
-interface HolocraftStream {
+export interface HolocraftStream {
   videoId: string;
   member: string;
   publishedAt: dayjs.Dayjs;
   clips: HolocraftClip[];
 }
 
-interface HolocraftClip {
+export interface HolocraftClip {
   videoId: string;
   sourceStreams: HolocraftStream[];
 }
 
+export interface MemberInfo {
+  channelId: string;
+  name: string;
+  channelImageUrl: string;
+}
+
 interface HolocraftData {
+  members: { [memberId: string]: MemberInfo };
   streams: {
     /**
      * Mapping of Stream video ID -> HolocraftStream
@@ -31,7 +38,7 @@ interface HolocraftData {
     /**
      * Time-bucketed map of Year -> Month -> Day -> Streams
      */
-    byDate: DateTree<HolocraftStream, ["year", "month", "day"]>;
+    byDate: DateTree<HolocraftStream, ["year", "month", "date"]>;
   };
   /**
    * Mapping of Clip video ID -> HolocraftClip
@@ -43,6 +50,13 @@ interface HolocraftData {
  * This should be kept in sync with updater/holocraft_data.py:HolocraftClientData
  */
 interface HolocraftJson {
+  members: {
+    [memberId: string]: {
+      channelId: string;
+      name: string;
+      channelImageUrl: string;
+    };
+  };
   craftStreams: {
     videoId: string;
     member: string;
@@ -56,11 +70,12 @@ interface HolocraftJson {
 
 export const holocraftData = readable<HolocraftData>(
   {
+    members: {},
     streams: {
       byId: {},
       inOrder: [],
       byMember: {},
-      byDate: new DateTree([], ["year", "month", "day"]),
+      byDate: new DateTree([], ["year", "month", "date"]),
     },
     clips: {},
   },
@@ -116,13 +131,20 @@ export const holocraftData = readable<HolocraftData>(
 
         const byDate = new DateTree(
           inOrder.map((clip) => [clip.publishedAt, clip]),
-          ["year", "month", "day"] as const
+          ["year", "month", "date"] as const
         );
 
         const endTime = performance.now();
         console.log(`Computed stats in ${endTime - startTime} ms`);
 
+        // Prefetch member images
+        for (const memberInfo of Object.values(responseJson.members)) {
+          const img = new Image();
+          img.src = memberInfo.channelImageUrl;
+        }
+
         const finalized = {
+          members: responseJson.members,
           streams: {
             byId,
             inOrder,

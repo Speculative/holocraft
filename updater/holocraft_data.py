@@ -74,15 +74,27 @@ class ClientHolocraftClip(HolocraftClip):
 
 @dataclass_json(letter_case=LetterCase.CAMEL)
 @dataclass
+class ClientMemberInfo(MemberInfo):
+    pass
+
+
+@dataclass_json(letter_case=LetterCase.CAMEL)
+@dataclass
 class HolocraftClientData:
     """The data shipped with the client to render the timeline."""
 
-    members: Dict[str, MemberInfo]
+    members: Dict[str, ClientMemberInfo]
     craft_streams: List[ClientHolocraftStream]
     craft_clips: List[ClientHolocraftClip]
 
     @classmethod
     def from_holocraft_data(cls, data: HolocraftData):
+        members = {
+            member_id: ClientMemberInfo(
+                member_info.channel_id, member_info.name, member_info.channel_image_url
+            )
+            for member_id, member_info in data.members.items()
+        }
         filtered_craft_clips = [
             ClientHolocraftClip(source_streams, clip_id)
             for clip_id, clip in data.craft_clips.items()
@@ -107,4 +119,4 @@ class HolocraftClientData:
             # Sorted by date
             key=lambda stream: stream.published_at,
         )
-        return cls(data.members, ordered_craft_streams, filtered_craft_clips)
+        return cls(members, ordered_craft_streams, filtered_craft_clips)
