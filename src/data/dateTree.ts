@@ -190,3 +190,16 @@ class DateMap<TValue> {
     return date.startOf(this.granularity).unix();
   }
 }
+
+export function formatGranularity(date: dayjs.Dayjs, granularity: Granularity) {
+  switch (granularity) {
+    case "year":
+      return date.format("YYYY");
+    case "month":
+      return date.format("MMMM YYYY");
+    case "date":
+      return date.format("MMMM D");
+    default:
+      return date.format("MMMM D, YYYY");
+  }
+}

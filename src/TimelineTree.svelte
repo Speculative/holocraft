@@ -47,7 +47,7 @@
   }
 </script>
 
-<section class="relative flex flex-col items-center w-16">
+<section class="relative flex flex-col items-center w-12">
   {#if maybeNotBottom.isNotBottom()}
     {#each maybeNotBottom.keys() as bucket, index}
       <DateMark

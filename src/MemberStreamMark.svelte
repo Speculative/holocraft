@@ -1,4 +1,7 @@
 <script lang="ts">
+  import Icon from "svelte-fa";
+  import { faWindowClose } from "@fortawesome/free-solid-svg-icons";
+
   import TimelineMark from "./TimelineMark.svelte";
   import { holocraftData } from "./data/dataStore";
 
@@ -53,12 +56,17 @@
     {#if showCallout}
       <figure class="vertically-aligned-row w-64">
         <div class="absolute z-0 w-2 h-2 -ml-1 transform rotate-45 bg-white" />
-        <div class="above-rail p-2 bg-white rounded-sm">
+        <div class="above-rail relative p-4 bg-white rounded-sm">
           Sorry there's no fancy embed and related clips yet.<br />
           <a
             class="underline"
             href={`https://www.youtube.com/watch?v=${streamVideoId}`}
             >Here's a link to the stream</a
+          >
+          <button
+            class="right-1 top-1 absolute w-4 h-4"
+            on:click={toggleCallout}
+            ><Icon icon={faWindowClose} size="sm" /></button
           >
         </div>
       </figure>
