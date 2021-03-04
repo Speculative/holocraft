@@ -143,7 +143,7 @@ export const holocraftData = readable<HolocraftData>(
           img.src = memberInfo.channelImageUrl;
         }
 
-        const finalized = {
+        set({
           members: responseJson.members,
           streams: {
             byId,
@@ -152,9 +152,7 @@ export const holocraftData = readable<HolocraftData>(
             byDate,
           },
           clips,
-        };
-        (window as any).holocraftData = finalized;
-        set(finalized);
+        });
       });
   }
 );

@@ -5,6 +5,7 @@ import livereload from "rollup-plugin-livereload";
 import { terser } from "rollup-plugin-terser";
 import typescript from "@rollup/plugin-typescript";
 import postcss from "rollup-plugin-postcss";
+import replace from "@rollup/plugin-replace";
 import sveltePreprocess from "svelte-preprocess";
 
 const production = !process.env.ROLLUP_WATCH;
@@ -41,6 +42,7 @@ export default {
     format: "iife",
     name: "app",
     file: "docs/build/holocraft.js",
+    inlineDynamicImports: true,
   },
   plugins: [
     postcss({
@@ -68,6 +70,14 @@ export default {
       dedupe: ["svelte"],
     }),
     commonjs(),
+    replace({
+      preventAssignment: true,
+      // https://github.com/rollup/rollup/issues/487
+      // https://github.com/rollup/rollup/issues/2881
+      "process.env.NODE_ENV": production
+        ? JSON.stringify("production")
+        : JSON.stringify("development"),
+    }),
     typescript({
       noEmitOnError: production,
       sourceMap: !production,
