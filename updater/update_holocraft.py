@@ -1,23 +1,24 @@
 import json
-import sys
 import re
-import googleapiclient.discovery as api  # type: ignore
+import sys
 from itertools import chain
 from timeit import timeit
-from typing import Callable, TypeVar, Any
+from typing import Any, Callable, TypeVar
+
+import googleapiclient.discovery as api  # type: ignore
 
 from updater.holocraft_data import (
+    HolocraftClientData,
+    HolocraftClip,
     HolocraftData,
     HolocraftStream,
-    HolocraftClip,
-    HolocraftClientData,
 )
 from updater.youtube import (
-    get_upload_playlist_id,
-    playlist_videos,
-    is_minecraft_video,
-    get_quota_usage,
     get_html_fetches,
+    get_quota_usage,
+    get_upload_playlist_id,
+    is_minecraft_video,
+    playlist_videos,
 )
 
 # Where all sync metadata is stored

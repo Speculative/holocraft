@@ -4,6 +4,7 @@
 ROOT_DIR="$(dirname $0)/.."
 
 poetry run mypy "$ROOT_DIR/updater"
+poetry run isort --profile black "$ROOT_DIR/updater"
 poetry run black "$ROOT_DIR/updater" && git add "$ROOT_DIR/updater"
 
 npx pretty-quick --staged

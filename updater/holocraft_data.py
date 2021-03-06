@@ -1,7 +1,8 @@
-from typing import Dict, List, Set
 from dataclasses import dataclass, field
-from dataclasses_json import DataClassJsonMixin, config
 from datetime import datetime
+from typing import Dict, List, Set
+
+from dataclasses_json import DataClassJsonMixin, config
 from dataclasses_json.api import LetterCase, dataclass_json
 from marshmallow import fields
 

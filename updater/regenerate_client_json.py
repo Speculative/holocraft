@@ -1,4 +1,4 @@
-from updater.update_holocraft import load_data, emit_client_data
+from updater.update_holocraft import emit_client_data, load_data
 
 
 def main():

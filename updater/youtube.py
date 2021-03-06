@@ -1,12 +1,13 @@
 import re
-import requests
-import googleapiclient.discovery as api  # type: ignore
-from typing import List, Optional, Dict
 from dataclasses import dataclass, field
-from dataclasses_json import DataClassJsonMixin, config
 from datetime import datetime
-from marshmallow import fields
+from typing import Dict, List, Literal, Optional, Union
+
+import googleapiclient.discovery as api  # type: ignore
+import requests
+from dataclasses_json import DataClassJsonMixin, config
 from dateutil.parser import isoparse
+from marshmallow import fields
 
 _total_quota_usage = 0
 _total_html_fetches = 0
@@ -127,7 +128,13 @@ def playlist_videos(youtube: api.Resource, playlist_id: str):
             playlistId=playlist_id,
             pageToken=page_token,
         )
-        response = YouTubePlaylistListResponse.from_dict(request.execute())
+        raw_response = request.execute()
+        raw_response["items"] = [
+            item
+            for item in raw_response["items"]
+            if item["snippet"]["title"] not in ["Deleted video", "Private video"]
+        ]
+        response = YouTubePlaylistListResponse.from_dict(raw_response)
 
         for playlist_item in response.items:
             yield playlist_item
