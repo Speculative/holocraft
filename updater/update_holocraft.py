@@ -63,7 +63,10 @@ def update_source_streams(youtube: api.Resource, data: HolocraftData):
                     print(f"{video_id}: {snippet.channelTitle} - {snippet.title}")
                     # Add this source stream to the holocraft database
                     data.craft_streams[video_id] = HolocraftStream(
-                        member_channel_id, content_details.videoPublishedAt
+                        member=member_name,
+                        published_at=content_details.videoPublishedAt,
+                        title=snippet.title,
+                        thumbnail_url=snippet.thumbnails["default"].url,
                     )
 
                 # Mark this video as seen so we don't process it again
@@ -98,7 +101,11 @@ def update_clips(youtube: api.Resource, data: HolocraftData):
                     print(video_id, "has no source streams!")
                 else:
                     print(video_id, ":", ", ".join(source_stream_ids))
-                    data.craft_clips[video_id] = HolocraftClip(source_stream_ids)
+                    data.craft_clips[video_id] = HolocraftClip(
+                        source_streams=source_stream_ids,
+                        title=snippet.title,
+                        thumbnail_url=snippet.thumbnails["default"].url,
+                    )
 
                 # Mark this video as seen so we don't process it again
                 data.seen_videos[clipper_channel_id].add(video_id)

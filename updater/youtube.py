@@ -37,7 +37,7 @@ class YouTubeChannelContentDetails:
 
 
 @dataclass
-class YouTubeChannelThumbnail:
+class YouTubeThumbnail:
     url: str
     width: int
     height: int
@@ -46,7 +46,7 @@ class YouTubeChannelThumbnail:
 @dataclass
 class YouTubeChannelSnippet:
     title: str
-    thumbnails: Dict[str, YouTubeChannelThumbnail]
+    thumbnails: Dict[str, YouTubeThumbnail]
 
 
 @dataclass
@@ -103,6 +103,7 @@ class YouTubePlaylistItemSnippet:
     title: str
     description: str
     channelTitle: str
+    thumbnails: Dict[str, YouTubeThumbnail]
 
 
 @dataclass

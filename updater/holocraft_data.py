@@ -21,6 +21,10 @@ class HolocraftStream:
             mm_field=fields.DateTime(format="iso"),
         )
     )
+    # Stream video title
+    title: str
+    # The thumnail for this stream
+    thumbnail_url: str
 
 
 @dataclass
@@ -29,6 +33,10 @@ class HolocraftClip:
 
     # Video IDs of source streams
     source_streams: List[str]
+    # Clip video title
+    title: str
+    # The thumnail for this clip
+    thumbnail_url: str
 
 
 @dataclass
@@ -97,7 +105,7 @@ class HolocraftClientData:
             for member_id, member_info in data.members.items()
         }
         filtered_craft_clips = [
-            ClientHolocraftClip(source_streams, clip_id)
+            ClientHolocraftClip(source_streams, clip.title, clip.thumbnail_url, clip_id)
             for clip_id, clip in data.craft_clips.items()
             # We only take clips which have at least 1 known holocraft source stream
             if len(
@@ -113,7 +121,11 @@ class HolocraftClientData:
         ordered_craft_streams = sorted(
             [
                 ClientHolocraftStream(
-                    source_stream.member, source_stream.published_at, source_stream_id
+                    member=source_stream.member,
+                    published_at=source_stream.published_at,
+                    title=source_stream.title,
+                    thumbnail_url=source_stream.thumbnail_url,
+                    video_id=source_stream_id,
                 )
                 for source_stream_id, source_stream in data.craft_streams.items()
             ],

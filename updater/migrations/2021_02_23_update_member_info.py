@@ -1,5 +1,6 @@
 # Using the all-caps member id instead of channel in `member` field of HolocraftStream
 # Parent SHA: 7e39650601f56f4c868db9e8b0fc1ccc6b30a90f
+# type: ignore
 
 import sys
 from dataclasses import dataclass, field
