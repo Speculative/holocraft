@@ -1,10 +1,10 @@
 <section class="relative flex flex-row w-full h-24">
   <div
-    class="flex-column relative z-10 flex items-center justify-center w-full h-full"
+    class="relative z-10 flex items-center justify-center w-full h-full flex-column"
   >
     <slot name="mark" />
   </div>
-  <div class="left-20 absolute h-full">
+  <div class="absolute h-full left-20">
     <slot name="attachment" />
   </div>
 </section>

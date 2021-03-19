@@ -15,7 +15,7 @@
   <div class="w-6/12 h-full overflow-auto">
     <h1 class="text-white">Holocraft</h1>
     <Timeline />
-    <p class="italic font-bold text-white">Streams: {numStreams}</p>
+    <p class="font-bold text-white">Streams: {numStreams}</p>
     <p class="font-bold text-white">Clips: {numClips}</p>
   </div>
   <div class="w-6/12 h-full">
