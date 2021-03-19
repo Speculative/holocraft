@@ -1,5 +1,6 @@
 # Add thumbnail URL and video title of streams and clips
 # Parent SHA: b7a1cdc59a200562af57b11d857ae62eb2e2ec9e
+# type: ignore
 
 import sys
 from dataclasses import asdict, dataclass, field

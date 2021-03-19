@@ -3,7 +3,7 @@ import re
 import sys
 from itertools import chain
 from timeit import timeit
-from typing import Any, Callable, TypeVar
+from typing import Any, Callable, Set, TypeVar
 
 import googleapiclient.discovery as api  # type: ignore
 
@@ -44,6 +44,8 @@ def ensure_upload_playlists(youtube: api.Resource, data: HolocraftData):
 
 
 def update_source_streams(youtube: api.Resource, data: HolocraftData):
+    all_stream_ids = set(data.craft_streams.keys())
+    seen_stream_ids = set()
     for member_name, member_info in data.members.items():
         print("Processing member channel:", member_name)
         dirty = False
@@ -57,6 +59,8 @@ def update_source_streams(youtube: api.Resource, data: HolocraftData):
             content_details = playlist_item.contentDetails
 
             video_id = content_details.videoId
+            seen_stream_ids.add(video_id)
+
             if video_id not in data.seen_videos[member_channel_id]:
                 dirty = True
                 if is_minecraft_video(playlist_item):
@@ -66,7 +70,6 @@ def update_source_streams(youtube: api.Resource, data: HolocraftData):
                         member=member_name,
                         published_at=content_details.videoPublishedAt,
                         title=snippet.title,
-                        thumbnail_url=snippet.thumbnails["default"].url,
                     )
 
                 # Mark this video as seen so we don't process it again
@@ -76,18 +79,31 @@ def update_source_streams(youtube: api.Resource, data: HolocraftData):
         if dirty:
             write_data(data)
 
+    to_remove = all_stream_ids - seen_stream_ids
+    print(f"Removed {len(to_remove)} missing streams")
+    if len(to_remove) > 0:
+        print(", ".join(to_remove))
+    clean_up_streams(data, to_remove)
+
 
 def update_clips(youtube: api.Resource, data: HolocraftData):
+    all_clip_ids = set(data.craft_clips.keys())
+    seen_clip_ids = set()
     for clipper_channel_id in data.clippers:
         print("Processing clip channel", clipper_channel_id)
         dirty = False
+        num_new_clips = 0
+
         upload_playlist_id = data.upload_playlists[clipper_channel_id]
         if clipper_channel_id not in data.seen_videos:
             data.seen_videos[clipper_channel_id] = set()
 
         for playlist_item in playlist_videos(youtube, upload_playlist_id):
             snippet = playlist_item.snippet
+
             video_id = playlist_item.contentDetails.videoId
+            seen_clip_ids.add(video_id)
+
             if video_id not in data.seen_videos[clipper_channel_id]:
                 dirty = True
                 source_stream_ids = [
@@ -97,22 +113,42 @@ def update_clips(youtube: api.Resource, data: HolocraftData):
                         snippet.description,
                     )
                 ]
-                if len(source_stream_ids) == 0:
-                    print(video_id, "has no source streams!")
-                else:
-                    print(video_id, ":", ", ".join(source_stream_ids))
+                if len(source_stream_ids) > 0:
+                    num_new_clips += 1
                     data.craft_clips[video_id] = HolocraftClip(
                         source_streams=source_stream_ids,
                         title=snippet.title,
-                        thumbnail_url=snippet.thumbnails["default"].url,
                     )
 
                 # Mark this video as seen so we don't process it again
                 data.seen_videos[clipper_channel_id].add(video_id)
 
+        print(f"{num_new_clips} new clips")
         # Checkpoint data to disk after each channel
         if dirty:
             write_data(data)
+
+    to_remove = all_clip_ids - seen_clip_ids
+    print(f"Removed {len(to_remove)} missing clips")
+    if len(to_remove) > 0:
+        print(", ".join(to_remove))
+    clean_up_clips(data, to_remove)
+
+
+def clean_up_streams(data: HolocraftData, stream_ids_to_remove: Set[str]):
+    for stream_id in stream_ids_to_remove:
+        del data.craft_streams[stream_id]
+    for member in data.members.values():
+        data.seen_videos[member.channel_id] = (
+            data.seen_videos[member.channel_id] - stream_ids_to_remove
+        )
+
+
+def clean_up_clips(data: HolocraftData, clip_ids_to_remove: Set[str]):
+    for clip_id in clip_ids_to_remove:
+        del data.craft_clips[clip_id]
+    for clipper in data.clippers:
+        data.seen_videos[clipper] = data.seen_videos[clipper] - clip_ids_to_remove
 
 
 TSchemaAll = TypeVar("TSchemaAll")

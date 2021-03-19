@@ -7,7 +7,6 @@ export interface HolocraftStream {
   member: string;
   publishedAt: dayjs.Dayjs;
   title: string;
-  thumbnailUrl: string;
   clips: HolocraftClip[];
 }
 
@@ -15,7 +14,6 @@ export interface HolocraftClip {
   videoId: string;
   sourceStreams: HolocraftStream[];
   title: string;
-  thumbnailUrl: string;
 }
 
 export interface MemberInfo {
@@ -66,13 +64,11 @@ interface HolocraftJson {
     member: string;
     publishedAt: string;
     title: string;
-    thumbnailUrl: string;
   }[];
   craftClips: {
     videoId: string;
     sourceStreams: string[];
     title: string;
-    thumbnailUrl: string;
   }[];
 }
 
@@ -94,12 +90,11 @@ export const holocraftData = readable<HolocraftData>(
         const startTime = performance.now();
 
         const inOrder = responseJson.craftStreams.map(
-          ({ videoId, publishedAt, member, title, thumbnailUrl }) => ({
+          ({ videoId, publishedAt, member, title }) => ({
             member,
             videoId,
             publishedAt: dayjs(publishedAt),
             title,
-            thumbnailUrl,
             clips: [] as HolocraftClip[],
           })
         );
@@ -109,19 +104,16 @@ export const holocraftData = readable<HolocraftData>(
         );
 
         const clips = Object.fromEntries(
-          responseJson.craftClips.map(
-            ({ videoId, sourceStreams, title, thumbnailUrl }) => [
+          responseJson.craftClips.map(({ videoId, sourceStreams, title }) => [
+            videoId,
+            {
               videoId,
-              {
-                videoId,
-                sourceStreams: sourceStreams.map(
-                  (sourceStreamId) => byId[sourceStreamId]
-                ),
-                title,
-                thumbnailUrl,
-              },
-            ]
-          )
+              sourceStreams: sourceStreams.map(
+                (sourceStreamId) => byId[sourceStreamId]
+              ),
+              title,
+            },
+          ])
         );
 
         // Associate clips to streams
