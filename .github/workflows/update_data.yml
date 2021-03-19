@@ -1,0 +1,39 @@
+name: Daily Minecraft Timeline Update
+
+on:
+  schedule:
+    # Every day at 12:00 Eastern Time
+    - cron: "0 16 * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+
+      - name: Install poetry
+        run: pip install poetry==1.1.5
+
+      - name: Poetry get deps
+        run: poetry install
+
+      - name: Do the subscriber count update
+        shell: bash
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+        run: poetry run python -m updater.update_holocraft "$YT_API_KEY"
+
+      - name: Commit & push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Hallo-bo! Daily minecraft update-dayo!
+          commit_user_name: Roboco-san
+          commit_user_email: high-spec@github.com
+          commit_author: Roboco-san <high-spec@github.com>
