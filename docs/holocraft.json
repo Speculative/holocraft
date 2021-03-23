@@ -10401,6 +10401,24 @@
       "publishedAt": "2021-03-22T06:45:25+00:00",
       "title": "\u3010\u30de\u30a4\u30af\u30e9\u3011 NEW\u8cc7\u6e90\u9bd6\u306e\u4e00\u756a\u98a8\u5442\u3092\u72d9\u3044\u306b\u6765\u305f\u30dd\u30eb\u30ab\u9078\u624b\u3010\u5c3e\u4e38\u30dd\u30eb\u30ab/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "videoId": "cgpKc479JHc"
+    },
+    {
+      "member": "LUNA",
+      "publishedAt": "2021-03-23T08:55:41+00:00",
+      "title": "\u3010 Minecraft \u3011\u5168\u30ed\u30b9\u899a\u609f\uff01\u30a8\u30f3\u30c0\u30fc\u30c9\u30e9\u30b4\u30f3\u8a0e\u4f10\u306a\u306e\u3089\uff01 #\u30d5\u30a7\u30b9\u30c6\u30a3\u30d0\u30eb\u30fc\u30ca\u3010\u590f\u8272\u307e\u3064\u308a/\u59eb\u68ee\u30eb\u30fc\u30ca/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "videoId": "hPtGBbC5W68"
+    },
+    {
+      "member": "MATSURI",
+      "publishedAt": "2021-03-23T09:07:58+00:00",
+      "title": "\u3010Minecraft\u3011\u521d\u5fc3\u80052\u4eba\u306e\u521d\u898b\u30a8\u30f3\u30c9\u30e9\u8a0e\u4f10\uff01\u3010\u59eb\u68ee\u30eb\u30fc\u30ca/\u590f\u8272\u307e\u3064\u308a\u3011",
+      "videoId": "ZrO-fIE6ALc"
+    },
+    {
+      "member": "FLARE",
+      "publishedAt": "2021-03-23T13:37:46+00:00",
+      "title": "\u3010\u30de\u30a4\u30f3\u30af\u30e9\u30d5\u30c8/Minecraft\u3011\u30d4\u30b0\u30ea\u30f3\u8981\u585e\u3092\u63a2\u3059\u304b\u3063\uff01\ud83d\udc37Search for Fortress Piglin\u3010\u4e0d\u77e5\u706b\u30d5\u30ec\u30a2/ \u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "videoId": "faKu_W_q4cY"
     }
   ],
   "craftClips": [
@@ -25944,6 +25962,32 @@
       ],
       "title": "Oozora Subaru - Flare's Mansion of Horror [Hololive/ENG Sub]",
       "videoId": "b94Hj96dTrs"
+    },
+    {
+      "sourceStreams": [
+        "eITg9ZhX3js",
+        "6S22b-tAbUc",
+        "wYwQ_N_B2kU"
+      ],
+      "title": "Flare, Choco And Polka Plays With A Prank Made By Daemon Lord Miko\u3010Hololive English Sub\u3011",
+      "videoId": "UDiPDYoupUk"
+    },
+    {
+      "sourceStreams": [
+        "-A3YCRfOWa0",
+        "eITg9ZhX3js",
+        "6S22b-tAbUc",
+        "wYwQ_N_B2kU"
+      ],
+      "title": "Flare And Polka Burst Into Laughter At Tetris Chests Made By Ollie\u3010Hololive English Sub\u3011",
+      "videoId": "XMOBV9hB1so"
+    },
+    {
+      "sourceStreams": [
+        "cgpKc479JHc"
+      ],
+      "title": "Polka observing Sora's cute behavior \u3010Minecraft\u3011 \u3010Hololive\u3011",
+      "videoId": "YM3oebG4x0U"
     }
   ]
 }
