@@ -9425,6 +9425,12 @@
       "videoId": "bRYYJU88q6Y"
     },
     {
+      "member": "HAATO",
+      "publishedAt": "2021-02-02T20:08:47+00:00",
+      "title": "\u3010Minecraft\u3011\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u8d64\u4e95\u306f\u3042\u3068\u3011",
+      "videoId": "hTgFR1MSkWs"
+    },
+    {
       "member": "REINE",
       "publishedAt": "2021-02-03T06:08:14+00:00",
       "title": "\u3010Minecraft Collab\u3011HoloEN Server Tour with Amelia-senpai! #SaltedTurkey\u3010hololiveID 2nd generation\u3011",
@@ -9497,6 +9503,12 @@
       "videoId": "fVdzGPtCOBc"
     },
     {
+      "member": "HAATO",
+      "publishedAt": "2021-02-04T17:43:18+00:00",
+      "title": "\u3010Minecraft\u3011\u6df1\u591c\u306b\u3053\u3063\u305d\u308a\u3010 Hololive / Akaihaato \u3011",
+      "videoId": "z9vWQzb_Znw"
+    },
+    {
       "member": "POLKA",
       "publishedAt": "2021-02-05T01:36:35+00:00",
       "title": "\u3010\u30de\u30a4\u30af\u30e9\u3011\u30db\u30ed\u30e1\u30f3\u30aa\u30d5\u30b7\u30e7\u30c3\u30c8\uff5e\u3061\u3087\u3053\u5148\u751f\u7de8\uff5e",
@@ -9521,6 +9533,12 @@
       "videoId": "vJd2eZWgX80"
     },
     {
+      "member": "HAATO",
+      "publishedAt": "2021-02-05T17:54:39+00:00",
+      "title": "\u3010Minecraft\u3011\u306e\u30fc\u3093\u3073\u308a\u3053\u3063\u305d\u308a\u3010Hololive/Akaihaato\u3011",
+      "videoId": "AcPbGfrr-ds"
+    },
+    {
       "member": "TOWA",
       "publishedAt": "2021-02-06T05:08:11+00:00",
       "title": "\u3010Minecraft\u3011\u88c5\u98fe\u3059\u308b\u3002\u305f\u3060\u305d\u308c\u3060\u3051\u3002\u3010\u5e38\u95c7\u30c8\u30ef/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
@@ -9531,6 +9549,12 @@
       "publishedAt": "2021-02-06T16:37:34+00:00",
       "title": "\u3010Minecraft\u3011\u306e\u3093\u3073\u308a\u304a\u8a71\u30de\u30a4\u30de\u30a4\u30af\u30e9\uff01\u3010#\u3068\u304d\u306e\u305d\u3089\u751f\u653e\u9001\u3011",
       "videoId": "RtaGRtCLxww"
+    },
+    {
+      "member": "HAATO",
+      "publishedAt": "2021-02-06T17:12:34+00:00",
+      "title": "\u3010Minecraft\u3011\u307e\u3063\u305f\u30fc\u308a\u3053\u3063\u305d\u308a\u3010 Minecraft / Akaihaato \u3011",
+      "videoId": "m9DCPvYuU8k"
     },
     {
       "member": "FLARE",
@@ -9641,6 +9665,12 @@
       "videoId": "GJsYspe2200"
     },
     {
+      "member": "HAATO",
+      "publishedAt": "2021-02-09T17:50:13+00:00",
+      "title": "\u3010Minecraft\u3011\u3072\u3055\u3057\u3076\u308a\u306b\u3053\u3063\u305d\u308a\u3010Hololive/Akaihaato\u3011",
+      "videoId": "6-lJ8SMUJWw"
+    },
+    {
       "member": "KANATA",
       "publishedAt": "2021-02-10T12:15:05+00:00",
       "title": "\u3010Minecraft\u3011\u3064\u3044\u306b\u3084\u3063\u3068\u3068\u3046\u3068\u3046\u5b8c\u6210\uff01\u304b\u306a\u305f\u5730\u4e0a\u7d75\uff01\uff01\u3010\u5929\u97f3\u304b\u306a\u305f/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
@@ -9735,6 +9765,12 @@
       "publishedAt": "2021-02-12T16:37:00+00:00",
       "title": "\u3010MINECRAFT\u3011\u305d\u308d\u305d\u308d\u7d0d\u54c1\uff1f\uff01\u53f0\u6240\u3068\u8131\u8863\u6240\u3064\u304f\u308b\u305e\uff01\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u5927\u7a7a\u30b9\u30d0\u30eb\u3011",
       "videoId": "qWetncnJG_M"
+    },
+    {
+      "member": "HAATO",
+      "publishedAt": "2021-02-12T17:04:16+00:00",
+      "title": "\u3010Minecraft\u3011\u6df1\u591c\u306e\u3075\u308a\u30fc\u3060\u3080\u3010Hololive/Akaihaato\u3011",
+      "videoId": "7J8hZuBz54g"
     },
     {
       "member": "REINE",
@@ -13478,7 +13514,8 @@
       "sourceStreams": [
         "7yqkgUdu8B8",
         "5BUj4z3oHN0",
-        "YRemcrH44AE"
+        "YRemcrH44AE",
+        "AcPbGfrr-ds"
       ],
       "title": "Haato, Kanata and Roboco's Reaction When They Find Botan's Leaflet \u3010Hololive English Sub\u3011",
       "videoId": "RL6FSjd0XmQ"
@@ -14644,6 +14681,13 @@
       ],
       "title": "What does Botan Want To Do When she Reached 1M subs\u3010Hololive English Sub\u3011",
       "videoId": "tN32dQwhV_k"
+    },
+    {
+      "sourceStreams": [
+        "z9vWQzb_Znw"
+      ],
+      "title": "How to Address Akai Haato Properly \u3010Hololive English Sub\u3011",
+      "videoId": "xOOtI9fRWwM"
     },
     {
       "sourceStreams": [
@@ -16799,10 +16843,38 @@
     },
     {
       "sourceStreams": [
+        "m9DCPvYuU8k"
+      ],
+      "title": "\u3010ENG Sub\u3011Akai Haato FREAKS OUT Kanata, Kanata says Haachama has been HACKED - Minecraft\u3010Hololive\u3011",
+      "videoId": "4UkIE0icPVk"
+    },
+    {
+      "sourceStreams": [
         "F_4e-9HAYUo"
       ],
       "title": "\u3010ENG Sub\u3011Kanata the Spy Gorilla - AKUKIN Massive Collab in Minecraft PART 7 Amane Kanata\u3010Hololive\u3011",
       "videoId": "Obj4ATw5SjM"
+    },
+    {
+      "sourceStreams": [
+        "z9vWQzb_Znw"
+      ],
+      "title": "\u3010ENG Sub\u3011Akai Haato: First Employee of Haachama Construction\u3010Hololive\u3011",
+      "videoId": "SfkGZhgzjoo"
+    },
+    {
+      "sourceStreams": [
+        "z9vWQzb_Znw"
+      ],
+      "title": "\u3010ENG Sub\u3011Akai Haato TELLS THE TRUTH about Haachama *TSUNDERE MODE*\u3010Hololive\u3011",
+      "videoId": "qNIEgP1ik08"
+    },
+    {
+      "sourceStreams": [
+        "hTgFR1MSkWs"
+      ],
+      "title": "\u3010ENG Sub\u3011AKAI HAATO Innocent, Cute & Pure\u3010Hololive\u3011",
+      "videoId": "Ge48ULOySA8"
     },
     {
       "sourceStreams": [
@@ -20081,10 +20153,31 @@
     },
     {
       "sourceStreams": [
+        "m9DCPvYuU8k"
+      ],
+      "title": "Akai Haato Adorably Frightened By In Game Chat In Minecraft [Hololive/Eng Sub]",
+      "videoId": "3Q_NFcJS_p0"
+    },
+    {
+      "sourceStreams": [
+        "AcPbGfrr-ds"
+      ],
+      "title": "Akai Haato Find Haachama Tag In Yabe Place - What Did she Found? | Minecraft [Hololive/Eng Sub]",
+      "videoId": "pQRXobM1a4M"
+    },
+    {
+      "sourceStreams": [
         "ZsZxDpdYUQw"
       ],
       "title": "Shiranui Flare And Choco Sensei Amazed How Polka Went Missing In an Open Sea [Hololive/Eng Sub]",
       "videoId": "t7yE5Po6xqk"
+    },
+    {
+      "sourceStreams": [
+        "z9vWQzb_Znw"
+      ],
+      "title": "Akai Haato Reaction Every Time She Heard The Name Haachama  [Hololive/Eng Sub]",
+      "videoId": "dph8Ie6BSWc"
     },
     {
       "sourceStreams": [
@@ -20113,6 +20206,13 @@
       ],
       "title": "Oozora Subaru - Does She Knows About American TV Show? | Minecraft [Hololive/Eng Sub]",
       "videoId": "D7vE0gcBjaY"
+    },
+    {
+      "sourceStreams": [
+        "hTgFR1MSkWs"
+      ],
+      "title": "Akai Haato Is Finally Back | Minecraft [Hololive/Eng Sub]",
+      "videoId": "4M2WMtkj1aQ"
     },
     {
       "sourceStreams": [
@@ -20569,6 +20669,13 @@
       ],
       "title": "#Pekora #Minecraft #Pekodam Pekora ruin Moona's diary and got locked by Moona [Hololive/EngSub]",
       "videoId": "dohkHpu8fmc"
+    },
+    {
+      "sourceStreams": [
+        "z9vWQzb_Znw"
+      ],
+      "title": "Akai Haato gets attacked by \"Haachama Syndrome\"\u3010Hololive/Eng Sub\u3011",
+      "videoId": "PyiQAIb0QjY"
     },
     {
       "sourceStreams": [
@@ -23464,6 +23571,20 @@
     },
     {
       "sourceStreams": [
+        "6-lJ8SMUJWw"
+      ],
+      "title": "\u3010ENG Sub\u3011Akai Haato MERGES with Haachama *WARNING: HORRIFYING CONTENT*\u3010Hololive\u3011",
+      "videoId": "t3Q-YDId4NQ"
+    },
+    {
+      "sourceStreams": [
+        "6-lJ8SMUJWw"
+      ],
+      "title": "Roboco Fubuki GAY, Haato Baka, Flare Roast Rushia",
+      "videoId": "ldPBZgjj4jo"
+    },
+    {
+      "sourceStreams": [
         "sUMSFgNs_HM"
       ],
       "title": "[Oozora Subaru] Fitting In (Okayu / Korone) [Hololive] [EN Subs]",
@@ -23827,6 +23948,7 @@
     },
     {
       "sourceStreams": [
+        "7J8hZuBz54g",
         "F0HaXt5Ka5Y"
       ],
       "title": "\u3010ENG SUB\u3011Flare accidentally says the taboo word",
@@ -23870,6 +23992,7 @@
     },
     {
       "sourceStreams": [
+        "7J8hZuBz54g",
         "vMDk323WQQo",
         "qWetncnJG_M"
       ],
@@ -25188,7 +25311,8 @@
     },
     {
       "sourceStreams": [
-        "qWetncnJG_M"
+        "qWetncnJG_M",
+        "7J8hZuBz54g"
       ],
       "title": "Subaru said forbidden name to H\u0336a\u0336a\u0336c\u0336h\u0336a\u0336m\u0336a\u0336  Haato and get scared badly [Both POVs]",
       "videoId": "8tYI9E5bxGM"
@@ -26198,6 +26322,34 @@
       ],
       "title": "Natsuiro Matsuri \u2013 Elementary Schooled",
       "videoId": "EeU0BM3Cy9g"
+    },
+    {
+      "sourceStreams": [
+        "TA2DNNX9_jg"
+      ],
+      "title": "Kanata The Gentleman Lover Discussing The Classification Of An \"Old Man\" With Miko\u3010Hololive Eng Sub\u3011",
+      "videoId": "A92BWyGaBVY"
+    },
+    {
+      "sourceStreams": [
+        "EHfkId_sunE"
+      ],
+      "title": "Pekora wants to visit the HoloEN Minecraft server \u3010Hololive\u3011\u3010Eng Sub\u3011",
+      "videoId": "3b112j8a47g"
+    },
+    {
+      "sourceStreams": [
+        "tjhUj-qG54Q"
+      ],
+      "title": "[Hololive Compilation] Ritore's Translator Choice #36 [3/28]",
+      "videoId": "jKsPb3piTmU"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Oozora Subaru - Power Abuse [Hololive/ENG Sub]",
+      "videoId": "B6JzimpQqiM"
     }
   ]
 }
