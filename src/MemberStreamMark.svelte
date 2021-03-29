@@ -63,23 +63,21 @@
       </aside>
     {/if}
     {#if showCallout}
-      <figure class="callout vertically-aligned-row">
+      <div class="callout vertically-aligned-row">
         <div class="absolute z-0 w-2 h-2 -ml-1 transform rotate-45 bg-white" />
         <div class="relative p-4 bg-white rounded-sm above-rail">
           <a
             class:separator={stream.clips.length > 0}
             class="block p-2 mt-1 transition-all duration-200 rounded-sm hover:bg-gray-200"
             href={`https://www.youtube.com/watch?v=${stream.videoId}`}
-            on:click={(e) => {
-              e.preventDefault();
-              videoPlayerStore.enqueue(stream.videoId, "stream");
-            }}
+            on:click|preventDefault={() =>
+              videoPlayerStore.enqueue(stream.videoId, "stream")}
           >
             <div class="flex flex-row">
               <div class="thumbnail-box">
                 <Thumbnail videoId={streamVideoId} title={stream.title} />
               </div>
-              <div class="flex flex-row items-center justify-center w-2/3 pl-4">
+              <div class="flex flex-row items-center justify-start w-2/3 pl-4">
                 {stream.title}
               </div>
             </div>
@@ -100,7 +98,9 @@
                 <div class="thumbnail-box">
                   <Thumbnail videoId={clip.videoId} title={clip.title} />
                 </div>
-                <div class="w-2/3 px-4 py-1">
+                <div
+                  class="flex flex-row items-center justify-start w-2/3 px-4 py-1"
+                >
                   {clip.title}
                 </div>
               </div>
@@ -112,7 +112,7 @@
             ><Icon icon={faWindowClose} size="sm" /></button
           >
         </div>
-      </figure>
+      </div>
     {/if}
   </div>
 </TimelineMark>

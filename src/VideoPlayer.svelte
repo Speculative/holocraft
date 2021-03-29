@@ -7,7 +7,12 @@
   import type { PlayerEntry } from "./data/videoPlayerStore";
   import { videoPlayerStore } from "./data/videoPlayerStore";
   import { holocraftData } from "./data/dataStore";
-  import Thumbnail from "./Thumbnail.svelte";
+  import Playlist from "./Playlist.svelte";
+
+  let started = false;
+  $: if ($videoPlayerStore.nowPlaying !== undefined && !started) {
+    started = true;
+  }
 
   let plyrHost: HTMLElement;
   let plyr: Plyr;
@@ -25,47 +30,49 @@
     }
   });
 
-  $: nowPlayingEntry = $videoPlayerStore.nowPlaying; // TS won't narrow this undefined below unless we hide the reactive store dereference?
-  $: nowPlaying = nowPlayingEntry ? toSource(nowPlayingEntry) : null;
+  $: nowPlayingId = $videoPlayerStore.nowPlaying; // TS won't narrow this undefined below unless we hide the reactive store dereference?
 
-  let plyrCurrentVideo: string | null = null;
-  $: if (plyr && nowPlaying && nowPlaying.videoId !== plyrCurrentVideo) {
-    plyrCurrentVideo = nowPlaying.videoId;
+  let plyrCurrentVideo: string | undefined = undefined;
+  $: if (
+    plyr &&
+    nowPlayingId !== undefined &&
+    nowPlayingId !== plyrCurrentVideo
+  ) {
+    plyrCurrentVideo = nowPlayingId;
     plyr.source = {
       type: "video",
-      sources: nowPlaying
-        ? [
-            {
-              src: nowPlaying.videoId,
-              provider: "youtube",
-            },
-          ]
-        : [],
+      sources: [
+        {
+          src: nowPlayingId,
+          provider: "youtube",
+        },
+      ],
     };
   }
 
   function toSource(entry: PlayerEntry) {
     if (entry.type === "stream") {
-      return $holocraftData.streams.byId[entry.videoId];
+      return {
+        ...$holocraftData.streams.byId[entry.videoId],
+        id: entry.videoId,
+      };
     } else {
-      return $holocraftData.clips[entry.videoId];
+      return { ...$holocraftData.clips[entry.videoId], id: entry.videoId };
     }
   }
 
-  $: history = $videoPlayerStore.history.map(toSource);
-  $: queue = $videoPlayerStore.queue.map(toSource);
-
-  $: console.log(nowPlaying, history, queue);
+  $: playlistItems = $videoPlayerStore.playlist.map(toSource);
+  $: console.log(playlistItems, nowPlayingId);
 </script>
 
 <div class="flex flex-col w-full h-full">
   <div class="relative aspect-16-9">
     <div class="absolute top-0 bottom-0 left-0 right-0 overflow-hidden">
-      {#if nowPlaying}
+      {#if started}
         <div
           bind:this={plyrHost}
           data-plyr-provider="youtube"
-          data-plyr-embed-id={nowPlaying.videoId}
+          data-plyr-embed-id={nowPlayingId}
         />
       {:else}
         <div
@@ -76,61 +83,12 @@
       {/if}
     </div>
   </div>
-  <div class="flex-grow overflow-auto">
-    {#each history as source}
-      <div class="text-gray-500 bg-gray-900 playlist-row">
-        <div class="thumbnail-box">
-          <Thumbnail videoId={source.videoId} title={source.title} />
-        </div>
-        <div class="title-box">
-          {source.title}
-        </div>
-      </div>
-    {/each}
-    {#if nowPlaying}
-      <div class="text-white bg-gray-700 playlist-row">
-        <div class="thumbnail-box">
-          <Thumbnail videoId={nowPlaying.videoId} title={nowPlaying.title} />
-        </div>
-        <div class="title-box">
-          {nowPlaying.title}
-        </div>
-      </div>
-    {/if}
-    {#each queue as source}
-      <button
-        class="block w-full"
-        on:click={() => videoPlayerStore.jumpTo(source.videoId)}
-      >
-        <div
-          class="text-white transition-all duration-150 bg-gray-900 playlist-row hover:bg-gray-700"
-        >
-          <div class="thumbnail-box">
-            <Thumbnail videoId={source.videoId} title={source.title} />
-          </div>
-          <div class="title-box">
-            {source.title}
-          </div>
-        </div>
-      </button>
-    {/each}
+  <div class="flex-grow overflow-hidden bg-gray-900">
+    <Playlist {nowPlayingId} items={playlistItems} />
   </div>
 </div>
 
-<style lang="postcss">
-  .playlist-row {
-    @apply px-4 py-2 flex flex-row;
-  }
-
-  .thumbnail-box {
-    @apply flex-shrink-0;
-    width: 10rem;
-  }
-
-  .title-box {
-    @apply flex flex-row items-center px-4 py-1 text-left text-lg;
-  }
-
+<style>
   .aspect-16-9 {
     width: 100%;
     padding-top: 28.125%;
