@@ -10539,6 +10539,24 @@
       "publishedAt": "2021-03-26T23:49:39+00:00",
       "title": "\u3010Minecraft\u3011Let's make Pekoland Mascot!\u3010Moona\u3011",
       "videoId": "SnNz_FKpWq0"
+    },
+    {
+      "member": "LUNA",
+      "publishedAt": "2021-03-29T09:13:07+00:00",
+      "title": "\u3010 Minecraft \u3011\u6642\u306f\u5927\u822a\u6d77\u6642\u4ee3\uff01\u6d77\u5e95\u795e\u6bbf\u3092\u63a2\u3059\u306e\u3089\uff01 #\u30d5\u30a7\u30b9\u30c6\u30a3\u30d0\u30eb\u30fc\u30ca\u3010\u590f\u8272\u307e\u3064\u308a/\u59eb\u68ee\u30eb\u30fc\u30ca/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "videoId": "8kw7NuYxtBI"
+    },
+    {
+      "member": "MATSURI",
+      "publishedAt": "2021-03-29T09:15:07+00:00",
+      "title": "\u3010Minecraft\u3011\u521d\u5fc3\u80052\u4eba\u3067\u6d77\u5e95\u795e\u6bbf\u653b\u7565\u30c1\u30e3\u30ec\u30f3\u30b8\uff01\u3010\u59eb\u68ee\u30eb\u30fc\u30ca/\u590f\u8272\u307e\u3064\u308a\u3011",
+      "videoId": "fEuhfksPlMg"
+    },
+    {
+      "member": "COCO",
+      "publishedAt": "2021-03-29T18:22:41+00:00",
+      "title": "\u3010\u30de\u30a4\u30af\u30e9\u3011\u521d\u3081\u3066\u306e\u30c9\u30c3\u30c8\u7d75\uff01\u4eca\u65e5\u3067\u5b8c\u6210\uff01\u3010\u6850\u751f\u30b3\u30b3/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "videoId": "cp7Ycj1PE9I"
     }
   ],
   "craftClips": [
@@ -26350,6 +26368,65 @@
       ],
       "title": "Oozora Subaru - Power Abuse [Hololive/ENG Sub]",
       "videoId": "B6JzimpQqiM"
+    },
+    {
+      "sourceStreams": [
+        "cp7Ycj1PE9I"
+      ],
+      "title": "Behind The Scene Talk of Coco's Onee-san Song\u3010Hololive English Sub\u3011",
+      "videoId": "Snz_x6QDJPI"
+    },
+    {
+      "sourceStreams": [
+        "EHfkId_sunE",
+        "610iDN54k1E"
+      ],
+      "title": "Pekora Wonders About And Scared of Botan's Curry House In Pekoland\u3010Hololive English Sub\u3011",
+      "videoId": "XBfB6Jfo_V8"
+    },
+    {
+      "sourceStreams": [
+        "AXn3HuOr8ok"
+      ],
+      "title": "Takanashi Kiara Reveals KFP Employee Salary to Undercover Cop Oozora Subaru\u3010ENG Sub/Hololive\u3011",
+      "videoId": "GtXix0MMcXQ"
+    },
+    {
+      "sourceStreams": [
+        "UdXoFSKVPLI",
+        "WcKpYZBC69U"
+      ],
+      "title": "Shion: \"You are not human anymore\" [Hololive Uruha Rushia Murasaki Shion] [ENG SUB]",
+      "videoId": "zIpOeblCDus"
+    },
+    {
+      "sourceStreams": [
+        "7LCF8kRMDvI"
+      ],
+      "title": "Aqua tests Shion's English skill [Hololive Minato Aqua Murasaki Shion] [ENG SUB]",
+      "videoId": "kSMKLpoLRo4"
+    },
+    {
+      "sourceStreams": [
+        "fEuhfksPlMg",
+        "8kw7NuYxtBI"
+      ],
+      "title": "Luna gets lost and asks Matsuri for help\u3010Hololive/Eng sub\u3011",
+      "videoId": "Q-hCUBOlF10"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Oozora Subaru - Karaoke Stream 9 Mar 2021 Highlights [Hololive/ENG Sub]",
+      "videoId": "Qdbays6FR_g"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Oozora Subaru - New Hobby: Cuffs [Hololive/ENG Sub]",
+      "videoId": "efoTzkxR6-I"
     }
   ]
 }
