@@ -10641,6 +10641,18 @@
       "publishedAt": "2021-04-05T14:20:54+00:00",
       "title": "\u3010\u30de\u30a4\u30af\u30e9\u3011\u30b9\u30e9\u30a4\u30e0\u304c\u307b\u3057\u3044...\u81ea\u52d5\u30c9\u30a2\u304c\u4f5c\u308a\u305f\u3044\uff01\u3010\u5927\u795e\u30df\u30aa\u3011",
       "videoId": "VGd7gE05wqU"
+    },
+    {
+      "member": "WATAME",
+      "publishedAt": "2021-04-06T00:23:05+00:00",
+      "title": "\u3010Minecraft\u3011\u6574\u5730\u3068\u3044\u3046\u540d\u306e\u304a\u558b\u308a\u3010\u89d2\u5dfb\u308f\u305f\u3081/\u30db\u30ed\u30e9\u30a4\u30d6\uff14\u671f\u751f\u3011",
+      "videoId": "hMXBXIrlWwQ"
+    },
+    {
+      "member": "COCO",
+      "publishedAt": "2021-04-06T07:44:06+00:00",
+      "title": "\u3010\u30de\u30a4\u30af\u30e9\u3011\u3046\u3055\u5efa\u65b0\u5165\u793e\u54e1\u306e\u4fbf\u6240\u52b4\u50cd\u3010\u6850\u751f\u30b3\u30b3/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "videoId": "cS-p7qaayGE"
     }
   ],
   "craftClips": [
@@ -26806,6 +26818,13 @@
       ],
       "title": "Oozora Subaru - Creepy Miracle with Tokoyami Towa [Hololive/ENG Sub]",
       "videoId": "Aiugu-wtehs"
+    },
+    {
+      "sourceStreams": [
+        "VGd7gE05wqU"
+      ],
+      "title": "Ookami Mio Wipe Out Minecraft Population And Being Cute At The Same Time [Hololive/Eng Sub]",
+      "videoId": "LVXIMGjK7Aw"
     }
   ]
 }
