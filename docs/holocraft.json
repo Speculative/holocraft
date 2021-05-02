@@ -11031,6 +11031,24 @@
       "publishedAt": "2021-05-01T15:42:35+00:00",
       "title": "\u3010Minecraft\u3011AZKi\u3061\u3083\u3093\u306e\u304a\u624b\u4f1d\u3044\u3059\u308b\u3088\uff01\uff01\u3010#SorAZ/#\u3068\u304d\u306e\u305d\u3089\u751f\u653e\u9001\u3011",
       "videoId": "4iQfYD0JBJw"
+    },
+    {
+      "member": "MATSURI",
+      "publishedAt": "2021-05-01T17:26:10+00:00",
+      "title": "\u3010Minecraft\u3011\u7761\u7720\u5c0e\u5165 / \u307e\u3063\u305f\u308a\u304a\u8a71\u3057\u307e\u3057\u3087\uff5e\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u590f\u8272\u307e\u3064\u308a\u3011",
+      "videoId": "5ECJDfEBu5I"
+    },
+    {
+      "member": "REINE",
+      "publishedAt": "2021-05-02T07:23:12+00:00",
+      "title": "\u3010Minecraft\u3011A Relaxing Time with Ina-senpai #REINAFF\u3010hololiveID 2nd generation\u3011",
+      "videoId": "9qW-D7OnyKg"
+    },
+    {
+      "member": "INANIS",
+      "publishedAt": "2021-05-02T07:24:54+00:00",
+      "title": "\u3010Minecraft\u3011 Chilling with Reine-chan! #REINAFF",
+      "videoId": "yGPKGeGlMIc"
     }
   ],
   "craftClips": [
@@ -28285,6 +28303,43 @@
       ],
       "title": "\u3010ENG Sub\u3011Pekora COPIED, got YELLED AT and REBUILT IT ALL - Minecraft Pekoland Trap\u3010Hololive\u3011",
       "videoId": "SEtYg2r_LaI"
+    },
+    {
+      "sourceStreams": [
+        "RIY_PRDSwBM"
+      ],
+      "title": "Watame Reaction After Shiranui Ken Rebuild The Mountain Behind Roboco's Home \u3010Hololive English Sub\u3011",
+      "videoId": "fu8LXaSaViM"
+    },
+    {
+      "sourceStreams": [
+        "yGPKGeGlMIc",
+        "9qW-D7OnyKg"
+      ],
+      "title": "Was that a flat joke...?",
+      "videoId": "MQ9sZVgzBAc"
+    },
+    {
+      "sourceStreams": [
+        "4iQfYD0JBJw"
+      ],
+      "title": "Tokino Sora N Azki Have Cute Goofy Moment | Minecraft Collab [Hololive/Eng Sub]",
+      "videoId": "ODtvHFuLXik"
+    },
+    {
+      "sourceStreams": [
+        "O_e_XLoOneA",
+        "o23R-iK19w8"
+      ],
+      "title": "[Hololive Compilation] Ritore's Translator Choice #41 [5/2]",
+      "videoId": "sB-JtRoQH1A"
+    },
+    {
+      "sourceStreams": [
+        "5ECJDfEBu5I"
+      ],
+      "title": "Natsuiro Matsuri \u2013 Cool Runnings",
+      "videoId": "kpywWwwZWbk"
     }
   ]
 }
