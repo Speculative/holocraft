@@ -6,15 +6,16 @@
   import Thumbnail from "./Thumbnail.svelte";
   import { holocraftData } from "./data/dataStore";
   import { videoPlayerStore } from "./data/videoPlayerStore";
+  import { viewStore } from "./data/viewStore";
 
   export let member: string;
   export let streamVideoId: string;
 
   $: memberInfo = $holocraftData.members[member];
   $: stream = $holocraftData.streams.byId[streamVideoId];
+  $: showCallout = $viewStore.activeCalloutStreamId === streamVideoId;
 
   let showTooltip: boolean = false;
-  let showCallout: boolean = false;
 
   function startHover() {
     if (!showCallout) {
@@ -28,7 +29,7 @@
 
   function toggleCallout() {
     showTooltip = false;
-    showCallout = !showCallout;
+    viewStore.setActiveCalloutStream(showCallout ? null : streamVideoId);
   }
 </script>
 
@@ -57,7 +58,7 @@
     {#if showTooltip}
       <aside class="w-64 vertically-aligned-row">
         <div class="absolute z-0 w-2 h-2 -ml-1 transform rotate-45 bg-white" />
-        <div class="p-2 bg-white rounded-sm above-rail">
+        <div class="relative z-20 p-2 bg-white rounded-sm">
           {memberInfo.name}
         </div>
       </aside>
@@ -65,7 +66,7 @@
     {#if showCallout}
       <div class="callout vertically-aligned-row">
         <div class="absolute z-0 w-2 h-2 -ml-1 transform rotate-45 bg-white" />
-        <div class="relative p-4 bg-white rounded-sm above-rail">
+        <div class="relative z-10 p-4 bg-white rounded-sm">
           <a
             class:separator={stream.clips.length > 0}
             class="block p-2 mt-1 transition-all duration-200 rounded-sm hover:bg-gray-200"
@@ -118,10 +119,6 @@
 </TimelineMark>
 
 <style lang="postcss">
-  .above-rail {
-    @apply relative z-10;
-  }
-
   .vertically-aligned-row {
     @apply flex flex-row items-center;
   }
