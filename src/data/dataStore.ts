@@ -40,7 +40,7 @@ interface HolocraftData {
     /**
      * Time-bucketed map of Year -> Month -> Day -> Streams
      */
-    byDate: DateTree<HolocraftStream, ["year", "month", "date"]>;
+    byDate: DateTree<HolocraftStream, readonly ["year", "month", "date"]>;
   };
   /**
    * Mapping of Clip video ID -> HolocraftClip
@@ -79,7 +79,7 @@ export const holocraftData = readable<HolocraftData>(
       byId: {},
       inOrder: [],
       byMember: {},
-      byDate: new DateTree([], ["year", "month", "date"]),
+      byDate: new DateTree([], ["year", "month", "date"] as const),
     },
     clips: {},
   },

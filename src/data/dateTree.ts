@@ -28,6 +28,7 @@ export class DateTree<TValue, TGranularities extends readonly Granularity[]> {
   private _isBottom: boolean;
   private _granularity: Granularity;
   private _totalEntriesInTree: number;
+  private _granularities: TGranularities;
 
   constructor(
     /**
@@ -40,6 +41,7 @@ export class DateTree<TValue, TGranularities extends readonly Granularity[]> {
     granularities: TGranularities
   ) {
     const [granularity, ...childGranularities] = granularities;
+    this._granularities = granularities;
     this._granularity = granularity;
     this._totalEntriesInTree = 0;
 
@@ -86,6 +88,44 @@ export class DateTree<TValue, TGranularities extends readonly Granularity[]> {
         granularity
       );
     }
+  }
+
+  public flatten(): TValue[] {
+    if (this.isBottom()) {
+      return Array.from(this.children.values()).flat();
+    }
+
+    return Array.from(this.children.values()).flatMap((subtree) =>
+      ((subtree as any) as DateTree<
+        TValue,
+        [Granularity, Granularity, ...Granularity[]]
+      >).flatten()
+    );
+  }
+
+  public prune(
+    leafCondition: (v: TValue) => boolean,
+    extractDate: (v: TValue) => dayjs.Dayjs
+  ) {
+    return new DateTree(
+      this.flatten()
+        .filter(leafCondition)
+        .map((value) => [extractDate(value), value]),
+      this._granularities
+    );
+  }
+
+  public invert(doInvert: boolean, extractDate: (v: TValue) => dayjs.Dayjs) {
+    if (doInvert) {
+      return new DateTree(
+        this.flatten()
+          .reverse()
+          .map((value) => [extractDate(value), value]),
+        this._granularities
+      );
+    }
+
+    return this;
   }
 
   public get(date: dayjs.Dayjs) {
@@ -176,13 +216,13 @@ class DateMap<TValue> {
 
   public *values() {
     for (const key of this.keys()) {
-      yield this.get(key);
+      yield this.get(key) as TValue;
     }
   }
 
   public *entries(): Generator<[dayjs.Dayjs, TValue]> {
     for (const key of this.keys()) {
-      yield [key, this.get(key)!];
+      yield [key, this.get(key) as TValue];
     }
   }
 

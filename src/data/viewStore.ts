@@ -1,23 +1,38 @@
 import { writable } from "svelte/store";
 import { bindDispatch } from "./storeUtils";
+import { members as orderedMembers } from "./members";
 
-interface ViewState {
-  activeCalloutStreamId: string | null;
+function addMemberFilters(currentMembers: string[], membersToAdd: string[]) {
+  return [...new Set([...currentMembers, ...membersToAdd])].sort(
+    (memberA, memberB) =>
+      orderedMembers.indexOf(memberA) - orderedMembers.indexOf(memberB)
+  );
 }
 
-function setActiveCalloutStream(viewState: ViewState, streamId: string | null) {
-  viewState.activeCalloutStreamId = streamId;
+function removeMemberFilters(
+  currentMembers: string[],
+  membersToRemove: string[]
+) {
+  const staged = new Set(currentMembers);
+  membersToRemove.forEach((member) => staged.delete(member));
+
+  return [...staged].sort(
+    (memberA, memberB) =>
+      orderedMembers.indexOf(memberA) - orderedMembers.indexOf(memberB)
+  );
 }
 
-function createViewStore() {
-  const { subscribe, update } = writable<ViewState>({
-    activeCalloutStreamId: null,
-  });
+function createMemberFilters() {
+  const { subscribe, update } = writable([] as string[]);
 
   return {
     subscribe,
-    setActiveCalloutStream: bindDispatch(update, setActiveCalloutStream),
+    addMemberFilters: bindDispatch(update, addMemberFilters),
+    removeMemberFilters: bindDispatch(update, removeMemberFilters),
   };
 }
 
-export const viewStore = createViewStore();
+export const memberFilters = createMemberFilters();
+export const activeCalloutStreamId = writable(null as string | null);
+export const invertTimeline = writable(false);
+export const hideClipless = writable(false);

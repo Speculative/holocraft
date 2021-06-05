@@ -6,14 +6,14 @@
   import Thumbnail from "./Thumbnail.svelte";
   import { holocraftData } from "./data/dataStore";
   import { videoPlayerStore } from "./data/videoPlayerStore";
-  import { viewStore } from "./data/viewStore";
+  import { activeCalloutStreamId } from "./data/viewStore";
 
   export let member: string;
   export let streamVideoId: string;
 
   $: memberInfo = $holocraftData.members[member];
   $: stream = $holocraftData.streams.byId[streamVideoId];
-  $: showCallout = $viewStore.activeCalloutStreamId === streamVideoId;
+  $: showCallout = $activeCalloutStreamId === streamVideoId;
 
   let showTooltip: boolean = false;
 
@@ -29,7 +29,7 @@
 
   function toggleCallout() {
     showTooltip = false;
-    viewStore.setActiveCalloutStream(showCallout ? null : streamVideoId);
+    activeCalloutStreamId.set(showCallout ? null : streamVideoId);
   }
 </script>
 

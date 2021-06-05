@@ -4,7 +4,7 @@
   import DateMark from "./DateMark.svelte";
   import TimelineLeaf from "./TimelineLeaf.svelte";
 
-  export let tree: DateTree<HolocraftStream, Granularity[]>;
+  export let tree: DateTree<HolocraftStream, readonly Granularity[]>;
   /*
   This is due to some weird type narrowing behavior of TypeScript + tuple arity.
   In code like:
@@ -56,7 +56,7 @@
         onClick={() => toggleExpand(index)}
       />
       {#if expanded[index]}
-        <div class="left-16 relative">
+        <div class="relative left-16">
           <svelte:self tree={maybeNotBottom.get(bucket)} />
         </div>
       {/if}

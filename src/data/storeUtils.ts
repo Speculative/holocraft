@@ -1,4 +1,6 @@
-import produce from "immer";
+import { default as produce, enableMapSet } from "immer";
+
+enableMapSet();
 
 export function bindDispatch<TState, TProducerArgs extends any[]>(
   update: (updater: (currentState: TState) => TState) => void,

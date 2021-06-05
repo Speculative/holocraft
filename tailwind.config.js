@@ -2,7 +2,7 @@
 
 const production = !process.env.ROLLUP_WATCH;
 module.exports = {
-  plugins: [],
+  plugins: [require("@tailwindcss/forms")],
   purge: {
     enabled: production,
     content: ["./src/**/*.svelte"],
