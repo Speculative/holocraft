@@ -58,7 +58,7 @@ def update_source_streams(youtube: api.Resource, data: HolocraftData):
             snippet = playlist_item.snippet
             content_details = playlist_item.contentDetails
 
-            video_id = content_details.videoId
+            video_id = playlist_item.id
             seen_stream_ids.add(video_id)
 
             if video_id not in data.seen_videos[member_channel_id]:
@@ -68,8 +68,9 @@ def update_source_streams(youtube: api.Resource, data: HolocraftData):
                     # Add this source stream to the holocraft database
                     data.craft_streams[video_id] = HolocraftStream(
                         member=member_name,
-                        published_at=content_details.videoPublishedAt,
+                        published_at=snippet.publishedAt,
                         title=snippet.title,
+                        duration=content_details.duration,
                     )
 
                 # Mark this video as seen so we don't process it again
@@ -100,8 +101,9 @@ def update_clips(youtube: api.Resource, data: HolocraftData):
 
         for playlist_item in playlist_videos(youtube, upload_playlist_id):
             snippet = playlist_item.snippet
+            content_details = playlist_item.contentDetails
 
-            video_id = playlist_item.contentDetails.videoId
+            video_id = playlist_item.id
             seen_clip_ids.add(video_id)
 
             if video_id not in data.seen_videos[clipper_channel_id]:
@@ -118,6 +120,7 @@ def update_clips(youtube: api.Resource, data: HolocraftData):
                     data.craft_clips[video_id] = HolocraftClip(
                         source_streams=source_stream_ids,
                         title=snippet.title,
+                        duration=content_details.duration,
                     )
 
                 # Mark this video as seen so we don't process it again

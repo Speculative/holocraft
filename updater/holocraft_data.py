@@ -23,6 +23,8 @@ class HolocraftStream:
     )
     # Stream video title
     title: str
+    # Video length as a formatted string
+    duration: str
 
 
 @dataclass
@@ -33,6 +35,8 @@ class HolocraftClip:
     source_streams: List[str]
     # Clip video title
     title: str
+    # Video length as a formatted string
+    duration: str
 
 
 @dataclass
@@ -102,7 +106,10 @@ class HolocraftClientData:
         }
         filtered_craft_clips = [
             ClientHolocraftClip(
-                source_streams=source_streams, title=clip.title, video_id=clip_id
+                source_streams=source_streams,
+                title=clip.title,
+                video_id=clip_id,
+                duration=clip.duration,
             )
             for clip_id, clip in data.craft_clips.items()
             # We only take clips which have at least 1 known holocraft source stream
@@ -123,6 +130,7 @@ class HolocraftClientData:
                     published_at=source_stream.published_at,
                     title=source_stream.title,
                     video_id=source_stream_id,
+                    duration=source_stream.duration,
                 )
                 for source_stream_id, source_stream in data.craft_streams.items()
             ],

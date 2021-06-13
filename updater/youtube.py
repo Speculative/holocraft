@@ -1,7 +1,8 @@
+import pdb
 import re
 from dataclasses import dataclass, field
 from datetime import datetime
-from typing import Dict, List, Literal, Optional, Union
+from typing import Dict, Iterator, List, Literal, Optional, Union
 
 import googleapiclient.discovery as api  # type: ignore
 import requests
@@ -117,39 +118,80 @@ class YouTubePlaylistListResponse(DataClassJsonMixin, YouTubeResponseCommon):
     items: List[YouTubePlaylistItemResource] = field(default_factory=list)
 
 
-def playlist_videos(youtube: api.Resource, playlist_id: str):
+@dataclass
+class YouTubeVideoContentDetails:
+    duration: str
+
+
+@dataclass
+class YouTubeVideoSnippet:
+    title: str
+    description: str
+    channelTitle: str
+    thumbnails: Dict[str, YouTubeThumbnail]
+    publishedAt: datetime = field(
+        metadata=config(
+            decoder=isoparse,
+            mm_field=fields.DateTime(format="iso"),
+        )
+    )
+
+
+@dataclass
+class YouTubeVideoItemResource:
+    id: str
+    contentDetails: YouTubeVideoContentDetails
+    snippet: YouTubeVideoSnippet
+
+
+@dataclass
+class YouTubeVideoListResponse(DataClassJsonMixin, YouTubeResponseCommon):
+    items: List[YouTubeVideoItemResource] = field(default_factory=list)
+
+
+def playlist_videos(
+    youtube: api.Resource, playlist_id: str
+) -> Iterator[YouTubeVideoItemResource]:
     global _total_quota_usage
 
     page_token = None
     while True:
         _total_quota_usage += 1
-        request = youtube.playlistItems().list(
+        playlist_request = youtube.playlistItems().list(
             part="contentDetails,snippet",
             maxResults=50,
             playlistId=playlist_id,
             pageToken=page_token,
         )
-        raw_response = request.execute()
-        raw_response["items"] = [
-            item
-            for item in raw_response["items"]
-            if item["snippet"]["title"] not in ["Deleted video", "Private video"]
-        ]
-        response = YouTubePlaylistListResponse.from_dict(raw_response)
+        raw_playlist_response = playlist_request.execute()
+        playlist_response = YouTubePlaylistListResponse.from_dict(raw_playlist_response)
 
-        for playlist_item in response.items:
+        video_request = youtube.videos().list(
+            id=",".join(
+                [
+                    item.contentDetails.videoId
+                    for item in playlist_response.items
+                    if item.snippet.title not in ["Deleted video", "Private video"]
+                ]
+            ),
+            part="contentDetails,snippet",
+        )
+        raw_response = video_request.execute()
+        video_response = YouTubeVideoListResponse.from_dict(raw_response)
+
+        for playlist_item in video_response.items:
             yield playlist_item
 
-        if response.nextPageToken is None:
+        if playlist_response.nextPageToken is None:
             break
-        page_token = response.nextPageToken
+        page_token = playlist_response.nextPageToken
 
 
-def is_minecraft_video(playlist_item: YouTubePlaylistItemResource):
+def is_minecraft_video(video: YouTubeVideoItemResource):
     global _total_html_fetches
 
     # If we see minecraft in the video title we can save some time
-    normalized_title = playlist_item.snippet.title.lower()
+    normalized_title = video.snippet.title.lower()
     if any(indicator in normalized_title for indicator in ["minecraft", "マイクラ"]):
         return True
 
@@ -159,9 +201,7 @@ def is_minecraft_video(playlist_item: YouTubePlaylistItemResource):
     #
     # Why would YouTube add this useful metadata to the API? Don't be ridiculous.
     _total_html_fetches += 1
-    video_page = requests.get(
-        f"https://youtube.com/watch?v={playlist_item.contentDetails.videoId}"
-    )
+    video_page = requests.get(f"https://youtube.com/watch?v={video.id}")
     return re.search(r"\"simpleText\":\"Minecraft\"", video_page.text) is not None
 
 
