@@ -32,7 +32,11 @@
     class="flex flex-row px-4 py-2 text-white transition-all duration-100 ease-in-out hover:bg-gray-400"
   >
     <div class="thumbnail-box">
-      <Thumbnail videoId={source.videoId} title={source.title} />
+      <Thumbnail
+        videoId={source.videoId}
+        title={source.title}
+        duration={source.duration}
+      />
     </div>
     <div
       class="relative flex flex-row items-center justify-between flex-grow px-4 py-1 text-lg text-left"

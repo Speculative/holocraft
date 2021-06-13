@@ -1,6 +1,9 @@
 <script lang="ts">
+  import type { Duration } from "dayjs/plugin/duration";
+
   export let videoId: string;
   export let title: string;
+  export let duration: Duration;
 
   let currentFrame = 0;
   let cycleInterval: number | undefined = undefined;
@@ -14,6 +17,27 @@
   function endCycle() {
     clearInterval(cycleInterval);
     currentFrame = 0;
+  }
+
+  function formatDuration(duration: Duration) {
+    // Day.js handles durations weirdly. If a particular unit isn't specified in
+    // the ISO-8601 duration that was used to create the Duration object, it
+    // will be formatted as "undefined"
+    // https://github.com/iamkun/dayjs/issues/1521
+    const days = duration.days() !== undefined ? duration.format("DD") : "00";
+    const hours = duration.hours() !== undefined ? duration.format("HH") : "00";
+    const minutes =
+      duration.minutes() !== undefined ? duration.format("mm") : "00";
+    const seconds =
+      duration.seconds() !== undefined ? duration.format("ss") : "00";
+
+    if (duration.days() > 0) {
+      return `${days}:${hours}:${minutes}:${seconds}`;
+    } else if (duration.hours() > 0) {
+      return `${hours}:${minutes}:${seconds}`;
+    } else {
+      return `${minutes}:${seconds}`;
+    }
   }
 
   // https://stackoverflow.com/a/20542029
@@ -38,6 +62,11 @@
         {src}
         alt={title}
       />
+      <div
+        class="absolute px-1 text-sm font-medium text-white bg-black bg-opacity-75 bottom-1 right-1"
+      >
+        {formatDuration(duration)}
+      </div>
     </div>
   </div>
 </div>

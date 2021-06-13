@@ -76,7 +76,11 @@
           >
             <div class="flex flex-row">
               <div class="thumbnail-box">
-                <Thumbnail videoId={streamVideoId} title={stream.title} />
+                <Thumbnail
+                  videoId={streamVideoId}
+                  title={stream.title}
+                  duration={stream.duration}
+                />
               </div>
               <div class="flex flex-row items-center justify-start w-2/3 pl-4">
                 {stream.title}
@@ -97,7 +101,11 @@
             >
               <div class="flex flex-row">
                 <div class="thumbnail-box">
-                  <Thumbnail videoId={clip.videoId} title={clip.title} />
+                  <Thumbnail
+                    videoId={clip.videoId}
+                    title={clip.title}
+                    duration={clip.duration}
+                  />
                 </div>
                 <div
                   class="flex flex-row items-center justify-start w-2/3 px-4 py-1"

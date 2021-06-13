@@ -1,6 +1,9 @@
 import { readable } from "svelte/store";
 import dayjs from "dayjs";
+import duration from "dayjs/plugin/duration";
 import { DateTree } from "./dateTree";
+
+dayjs.extend(duration);
 
 export interface HolocraftStream {
   videoId: string;
@@ -8,12 +11,14 @@ export interface HolocraftStream {
   publishedAt: dayjs.Dayjs;
   title: string;
   clips: HolocraftClip[];
+  duration: duration.Duration;
 }
 
 export interface HolocraftClip {
   videoId: string;
   sourceStreams: HolocraftStream[];
   title: string;
+  duration: duration.Duration;
 }
 
 export interface MemberInfo {
@@ -64,11 +69,13 @@ interface HolocraftJson {
     member: string;
     publishedAt: string;
     title: string;
+    duration: string;
   }[];
   craftClips: {
     videoId: string;
     sourceStreams: string[];
     title: string;
+    duration: string;
   }[];
 }
 
@@ -90,11 +97,12 @@ export const holocraftData = readable<HolocraftData>(
         const startTime = performance.now();
 
         const inOrder = responseJson.craftStreams.map(
-          ({ videoId, publishedAt, member, title }) => ({
+          ({ videoId, publishedAt, member, title, duration }) => ({
             member,
             videoId,
             publishedAt: dayjs(publishedAt),
             title,
+            duration: dayjs.duration(duration),
             clips: [] as HolocraftClip[],
           })
         );
@@ -104,16 +112,19 @@ export const holocraftData = readable<HolocraftData>(
         );
 
         const clips = Object.fromEntries(
-          responseJson.craftClips.map(({ videoId, sourceStreams, title }) => [
-            videoId,
-            {
+          responseJson.craftClips.map(
+            ({ videoId, sourceStreams, title, duration }) => [
               videoId,
-              sourceStreams: sourceStreams.map(
-                (sourceStreamId) => byId[sourceStreamId]
-              ),
-              title,
-            },
-          ])
+              {
+                videoId,
+                sourceStreams: sourceStreams.map(
+                  (sourceStreamId) => byId[sourceStreamId]
+                ),
+                title,
+                duration: dayjs.duration(duration),
+              },
+            ]
+          )
         );
 
         // Associate clips to streams
