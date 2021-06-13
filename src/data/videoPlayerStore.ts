@@ -52,6 +52,16 @@ function reorder(player: VideoPlayer, newOrder: string[]) {
   player.playlist = newOrder.map((id) => currentEntries[id]);
 }
 
+function remove(player: VideoPlayer, sourceId: string) {
+  const index = player.playlist.findIndex(
+    (entry) => entry.videoId === sourceId
+  );
+  if (player.nowPlaying === sourceId) {
+    advance(player);
+  }
+  player.playlist.splice(index, 1);
+}
+
 function createVideoPlayerStore() {
   const { subscribe, update } = writable<VideoPlayer>({
     playlist: [],
@@ -63,6 +73,7 @@ function createVideoPlayerStore() {
     advance: bindDispatch(update, advance),
     jumpTo: bindDispatch(update, jumpTo),
     reorder: bindDispatch(update, reorder),
+    remove: bindDispatch(update, remove),
   };
 }
 

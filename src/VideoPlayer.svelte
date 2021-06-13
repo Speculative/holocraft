@@ -15,7 +15,7 @@
   }
 
   let plyrHost: HTMLElement;
-  let plyr: Plyr;
+  let plyr: Plyr | undefined;
 
   afterUpdate(() => {
     if (plyrHost && !plyr) {
@@ -48,6 +48,10 @@
         },
       ],
     };
+  }
+
+  $: if (plyr && plyrCurrentVideo !== undefined && nowPlayingId === undefined) {
+    plyr.stop();
   }
 
   function toSource(entry: PlayerEntry) {

@@ -17,6 +17,9 @@
   function stopHover() {
     hover = false;
   }
+  function removeSelf() {
+    videoPlayerStore.remove(source.videoId);
+  }
 </script>
 
 <a
@@ -48,11 +51,13 @@
         class:opacity-100={hover}
         class="flex flex-row flex-shrink-0 pl-2 transition-opacity duration-100 ease-in-out opacity-0"
       >
-        <Icon
-          class="mr-2 text-gray-100 hover:text-white"
-          icon={faTrash}
-          size="lg"
-        />
+        <span on:click|preventDefault={removeSelf}>
+          <Icon
+            class="mr-2 text-gray-100 hover:text-white"
+            icon={faTrash}
+            size="lg"
+          />
+        </span>
         <span class="reorder" on:mousedown|preventDefault={dragStart}>
           <Icon
             class="text-gray-100 hover:text-white"
