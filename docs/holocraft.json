@@ -15185,6 +15185,69 @@
       "title": "\u3010MINECRAFT\u3011NEW PROJECT!! LET'S MAKE AN OLLIE STATUE!!\u3010Hololive Indonesia 2nd Gen\u3011",
       "duration": "PT2H53M12S",
       "videoId": "s96K6fM5VKc"
+    },
+    {
+      "member": "NENE",
+      "publishedAt": "2021-07-05T18:07:16+00:00",
+      "title": "\u3010Minecraft\u3011\ud83c\udf51\u4e2d\u6bd2\ud83c\udf51\u3010\u6843\u9234\u306d\u306d/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT3H54M5S",
+      "videoId": "--T2RAWZ1JI"
+    },
+    {
+      "member": "MIYABI",
+      "publishedAt": "2021-07-05T18:49:23+00:00",
+      "title": "\u3010Minecraft\u3011\u9752\u30a6\u30fc\u30d1\u30fcis\u3069\u3053\u3010\u82b1\u54b2\u307f\u3084\u3073/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT4H18M26S",
+      "videoId": "7QMLYhTwtwQ"
+    },
+    {
+      "member": "ROBOCO",
+      "publishedAt": "2021-07-05T18:50:48+00:00",
+      "title": "\u3010\u30de\u30a4\u30af\u30e9\u3011\u305d\u308d\u305d\u308d\u7740\u8272\u306b\u624b\u3092\u4ed8\u3051\u305f\u3044\uff01\u5730\u4e0a\u7d75\uff01\uff01\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u30ed\u30dc\u5b50\u3055\u3093\u3011",
+      "duration": "PT4H13M6S",
+      "videoId": "v2kxNF1OwWw"
+    },
+    {
+      "member": "BOTAN",
+      "publishedAt": "2021-07-05T18:55:49+00:00",
+      "title": "\u3010Minecraft\u3011\u990a\u6b96\u6240\u4f5c\u308a\u305f\u3044\uff06\u304a\u91d1\u8fd4\u3055\u306a\u304d\u3083\u2026\u3010\u7345\u767d\u307c\u305f\u3093/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT4H41M51S",
+      "videoId": "Krw1MDHZNb0"
+    },
+    {
+      "member": "MATSURI",
+      "publishedAt": "2021-07-05T18:57:36+00:00",
+      "title": "\u3010Minecraft\u3011\u3088\u3075\u304b\u3057('\u03c9')\u270c\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u590f\u8272\u307e\u3064\u308a\u3011",
+      "duration": "PT2H3M17S",
+      "videoId": "dndIfSNTutc"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2021-07-05T18:58:22+00:00",
+      "title": "\u3010Minecraft 1.17\u3011\u30a6\u30fc\u30d1\u30fc\u30eb\u30fc\u30d1\u30fc\u306e\u305b\u3044\u3067\u5168\u30ed\u30b9\u3057\u305f\u7537\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u82b1\u54b2\u307f\u3084\u3073/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT5H23M36S",
+      "videoId": "gz85Zo90bTU"
+    },
+    {
+      "member": "LAMY",
+      "publishedAt": "2021-07-06T03:31:31+00:00",
+      "title": "\u3010Minecraft\u3011\u5efa\u7bc9\u3057\u3088\u3046\u3001\u305d\u3046\u3057\u3088\u3046\uff01\u3010\u96ea\u82b1\u30e9\u30df\u30a3/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT3H8M21S",
+      "videoId": "VXZzn56FiaY"
+    },
+    {
+      "member": "KANATA",
+      "publishedAt": "2021-07-06T14:17:38+00:00",
+      "title": "\u3010Minecraft\u3011\u6700\u5f8c\u306e\uff01\uff01\uff14\u671f\u30d4\u30af\u30bb\u30eb\u30a2\u30fc\u30c8\ud83c\udfa8\u3010\u5929\u97f3\u304b\u306a\u305f/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT3H41M8S",
+      "videoId": "HiyMsaD-Dfs"
+    },
+    {
+      "member": "PEKORA",
+      "publishedAt": "2021-07-06T14:29:30+00:00",
+      "title": "\u3010 Minecraft\u3011\u4eca\u65e5\u306f\u6d3b\u304d\u306a\u7269\u3092\u4f5c\u308a\u307e\u3059\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
+      "duration": "PT2H6M12S",
+      "videoId": "nxefH7VhNwk"
     }
   ],
   "craftClips": [
@@ -41305,6 +41368,14 @@
     },
     {
       "sourceStreams": [
+        "--T2RAWZ1JI"
+      ],
+      "title": "\u3010Hololive\u3011Nene Mistaken Bot Spams As Fan Support Message\u3010Eng Sub\u3011",
+      "duration": "PT1M35S",
+      "videoId": "0VCMHTwzTGw"
+    },
+    {
+      "sourceStreams": [
         "F2iGeYwQ2Zk"
       ],
       "title": "\u3010Hololive\u3011Pekora Will Be Streaming On Twitch\u3010Eng Sub\u3011",
@@ -41352,6 +41423,14 @@
       "title": "Ina Catches Choco-sensei and Amelia Flirting\u3010ENG Sub/Hololive\u3011",
       "duration": "PT58S",
       "videoId": "xlgUGLEjDjk"
+    },
+    {
+      "sourceStreams": [
+        "--T2RAWZ1JI"
+      ],
+      "title": "Kanata greets Nene \"KonChikubi\" [Hololive/Eng sub]",
+      "duration": "PT37S",
+      "videoId": "gY6syE9tG3g"
     },
     {
       "sourceStreams": [
@@ -41425,6 +41504,160 @@
       "title": "Pekora Karma, Sora Scared, Pekorat, Rushia Stepping ASMR",
       "duration": "PT2M58S",
       "videoId": "SvYLv6od15Q"
+    },
+    {
+      "sourceStreams": [
+        "nxefH7VhNwk"
+      ],
+      "title": "Pekora Cracked Her Voice For The First Time And Transforms Into Pekoroid \u3010Hololive Eng Sub\u3011",
+      "duration": "PT1M29S",
+      "videoId": "MGRZDFeWzoA"
+    },
+    {
+      "sourceStreams": [
+        "--T2RAWZ1JI"
+      ],
+      "title": "Nene Turning Into A Chuunibyou And Vibin With Her BGM\u3010Hololive Eng Sub\u3011",
+      "duration": "PT4M57S",
+      "videoId": "TdBfQPJSs2o"
+    },
+    {
+      "sourceStreams": [
+        "HiyMsaD-Dfs"
+      ],
+      "title": "Kanata Surprised to See the Panties of her Minecraft Character \u3010Hololive English Sub\u3011",
+      "duration": "PT35S",
+      "videoId": "9EOaoG2ATHI"
+    },
+    {
+      "sourceStreams": [
+        "dndIfSNTutc"
+      ],
+      "title": "Matsuri Reacts to Gura Reaching 3 Million Subscribers Like A Proud Mama\u3010ENG Sub/Hololive\u3011",
+      "duration": "PT37S",
+      "videoId": "I5yyw4PFw2g"
+    },
+    {
+      "sourceStreams": [
+        "--T2RAWZ1JI"
+      ],
+      "title": "Nene and Yagoo Are The Same Person\u3010ENG Sub/Hololive\u3011",
+      "duration": "PT1M5S",
+      "videoId": "p-ldjDnwFJc"
+    },
+    {
+      "sourceStreams": [
+        "Gtij0DxsGVM"
+      ],
+      "title": "Sora wants to build a strange room\u3010 Hololive \u25b7 Eng sub\u3011",
+      "duration": "PT2M32S",
+      "videoId": "ZiAtXa_AgHg"
+    },
+    {
+      "sourceStreams": [
+        "HiyMsaD-Dfs"
+      ],
+      "title": "Kanata went out to eat with Coco and Akiroze \"Hololive Reunion in the future\" [Hololive/Eng sub]",
+      "duration": "PT2M19S",
+      "videoId": "eabEvK3TKK0"
+    },
+    {
+      "sourceStreams": [
+        "HiyMsaD-Dfs"
+      ],
+      "title": "M-senpai visited KanaCoco house today [Hololive/Eng sub]",
+      "duration": "PT33S",
+      "videoId": "9sa0HYnLO5U"
+    },
+    {
+      "sourceStreams": [
+        "W0FVjqQrICI"
+      ],
+      "title": "Mio gets confused with a lot of comments saying \"TTT\"  [Hololive/Eng sub]",
+      "duration": "PT1M38S",
+      "videoId": "3kS843ii_FE"
+    },
+    {
+      "sourceStreams": [
+        "dndIfSNTutc"
+      ],
+      "title": "Matsuri is going to meet someone who looks like a human that everybody knows [Hololive/Eng sub]",
+      "duration": "PT1M5S",
+      "videoId": "7EMECbGkDhY"
+    },
+    {
+      "sourceStreams": [
+        "Krw1MDHZNb0"
+      ],
+      "title": "Nene accidentally destroyed Sora's vines and Botan floods Nene [Hololive/Eng sub]",
+      "duration": "PT1M44S",
+      "videoId": "JwgG7uRmbzc"
+    },
+    {
+      "sourceStreams": [
+        "1pHcNzHJ_BE",
+        "GcRZmj1OnjY"
+      ],
+      "title": "Miko is vey happy that she was recognized by Amelia [Hololive/Eng sub]",
+      "duration": "PT1M31S",
+      "videoId": "dzHBPbBrlsI"
+    },
+    {
+      "sourceStreams": [
+        "0K8Nv_qUXtc"
+      ],
+      "title": "Shirakami Fubuki Perform Happy Fox Dance After Scoring a Perfect Shoot | Minecraft [Hololive/En Sub]",
+      "duration": "PT1M3S",
+      "videoId": "L6CgBSMOXLE"
+    },
+    {
+      "sourceStreams": [
+        "qbfbkTXuGqc"
+      ],
+      "title": "Shiranui Flare Decided There Is No Compliance and Proceed Killing Trader | Minecraft [Hololive]",
+      "duration": "PT1M19S",
+      "videoId": "EtQCEaWA5NY"
+    },
+    {
+      "sourceStreams": [
+        "Krw1MDHZNb0"
+      ],
+      "title": "Shishiro Botan Dying Laughing Watching Nene Dying From Elytra Nightmare | Minecraft [Hololive]",
+      "duration": "PT1M24S",
+      "videoId": "UQb0c4XgLZY"
+    },
+    {
+      "sourceStreams": [
+        "0K8Nv_qUXtc"
+      ],
+      "title": "Marine Scream, Pekora Chrome Crashed, Fubuki Happy Fox Song, Miko's Dream",
+      "duration": "PT3M44S",
+      "videoId": "6yE8IHno27I"
+    },
+    {
+      "sourceStreams": [
+        "HiyMsaD-Dfs"
+      ],
+      "title": "viewer ask Kanata to stop being an angel, because she's a gorilla",
+      "duration": "PT2M17S",
+      "videoId": "jU-v6CdhJXs"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Subaru Thinks Moona is Similar to Luna [Hololive/ENG Sub]",
+      "duration": "PT1M32S",
+      "videoId": "Zt9DDv2Ie54"
+    },
+    {
+      "sourceStreams": [
+        "Bj1jshJaSDY",
+        "f1v9mqQ3ez0"
+      ],
+      "title": "Luna Unknowingly Travelled the Tunnel of Love with Subaru [Hololive/ENG Sub]",
+      "duration": "PT1M21S",
+      "videoId": "D77UWXgYdkM"
     }
   ]
 }
