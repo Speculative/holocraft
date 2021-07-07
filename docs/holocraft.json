@@ -4239,6 +4239,13 @@
       "videoId": "JnGBcjaIcS4"
     },
     {
+      "member": "PEKORA",
+      "publishedAt": "2020-04-20T15:10:35+00:00",
+      "title": "\u3010\u30de\u30a4\u30af\u30a2\u30cf\u30fc\u30c9\u30b3\u30a2\u3011\u6b7b\u3093\u3060\u3089\u5373\u7d42\u4e86\uff01\u7dca\u5f35\u611f\u30de\u30c3\u30af\u30b9\u306e\u30b5\u30d0\u30a4\u30d0\u30eb\u751f\u6d3b\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
+      "duration": "PT1H29M19S",
+      "videoId": "d-7emaSX2MQ"
+    },
+    {
       "member": "TOWA",
       "publishedAt": "2020-04-21T08:19:29+00:00",
       "title": "\u3010Minecraft\u3011\u30ec\u30f3\u30ac\u306e\u304a\u3046\u3061\u3092\u4eca\u65e5\u3067\u5b8c\u6210\u3055\u305b\u305f\u3044\uff01#10\u3010#\u5e38\u95c7\u30c8\u30ef/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
@@ -15248,6 +15255,48 @@
       "title": "\u3010 Minecraft\u3011\u4eca\u65e5\u306f\u6d3b\u304d\u306a\u7269\u3092\u4f5c\u308a\u307e\u3059\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
       "duration": "PT2H6M12S",
       "videoId": "nxefH7VhNwk"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2021-07-06T19:36:13+00:00",
+      "title": "\u3010Minecraft 1.17\u3011\u9752\u30a6\u30fc\u30d1\u30fc\u306e\u305d\u306e\u5148\u3078\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT3H49M10S",
+      "videoId": "Zyq2ygLZvXw"
+    },
+    {
+      "member": "WATAME",
+      "publishedAt": "2021-07-06T21:43:42+00:00",
+      "title": "\u3010Minecraft\u3011Weather Hackers\u2606\u3092\u594f\u3067\u305f\u3044\uff01\u3010\u89d2\u5dfb\u308f\u305f\u3081/\u30db\u30ed\u30e9\u30a4\u30d6\uff14\u671f\u751f\u3011",
+      "duration": "PT6H19M1S",
+      "videoId": "nVl_N4AXspo"
+    },
+    {
+      "member": "BOTAN",
+      "publishedAt": "2021-07-07T11:14:20+00:00",
+      "title": "\u3010Minecraft\u3011\u9752\u30a6\u30fc\u30d1\u30fc\u30ac\u30c1\u30e3vs\u7269\u6b32\u30bb\u30f3\u30b5\u30fc\u3010\u7345\u767d\u307c\u305f\u3093/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT1H59M44S",
+      "videoId": "cCLiKwdyjDk"
+    },
+    {
+      "member": "MIO",
+      "publishedAt": "2021-07-07T11:32:10+00:00",
+      "title": "\u3010\u30de\u30a4\u30af\u30e9\u3011\u30de\u30c3\u30d7\u30a2\u30fc\u30c8\u6e96\u5099\uff01\u7f8a\u6bdb\u81ea\u52d5\u56de\u53ce\u6a5f\u3092\u3064\u304f\u3063\u305f\uff01\u3010 \u30db\u30ed\u30e9\u30a4\u30d6 / \u5927\u795e\u30df\u30aa \u3011",
+      "duration": "PT1H22M8S",
+      "videoId": "gAlQwtLnpBA"
+    },
+    {
+      "member": "BOTAN",
+      "publishedAt": "2021-07-07T16:01:48+00:00",
+      "title": "\u3010Minecraft\u3011\u9752\u30a6\u30fc\u30d1\u30fc\u30ac\u30c1\u30e3vs\u3057\u3057\u306d\u306d\u3010\u7345\u767d\u307c\u305f\u3093/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT2H48M44S",
+      "videoId": "qnVfEPslSjE"
+    },
+    {
+      "member": "NENE",
+      "publishedAt": "2021-07-07T16:13:01+00:00",
+      "title": "\u3010Minecraft\u3011\ud83c\udf51\u30a6\u30d1\u30ac\u30c1\u30e3\u3057\u3057\u308d\u3093\ud83c\udf51\u3010\u6843\u9234\u306d\u306d/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT2H49M7S",
+      "videoId": "9RC-TYPkcCk"
     }
   ],
   "craftClips": [
@@ -18617,6 +18666,14 @@
       "title": "Pekora makes minecraft's strongest sword, throws it in lava for no reason",
       "duration": "PT4M33S",
       "videoId": "0fmr21ZZEhk"
+    },
+    {
+      "sourceStreams": [
+        "d-7emaSX2MQ"
+      ],
+      "title": "Pekora finally finds Pekoland, suddenly gets double teamed, has a tantrum, \uff44\uff49\uff45\uff53",
+      "duration": "PT1M40S",
+      "videoId": "LtBEDalIwOY"
     },
     {
       "sourceStreams": [
@@ -41658,6 +41715,128 @@
       "title": "Luna Unknowingly Travelled the Tunnel of Love with Subaru [Hololive/ENG Sub]",
       "duration": "PT1M21S",
       "videoId": "D77UWXgYdkM"
+    },
+    {
+      "sourceStreams": [
+        "nVl_N4AXspo"
+      ],
+      "title": "\u3010Hololive\u3011Watame Made Weather Hackers BGM to Remember Coco\u3010Minecraft\u3011\u3010Eng Sub\u3011",
+      "duration": "PT1M35S",
+      "videoId": "lOsTc3nXg04"
+    },
+    {
+      "sourceStreams": [
+        "nxefH7VhNwk"
+      ],
+      "title": "\u3010Hololive\u3011Pekora Gave Kiara A House As Her Birthday Present\u3010Eng Sub\u3011",
+      "duration": "PT3M12S",
+      "videoId": "U9PrDwn0HHc"
+    },
+    {
+      "sourceStreams": [
+        "Krw1MDHZNb0",
+        "v2kxNF1OwWw",
+        "k1Q4q5mt6Rw",
+        "VXZzn56FiaY"
+      ],
+      "title": "Botan Enjoying Minecraft Feat Nene, Lamy, Polka, Sora & Roboco \u3010Hololive Eng Sub\u3011",
+      "duration": "PT13M8S",
+      "videoId": "CrwX9j_0vMM"
+    },
+    {
+      "sourceStreams": [
+        "HiyMsaD-Dfs"
+      ],
+      "title": "Kanata Finds Out Her Pantsu Are Visible In Minecraft\u3010ENG Sub/Hololive\u3011",
+      "duration": "PT34S",
+      "videoId": "l51XxSvGRhs"
+    },
+    {
+      "sourceStreams": [
+        "nVl_N4AXspo"
+      ],
+      "title": "Watame made Coco's original song \"Weather Hackers\u2605\" in minecraft [Hololive/Eng sub]",
+      "duration": "PT1M11S",
+      "videoId": "mu04yVQAjT4"
+    },
+    {
+      "sourceStreams": [
+        "nVl_N4AXspo"
+      ],
+      "title": "Watame notices Coco's and Miko's records are highlighted [Hololive/Eng sub]",
+      "duration": "PT1M2S",
+      "videoId": "oSK7EGUvhxA"
+    },
+    {
+      "sourceStreams": [
+        "HiyMsaD-Dfs"
+      ],
+      "title": "Kanata accidentally calls Korone \"Cricket-senpai\" and gets in a panic [Hololive/Eng sub]",
+      "duration": "PT2M17S",
+      "videoId": "Dw9u9GM2mBo"
+    },
+    {
+      "sourceStreams": [
+        "nxefH7VhNwk"
+      ],
+      "title": "Pekora can't speak smoothly because of the anesthesia from the dentist [Hololive/Eng sub]",
+      "duration": "PT55S",
+      "videoId": "09qj7GvuC3M"
+    },
+    {
+      "sourceStreams": [
+        "nxefH7VhNwk"
+      ],
+      "title": "Pekora is going to appear on the TV commercial [Hololive/Eng sub]",
+      "duration": "PT1M15S",
+      "videoId": "kHgTp8kqVQ0"
+    },
+    {
+      "sourceStreams": [
+        "HiyMsaD-Dfs"
+      ],
+      "title": "Kanata got influenced by Coco who's always wearing Adidas clothes [Hololive/Eng sub]",
+      "duration": "PT1M12S",
+      "videoId": "ckpvS183DcY"
+    },
+    {
+      "sourceStreams": [
+        "HiyMsaD-Dfs"
+      ],
+      "title": "Amane Kanata Accidentally Call Korone Crikets Senpai | Minecraft  [Hololive/Eng Sub]",
+      "duration": "PT2M3S",
+      "videoId": "3d4dTHoHJxM"
+    },
+    {
+      "sourceStreams": [
+        "VXZzn56FiaY",
+        "--T2RAWZ1JI"
+      ],
+      "title": "Korone Goal, Lamy Operation Check, Nene \ud83d\udc4d\ud83d\udd25, Okayu Scared of Paon",
+      "duration": "PT3M42S",
+      "videoId": "fWSSi666sIY"
+    },
+    {
+      "sourceStreams": [
+        "BBN2NdPGbGM",
+        "J_8kr2T7BCQ",
+        "2ds6W8tK3Ns",
+        "ujOKKYu4VAA",
+        "Mj1FkqYibTs",
+        "_pnFblW0C-8",
+        "XP7EaQgaVcY",
+        "i6csG0DXRpQ",
+        "Zj1EiLqXi2I",
+        "KxRqccuM8BU",
+        "Re7HyxU9Zlw",
+        "2GiROQ82vHk",
+        "w3K-nhB8HSg",
+        "OX8Fgdm8zcA",
+        "3McazDzNuO4"
+      ],
+      "title": "Kiara Takanashi - Building and flirting for the UsaKen Summer Festival (feat. Watame) (Eng/Esp [CC])",
+      "duration": "PT31M45S",
+      "videoId": "IJKigt2SJdg"
     }
   ]
 }
