@@ -16144,6 +16144,34 @@
       "title": "\u3010Minecraft\u3011\u539f\u6728\u56de\u53ce\u6a5f\u306e\u5916\u88c5\u5de5\u4e8b\uff01\u3010\u96ea\u82b1\u30e9\u30df\u30a3/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT5H5M50S",
       "videoId": "7H1UwUmoDJM"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2021-07-29T18:31:54+00:00",
+      "title": "\u3010Minecraft\u3011#\u7121\u77e5\u30af\u30e9 \u30cf\u30fc\u30c9\u30b3\u30a2\u3067\u30cd\u30b6\u30fc\u8981\u585e\u3092\u63a2\u3059\u65c5\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT2H17M59S",
+      "videoId": "_sngt_xYVZ4"
+    },
+    {
+      "member": "FLARE",
+      "publishedAt": "2021-07-30T12:08:31+00:00",
+      "title": "\u3010\u30de\u30a4\u30f3\u30af\u30e9\u30d5\u30c8/Minecraft\u3011\u30ad\u30f3\u30ad\u30f3\u306b\u51b7\u3048\u305f\u6691\u4e2d\u898b\u821e\u3044\u3092\u5c4a\u3051\u306b\u884c\u304f\u3010\u4e0d\u77e5\u706b\u30d5\u30ec\u30a2/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT1H56S",
+      "videoId": "I6DYPyR93lE"
+    },
+    {
+      "member": "KANATA",
+      "publishedAt": "2021-07-30T12:10:11+00:00",
+      "title": "\u3010Minecraft\u30111.17\u5bfe\u5fdc\u306e\u4fbf\u5229\u88c5\u7f6e\uff12\u9023\uff01\uff01\uff01\u3010\u5929\u97f3\u304b\u306a\u305f/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT1H58M29S",
+      "videoId": "7WfMz17RQqo"
+    },
+    {
+      "member": "RUSHIA",
+      "publishedAt": "2021-07-30T12:14:49+00:00",
+      "title": "\u3010Minecraft\u3011\u30cf\u30fc\u30c9\u30b3\u30a2\uff01\uff01\u751f\u5b58\uff01\uff1f\u6b7b\u3093\u3060\u3089\u7d42\u4e86\u3010\u6f64\u7fbd\u308b\u3057\u3042/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT2H58M58S",
+      "videoId": "QwhXY_WE8rM"
     }
   ],
   "craftClips": [
@@ -45204,6 +45232,38 @@
       "title": "Subaru and Kanata Fights on Who Has The Messier Room [Hololive/ENG Sub]",
       "duration": "PT3M4S",
       "videoId": "0VwU8nRQaRI"
+    },
+    {
+      "sourceStreams": [
+        "QwhXY_WE8rM"
+      ],
+      "title": "Rushia Got The Miko Curse\u3010Minecraft\u3011\u3010Hololive | Eng Sub\u3011",
+      "duration": "PT1M5S",
+      "videoId": "rJtQc0Ly_so"
+    },
+    {
+      "sourceStreams": [
+        "PiDCL6vZ23Q"
+      ],
+      "title": "Moona knows about Pekora very well [Hololive/Eng sub]",
+      "duration": "PT1M54S",
+      "videoId": "V8yMzv7gXoc"
+    },
+    {
+      "sourceStreams": [
+        "5pNr9jRePkw"
+      ],
+      "title": "Shirogane Noel Clarify Her Relationship With Shiranui Flare | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M11S",
+      "videoId": "i-H_hGn7NAs"
+    },
+    {
+      "sourceStreams": [
+        "NXpDjOrQ_p0"
+      ],
+      "title": "Sakura Miko Dragged Suisei On Her Debt Settlement With Shiranui Flare | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M46S",
+      "videoId": "m2HLIrTLoS4"
     }
   ]
 }
