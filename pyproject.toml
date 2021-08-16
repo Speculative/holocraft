@@ -6,7 +6,7 @@ authors = ["Jeff Tao <jatao88@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-google-api-python-client = "^1.12.8"
+google-api-python-client = "^2.15.0"
 requests = "^2.25.1"
 dataclasses-json = "^0.5.2"
 marshmallow = "^3.10.0"
