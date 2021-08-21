@@ -291,20 +291,6 @@
       "videoId": "63vwRmugT5w"
     },
     {
-      "member": "SHION",
-      "publishedAt": "2018-09-16T12:37:35+00:00",
-      "title": "\u9b54\u754c\u306e\u30de\u30a4\u30af\u30e9\u2026\uff01\uff01\u3010\u30b7\u30aa\u30f3\u00d7\u3042\u3084\u3081\u3011",
-      "duration": "PT41M25S",
-      "videoId": "tedyIBG2QXk"
-    },
-    {
-      "member": "SHION",
-      "publishedAt": "2018-10-07T22:52:40+00:00",
-      "title": "\u3010\u30db\u30e9\u30b2\u3011\u30de\u30a4\u30af\u30e9\u30db\u30e9\u30fc\u30de\u30c3\u30d7\uff01\uff1f\u3010\u30ad\u30c4\u30cd\u3068\u9b54\u5973\u306e\u5192\u967a\u3011",
-      "duration": "PT18M37S",
-      "videoId": "ntO1T_CT4as"
-    },
-    {
       "member": "AYAME",
       "publishedAt": "2018-10-13T13:52:18+00:00",
       "title": "\u3010\u751f\u653e\u9001\u3011\u534d\u7d44\u30af\u30e9\u30d5\u30c8\uff01\uff01",
@@ -373,13 +359,6 @@
       "title": "\u3010Minecraft\u3011\u30db\u30ed\u30e9\u30a4\u30d6\u9bd6\u306b\u7a81\u6483\u3059\u308b\uff01",
       "duration": "PT47M11S",
       "videoId": "UhvKnuE0avA"
-    },
-    {
-      "member": "SHION",
-      "publishedAt": "2018-12-14T12:44:05+00:00",
-      "title": "\u3010\u30b9\u30de\u30d6\u30e9SP\u3011\u6700\u65b0\u306e\u30b9\u30de\u30d6\u30e9\u3092\u904a\u3076\uff01\uff01\u3010\u6311\u6226\u8005\u304c\u73fe\u308c\u305f\uff01\uff1f\u3011",
-      "duration": "PT1H5M22S",
-      "videoId": "IYXngnXu-Ww"
     },
     {
       "member": "SHION",
@@ -17215,6 +17194,132 @@
       "title": "\u3010Minecraft\u3011\u305d\u308d\u305d\u308d\u99c5\u4f5c\u308a\u305f\u3044\u3001\u306e\u3093\u3073\u308a\u6e96\u5099\uff5e\u3010#\u3068\u304d\u306e\u305d\u3089\u751f\u653e\u9001\u3011",
       "duration": "PT2H35M25S",
       "videoId": "afCAWoLsMf4"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2021-08-20T19:16:28+00:00",
+      "title": "\u3010Minecraft\u3011\u6700\u5f37\u30a8\u30f3\u30c1\u30e3\u30f3\u30c8\u30ac\u30c1\u30e3TIME\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT3H29M14S",
+      "videoId": "eisThK1u5-Y"
+    },
+    {
+      "member": "PEKORA",
+      "publishedAt": "2021-08-20T20:49:08+00:00",
+      "title": "\u3010Minecraft\u3011\u58ca\u308c\u305f\u30cd\u30b6\u30fc\u30b2\u30fc\u30c8\u304b\u3089\u8981\u585e\u306f\u7d76\u5bfe\u306b\u8fd1\u3044\uff01\uff01\uff01\u8aac\u3002\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
+      "duration": "PT5H41M21S",
+      "videoId": "ayn6ttVJXe8"
+    },
+    {
+      "member": "GURA",
+      "publishedAt": "2021-08-21T05:17:46+00:00",
+      "title": "[MINECRAFT] CONDUIT HOUSE BUILD gao",
+      "duration": "PT4H55M24S",
+      "videoId": "34qwR8XmkiI"
+    },
+    {
+      "member": "KANATA",
+      "publishedAt": "2021-08-21T07:34:12+00:00",
+      "title": "\u3010#\u30db\u30ed\u9bd6EN\u30dd\u30fc\u30bf\u30eb\u30ea\u30ec\u30fc / #HOLOserverPORTAL\u3011\u8aac\u660e\u67a0\uff01\uff01\uff01\uff01 \u3010\u5929\u97f3\u304b\u306a\u305f/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT29M56S",
+      "videoId": "4jcQHAK3P8c"
+    },
+    {
+      "member": "MATSURI",
+      "publishedAt": "2021-08-21T08:01:08+00:00",
+      "title": "\u3010#\u30db\u30ed\u9bd6EN\u30dd\u30fc\u30bf\u30eb\u30ea\u30ec\u30fc / #HOLOserverPORTAL\u3011\u88c5\u98fe\u62c5\u5f53('\u03c9')\u270c\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u590f\u8272\u307e\u3064\u308a\u3011",
+      "duration": "PT29M27S",
+      "videoId": "XK9C19MQ1qw"
+    },
+    {
+      "member": "OLLIE",
+      "publishedAt": "2021-08-21T08:35:08+00:00",
+      "title": "\u3010#\u30db\u30ed\u9bd6EN\u30dd\u30fc\u30bf\u30eb\u30ea\u30ec\u30fc / #HOLOserverPORTAL\u3011SECOND IN LINE, OLLIE'S NEXT!!\u3010Hololive ID 2nd Gen\u3011",
+      "duration": "PT31M52S",
+      "videoId": "vtWUMhdYzWc"
+    },
+    {
+      "member": "REINE",
+      "publishedAt": "2021-08-21T09:03:23+00:00",
+      "title": "\u3010#\u30db\u30ed\u9bd6EN\u30dd\u30fc\u30bf\u30eb\u30ea\u30ec\u30fc / #HOLOserverPORTAL\u3011It's Reine's turn!!! \u3010hololiveID 2nd gen\u3011",
+      "duration": "PT31M16S",
+      "videoId": "_cQ4fQnqjDM"
+    },
+    {
+      "member": "MIO",
+      "publishedAt": "2021-08-21T09:36:53+00:00",
+      "title": "\u3010 #\u30db\u30ed\u9bd6EN\u30dd\u30fc\u30bf\u30eb\u30ea\u30ec\u30fc \u3011\u5927\u795e\u30df\u30aa\u8996\u70b9\uff01EN\u3068JP\u3092\u3064\u306a\u3050\u30fb\u30fb\u3063\u3066\uff7a\uff84\uff6b\uff1f\uff01\u3010 #HOLOserverPORTAL \u3011",
+      "duration": "PT31M22S",
+      "videoId": "x1EZYh8aGwA"
+    },
+    {
+      "member": "LAMY",
+      "publishedAt": "2021-08-21T10:05:25+00:00",
+      "title": "\u3010#\u30db\u30ed\u9bd6EN\u30dd\u30fc\u30bf\u30eb\u30ea\u30ec\u30fc / #HOLOserverPORTAL\u3011\u7b2c6\u8d70\u8005\u30e9\u30df\u30a3\uff01\u30a2\u30ec\u3092\u4f5c\u308a\u307e\u3059\u2026 \u3010\u96ea\u82b1\u30e9\u30df\u30a3/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT31M29S",
+      "videoId": "hiE8dp-nR4U"
+    },
+    {
+      "member": "MIKO",
+      "publishedAt": "2021-08-21T10:34:52+00:00",
+      "title": "\u3010Minecraft\u3011\u307f\u3093\u306a\u3068\u7e4b\u304c\u308b\u30dd\u30fc\u30bf\u30eb\u4f5c\u308a\ud83c\udf0eELITE\u88c5\u98fe\u3057\u3066\u307f\u305b\u308b\u306b\u3047\uff01\u3010 #\u30db\u30ed\u9bd6EN\u30dd\u30fc\u30bf\u30eb\u30ea\u30ec\u30fc / #HOLOserverPORTAL\u3011",
+      "duration": "PT31M57S",
+      "videoId": "V3yIcP4EGr8"
+    },
+    {
+      "member": "MOONA",
+      "publishedAt": "2021-08-21T11:05:03+00:00",
+      "title": "\u3010#\u30db\u30ed\u9bd6EN\u30dd\u30fc\u30bf\u30eb\u30ea\u30ec\u30fc / #HOLOserverPORTAL\u3011It's Moona turn !!! Yeay!!!\u3010Moona Hoshinova / hololiveID\u3011",
+      "duration": "PT32M49S",
+      "videoId": "FVI2GE9Xa0Q"
+    },
+    {
+      "member": "BOTAN",
+      "publishedAt": "2021-08-21T11:35:06+00:00",
+      "title": "\u3010#\u30db\u30ed\u9bd6EN\u30dd\u30fc\u30bf\u30eb\u30ea\u30ec\u30fc / #HOLOserverPORTAL\u3011\u7b2c9\u8d70\u8005\u3057\u3057\u308d\u3093\uff01 \u3010\u7345\u767d\u307c\u305f\u3093/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT30M20S",
+      "videoId": "3D6Q1v6MRBM"
+    },
+    {
+      "member": "RISU",
+      "publishedAt": "2021-08-21T12:40:23+00:00",
+      "title": "\u3010#\u30db\u30ed\u9bd6EN\u30dd\u30fc\u30bf\u30eb\u30ea\u30ec\u30fc / #HOLOserverPORTAL\u3011RISU'S TURN YEY !!!\u3010Ayunda Risu\u3011",
+      "duration": "PT33M20S",
+      "videoId": "EHoTE9BaJ9M"
+    },
+    {
+      "member": "HAATO",
+      "publishedAt": "2021-08-21T13:02:57+00:00",
+      "title": "\u3010 Minecraft \u3011EN\u3068\u7e4b\u304c\u308b\ud83c\udf0e\u306f\u3042\u3061\u3083\u307e\u3063\u3061\u3083\u307e\uff5e\u3010#\u30db\u30ed\u9bd6EN\u30dd\u30fc\u30bf\u30eb\u30ea\u30ec\u30fc / #HOLOserverPORTAL\u3011",
+      "duration": "PT31M3S",
+      "videoId": "2OQDO7GMep4"
+    },
+    {
+      "member": "NENE",
+      "publishedAt": "2021-08-21T13:34:15+00:00",
+      "title": "\u3010#\u30db\u30ed\u9bd6EN\u30dd\u30fc\u30bf\u30eb\u30ea\u30ec\u30fc / #HOLOserverPORTAL\u3011\ud83c\udf51\u306d\u306d\ud83c\udf51 \u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u6843\u9234\u306d\u306d\u3011",
+      "duration": "PT33M10S",
+      "videoId": "xha0ODwnfWI"
+    },
+    {
+      "member": "MARINE",
+      "publishedAt": "2021-08-21T14:10:04+00:00",
+      "title": "\u3010Minecraft\u3011\u30e9\u30b8\u30b3\u30f3\u30cf\u30fc\u30c9\u30b3\u30a2\u5f8c\u7de8\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u5b9d\u9418\u30de\u30ea\u30f3\u30fb\u4e0d\u77e5\u706b\u30d5\u30ec\u30a2\u3011",
+      "duration": "PT1H53M2S",
+      "videoId": "URwoYGzh_Lg"
+    },
+    {
+      "member": "KANATA",
+      "publishedAt": "2021-08-21T14:13:11+00:00",
+      "title": "\u3010#\u30db\u30ed\u9bd6EN\u30dd\u30fc\u30bf\u30eb\u30ea\u30ec\u30fc / #HOLOserverPORTAL\u3011\u3064\u3044\u306b\u5b8c\u6210\uff01\uff01\uff01 \u3010\u5929\u97f3\u304b\u306a\u305f/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT35M33S",
+      "videoId": "erjdxOS63GE"
+    },
+    {
+      "member": "FLARE",
+      "publishedAt": "2021-08-21T15:59:54+00:00",
+      "title": "\u3010\u30de\u30a4\u30f3\u30af\u30e9\u30d5\u30c8/Minecraft\u3011\u624b\u306e\u3072\u3089\u3067\u8ee2\u304c\u3055\u308c\u308b\u30de\u30ea\u30f3\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u5b9d\u9418\u30de\u30ea\u30f3\u30fb\u4e0d\u77e5\u706b\u30d5\u30ec\u30a2\u3011",
+      "duration": "PT1H46M24S",
+      "videoId": "-gEvK8l45Bk"
     }
   ],
   "craftClips": [
@@ -48648,6 +48753,111 @@
       "title": "Subaru Accidentally Pressuring Her Kouhai Anya [Hololive/ENG Sub]",
       "duration": "PT5M39S",
       "videoId": "OvZVXBa-_aA"
+    },
+    {
+      "sourceStreams": [
+        "4jcQHAK3P8c"
+      ],
+      "title": "Kanata's Super Cute English Somehow Sounds Like She's Angwy \u3010Hololive\u3011 #HOLOserverPORTAL",
+      "duration": "PT1M22S",
+      "videoId": "-W-K-5BUtqI"
+    },
+    {
+      "sourceStreams": [
+        "ayn6ttVJXe8"
+      ],
+      "title": "Pekora keeps saying FAB instead of FAQ and everyone is confused \u3010ENG Sub Hololive\u3011",
+      "duration": "PT1M16S",
+      "videoId": "BSXOPxyNssw"
+    },
+    {
+      "sourceStreams": [
+        "URwoYGzh_Lg"
+      ],
+      "title": "Flare imitates Ghast sound too perfectly [Hololive/Eng sub]",
+      "duration": "PT31S",
+      "videoId": "9HPzJRhVaqM"
+    },
+    {
+      "sourceStreams": [
+        "V3yIcP4EGr8"
+      ],
+      "title": "Miko prepares IRyS's bed on the best boss position [Hololive/Eng sub]",
+      "duration": "PT51S",
+      "videoId": "Zw0RGR1UoBk"
+    },
+    {
+      "sourceStreams": [
+        "4jcQHAK3P8c"
+      ],
+      "title": "Ollie suddenly forgot how to speak Japanese when Kanata caught her lying [Hololive/Eng sub]",
+      "duration": "PT51S",
+      "videoId": "CGDQoDQ6uG0"
+    },
+    {
+      "sourceStreams": [
+        "4jcQHAK3P8c"
+      ],
+      "title": "Kanata's viewers can't notice the logo she made [Hololive/Eng sub]",
+      "duration": "PT1M6S",
+      "videoId": "w8x1maHyZ6w"
+    },
+    {
+      "sourceStreams": [
+        "ayn6ttVJXe8"
+      ],
+      "title": "Pekora learned an alternative word of FAQ \"FAB\" [Hololive/Eng sub]",
+      "duration": "PT1M9S",
+      "videoId": "i-sE8LVQm44"
+    },
+    {
+      "sourceStreams": [
+        "XK9C19MQ1qw"
+      ],
+      "title": "Matsuri Asked Kanata About Her Grip Strength\u3010Hololive | Natsuiro Matsuri x Amane Kanata\u3011",
+      "duration": "PT58S",
+      "videoId": "VAYZ6qZKkTA"
+    },
+    {
+      "sourceStreams": [
+        "w1E3VFSLqKM"
+      ],
+      "title": "\u3010Hololive\u3011Sightseeing with Towa part. 3\u3010Towa\u3011",
+      "duration": "PT9M23S",
+      "videoId": "-SQlk6vE6W0"
+    },
+    {
+      "sourceStreams": [
+        "4jcQHAK3P8c"
+      ],
+      "title": "Ollie Make Classic Excuse After Caught Lying By Kanata and Matsuri | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M13S",
+      "videoId": "vdBCcI-w-FU"
+    },
+    {
+      "sourceStreams": [
+        "afCAWoLsMf4"
+      ],
+      "title": "Tokino Sora Annoyed By Persistent Villager Who Live On Her Construction Site | Minecraft [Hololive]",
+      "duration": "PT1M29S",
+      "videoId": "eXiUHnY1yBA"
+    },
+    {
+      "sourceStreams": [
+        "4jcQHAK3P8c"
+      ],
+      "title": "Ollie & Matsuri flert each other while ignoring the presence of Kanata being there",
+      "duration": "PT3M4S",
+      "videoId": "x1rY_euH6Qw"
+    },
+    {
+      "sourceStreams": [
+        "6qwLZsJtQKU",
+        "I7_tBbluNZ4"
+      ],
+      "title": "Miko and lava\u3010Minecraft\u3011",
+      "duration": "PT1M11S",
+      "videoId": "pnsfhzT2vLQ"
     }
   ]
 }
