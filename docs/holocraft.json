@@ -17320,6 +17320,55 @@
       "title": "\u3010\u30de\u30a4\u30f3\u30af\u30e9\u30d5\u30c8/Minecraft\u3011\u624b\u306e\u3072\u3089\u3067\u8ee2\u304c\u3055\u308c\u308b\u30de\u30ea\u30f3\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u5b9d\u9418\u30de\u30ea\u30f3\u30fb\u4e0d\u77e5\u706b\u30d5\u30ec\u30a2\u3011",
       "duration": "PT1H46M24S",
       "videoId": "-gEvK8l45Bk"
+    },
+    {
+      "member": "MIYABI",
+      "publishedAt": "2021-08-21T18:35:41+00:00",
+      "title": "\u3010Minecraft\u3011\u606f\u3092\u5438\u3046\u3088\u3046\u306b\u30ac\u30c1\u30e3\u3092\u3059\u308b\u7537\u3010\u82b1\u54b2\u307f\u3084\u3073/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT4H12M3S",
+      "videoId": "AU8sOQxUnvY"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2021-08-21T18:46:28+00:00",
+      "title": "\u3010Minecraft\u3011\u5730\u7344\u5927\u7206\u767a\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT3H17M43S",
+      "videoId": "ZjXUE74MHWU"
+    },
+    {
+      "member": "RUSHIA",
+      "publishedAt": "2021-08-22T14:58:39+00:00",
+      "title": "\u3010Minecraft/Hardcore\u3011\u30dd\u30f3\u30b3\u30c4\u3060\u3051\u3069\u751f\u304d\u308b\uff01\uff01\uff13\u671f\u751f\u3067\u30a8\u30f3\u30c9\u30e9\u3007\u3059\uff01\u3010\u6f64\u7fbd\u308b\u3057\u3042/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT6H18M22S",
+      "videoId": "NhEJAr54uVc"
+    },
+    {
+      "member": "FLARE",
+      "publishedAt": "2021-08-22T15:09:24+00:00",
+      "title": "\u3010\u30de\u30a4\u30f3\u30af\u30e9\u30d5\u30c8/Minecraft\u3011\u4e09\u671f\u751f\u307f\u3093\u306a\u3067\u30a8\u30f3\u30c9\u30e9\u8a0e\u4f10\u307e\u3067\u884c\u304f\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u4e0d\u77e5\u706b\u30d5\u30ec\u30a2\u3011",
+      "duration": "PT6H26M15S",
+      "videoId": "ZkDlLXelZXg"
+    },
+    {
+      "member": "PEKORA",
+      "publishedAt": "2021-08-22T15:19:59+00:00",
+      "title": "\u3010Minecraft\u30113\u671f\u751f\u3067\u30a8\u30f3\u30c9\u30e9\u8a0e\u4f10\u3057\u306b\u3044\u304f\uff01\uff01\uff01\uff01\uff01\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
+      "duration": "PT6H27M57S",
+      "videoId": "yKG-ToSVYQ4"
+    },
+    {
+      "member": "MARINE",
+      "publishedAt": "2021-08-22T15:22:24+00:00",
+      "title": "\u3010Minecraft\u3011\u6b7b\u3093\u3060\u3089\u7d42\u308f\u308a\u20263\u671f\u751f\u3067\u30a8\u30f3\u30c9\u30e9\u8a0e\u4f10\uff01 \u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u5b9d\u9418\u30de\u30ea\u30f3\u3011",
+      "duration": "PT6H29M10S",
+      "videoId": "JXbDV_vomeU"
+    },
+    {
+      "member": "NOEL",
+      "publishedAt": "2021-08-22T16:09:21+00:00",
+      "title": "\u3010Minecraft\u3011\u30d1\u30c3\u30b7\u30e7\u30f3\u3010\u767d\u9280\u30ce\u30a8\u30eb/\u4e09\u671f\u751f\u30de\u30a4\u30af\u30e9\u30cf\u30fc\u30c9\u30b3\u30a2\u3011",
+      "duration": "PT6H28M11S",
+      "videoId": "Snud37b0CHA"
     }
   ],
   "craftClips": [
@@ -48858,6 +48907,157 @@
       "title": "Miko and lava\u3010Minecraft\u3011",
       "duration": "PT1M11S",
       "videoId": "pnsfhzT2vLQ"
+    },
+    {
+      "sourceStreams": [
+        "NhEJAr54uVc"
+      ],
+      "title": "Rushia Died Within A Minute During 3rd Gen Minecraft Collab ft. Pekora, Marine..\u3010Hololive | Eng Sub\u3011",
+      "duration": "PT1M26S",
+      "videoId": "So6IbQPPAWY"
+    },
+    {
+      "sourceStreams": [
+        "erjdxOS63GE"
+      ],
+      "title": "Haachama's New Creation Have Already Took 3 Lives ft. Kanata, Mel, Reine, Lamy..\u3010Hololive | Eng Sub\u3011",
+      "duration": "PT1M54S",
+      "videoId": "I4eTrb9HlZM"
+    },
+    {
+      "sourceStreams": [
+        "4jcQHAK3P8c",
+        "erjdxOS63GE",
+        "XK9C19MQ1qw",
+        "vtWUMhdYzWc",
+        "_cQ4fQnqjDM",
+        "x1EZYh8aGwA",
+        "hiE8dp-nR4U",
+        "V3yIcP4EGr8",
+        "FVI2GE9Xa0Q",
+        "3D6Q1v6MRBM",
+        "EHoTE9BaJ9M",
+        "2OQDO7GMep4",
+        "xha0ODwnfWI"
+      ],
+      "title": "Hololive ID and JP Members Building The Portal For Hololive EN\u3010Hololive Eng & ID Sub\u3011",
+      "duration": "PT27M39S",
+      "videoId": "Vs0kQxzEco0"
+    },
+    {
+      "sourceStreams": [
+        "URwoYGzh_Lg"
+      ],
+      "title": "Marine Turns into Cute Tsundere Mode After Getting Flare Teases Her \u3010Hololive English Sub\u3011",
+      "duration": "PT1M48S",
+      "videoId": "KQf2FanIGgs"
+    },
+    {
+      "sourceStreams": [
+        "34qwR8XmkiI"
+      ],
+      "title": "I'm adopted... LET'S GOOO!!",
+      "duration": "PT45S",
+      "videoId": "V9lLM5YfbNM"
+    },
+    {
+      "sourceStreams": [
+        "NhEJAr54uVc"
+      ],
+      "title": "Rushia dies in 35 seconds after the Hardcore mode collab start [Hololive/Eng sub]",
+      "duration": "PT1M22S",
+      "videoId": "1X5E8tQHQ_Y"
+    },
+    {
+      "sourceStreams": [
+        "J879te5WrpE"
+      ],
+      "title": "Marine feels warm hearted after hearing Flare's wholesome line [Hololive/Eng sub]",
+      "duration": "PT32S",
+      "videoId": "SNmXlq4Og7A"
+    },
+    {
+      "sourceStreams": [
+        "4jcQHAK3P8c"
+      ],
+      "title": "Kanata squishes overseas brothers [Hololive/Eng sub]",
+      "duration": "PT39S",
+      "videoId": "I0v4brKqxO4"
+    },
+    {
+      "sourceStreams": [
+        "erjdxOS63GE"
+      ],
+      "title": "Kanata found that more than half of people are talking from the heaven or bathroom [Hololive]",
+      "duration": "PT1M20S",
+      "videoId": "Dp5SR7FRVkE"
+    },
+    {
+      "sourceStreams": [
+        "NhEJAr54uVc"
+      ],
+      "title": "Rushia Betray Pekora For 5 Diamond From Flare | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M22S",
+      "videoId": "MuJNrqLN2XY"
+    },
+    {
+      "sourceStreams": [
+        "URwoYGzh_Lg"
+      ],
+      "title": "Shiranui Flare n Houshou Marine Laughing At Marine Body Full of Arrow | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M1S",
+      "videoId": "v9l2JWREq6g"
+    },
+    {
+      "sourceStreams": [
+        "URwoYGzh_Lg"
+      ],
+      "title": "Shiranui Flare Shocked By Marine Who Found Ancient Debris In Strange Place | Minecraft [Hololive]",
+      "duration": "PT1M34S",
+      "videoId": "Uu_ULI-4ZiY"
+    },
+    {
+      "sourceStreams": [
+        "2OQDO7GMep4"
+      ],
+      "title": "Haachama Confused and Laughing At Her Own Creation | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M5S",
+      "videoId": "Iubzr1W5x28"
+    },
+    {
+      "sourceStreams": [
+        "2OQDO7GMep4"
+      ],
+      "title": "NPC Amane Kanata Protect Haachama From Pesky Phantom | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M40S",
+      "videoId": "KfhXbtHkxoY"
+    },
+    {
+      "sourceStreams": [
+        "4jcQHAK3P8c"
+      ],
+      "title": "Amane Kanata Walk Into Matsuri n Ollie While They're Having Fun | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M2S",
+      "videoId": "2Eqiinp7JY8"
+    },
+    {
+      "sourceStreams": [
+        "PkF4aX9uDcs",
+        "hjVjNIhgEns"
+      ],
+      "title": "[Hololive Compilation] Ritore's Translator Choice #57 [8/22]",
+      "duration": "PT10M37S",
+      "videoId": "caUHZiWGvEw"
+    },
+    {
+      "sourceStreams": [
+        "x1EZYh8aGwA",
+        "XK9C19MQ1qw",
+        "4jcQHAK3P8c"
+      ],
+      "title": "Fubuki Fish, Mio and Scary Zombie, Matsuri Lonely, Kanata Get in at the Wrong Time, Lamy Shika Katan",
+      "duration": "PT4M46S",
+      "videoId": "_30QFveCbNc"
     }
   ]
 }
