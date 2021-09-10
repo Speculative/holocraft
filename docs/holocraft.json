@@ -18013,6 +18013,41 @@
       "title": "\u3010MINECRAFT\u3011\u5929\u771f\u6751\u3001\u9053\u8def\u3092\u6574\u5099\u3057\u305f\u3044\u3002\u3010\u5cb8\u5802\u5929\u771f/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
       "duration": "PT1H48M58S",
       "videoId": "DclH0ELqzxw"
+    },
+    {
+      "member": "SORA",
+      "publishedAt": "2021-09-09T16:29:38+00:00",
+      "title": "\u3010Minecraft\u3011\u3061\u3087\u3063\u3068\u3060\u3051\u4f5c\u696d\u3059\u308b\u3010#\u3068\u304d\u306e\u305d\u3089\u751f\u653e\u9001\u3011",
+      "duration": "PT2H5M47S",
+      "videoId": "BQHRyKeUfKE"
+    },
+    {
+      "member": "FLARE",
+      "publishedAt": "2021-09-09T19:06:20+00:00",
+      "title": "\u3010\u30de\u30a4\u30f3\u30af\u30e9\u30d5\u30c8/Minecraft\u3011\u307e\u3063\u305f\u308a\u30db\u30ed\u9bd6\u3010\u4e0d\u77e5\u706b\u30d5\u30ec\u30a2/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT5H8M53S",
+      "videoId": "--Xvzz7DMRQ"
+    },
+    {
+      "member": "SHION",
+      "publishedAt": "2021-09-09T20:15:10+00:00",
+      "title": "\u3010Minecraft\u3011\u6df1\u591c\u306e\u5b89\u7720\u30de\u30a4\u30af\u30e9\uff01\uff01\u3060\u3088\uff01\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u7d2b\u54b2\u30b7\u30aa\u30f3\u3011",
+      "duration": "PT4H15M58S",
+      "videoId": "VrIM-yKnl34"
+    },
+    {
+      "member": "NENE",
+      "publishedAt": "2021-09-10T11:54:16+00:00",
+      "title": "\u3010\u30de\u30a4\u30af\u30e9/Minecraft\u3011\ud83c\udf51\u901f\u5ea6\u8abf\u6574\u3082\u3057\u3066\u3044\u304d\u305f\u3044\uff01\ud83c\udf51 \u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u6843\u9234\u306d\u306d\u3011",
+      "duration": "PT2H24M17S",
+      "videoId": "NQ9b9hxY0UM"
+    },
+    {
+      "member": "AKI",
+      "publishedAt": "2021-09-10T15:10:22+00:00",
+      "title": "\u3010Minecraft\u3011\u30a8\u30f3\u30c1\u30e3\u30f3\u30c8\u30ac\u30c1\u30e3\uff01\u3053\u308c\u304c\u6cbc\uff1fPart7\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u30a2\u30ad\u30ed\u30bc\u3011",
+      "duration": "PT57M26S",
+      "videoId": "J_gTsNHZDrs"
     }
   ],
   "craftClips": [
@@ -51324,6 +51359,113 @@
       "title": "Gura make something snapped inside Mumei\u3010Multi POV\u3011[Part 2/2]",
       "duration": "PT20M54S",
       "videoId": "JsQ24pjtsd8"
+    },
+    {
+      "sourceStreams": [
+        "VrIM-yKnl34",
+        "--Xvzz7DMRQ"
+      ],
+      "title": "Shion Plays Around in ShiraKen Office, But a Creeper Suddenly Appears [Hololive]",
+      "duration": "PT5M57S",
+      "videoId": "__9IZ7Eiw1Y"
+    },
+    {
+      "sourceStreams": [
+        "--Xvzz7DMRQ",
+        "i8gB0gf5uVw"
+      ],
+      "title": "Flare's Reaction To Moona's Gift For Raid Farm & Send Her A Return Gift \u3010Hololive Eng Sub\u3011",
+      "duration": "PT5M7S",
+      "videoId": "_OIf0C--IoQ"
+    },
+    {
+      "sourceStreams": [
+        "iJdtjrSAHwc"
+      ],
+      "title": "Towa Become So Cute After Accidentally Died And Lost Her Minecraft Level\u3010Hololive English Sub\u3011",
+      "duration": "PT2M8S",
+      "videoId": "XTkhLf_5gvY"
+    },
+    {
+      "sourceStreams": [
+        "GNrSnDr8Aeo"
+      ],
+      "title": "Flare Helping Haachama Building Lapuchama Castle In The Sky With Haachama Method\u3010Hololive Eng Sub\u3011",
+      "duration": "PT4M40S",
+      "videoId": "50pMVKgEYm4"
+    },
+    {
+      "sourceStreams": [
+        "VrIM-yKnl34"
+      ],
+      "title": "Shion Just Wants To Do Shion Things But Creeper Escalated Things To The Next Level\u3010Hololive En Sub\u3011",
+      "duration": "PT4M55S",
+      "videoId": "crtLaNVr9GA"
+    },
+    {
+      "sourceStreams": [
+        "VrIM-yKnl34"
+      ],
+      "title": "Shion Visits USAKEN HQ & Leaves Hilarious Gift & Message - Minecraft \u3010ENG Sub Hololive\u3011",
+      "duration": "PT5M1S",
+      "videoId": "_5fyooY1BC4"
+    },
+    {
+      "sourceStreams": [
+        "VrIM-yKnl34"
+      ],
+      "title": "Shion confesses Marine used to be like her mom \"Baba\" but now she's starting to look cute [Hololive]",
+      "duration": "PT1M23S",
+      "videoId": "MD7nDvabDgk"
+    },
+    {
+      "sourceStreams": [
+        "VrIM-yKnl34"
+      ],
+      "title": "Shion enters Aqukin's Hidden Vault but finds that Akukin has financial problem [Hololive/Eng sub]",
+      "duration": "PT56S",
+      "videoId": "Ft6XeYwGOMI"
+    },
+    {
+      "sourceStreams": [
+        "VrIM-yKnl34"
+      ],
+      "title": "Shion pulls a prank on Aqua and she finds that Gura has the same mind [Hololive/Eng sub]",
+      "duration": "PT2M24S",
+      "videoId": "yBhFzV5qN1M"
+    },
+    {
+      "sourceStreams": [
+        "VrIM-yKnl34",
+        "X4Bw7YurCpo"
+      ],
+      "title": "Shion finds that Gura took her love letter with her and she dies from Gura's cuteness [Hololive]",
+      "duration": "PT2M39S",
+      "videoId": "Ec7yf_itKEM"
+    },
+    {
+      "sourceStreams": [
+        "hMtLwPk35S0"
+      ],
+      "title": "Haachama Was Lonely Playing by Herself but Kept Rejecting Flare's Offer\u3010Hololive | Flare x Haachama\u3011",
+      "duration": "PT3M41S",
+      "videoId": "1nOp7xuIIhI"
+    },
+    {
+      "sourceStreams": [
+        "--Xvzz7DMRQ"
+      ],
+      "title": "Shiranui Flare Cause Magma Cube To Commit Suicide | Minecraft  [Hololive/Eng Sub]",
+      "duration": "PT1M2S",
+      "videoId": "5fy_mSOXsxA"
+    },
+    {
+      "sourceStreams": [
+        "VrIM-yKnl34"
+      ],
+      "title": "Miko Fooled by Greater Dog and Puzzle, Shion Blew Shiranui Const, Watame Cute Little Sister",
+      "duration": "PT4M21S",
+      "videoId": "2qcMTst-sNQ"
     }
   ]
 }
