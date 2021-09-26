@@ -18412,6 +18412,34 @@
       "title": "\u3010Minecraft\u3011\u305d\u3089\u30c8\u30ec\u30a4\u30f3\u306e\u5546\u696d\u65bd\u8a2d\u8a08\u753b\u3092\u304a\u624b\u4f1d\u3044\u3057\u3066\u3044\u304f\u56de\u3010\u7345\u767d\u307c\u305f\u3093/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT3H20M42S",
       "videoId": "pfBYFoys2tw"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2021-09-25T19:44:16+00:00",
+      "title": "\u3010Minecraft\u3011\u30c9\u6df1\u591c\u5927\u5de5\u4e8b-\u6d77\u5e95\u795e\u6bbf\u9732\u5929\u6398\u308a\u5927\u4f5c\u6226-\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT2H16M18S",
+      "videoId": "54jBlidvzio"
+    },
+    {
+      "member": "KIARA",
+      "publishedAt": "2021-09-25T22:19:18+00:00",
+      "title": "\u3010MINECRAFT\u3011LAST PHOENIXTON RENOVATION with MAMATORI! #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6",
+      "duration": "PT6H14M40S",
+      "videoId": "9nfZOVbtPD0"
+    },
+    {
+      "member": "CALLIOPE",
+      "publishedAt": "2021-09-26T04:16:27+00:00",
+      "title": "\u3010AFTER PARTY and MINECRAFT\u3011Rap Karaoke Celebration! Was That Even Real... #Holomyth #HololiveEnglish",
+      "duration": "PT2H50S",
+      "videoId": "Xzyjp26hS88"
+    },
+    {
+      "member": "GURA",
+      "publishedAt": "2021-09-26T05:03:18+00:00",
+      "title": "[MINECRAFT] minecraft!! yeah!",
+      "duration": "PT4H25M37S",
+      "videoId": "W7gUkrx2KPk"
     }
   ],
   "craftClips": [
@@ -52990,6 +53018,46 @@
       "title": "Subaru was worried about Shion and wants to be called sugar like Ayame [Hololive/ENG Sub]",
       "duration": "PT1M45S",
       "videoId": "VgVMSab_fI8"
+    },
+    {
+      "sourceStreams": [
+        "W7gUkrx2KPk"
+      ],
+      "title": "Calli Accidentally Scared the \ud835\udc07\ud835\udc04\ud835\udc0b\ud835\udc0b Out Of Gura\u3010Hololive English\u3011",
+      "duration": "PT1M25S",
+      "videoId": "C_PD45LD9pE"
+    },
+    {
+      "sourceStreams": [
+        "pfBYFoys2tw"
+      ],
+      "title": "Botan Tries To Borrow Sponges But Ends Up Exploring Hololive Server Instead\u3010Hololive Eng Sub\u3011",
+      "duration": "PT5M30S",
+      "videoId": "V64gixt-LJc"
+    },
+    {
+      "sourceStreams": [
+        "w1E3VFSLqKM"
+      ],
+      "title": "\u3010Hololive\u3011Sightseeing with Towa part. 5\u3010Towa\u3011",
+      "duration": "PT7M27S",
+      "videoId": "f_U7eHuTzL8"
+    },
+    {
+      "sourceStreams": [
+        "NRXVAy8yOQw"
+      ],
+      "title": "[Hololive Compilation] Ritore's Translator Choice #62 [9/26]",
+      "duration": "PT10M3S",
+      "videoId": "YqMijUAxJo0"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Subaru finally admits that Mio is not her mama [Hololive/ENG Sub]",
+      "duration": "PT1M31S",
+      "videoId": "zWrxh74og6A"
     }
   ]
 }
