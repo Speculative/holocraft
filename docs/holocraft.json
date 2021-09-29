@@ -18477,18 +18477,39 @@
       "videoId": "0Ke0MGE1QeA"
     },
     {
-      "member": "KIARA",
-      "publishedAt": "2021-09-28T01:11:43+00:00",
-      "title": "\u3010MINECRAFT\u3011BUILDER BIRBS!!! With Mumei! \ud83e\udd89 #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6",
-      "duration": "PT4H36M14S",
-      "videoId": "xRbs0kntjmM"
-    },
-    {
       "member": "BOTAN",
       "publishedAt": "2021-09-28T06:37:09+00:00",
       "title": "\u3010Minecraft\u3011\u305d\u3089\u30c8\u30ec\u30a4\u30f3\u5546\u696d\u65bd\u8a2d\u306e\u6539\u7bc9\u3068\u30c6\u30ca\u30f3\u30c8\u3092\u52df\u96c6\u3057\u306b\u3044\u304f\u56de\u3010\u7345\u767d\u307c\u305f\u3093/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT2H24M1S",
       "videoId": "FiO1OWdTQBM"
+    },
+    {
+      "member": "AKI",
+      "publishedAt": "2021-09-28T17:48:26+00:00",
+      "title": "\u3010Minecraft\u3011\u30b2\u30ea\u30e9\uff01\u96d1\u8ac7\u3057\u306a\u304c\u3089\u30ec\u30d9\u30ea\u30f3\u30b0\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u30a2\u30ad\u30ed\u30bc\u3011",
+      "duration": "PT2H35M31S",
+      "videoId": "s6xC3ZEoOb0"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2021-09-28T19:21:30+00:00",
+      "title": "\u3010Minecraft\u3011\u30d3\u30fc\u30b3\u30f3\u3068\u304b\u8a00\u3046\u52b9\u7387\u6700\u5f37\u30aa\u30d0\u30b1\u3067\u9732\u5929\u6398\u308a\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT3H4M4S",
+      "videoId": "PhjYubpqbFQ"
+    },
+    {
+      "member": "NOEL",
+      "publishedAt": "2021-09-29T15:45:12+00:00",
+      "title": "\u3010Minecraft\u3011\u6df1\u591c\u306b\u4e45\u3005\u30de\u30a4\u30af\u30e9\u3055\u3093\u307d\uff01\uff01\u3010\u767d\u9280\u30ce\u30a8\u30eb/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT1H32M3S",
+      "videoId": "gzP7XtBSzD4"
+    },
+    {
+      "member": "ANYA",
+      "publishedAt": "2021-09-29T16:21:22+00:00",
+      "title": "\u3010Minecraft w/ Ollie\u3011Building a house... yes, house! Hmm, a house...?!\u3010hololiveID 2nd Generation\u3011",
+      "duration": "PT3H19M13S",
+      "videoId": "DuP9x9bbfDc"
     }
   ],
   "craftClips": [
@@ -53216,22 +53237,6 @@
     },
     {
       "sourceStreams": [
-        "xRbs0kntjmM"
-      ],
-      "title": "Mumei's loophole to swear on stream...",
-      "duration": "PT1M11S",
-      "videoId": "VFbNaeidT6I"
-    },
-    {
-      "sourceStreams": [
-        "xRbs0kntjmM"
-      ],
-      "title": "Hey Mumei... what colour are your \ud835\udcf9\ud835\udcea\ud835\udcf7\ud835\udcfd\ud835\udcf2\ud835\udcee\ud835\udcfc?",
-      "duration": "PT51S",
-      "videoId": "9YaHGWdkqzM"
-    },
-    {
-      "sourceStreams": [
         "0Ke0MGE1QeA"
       ],
       "title": "Choco REACTS to Roboco's Pharmacy Leaflet & Polka's Empty Gift in Minecraft \u3010ENG Sub Hololive\u3011",
@@ -53285,6 +53290,71 @@
       "title": "Subaru Bullied Even by God (Miko, Suisei, Towa) [Hololive/ENG Sub]",
       "duration": "PT5M8S",
       "videoId": "JKZLFXresJU"
+    },
+    {
+      "sourceStreams": [
+        "oUfLZNyMtxM",
+        "0Ke0MGE1QeA"
+      ],
+      "title": "Choco-sensei Talking About Why She Kept Dying When Polka and Flare Are Building Near HoloEN Portal",
+      "duration": "PT3M32S",
+      "videoId": "hnxbsA4XRrI"
+    },
+    {
+      "sourceStreams": [
+        "FiO1OWdTQBM"
+      ],
+      "title": "SSRB Said That Ahoge And Night Vision Are Shishiro Botan's Irreplacable Identity\u3010Hololive Eng Sub\u3011",
+      "duration": "PT2M48S",
+      "videoId": "3rwlv05_UJo"
+    },
+    {
+      "sourceStreams": [
+        "s6xC3ZEoOb0"
+      ],
+      "title": "Yagoo named Aki \"Aki Rosenthal\" after an anime character [Hololive/Eng sub]",
+      "duration": "PT1M5S",
+      "videoId": "yNM2WHNXxGs"
+    },
+    {
+      "sourceStreams": [
+        "FiO1OWdTQBM"
+      ],
+      "title": "Shishiro Botan Got Ninja Ed By Tokino Sora | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M7S",
+      "videoId": "tn_gCiyHgCE"
+    },
+    {
+      "sourceStreams": [
+        "0Ke0MGE1QeA"
+      ],
+      "title": "Yuzuki Choco Treat Pig Inhumane | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M46S",
+      "videoId": "eGXonttaNwo"
+    },
+    {
+      "sourceStreams": [
+        "FiO1OWdTQBM"
+      ],
+      "title": "Flare's Leg Cramping and She Makes Random Cute Noises [Hololive Daily Compilation]",
+      "duration": "PT5M31S",
+      "videoId": "0pmbYtU9dMU"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Subaru gets nervous just thinking about talking casually with Sora [Hololive/ENG Sub]",
+      "duration": "PT2M11S",
+      "videoId": "gLuqBctQWeg"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "A Very Understanding Mio Helps Solve Subaru's Troubles by Fortune Telling [Hololive/ENG Sub]",
+      "duration": "PT18M22S",
+      "videoId": "zOWi57pfDIk"
     }
   ]
 }
