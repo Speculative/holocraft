@@ -18825,6 +18825,55 @@
       "title": "\u3010Minecraft\u3011holoID Server Grand Opening Relay!!! Moona Time!!!\u3010#holoIDServerGORelay\u3011",
       "duration": "PT1H17M29S",
       "videoId": "9bP34QmHIKc"
+    },
+    {
+      "member": "WATAME",
+      "publishedAt": "2021-10-08T18:00:57+00:00",
+      "title": "\u3010Minecraft\u3011Let's gooooo to the EN server with Kiara\uff01\uff01\uff01\u3010\u89d2\u5dfb\u308f\u305f\u3081/\u30db\u30ed\u30e9\u30a4\u30d6\uff14\u671f\u751f\u3011",
+      "duration": "PT3H42M20S",
+      "videoId": "O5y8_MFpO9k"
+    },
+    {
+      "member": "KIARA",
+      "publishedAt": "2021-10-08T18:19:18+00:00",
+      "title": "\u3010MINECRAFT\u3011WELCOME WATAME SENPAI \ud83d\udc11\ud83d\udc96 #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6",
+      "duration": "PT3H40M22S",
+      "videoId": "WjKFhVZGBwM"
+    },
+    {
+      "member": "ROBOCO",
+      "publishedAt": "2021-10-09T07:58:08+00:00",
+      "title": "\u3010Minecraft\u3011\u305d\u3089\u3061\u3083\u3093\u306e\u30de\u30b0\u30de\u3067\u65b0\u305f\u306a\u96a0\u3057\u90e8\u5c4b\u3068\u96a0\u3057\u30b9\u30dd\u30c3\u30c8\u3092\u4f5c\u308a\u305f\u3044\u2728\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u30ed\u30dc\u5b50\u3055\u3093\u3011",
+      "duration": "PT2H40M7S",
+      "videoId": "vTg7t2w8Kdo"
+    },
+    {
+      "member": "INANIS",
+      "publishedAt": "2021-10-09T09:45:30+00:00",
+      "title": "\u3010Minecraft\u3011 Late Night Minecraft",
+      "duration": "PT3H29M9S",
+      "videoId": "uGC-aO-pUnA"
+    },
+    {
+      "member": "MIO",
+      "publishedAt": "2021-10-09T11:47:30+00:00",
+      "title": "\u3010\u30de\u30a4\u30af\u30e9\u3011\u304a\u5e97\u4f5c\u308a\uff01\u30d1\u30f3\u30d7\u30ad\u30f3\u30d1\u30a4cafe\u4f5c\u308b\u3088\uff5e\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u5927\u795e\u30df\u30aa\u3011",
+      "duration": "PT1H29M3S",
+      "videoId": "bz2DvqTmOms"
+    },
+    {
+      "member": "GURA",
+      "publishedAt": "2021-10-09T14:14:23+00:00",
+      "title": "[MINECRAFT] with Shion !",
+      "duration": "PT1H57M32S",
+      "videoId": "KrnKyWHTZg0"
+    },
+    {
+      "member": "SHION",
+      "publishedAt": "2021-10-09T14:17:48+00:00",
+      "title": "\u3010Minecraft\u3011\u30cf\u30d0\u5352English\u3067EN\u9bd6\u3078\uff01\uff01with Gura\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u7d2b\u54b2\u30b7\u30aa\u30f3\u3011",
+      "duration": "PT1H58M46S",
+      "videoId": "hpQmoB8xLKo"
     }
   ],
   "craftClips": [
@@ -55079,6 +55128,264 @@
       "title": "Subaru's Manager Cried Watching Her Live's Rehearsal, Subaru Makes a Cute Mistake [Hololive/ENG Sub]",
       "duration": "PT3M53S",
       "videoId": "J85-M3moVgg"
+    },
+    {
+      "sourceStreams": [
+        "hpQmoB8xLKo"
+      ],
+      "title": "Gura & Shion's Hilarious And Cute HoloEN Server Date Highlights\u3010Hololive | HoloEN | Eng Sub\u3011",
+      "duration": "PT8M40S",
+      "videoId": "i6qKdziU0WE"
+    },
+    {
+      "sourceStreams": [
+        "Viq5XCkB1lY"
+      ],
+      "title": "Ookami Mio Enjoys Doing Chicken Eggs Gacha [Hololive Clip]",
+      "duration": "PT2M22S",
+      "videoId": "pxQY1NACBq0"
+    },
+    {
+      "sourceStreams": [
+        "hpQmoB8xLKo",
+        "KrnKyWHTZg0"
+      ],
+      "title": "Shion and Gura's Date and Visit To HoloEN Server Through The New Portal\u3010Hololive English Sub\u3011",
+      "duration": "PT5M7S",
+      "videoId": "qdFeGUE-Pdg"
+    },
+    {
+      "sourceStreams": [
+        "O5y8_MFpO9k",
+        "WjKFhVZGBwM"
+      ],
+      "title": "Watame Visiting HoloEN Server Through The New Portal With Kiara As Her Guide\u3010Hololive English Sub\u3011",
+      "duration": "PT4M49S",
+      "videoId": "VNxm0nJDhXA"
+    },
+    {
+      "sourceStreams": [
+        "QRNqybLApVk",
+        "55pQnVpvnnA",
+        "eFVPWdNWDOM",
+        "PMdNeBp0QTs",
+        "6ieEzuCWFjs",
+        "9bP34QmHIKc"
+      ],
+      "title": "Hololive ID Members Building Jam Gadang/Clock Tower To Welcome Hololive JP & EN Members\u3010HololiveID\u3011",
+      "duration": "PT24M22S",
+      "videoId": "tI-l9zdp-00"
+    },
+    {
+      "sourceStreams": [
+        "D90jptI_ilE"
+      ],
+      "title": "Ina Gets Chased By Sora-chan After Getting Caught Photobombing The Group Picture \u3010ENG Sub/Hololive\u3011",
+      "duration": "PT57S",
+      "videoId": "4WN3XvDW10A"
+    },
+    {
+      "sourceStreams": [
+        "D90jptI_ilE"
+      ],
+      "title": "Sora Tries To Copy Gura's \"A\" and Ends Up Making Cute Noises \u3010ENG Sub/Hololive\u3011",
+      "duration": "PT32S",
+      "videoId": "HWOo_NcJVL8"
+    },
+    {
+      "sourceStreams": [
+        "O5y8_MFpO9k",
+        "WjKFhVZGBwM"
+      ],
+      "title": "Kiara Kisses Watame \u3010ENG Sub/Hololive\u3011",
+      "duration": "PT1M2S",
+      "videoId": "QbJs-FXfWr4"
+    },
+    {
+      "sourceStreams": [
+        "O5y8_MFpO9k",
+        "WjKFhVZGBwM"
+      ],
+      "title": "Kiara Teaches Watame A Cultured English Word \u3010ENG Sub/Hololive\u3011",
+      "duration": "PT57S",
+      "videoId": "NYiqwDkZXFk"
+    },
+    {
+      "sourceStreams": [
+        "O5y8_MFpO9k"
+      ],
+      "title": "Watame & Kiara REACT to Gura's SECRET GARDEN in Minecraft EN Server \u3010ENG Sub Hololive\u3011",
+      "duration": "PT2M3S",
+      "videoId": "8yLT0DQ75bM"
+    },
+    {
+      "sourceStreams": [
+        "hpQmoB8xLKo"
+      ],
+      "title": "Shion gets very excited seeing Giant ID&EN boing boing girls [Hololive/Eng sub]",
+      "duration": "PT1M8S",
+      "videoId": "pMPWdDj0p9g"
+    },
+    {
+      "sourceStreams": [
+        "hpQmoB8xLKo"
+      ],
+      "title": "Gura tells Shion that she's scared of Pekora [Hololive/Eng sub]",
+      "duration": "PT47S",
+      "videoId": "SG4yUtUn7xc"
+    },
+    {
+      "sourceStreams": [
+        "hpQmoB8xLKo"
+      ],
+      "title": "Gura and Shion tell their pantsu colour each other [Hololive/Eng sub]",
+      "duration": "PT2M3S",
+      "videoId": "xUwmxeDn2l4"
+    },
+    {
+      "sourceStreams": [
+        "hpQmoB8xLKo"
+      ],
+      "title": "Gura mentions \"TKB\" (nipple) in front of Shion [Hololive/Eng sub]",
+      "duration": "PT56S",
+      "videoId": "kvahDKUSaW8"
+    },
+    {
+      "sourceStreams": [
+        "hpQmoB8xLKo"
+      ],
+      "title": "Shion roasts Gura for not being boing boing after seeing Amelia's giant boobs [Hololive/Eng sub]",
+      "duration": "PT1M13S",
+      "videoId": "z7MQWE0B1cI"
+    },
+    {
+      "sourceStreams": [
+        "hpQmoB8xLKo"
+      ],
+      "title": "Shion teaches a weird Japanese word to Gura [Hololive/Eng sub]",
+      "duration": "PT1M38S",
+      "videoId": "aeZi3QGeGVI"
+    },
+    {
+      "sourceStreams": [
+        "hpQmoB8xLKo"
+      ],
+      "title": "Gura gets sad after knowing Gura and Shion are not married anymore [Hololive/Eng sub]",
+      "duration": "PT1M28S",
+      "videoId": "6IcokIQJ4ts"
+    },
+    {
+      "sourceStreams": [
+        "OqpeRJrY2BE"
+      ],
+      "title": "The reason why Kanata put a watermelon instead of putting a dirt block in Bae's house[Hololive]",
+      "duration": "PT1M27S",
+      "videoId": "wiyeW5i984Q"
+    },
+    {
+      "sourceStreams": [
+        "O5y8_MFpO9k"
+      ],
+      "title": "Kiara and Watame find themselves in Gura's secret garden [Hololive/Eng sub]",
+      "duration": "PT1M31S",
+      "videoId": "aOKk8wq_hak"
+    },
+    {
+      "sourceStreams": [
+        "O5y8_MFpO9k"
+      ],
+      "title": "Kiara and Watame can't stop suspecting after seeing a Polar bear that looks like a sheep [Hololive]",
+      "duration": "PT1M6S",
+      "videoId": "lPGY-6RMXzY"
+    },
+    {
+      "sourceStreams": [
+        "O5y8_MFpO9k"
+      ],
+      "title": "Watame surprises Kiara by trying to kill KFP friends [Hololive/Eng sub]",
+      "duration": "PT1M1S",
+      "videoId": "rbh59R6TRwA"
+    },
+    {
+      "sourceStreams": [
+        "O5y8_MFpO9k"
+      ],
+      "title": "Watame finds Amelia's giant boobs while taking a bath [Hololive/Eng sub]",
+      "duration": "PT31S",
+      "videoId": "x-GHZZ2qtc0"
+    },
+    {
+      "sourceStreams": [
+        "O5y8_MFpO9k"
+      ],
+      "title": "Watame finds Botan's \"Menya Botan\" poster in Sana's bakery [Hololive/Eng sub]",
+      "duration": "PT1M14S",
+      "videoId": "9ebzdpGd_Vc"
+    },
+    {
+      "sourceStreams": [
+        "O5y8_MFpO9k"
+      ],
+      "title": "Kiara shows Amelia's tennis racket to Watame [Hololive/Eng sub]",
+      "duration": "PT33S",
+      "videoId": "6J9rITvHmMQ"
+    },
+    {
+      "sourceStreams": [
+        "O5y8_MFpO9k"
+      ],
+      "title": "Watame gets very excited seeing Giant ID&EN boing boing girls' panties [Hololive/Eng sub]",
+      "duration": "PT1M1S",
+      "videoId": "96Fpvj4VWaM"
+    },
+    {
+      "sourceStreams": [
+        "D90jptI_ilE"
+      ],
+      "title": "Tokino Sora Does Gura \"A\" | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT32S",
+      "videoId": "HPSLDzaE928"
+    },
+    {
+      "sourceStreams": [
+        "D90jptI_ilE"
+      ],
+      "title": "Tokino Sora Trapped Between Ina'Nis And Hakos Little Fight | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M8S",
+      "videoId": "FUMG7CoswWo"
+    },
+    {
+      "sourceStreams": [
+        "D90jptI_ilE"
+      ],
+      "title": "Tsundere Ina'Nis Salm Door At Tokino Sora and Fly Away | Minecraft[Hololive/Eng Sub]",
+      "duration": "PT1M22S",
+      "videoId": "_7JzSBSYGqQ"
+    },
+    {
+      "sourceStreams": [
+        "O5y8_MFpO9k"
+      ],
+      "title": "Watame and Kiara Having Butt Talk Thanks To Coco | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M29S",
+      "videoId": "rWZ47aVtkHE"
+    },
+    {
+      "sourceStreams": [
+        "wY4ptBSga5Y",
+        "O5y8_MFpO9k"
+      ],
+      "title": "Towa Botan Bazooka'd, Mio Greedy, Roboco Trapped, Akirose Cat Ears, Pekoral, Watame Kiara Creepers",
+      "duration": "PT4M35S",
+      "videoId": "D94hVL20dRw"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Subaru prepares emotional message in Japanese and English as gratitude to her fans [Hololive/EN Sub]",
+      "duration": "PT2M56S",
+      "videoId": "-0SmdYpio-A"
     }
   ]
 }
