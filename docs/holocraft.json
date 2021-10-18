@@ -19182,6 +19182,27 @@
       "title": "\u3010\u30de\u30a4\u30f3\u30af\u30e9\u30d5\u30c8/Minecraft\u3011\u4e8b\u52d9\u6240\u5468\u308a\u3092\u307e\u3063\u305f\u308a\u5efa\u7bc9\u3010\u4e0d\u77e5\u706b\u30d5\u30ec\u30a2/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT3H27M23S",
       "videoId": "nBFnKtumljQ"
+    },
+    {
+      "member": "LAMY",
+      "publishedAt": "2021-10-18T05:08:55+00:00",
+      "title": "\u3010Minecraft\u3011\u306a\u3044\u3057\u3087\u306e\u30de\u30a4\u30f3\u30af\u30e9\u30d5\u30c8\u3010\u96ea\u82b1\u30e9\u30df\u30a3/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT4H47M5S",
+      "videoId": "nzFreV-uYn8"
+    },
+    {
+      "member": "NENE",
+      "publishedAt": "2021-10-18T14:14:13+00:00",
+      "title": "\u3010Minecraft\u3011\ud83c\udf51\u5168\u8eab\u9ebb\u9154\u5f8c\u306b\u30de\u30a4\u30af\u30e9\u3092\u30ad\u30e1\u308b\ud83c\udf51 \u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u6843\u9234\u306d\u306d/ #\u306d\u306d\u3044\u308d\u3089\u3044\u3076\u3011",
+      "duration": "PT1H57M4S",
+      "videoId": "yp0iS7Dfoxs"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2021-10-18T16:20:17+00:00",
+      "title": "\u3010Minecraft\u3011\u5929\u771f\u6751\u30be\u30f3\u30d3\u6e67\u304d\u904e\u304e\u3066\u4e0d\u5b89\u3088\u306a\u3001\u30a2\u30e9\u30f3\u52d5\u304d\u307e\u3059\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT3H6M59S",
+      "videoId": "DS5aQyT0-nY"
     }
   ],
   "craftClips": [
@@ -57505,6 +57526,55 @@
       "title": "[Hololive EN] Ouro Kronii - Fauna's First Day At Work (feat. Ina) (English/Espa\u00f1ol [CC])",
       "duration": "PT48M23S",
       "videoId": "HcrcZpcY2q8"
+    },
+    {
+      "sourceStreams": [
+        "nzFreV-uYn8"
+      ],
+      "title": "Dream Collab - Lamy Will Do ASMR Collab Together With Choco-sensei and Noel Danchou \u3010Hololive Eng\u3011",
+      "duration": "PT3M45S",
+      "videoId": "EYzbohYRvsA"
+    },
+    {
+      "sourceStreams": [
+        "DNw6_PnB2cI",
+        "NAxtSq43EtQ"
+      ],
+      "title": "Iofi Introducing Watame to Indonesian Dishes & Similar Food That Can Be Found in Japan\u3010Hololive En\u3011",
+      "duration": "PT4M41S",
+      "videoId": "aaW8uRuAV8k"
+    },
+    {
+      "sourceStreams": [
+        "nBFnKtumljQ"
+      ],
+      "title": "Flare's Reaction Is Just Too Cute After Elfriend Tease Her ShiraKen's Pool\u3010Hololive Eng Sub\u3011",
+      "duration": "PT2M43S",
+      "videoId": "zs2AqevPktU"
+    },
+    {
+      "sourceStreams": [
+        "DNw6_PnB2cI"
+      ],
+      "title": "Watame informed Amelia about she placed \"Ubersheep\" poster on Giant Amelia's Statue [Hololive]",
+      "duration": "PT57S",
+      "videoId": "XYGu-nnyX2s"
+    },
+    {
+      "sourceStreams": [
+        "1U8NQi-ScGE"
+      ],
+      "title": "Shiranui Flare Betray Elfriend In Matter Of Second | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M7S",
+      "videoId": "gIlAX2Mga_0"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Subaru now understands why Korone fangirls over Okayu [Hololive/ENG Sub]",
+      "duration": "PT2M55S",
+      "videoId": "OG_EAg08Jgw"
     }
   ]
 }
