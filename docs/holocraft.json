@@ -19203,6 +19203,41 @@
       "title": "\u3010Minecraft\u3011\u5929\u771f\u6751\u30be\u30f3\u30d3\u6e67\u304d\u904e\u304e\u3066\u4e0d\u5b89\u3088\u306a\u3001\u30a2\u30e9\u30f3\u52d5\u304d\u307e\u3059\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
       "duration": "PT3H6M59S",
       "videoId": "DS5aQyT0-nY"
+    },
+    {
+      "member": "OLLIE",
+      "publishedAt": "2021-10-18T18:00:34+00:00",
+      "title": "\u3010MINECRAFT\u3011LET'S PUT MORE STUFFS IN THE SERVER!!\u3010Hololive Indonesia 2nd Gen\u3011",
+      "duration": "PT3H8M6S",
+      "videoId": "YsfoNV356TU"
+    },
+    {
+      "member": "FLARE",
+      "publishedAt": "2021-10-18T18:42:19+00:00",
+      "title": "\u3010\u30de\u30a4\u30f3\u30af\u30e9\u30d5\u30c8/Minecraft\u3011\u6d77\u5e95\u795e\u6bbf\u306b\u884c\u304d\u305f\u3044\u3089\u3057\u3044\u3010\u4e0d\u77e5\u706b\u30d5\u30ec\u30a2/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT3H1M15S",
+      "videoId": "XR7Auk7Fq_A"
+    },
+    {
+      "member": "POLKA",
+      "publishedAt": "2021-10-18T18:48:57+00:00",
+      "title": "\u3010Minecraft\u3011\u30a2\u30d7\u30c7\u898b\u3066\u305f\u3089\u5efa\u7bc9\u6b32\u304c\u308f\u3044\u305f\u306e\u3055\u3010\u5c3e\u4e38\u30dd\u30eb\u30ab/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT4H28M6S",
+      "videoId": "d5n2OatAZUs"
+    },
+    {
+      "member": "SHION",
+      "publishedAt": "2021-10-18T19:09:49+00:00",
+      "title": "\u3010Minecraft\u3011\u3044\u3063\u3071\u3044\u30de\u30a4\u30af\u30e9\u697d\u3057\u3080\u305e\u304a\u304a\u304a\uff01\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u7d2b\u54b2\u30b7\u30aa\u30f3\u3011",
+      "duration": "PT3H50M28S",
+      "videoId": "6K18fp_EaVo"
+    },
+    {
+      "member": "SORA",
+      "publishedAt": "2021-10-19T15:57:56+00:00",
+      "title": "\u3010Minecraft\u3011\u505c\u8eca\u99c5\u306e\u5834\u6240\u6c7a\u3081\u3088\uff01\u3010#\u3068\u304d\u306e\u305d\u3089\u751f\u653e\u9001\u3011",
+      "duration": "PT2H36M52S",
+      "videoId": "I97qcf22iUM"
     }
   ],
   "craftClips": [
@@ -57575,6 +57610,129 @@
       "title": "Subaru now understands why Korone fangirls over Okayu [Hololive/ENG Sub]",
       "duration": "PT2M55S",
       "videoId": "OG_EAg08Jgw"
+    },
+    {
+      "sourceStreams": [
+        "yp0iS7Dfoxs"
+      ],
+      "title": "Nene Tried Fighting Against General Anesthesia But...\u3010Hololive | Eng Sub\u3011",
+      "duration": "PT2M20S",
+      "videoId": "uE-u_SG7TYI"
+    },
+    {
+      "sourceStreams": [
+        "d5n2OatAZUs",
+        "XR7Auk7Fq_A"
+      ],
+      "title": "Polka Is Worried About Recent 'Holo no Graffiti' Episodes \u3010ENG Sub/Hololive\u3011",
+      "duration": "PT1M23S",
+      "videoId": "Av799GnIGUY"
+    },
+    {
+      "sourceStreams": [
+        "d5n2OatAZUs",
+        "XR7Auk7Fq_A"
+      ],
+      "title": "Flare and Polka Can't Help Laughing At Kanata's Face On Botan's Sniper Rifle \u3010ENG Sub/Hololive\u3011",
+      "duration": "PT34S",
+      "videoId": "QH6JU_nxzVI"
+    },
+    {
+      "sourceStreams": [
+        "yp0iS7Dfoxs"
+      ],
+      "title": "Nene apologizes to Elytra after her life gets saved by Elytra [Hololive/Eng sub]",
+      "duration": "PT46S",
+      "videoId": "ScCqJ0S29A4"
+    },
+    {
+      "sourceStreams": [
+        "d5n2OatAZUs"
+      ],
+      "title": "Polka got a sweet present from Kronii [Hololive/Eng sub]",
+      "duration": "PT33S",
+      "videoId": "jA8Zr-8uHAg"
+    },
+    {
+      "sourceStreams": [
+        "6K18fp_EaVo",
+        "XR7Auk7Fq_A"
+      ],
+      "title": "Polka and Flare imagine Shion's reaction after seeing Shion dying because of berries  [Hololiveb]",
+      "duration": "PT1M14S",
+      "videoId": "Ol774KuXS14"
+    },
+    {
+      "sourceStreams": [
+        "6K18fp_EaVo"
+      ],
+      "title": "Shion becomes a victim of Pekora's Tofu [Hololive/Eng sub]",
+      "duration": "PT1M32S",
+      "videoId": "xyLYbEqmOLg"
+    },
+    {
+      "sourceStreams": [
+        "6K18fp_EaVo"
+      ],
+      "title": "Shion prepares wonderful presents to surprise Pekora [Hololive/Eng sub]",
+      "duration": "PT2M9S",
+      "videoId": "-4Qp0EUTBrw"
+    },
+    {
+      "sourceStreams": [
+        "6K18fp_EaVo"
+      ],
+      "title": "Shion finds Usaken's message about applying for interview [Hololive/Eng sub]",
+      "duration": "PT1M45S",
+      "videoId": "03EFu2RzVGw"
+    },
+    {
+      "sourceStreams": [
+        "XR7Auk7Fq_A"
+      ],
+      "title": "Shiranui Flare Is Confused By Polka Song | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT59S",
+      "videoId": "lrZoe9-ACBs"
+    },
+    {
+      "sourceStreams": [
+        "XR7Auk7Fq_A"
+      ],
+      "title": "Shiranui Flare Cant Stop Laughing at Polka Behaviour | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M7S",
+      "videoId": "Ca_vuQaRI14"
+    },
+    {
+      "sourceStreams": [
+        "XR7Auk7Fq_A"
+      ],
+      "title": "Shiranui Flare Loves To Tease Her Teammate | Fubuki Watame [Hololive/Eng Sub]",
+      "duration": "PT1M10S",
+      "videoId": "yWPFe93ZBgc"
+    },
+    {
+      "sourceStreams": [
+        "yp0iS7Dfoxs"
+      ],
+      "title": "Momosuzu Nene Saw Polka Weapon For The First Time | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M6S",
+      "videoId": "M8ZIaqtddMY"
+    },
+    {
+      "sourceStreams": [
+        "yp0iS7Dfoxs"
+      ],
+      "title": "Pekora's homepage hacked by YAGOO, Lamy betrayed, Korone \"WAKE UP!\", Nene and Polka's new weapon",
+      "duration": "PT3M57S",
+      "videoId": "eAgm-Pi5BUo"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Subaru threatens Reine to be her mom ft Kiara [Hololive/ENG Sub]",
+      "duration": "PT1M43S",
+      "videoId": "FdoRBToRtc0"
     }
   ]
 }
