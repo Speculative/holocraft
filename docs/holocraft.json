@@ -19420,6 +19420,20 @@
       "title": "\u3010 Minecraft \u3011\u30db\u30ed\u30e9\u30a4\u30d6\u5927\u904b\u52d5\u4f1a2021 \u4f01\u753b\u306f\u3063\u3074\u3087\uff5e\uff5e\uff5e\uff5e\uff01\uff01\uff01\uff01\ud83c\udff3 hololive Sports festival 2021\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3055\u304f\u3089\u307f\u3053\u3011",
       "duration": "PT1H22M7S",
       "videoId": "xKcZk7TYmnY"
+    },
+    {
+      "member": "INANIS",
+      "publishedAt": "2021-10-25T14:53:58+00:00",
+      "title": "\u3010Minecraft\u3011 EN Server Tour with Matsuri-senpai!",
+      "duration": "PT1H45M26S",
+      "videoId": "K4wmf_Sft18"
+    },
+    {
+      "member": "MATSURI",
+      "publishedAt": "2021-10-25T15:02:55+00:00",
+      "title": "\u3010Minecraft\u3011EN\u9bd6\u89b3\u5149\u3055\u305b\u3066\u304f\u308c\u306a\u3044\u304b\uff01\uff1f\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u590f\u8272\u307e\u3064\u308a\u3011",
+      "duration": "PT1H46M31S",
+      "videoId": "2ME9XiBcXgg"
     }
   ],
   "craftClips": [
@@ -58725,6 +58739,71 @@
       "title": "[Hololive EN] Kiara & Ina - Mesa, Mushroom Island & Milky Mouse (English/Espa\u00f1ol [CC])",
       "duration": "PT25M36S",
       "videoId": "SgmPC9WtSkc"
+    },
+    {
+      "sourceStreams": [
+        "K4wmf_Sft18",
+        "2ME9XiBcXgg"
+      ],
+      "title": "Matsuri Offers Ina Some Yabai \"PP\" Water \u3010ENG Sub/Hololive\u3011",
+      "duration": "PT1M22S",
+      "videoId": "DLmpF0H1apE"
+    },
+    {
+      "sourceStreams": [
+        "2ME9XiBcXgg"
+      ],
+      "title": "Matsuri & Ina's Date: Things Escalated FAST At Gura's Secret Date Spot - Minecraft ENG Sub Hololive",
+      "duration": "PT2M25S",
+      "videoId": "ayBANdrqKKc"
+    },
+    {
+      "sourceStreams": [
+        "2ME9XiBcXgg"
+      ],
+      "title": "Matsuri teaches the meaning of \"Gura X Shion membrane\" but Ina doesn't get it [Hololive/Eng sub]",
+      "duration": "PT1M10S",
+      "videoId": "_zthDjol-N4"
+    },
+    {
+      "sourceStreams": [
+        "xKcZk7TYmnY"
+      ],
+      "title": "Mio learns that Amelia is Miko's favorite member [Hololive/Eng sub]",
+      "duration": "PT54S",
+      "videoId": "JrZnl4XAeos"
+    },
+    {
+      "sourceStreams": [
+        "xKcZk7TYmnY"
+      ],
+      "title": "Ookami Mio Taste Sakura Miko Elite Curse  | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M19S",
+      "videoId": "yNqnIFTVgY8"
+    },
+    {
+      "sourceStreams": [
+        "n6ec1T74ANo"
+      ],
+      "title": "Shiranui Flare Loves TNT So Much She Died | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M16S",
+      "videoId": "hlyuWq5HyJ0"
+    },
+    {
+      "sourceStreams": [
+        "n6ec1T74ANo"
+      ],
+      "title": "Shiranui Flare Did Nothing Wrong | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M3S",
+      "videoId": "EMbVFnD5wbc"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "\"Soundproof rooms are too weak\" - Oozora Subaru [Hololive/ENG Sub]",
+      "duration": "PT3M57S",
+      "videoId": "RmKNqqAdH3M"
     }
   ]
 }
