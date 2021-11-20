@@ -20344,6 +20344,27 @@
       "title": "\u3010\u30de\u30a4\u30f3\u30af\u30e9\u30d5\u30c8/Minecraft\u3011\u305d\u3089\u5148\u8f29\u306e\u304a\u624b\u4f1d\u3044\uff01\u30bd\u30e9\u30ea\u30a8\u5efa\u7bc9\uff01\u3010\u4e0d\u77e5\u706b\u30d5\u30ec\u30a2/\u3068\u304d\u306e\u305d\u3089/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT2H54M43S",
       "videoId": "2S0BZnnEtIE"
+    },
+    {
+      "member": "SORA",
+      "publishedAt": "2021-11-19T16:40:24+00:00",
+      "title": "\u3010Minecraft\u3011\u30d5\u30ec\u305d\u3089\u30de\u30a4\u30f3\u30af\u30e9\u30d5\u30c8\uff5e\u30bd\u30e9\u30ea\u30a8\u7de8\uff5e\u3010\u3068\u304d\u306e\u305d\u3089/\u4e0d\u77e5\u706b\u30d5\u30ec\u30a2/#\u305d\u3089\u30d5\u30ec\u30de\u30a4\u30af\u30e9\u3011",
+      "duration": "PT2H52M38S",
+      "videoId": "SqdUIwHAzsY"
+    },
+    {
+      "member": "SORA",
+      "publishedAt": "2021-11-20T07:47:08+00:00",
+      "title": "\u3010Minecraft\u3011\u4e45\u3005\u306e\u305d\u3089\u3042\u305a\u30de\u30a4\u30af\u30e9\u3067\u304a\u6563\u6b69\u266a\u3010#SorAZ/#\u3068\u304d\u306e\u305d\u3089\u751f\u653e\u9001\u3011",
+      "duration": "PT3H13M8S",
+      "videoId": "AVcROjFuDTI"
+    },
+    {
+      "member": "MARINE",
+      "publishedAt": "2021-11-20T15:22:30+00:00",
+      "title": "\u3010Minecraft\u3011\u307a\u3053\u3089\u3093\u3069\u3078\u884c\u3053\u3046\u307a\u3053\uff01\uff01\uff01\uff01\uff01\uff01\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u5b9d\u9418\u30de\u30ea\u30f3\u3011",
+      "duration": "PT2H3M44S",
+      "videoId": "api3TQpw-jU"
     }
   ],
   "craftClips": [
@@ -63635,6 +63656,154 @@
       "title": "Subaru tells Mio about the true state of rural roads [Hololive/ENG Sub]",
       "duration": "PT2M17S",
       "videoId": "NHs7fxkkQws"
+    },
+    {
+      "sourceStreams": [
+        "api3TQpw-jU"
+      ],
+      "title": "Marine Teaches Pekora \"Dope, Based, Super Lit\" Slang That She Learned From Calli\u3010Hololive | Eng Sub\u3011",
+      "duration": "PT1M40S",
+      "videoId": "feQHNqzDcfI"
+    },
+    {
+      "sourceStreams": [
+        "E53D9tfVi4E"
+      ],
+      "title": "Pekora Tells An Off-Stream Story About Her and Marine's Minecraft OneBlock Collab\u3010Hololive Eng Sub\u3011",
+      "duration": "PT2M40S",
+      "videoId": "6-CmdUirSK8"
+    },
+    {
+      "sourceStreams": [
+        "E8vCKu4apZ0"
+      ],
+      "title": "Sui-chan Didn't Know About the YAGOO Pixel Art made by Coco \u3010Hololive English Sub\u3011",
+      "duration": "PT1M13S",
+      "videoId": "04NLz1zrb3M"
+    },
+    {
+      "sourceStreams": [
+        "AVcROjFuDTI"
+      ],
+      "title": "Sora Shows Her Basement Full Of Bombs To Azki - Minecraft \u3010ENG Sub Hololive\u3011",
+      "duration": "PT1M41S",
+      "videoId": "62Fdhci8NfI"
+    },
+    {
+      "sourceStreams": [
+        "2S0BZnnEtIE",
+        "SqdUIwHAzsY"
+      ],
+      "title": "Flare Tells Sora About A-Chan's Buildings On Holoserver - Minecraft \u3010ENG Sub Hololive\u3011",
+      "duration": "PT1M4S",
+      "videoId": "9I5QQJ8mZg4"
+    },
+    {
+      "sourceStreams": [
+        "api3TQpw-jU"
+      ],
+      "title": "Marine keeps dying at Bed Trap in the Pekoland [Hololive/Eng sub]",
+      "duration": "PT2M",
+      "videoId": "nWmBK-0hcWo"
+    },
+    {
+      "sourceStreams": [
+        "api3TQpw-jU"
+      ],
+      "title": "Marine teaches the English phrase that she learned from Calli to Pekora [Hololive/Eng sub]",
+      "duration": "PT1M2S",
+      "videoId": "u21BSbQU_IY"
+    },
+    {
+      "sourceStreams": [
+        "api3TQpw-jU"
+      ],
+      "title": "Marine becomes a victim of Pekoland Trap [Hololive/Eng sub]",
+      "duration": "PT1M7S",
+      "videoId": "6Ij7YWb0N7g"
+    },
+    {
+      "sourceStreams": [
+        "2S0BZnnEtIE"
+      ],
+      "title": "Flare tells the meaning of \"Suichan is always small\" to Sora [Hololive/Eng sub]",
+      "duration": "PT1M6S",
+      "videoId": "MdPNW84JLBo"
+    },
+    {
+      "sourceStreams": [
+        "2S0BZnnEtIE"
+      ],
+      "title": "Flare and Sora find Gura's Monument [Hololive/Eng sub]",
+      "duration": "PT55S",
+      "videoId": "oqcfksGnn7A"
+    },
+    {
+      "sourceStreams": [
+        "2S0BZnnEtIE"
+      ],
+      "title": "Tokino Sora Understand Flare's Bikuripa Reference | Minecraft  [Hololive/Eng Sub]",
+      "duration": "PT1M5S",
+      "videoId": "J9r90wF_xyQ"
+    },
+    {
+      "sourceStreams": [
+        "2S0BZnnEtIE"
+      ],
+      "title": "Tokino Sora Show Her Dungeon To Shiranui Flare | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT56S",
+      "videoId": "me4E1PziCfY"
+    },
+    {
+      "sourceStreams": [
+        "2S0BZnnEtIE"
+      ],
+      "title": "Tokino Sora Think She's Not Famous | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT59S",
+      "videoId": "i11Tg7ZrU3o"
+    },
+    {
+      "sourceStreams": [
+        "2S0BZnnEtIE"
+      ],
+      "title": "Tokino Sora Make a Shocking Confession To Shiranui Flare | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M1S",
+      "videoId": "r6njmuJMYYo"
+    },
+    {
+      "sourceStreams": [
+        "Ic9g5tSZBE8",
+        "SqdUIwHAzsY"
+      ],
+      "title": "Rushia's Dad Joke Virus is Spreading",
+      "duration": "PT1M26S",
+      "videoId": "Nk2M4oifz6A"
+    },
+    {
+      "sourceStreams": [
+        "M76aR8gSC7I"
+      ],
+      "title": "Luna Cute Insult, Pekora Keeps Falling, Mel and Sus Korone, Towa Trash Talk",
+      "duration": "PT4M34S",
+      "videoId": "Tzr4PkPGo5U"
+    },
+    {
+      "sourceStreams": [
+        "NxH1sOCCpV4",
+        "qFYS43HzkbA",
+        "M1oMEOXWR1I",
+        "i9HuyYjUphM",
+        "tRrnghPJhVM",
+        "BBxqxNLChGk",
+        "7ZoPFNRDERA",
+        "cbfSlGJ6sAw",
+        "ldUNpeF2cuE",
+        "QF4coiP2xIs",
+        "QLXTlOhmVO0"
+      ],
+      "title": "[Hololive EN] Calli & Kiara - TakaMori \ud835\udc04\ud835\udc0b\ud835\udc18\ud835\udc13\ud835\udc11\ud835\udc00 Journey (English/Espa\u00f1ol [CC])",
+      "duration": "PT29M32S",
+      "videoId": "8_n7oq5m4TQ"
     }
   ]
 }
