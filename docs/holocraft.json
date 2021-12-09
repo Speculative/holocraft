@@ -20687,6 +20687,34 @@
       "title": "\u3010Minecraft One Block\u3011\u6c17\u3065\u3044\u305f\u3089\u305d\u3053\u305d\u3053\u5e83\u304f\u306a\u3063\u3066\u304d\u305f #2\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
       "duration": "PT3H5M34S",
       "videoId": "AYis47gTQJo"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2021-12-08T17:34:39+00:00",
+      "title": "\u3010Minecraft One Block\u3011\u82e6\u96e3\u3092\u4e57\u308a\u8d8a\u3048\u6d77\u304c\u3067\u304d\u305f #3\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT2H57M44S",
+      "videoId": "9Anx4C5OMVs"
+    },
+    {
+      "member": "ASTEL",
+      "publishedAt": "2021-12-09T10:31:39+00:00",
+      "title": "\u3010Minecraft Disney\u3011\u30aa\u30bf\u30af\u541b\u306e\u65e5\u5e38\u3002\u30bd\u30ed\u7de8 / \u30a2\u30b9\u30c6\u30eb",
+      "duration": "PT1H11M43S",
+      "videoId": "A0_iocueJEY"
+    },
+    {
+      "member": "CHOCO",
+      "publishedAt": "2021-12-09T11:05:56+00:00",
+      "title": "\u3010Minecraft\u3011\u5fa9\u6d3b\u3057\u305f\u3044\u60aa\u9b54\u306e\u30ec\u30d9\u30ea\u30f3\u30b0\u30de\u30a4\u30af\u30e9\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u7652\u6708\u3061\u3087\u3053\u3011",
+      "duration": "PT1H26M54S",
+      "videoId": "IRiCyiP9pPE"
+    },
+    {
+      "member": "MIKO",
+      "publishedAt": "2021-12-09T14:56:37+00:00",
+      "title": "\u3010 Minecraft \u3011\u65b0\u4eba\u306e\u9762\u63a5\u4f1a\u304c\u3082\u3046\u3059\u3050\u3042\u308b\u3089\u3057\u3044\u306b\u3047\ud83d\ude0e\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3055\u304f\u3089\u307f\u3053\u3011",
+      "duration": "PT4H25M40S",
+      "videoId": "bwpHokqMhrc"
     }
   ],
   "craftClips": [
@@ -65141,6 +65169,30 @@
       "title": "Koyori avoids being caught by Oozora Subaru police after saying she wants to touch girls [Hololive]",
       "duration": "PT3M2S",
       "videoId": "v1FnpMMyz4I"
+    },
+    {
+      "sourceStreams": [
+        "bwpHokqMhrc"
+      ],
+      "title": "Miko Can't Stop Laughing While Imitating Chloe & Iroha \u3010Hololive | Eng Sub\u3011",
+      "duration": "PT1M5S",
+      "videoId": "y1uvkX2N8P4"
+    },
+    {
+      "sourceStreams": [
+        "bwpHokqMhrc"
+      ],
+      "title": "Miko imitates Subaru getting choked by Mio [Hololive/Eng sub]",
+      "duration": "PT2M5S",
+      "videoId": "yYUUG4bDGE4"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Botan becomes \"Bad at Voice Imitation King\", but then... [Hololive/ENG Sub]",
+      "duration": "PT3M54S",
+      "videoId": "KQyxM3f3kRo"
     }
   ]
 }
