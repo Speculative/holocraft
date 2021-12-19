@@ -47,38 +47,47 @@ def update_source_streams(youtube: api.Resource, data: HolocraftData):
     all_stream_ids = set(data.craft_streams.keys())
     seen_stream_ids = set()
     for member_name, member_info in data.members.items():
-        print("Processing member channel:", member_name)
-        dirty = False
-        member_channel_id = member_info.channel_id
-        upload_playlist_id = data.upload_playlists[member_channel_id]
-        if member_channel_id not in data.seen_videos:
-            data.seen_videos[member_channel_id] = set()
+        try:
+            print("Processing member channel:", member_name)
+            dirty = False
+            member_channel_id = member_info.channel_id
+            upload_playlist_id = data.upload_playlists[member_channel_id]
+            if member_channel_id not in data.seen_videos:
+                data.seen_videos[member_channel_id] = set()
 
-        for playlist_item in playlist_videos(youtube, upload_playlist_id):
-            snippet = playlist_item.snippet
-            content_details = playlist_item.contentDetails
+            for playlist_item in playlist_videos(youtube, upload_playlist_id):
+                snippet = playlist_item.snippet
+                content_details = playlist_item.contentDetails
 
-            video_id = playlist_item.id
-            seen_stream_ids.add(video_id)
+                video_id = playlist_item.id
+                seen_stream_ids.add(video_id)
 
-            if video_id not in data.seen_videos[member_channel_id]:
-                dirty = True
-                if is_minecraft_video(playlist_item):
-                    print(f"{video_id}: {snippet.channelTitle} - {snippet.title}")
-                    # Add this source stream to the holocraft database
-                    data.craft_streams[video_id] = HolocraftStream(
-                        member=member_name,
-                        published_at=snippet.publishedAt,
-                        title=snippet.title,
-                        duration=content_details.duration,
-                    )
+                if video_id not in data.seen_videos[member_channel_id]:
+                    dirty = True
+                    if is_minecraft_video(playlist_item):
+                        print(f"{video_id}: {snippet.channelTitle} - {snippet.title}")
+                        # Add this source stream to the holocraft database
+                        data.craft_streams[video_id] = HolocraftStream(
+                            member=member_name,
+                            published_at=snippet.publishedAt,
+                            title=snippet.title,
+                            duration=content_details.duration,
+                        )
 
-                # Mark this video as seen so we don't process it again
-                data.seen_videos[member_channel_id].add(video_id)
+                    # Mark this video as seen so we don't process it again
+                    data.seen_videos[member_channel_id].add(video_id)
 
-        # Checkpoint the data to disk after each channel
-        if dirty:
-            write_data(data)
+            # Checkpoint the data to disk after each channel
+            if dirty:
+                write_data(data)
+        except Exception as e:
+            print(f"Failed to process streams for {member_name}:", e)
+            # This is _probably_ a transient error, so let's not delete all of the member's streams
+            seen_stream_ids.update(
+                streamId
+                for streamId, streamDetails in data.craft_streams.items()
+                if streamDetails.member == member_name
+            )
 
     to_remove = all_stream_ids - seen_stream_ids
     print(f"Removed {len(to_remove)} missing streams")
@@ -91,45 +100,51 @@ def update_clips(youtube: api.Resource, data: HolocraftData):
     all_clip_ids = set(data.craft_clips.keys())
     seen_clip_ids = set()
     for clipper_channel_id in data.clippers:
-        print("Processing clip channel", clipper_channel_id)
-        dirty = False
-        num_new_clips = 0
+        try:
+            print("Processing clip channel", clipper_channel_id)
+            dirty = False
+            num_new_clips = 0
 
-        upload_playlist_id = data.upload_playlists[clipper_channel_id]
-        if clipper_channel_id not in data.seen_videos:
-            data.seen_videos[clipper_channel_id] = set()
+            upload_playlist_id = data.upload_playlists[clipper_channel_id]
+            if clipper_channel_id not in data.seen_videos:
+                data.seen_videos[clipper_channel_id] = set()
 
-        for playlist_item in playlist_videos(youtube, upload_playlist_id):
-            snippet = playlist_item.snippet
-            content_details = playlist_item.contentDetails
+            for playlist_item in playlist_videos(youtube, upload_playlist_id):
+                snippet = playlist_item.snippet
+                content_details = playlist_item.contentDetails
 
-            video_id = playlist_item.id
-            seen_clip_ids.add(video_id)
+                video_id = playlist_item.id
+                seen_clip_ids.add(video_id)
 
-            if video_id not in data.seen_videos[clipper_channel_id]:
-                dirty = True
-                source_stream_ids = [
-                    match[1]  # just the video ID
-                    for match in re.findall(
-                        r"(youtube\.com/watch\?v=|youtu\.be/)([a-zA-Z0-9_-]+)",
-                        snippet.description,
-                    )
-                ]
-                if len(source_stream_ids) > 0:
-                    num_new_clips += 1
-                    data.craft_clips[video_id] = HolocraftClip(
-                        source_streams=source_stream_ids,
-                        title=snippet.title,
-                        duration=content_details.duration,
-                    )
+                if video_id not in data.seen_videos[clipper_channel_id]:
+                    dirty = True
+                    source_stream_ids = [
+                        match[1]  # just the video ID
+                        for match in re.findall(
+                            r"(youtube\.com/watch\?v=|youtu\.be/)([a-zA-Z0-9_-]+)",
+                            snippet.description,
+                        )
+                    ]
+                    if len(source_stream_ids) > 0:
+                        num_new_clips += 1
+                        data.craft_clips[video_id] = HolocraftClip(
+                            source_streams=source_stream_ids,
+                            title=snippet.title,
+                            duration=content_details.duration,
+                        )
 
-                # Mark this video as seen so we don't process it again
-                data.seen_videos[clipper_channel_id].add(video_id)
+                    # Mark this video as seen so we don't process it again
+                    data.seen_videos[clipper_channel_id].add(video_id)
 
-        print(f"{num_new_clips} new clips")
-        # Checkpoint data to disk after each channel
-        if dirty:
-            write_data(data)
+            print(f"{num_new_clips} new clips")
+            # Checkpoint data to disk after each channel
+            if dirty:
+                write_data(data)
+        except Exception as e:
+            # We'll lose all of the clips for this channel
+            # since we don't save clip -> clipper mappings,
+            # we don't know which clips originated with this channel
+            print(f"Failed to process clips for {clipper_channel_id}:", e)
 
     to_remove = all_clip_ids - seen_clip_ids
     print(f"Removed {len(to_remove)} missing clips")
