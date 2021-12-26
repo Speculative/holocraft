@@ -21016,6 +21016,27 @@
       "title": "\u3010Minecraft\u3011Creative Writing at the Bunkeronii (WHAT DID PEOPLE WRITE)\u3010Reine/hololiveID 2nd gen\u3011",
       "duration": "PT2H45M24S",
       "videoId": "ZlvN7EngruE"
+    },
+    {
+      "member": "PEKORA",
+      "publishedAt": "2021-12-26T14:21:01+00:00",
+      "title": "\u3010Minecraft\u3011\u30c7\u30a3\u30ba\u30cb\u30fc\u00d7\u30de\u30a4\u30af\u30e9\uff01\uff1f\u307a\u3063\u3068\u307c\u3068\u308b\u3067\u5922\u306e\u56fd\u306b\u51fa\u767a\uff01\uff01\uff01\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
+      "duration": "PT2H4M29S",
+      "videoId": "cVDh8U9MGiw"
+    },
+    {
+      "member": "TOWA",
+      "publishedAt": "2021-12-26T14:23:29+00:00",
+      "title": "\u3010Minecraft\u3011\u3081\u3061\u3083\u304f\u3061\u3083\u884c\u304d\u305f\u304b\u3063\u305f\u5922\u306e\u56fd\u3078\u307f\u3093\u306a\u3067\u308c\u3063\u3064\u3054\u30fc\uff01\u3010\u5e38\u95c7\u30c8\u30ef/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT2H5M29S",
+      "videoId": "XBE6oo1Qxm4"
+    },
+    {
+      "member": "BOTAN",
+      "publishedAt": "2021-12-26T14:25:23+00:00",
+      "title": "\u3010Minecraft\u3011\u30de\u30a4\u30af\u30e9\u2716\u30c7\u30a3\u30ba\u30cb\u30fc\uff01\u5922\u306e\u56fd\u306b\u304a\u3067\u304b\u3051\u3059\u308b\u305e\u3044\uff01\u3010\u7345\u767d\u307c\u305f\u3093/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT2H4M26S",
+      "videoId": "MilOaAf6AKk"
     }
   ],
   "craftClips": [
@@ -66007,6 +66028,30 @@
       "title": "\u3010Towa\u3011BEWARE: Creeper\u3010Hololive\u3011",
       "duration": "PT1M21S",
       "videoId": "GYCXHOg2G9g"
+    },
+    {
+      "sourceStreams": [
+        "cVDh8U9MGiw"
+      ],
+      "title": "Pekora accidentally gets left behind after 4 girls trying to gets on the 3 seater ride [Hololive]",
+      "duration": "PT1M22S",
+      "videoId": "fiSwkwJhAak"
+    },
+    {
+      "sourceStreams": [
+        "cVDh8U9MGiw"
+      ],
+      "title": "Everyone can't stop laughing at Rushia with an old man skin [Hololive/Eng sub]",
+      "duration": "PT1M22S",
+      "videoId": "iWL_TKKRjHY"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Subaru having too much fun with her movable arms [Hololive/ENG Sub]",
+      "duration": "PT2M5S",
+      "videoId": "AggElP5qNYk"
     }
   ]
 }
