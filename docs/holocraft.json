@@ -21338,6 +21338,20 @@
       "title": "\u3010Minecraft \u30cf\u30fc\u30c9\u30b3\u30a2\u3011DAY8 \u30a8\u30f3\u30c9\u30e9\u8a0e\u4f10\u524d\u6700\u7d42\u6e96\u5099\u2462 \uff5e\u306a\u3093\u3068\u30a8\u30f3\u30c1\u30e3\u30f3\u30c8\u307e\u3067\u3057\u3061\u3083\u3044\u307e\u3059\uff5e\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
       "duration": "PT2H27M49S",
       "videoId": "6olBjdKR6xA"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2022-01-12T17:07:52+00:00",
+      "title": "\u3010Minecraft\u3011\u5929\u771f\u6751\u306e\u5730\u4e0b\u304c\u62e1\u5f35!?!??!?\u3061\u3087\u3063\u3068\u8997\u3044\u3066\u307f\u3088\u3046\uff01\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT1H53M38S",
+      "videoId": "Zrow1GcyjR0"
+    },
+    {
+      "member": "WATAME",
+      "publishedAt": "2022-01-12T17:26:43+00:00",
+      "title": "\u3010Minecraft\u3011\u3057\u3057\u308f\u305fcar\u3064\u304f\u308b\u305e\u30fc\uff01\uff01\uff01\u3010\u89d2\u5dfb\u308f\u305f\u3081/\u30db\u30ed\u30e9\u30a4\u30d6\uff14\u671f\u751f\u3011",
+      "duration": "PT3H8M",
+      "videoId": "4KIYR56kxO0"
     }
   ],
   "craftClips": [
@@ -67003,6 +67017,39 @@
       "title": "Subaru VS Cynthia - A True Protagonist [Hololive/ENG Sub]",
       "duration": "PT31M5S",
       "videoId": "27RPUtH_Ug0"
+    },
+    {
+      "sourceStreams": [
+        "4KIYR56kxO0"
+      ],
+      "title": "Watame Who Can't Stand Horror Stuff Shows Her Cute Peeking at the Horror Scene in Horror TV Shows",
+      "duration": "PT2M54S",
+      "videoId": "3UgEvFfoM9I"
+    },
+    {
+      "sourceStreams": [
+        "4KIYR56kxO0"
+      ],
+      "title": "Watame fears getting eaten up by IRyS [Hololive/Eng sub]",
+      "duration": "PT49S",
+      "videoId": "BKYexFnT49g"
+    },
+    {
+      "sourceStreams": [
+        "napw7vyXlVs",
+        "m1XUAwgh6BI"
+      ],
+      "title": "\u3010Towa/Kanata\u3011It takes an angel to know one\u3010Hololive\u3011",
+      "duration": "PT3M",
+      "videoId": "9na1i6kMypk"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Subaru asks Laplus to protect her, but motion sickness [Hololive/ENG Sub]",
+      "duration": "PT1M37S",
+      "videoId": "w0vSMEViy0I"
     }
   ]
 }
