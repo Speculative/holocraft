@@ -21352,6 +21352,27 @@
       "title": "\u3010Minecraft\u3011\u3057\u3057\u308f\u305fcar\u3064\u304f\u308b\u305e\u30fc\uff01\uff01\uff01\u3010\u89d2\u5dfb\u308f\u305f\u3081/\u30db\u30ed\u30e9\u30a4\u30d6\uff14\u671f\u751f\u3011",
       "duration": "PT3H8M",
       "videoId": "4KIYR56kxO0"
+    },
+    {
+      "member": "INANIS",
+      "publishedAt": "2022-01-14T00:28:50+00:00",
+      "title": "\u3010Minecraft\u3011 M-my House...",
+      "duration": "PT3H8M21S",
+      "videoId": "XkbKNPf0pLQ"
+    },
+    {
+      "member": "AQUA",
+      "publishedAt": "2022-01-14T05:49:21+00:00",
+      "title": "\u3010\u30b2\u30ea\u30e9\u3011\u3068\u3064\u305c\u3093\u3059\u304e\u308b\u304a\u663c\u306e\u3086\u308b\u3059\u304e\u30de\u30a4\u30af\u30e9\u3010\u6e4a\u3042\u304f\u3042/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT1H7M43S",
+      "videoId": "SYzi3uZaodY"
+    },
+    {
+      "member": "ANYA",
+      "publishedAt": "2022-01-14T16:06:14+00:00",
+      "title": "\u3010Minecraft\u3011hehe silly block game with the gang\u3010hololiveID 2nd Generation\u3011",
+      "duration": "PT2H41M31S",
+      "videoId": "yGjKf8OKb24"
     }
   ],
   "craftClips": [
@@ -67050,6 +67071,30 @@
       "title": "Subaru asks Laplus to protect her, but motion sickness [Hololive/ENG Sub]",
       "duration": "PT1M37S",
       "videoId": "w0vSMEViy0I"
+    },
+    {
+      "sourceStreams": [
+        "SYzi3uZaodY"
+      ],
+      "title": "Aqua Is Baffled By Choco's House & Realizes She's Been Left Behind In Minecraft \u3010ENG Sub Hololive\u3011",
+      "duration": "PT52S",
+      "videoId": "ndi4Kyb2LnE"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Subaru Prepares for Okayu Pokemon Battle [Hololive/ENG Sub]",
+      "duration": "PT2M10S",
+      "videoId": "7HecKpFFvO0"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Botan, Subaru, Towa and Laplus does an awkward ending with team name Citrus [Hololive/ENG Sub]",
+      "duration": "PT1M15S",
+      "videoId": "sJDEsGD9GCA"
     }
   ]
 }
