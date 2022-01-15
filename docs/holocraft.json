@@ -21373,6 +21373,27 @@
       "title": "\u3010Minecraft\u3011hehe silly block game with the gang\u3010hololiveID 2nd Generation\u3011",
       "duration": "PT2H41M31S",
       "videoId": "yGjKf8OKb24"
+    },
+    {
+      "member": "MOONA",
+      "publishedAt": "2022-01-14T17:05:24+00:00",
+      "title": "\u3010Minecraft\u3011let's find nether fortress!!!\u3010#MoonArchitect\u3011",
+      "duration": "PT2H43M19S",
+      "videoId": "bKWUJOrCloA"
+    },
+    {
+      "member": "GURA",
+      "publishedAt": "2022-01-14T23:42:36+00:00",
+      "title": "[MINECRAFT] magic mouse castle world",
+      "duration": "PT2H17M39S",
+      "videoId": "NdczOAVJgsI"
+    },
+    {
+      "member": "KIARA",
+      "publishedAt": "2022-01-14T23:43:52+00:00",
+      "title": "\u3010WDW Minecraft\u3011LETS GO TO THE MAGIC KINGDOM! #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6",
+      "duration": "PT2H17M29S",
+      "videoId": "3ilb3FXK2lU"
     }
   ],
   "craftClips": [
@@ -67095,6 +67116,64 @@
       "title": "Botan, Subaru, Towa and Laplus does an awkward ending with team name Citrus [Hololive/ENG Sub]",
       "duration": "PT1M15S",
       "videoId": "sJDEsGD9GCA"
+    },
+    {
+      "sourceStreams": [
+        "3ilb3FXK2lU",
+        "NdczOAVJgsI"
+      ],
+      "title": "Everyone forgot about Kiara...",
+      "duration": "PT1M43S",
+      "videoId": "mesSSYWMcSA"
+    },
+    {
+      "sourceStreams": [
+        "SYzi3uZaodY"
+      ],
+      "title": "Aqua Shows *NEW AKUKIN BUILDING* Made By Mio In Minecraft \u3010ENG Sub Hololive\u3011",
+      "duration": "PT1M26S",
+      "videoId": "DtzPsPLL_Kw"
+    },
+    {
+      "sourceStreams": [
+        "SYzi3uZaodY"
+      ],
+      "title": "Aqua Uses *MAX* Brain Power To Overcome Rushia's Trap - Minecraft \u3010ENG Sub Hololive\u3011",
+      "duration": "PT2M10S",
+      "videoId": "bkP4fNX8ZF8"
+    },
+    {
+      "sourceStreams": [
+        "SYzi3uZaodY"
+      ],
+      "title": "Aqua unexpectedly learns that she's no longer the boss [Hololive/Eng sub]",
+      "duration": "PT1M2S",
+      "videoId": "n0CIRSB_KW8"
+    },
+    {
+      "sourceStreams": [
+        "NdczOAVJgsI",
+        "3ilb3FXK2lU"
+      ],
+      "title": "Gura being such a nerd and won't stop talking, makes she's the best Disney World tour guide",
+      "duration": "PT7M56S",
+      "videoId": "ILdtChc---M"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Pekora was nervous inviting Subaru for her birthday live [Hololive/ENG Sub]",
+      "duration": "PT2M45S",
+      "videoId": "9VzHvXnLolQ"
+    },
+    {
+      "sourceStreams": [
+        "XkbKNPf0pLQ"
+      ],
+      "title": "Ina of the desert, what is your wisdom?",
+      "duration": "PT2M6S",
+      "videoId": "w9U1JvmPySM"
     }
   ]
 }
