@@ -21471,6 +21471,13 @@
       "title": "\u3010Minecraft\u3011\u307f\u3093\u306a\u3067\u30c7\u30fc\u30c8\u3057\u3088\uff5e\u3063\uff01\u2665\u3010\u5e38\u95c7\u30c8\u30ef/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT1H55M53S",
       "videoId": "ni--i9hnc5Y"
+    },
+    {
+      "member": "SORA",
+      "publishedAt": "2022-01-24T16:42:04+00:00",
+      "title": "\u3010Minecraft\u3011\u30c0\u30f3\u30b8\u30e7\u30f3\u4f5c\u308b\u6c17\u306f\u306a\u304b\u3063\u305f\u306e\u306b\u30fb\u30fb\u30fb\u3010#\u3068\u304d\u306e\u305d\u3089\u751f\u653e\u9001\u3011",
+      "duration": "PT1H10M26S",
+      "videoId": "w1HJZ_Gm0PI"
     }
   ],
   "craftClips": [
@@ -67467,6 +67474,22 @@
       "title": "[Hololive EN] Ame imprisoned someone for 9 months",
       "duration": "PT8M36S",
       "videoId": "g4uuQM5oIw4"
+    },
+    {
+      "sourceStreams": [
+        "w1HJZ_Gm0PI"
+      ],
+      "title": "Tokino Sora Is Literally Kazama Iroha Mother | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M25S",
+      "videoId": "WoG1azPFTfQ"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "People's Impression of Subaru 2021 Survey [Hololive/ENG Sub]",
+      "duration": "PT9M8S",
+      "videoId": "VPsmaaarIrE"
     }
   ]
 }
