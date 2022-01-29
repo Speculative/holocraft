@@ -21506,6 +21506,13 @@
       "title": "\u3010Minecraft\u3011\u3068\u304d\u306e\u305d\u3089\u3001\u7570\u4e16\u754c\u3092\u3064\u304f\u308a\u305f\u3044\u3010#\u3068\u304d\u306e\u305d\u3089\u751f\u653e\u9001\u3011",
       "duration": "PT2H46M19S",
       "videoId": "EG2qPf1uGmM"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2022-01-29T07:22:16+00:00",
+      "title": "\u3010Minecraft\u3011\u307e\u305f\u91ce\u826f\u30c1\u30a7\u30b9\u30c8\u5897\u3048\u3066\u308b\u3084\u3093\u3051\u3047!!!\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT1H41M2S",
+      "videoId": "vTOTEmxMX8w"
     }
   ],
   "craftClips": [
@@ -67551,6 +67558,31 @@
       "title": "Subaru joins Roboco freestyle rap call in stream [Hololive/ENG Sub]",
       "duration": "PT3M44S",
       "videoId": "WDq83pK258I"
+    },
+    {
+      "sourceStreams": [
+        "DXcNpjhP1Es"
+      ],
+      "title": "Towa learns what overseas people call McDonald's [Hololive/Eng sub]",
+      "duration": "PT47S",
+      "videoId": "zaZNKqB5E0Q"
+    },
+    {
+      "sourceStreams": [
+        "DXcNpjhP1Es"
+      ],
+      "title": "Tokino Sora Is Mad To Be Called a Baby | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M17S",
+      "videoId": "41vMpvUJHTY"
+    },
+    {
+      "sourceStreams": [
+        "EG2qPf1uGmM",
+        "DXcNpjhP1Es"
+      ],
+      "title": "Tokoyami Towa Become an Angel When Tokino Sora Is In Need | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT2M20S",
+      "videoId": "JLZ8XGLcs8M"
     }
   ]
 }
