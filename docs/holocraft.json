@@ -21513,6 +21513,13 @@
       "title": "\u3010Minecraft\u3011\u307e\u305f\u91ce\u826f\u30c1\u30a7\u30b9\u30c8\u5897\u3048\u3066\u308b\u3084\u3093\u3051\u3047!!!\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
       "duration": "PT1H41M2S",
       "videoId": "vTOTEmxMX8w"
+    },
+    {
+      "member": "REINE",
+      "publishedAt": "2022-02-03T06:24:19+00:00",
+      "title": "\u3010Minecraft\u3011(JP/EN server) bird\u3010Reine/Mumei/hololiveID 2nd gen\u3011",
+      "duration": "PT1H56M33S",
+      "videoId": "65THoah3ckU"
     }
   ],
   "craftClips": [
@@ -67611,6 +67618,14 @@
       "title": "Pekora Pekora Pekora (10 hours)",
       "duration": "PT10H1M5S",
       "videoId": "zbA1hikJ7gY"
+    },
+    {
+      "sourceStreams": [
+        "65THoah3ckU"
+      ],
+      "title": "Mumei's Reaction To Reine's Smooth Pickup Line\u3010Hololive EN | Nanashi Mumei x Pavolia Reine\u3011",
+      "duration": "PT2M40S",
+      "videoId": "fHwCiXE_1k4"
     }
   ]
 }
