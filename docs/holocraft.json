@@ -21604,6 +21604,34 @@
       "title": "\u3010Minecraft\u3011ID\u30b5\u30fc\u30d0\u30fc\u306b\u62db\u5f85\u3057\u3066\u3044\u305f\u3060\u3044\u305f\u305e\uff01\u898b\u5b66\u898b\u5b66\u3045\uff01\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
       "duration": "PT1H50M3S",
       "videoId": "3Plr2cpxrJY"
+    },
+    {
+      "member": "KIARA",
+      "publishedAt": "2022-02-08T15:00:48+00:00",
+      "title": "KFP HIRING!",
+      "duration": "PT2M39S",
+      "videoId": "YQPAphawZCY"
+    },
+    {
+      "member": "OLLIE",
+      "publishedAt": "2022-02-08T16:12:55+00:00",
+      "title": "\u3010MINECRAFT\u3011CONTINUING THE SHIP!!! LEZOOO PART 2!!!\u3010Hololive Indonesia 2nd Gen\u3011",
+      "duration": "PT2H51M19S",
+      "videoId": "FP-D3VTz7Co"
+    },
+    {
+      "member": "RISU",
+      "publishedAt": "2022-02-08T16:17:25+00:00",
+      "title": "\u3010MINECRAFT\u3011MEMBANGUN KAPAL BERSAMA HOLOID !!!\u3010Ayunda Risu\u3011",
+      "duration": "PT2H51M2S",
+      "videoId": "Sjrma3PgrFY"
+    },
+    {
+      "member": "MOONA",
+      "publishedAt": "2022-02-08T16:21:27+00:00",
+      "title": "\u3010Minecraft\u3011Let's build a ship!\u3010#MoonArchitect\u3011",
+      "duration": "PT2H49M11S",
+      "videoId": "vyDa_CvUkAA"
     }
   ],
   "craftClips": [
@@ -67750,6 +67778,14 @@
       "title": "Haachama's Puppy Almost Die From Her Smelly Feet | Minecraft [Hololive/Eng Sub]",
       "duration": "PT57S",
       "videoId": "dXzEhLX7-HE"
+    },
+    {
+      "sourceStreams": [
+        "3Plr2cpxrJY"
+      ],
+      "title": "Aruran and Astel Got Pranked by Risu and Ollie On Their First Visit to HoloID Server \u3010Eng Sub\u3011",
+      "duration": "PT4M6S",
+      "videoId": "fpd32rE69MU"
     }
   ]
 }
