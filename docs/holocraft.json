@@ -21772,6 +21772,20 @@
       "title": "\u3010Minecraft\u3011I'M A SPY, U KNOW??? #HololiveEN0\u3010Hololive/Akaihaato\u3011",
       "duration": "PT52M22S",
       "videoId": "V_EowgjBN6I"
+    },
+    {
+      "member": "HAATO",
+      "publishedAt": "2022-03-02T12:17:53+00:00",
+      "title": "\u3010Minecraft\u3011\u306f\u3042\u3061\u3083\u307e\u3001\u5168\u5efa\u8a2d\u3068\u304a\u3068\u3082\u3060\u3061\u306b\u306a\u308b\uff5e\u3063\u266a\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u306f\u3042\u3061\u3083\u307e\u3011",
+      "duration": "PT1H8M38S",
+      "videoId": "qRbmKX-oVFc"
+    },
+    {
+      "member": "SORA",
+      "publishedAt": "2022-03-02T15:18:00+00:00",
+      "title": "\u3010Minecraft\u3011\u6025\u306a\u30de\u30a4\u30af\u30e9\u30c8\u30fc\u30af\u3010#\u3068\u304d\u306e\u305d\u3089\u751f\u653e\u9001\u3011",
+      "duration": "PT1H59M54S",
+      "videoId": "RdRNXRlRMKw"
     }
   ],
   "craftClips": [
@@ -68502,6 +68516,30 @@
       "title": "Subaru plans when she return to streaming [Hololive/ENG Sub]",
       "duration": "PT2M1S",
       "videoId": "n63aY1B26zE"
+    },
+    {
+      "sourceStreams": [
+        "qRbmKX-oVFc"
+      ],
+      "title": "Haachama Visiting Coco's Kaichou House and Holoforce Chibi Drooling Building\u3010Hololive Eng Sub\u3011",
+      "duration": "PT2M20S",
+      "videoId": "eR9UVbDij_I"
+    },
+    {
+      "sourceStreams": [
+        "V_EowgjBN6I"
+      ],
+      "title": "Haachama Visits Shiraken Office and Occupies The New Employee Table",
+      "duration": "PT2M40S",
+      "videoId": "0KU_Uo-URlU"
+    },
+    {
+      "sourceStreams": [
+        "ItspEsuPNzA"
+      ],
+      "title": "Hololive members replies to Subaru's break announcement on twitter (Haachama, Noel, Miko, Choco etc)",
+      "duration": "PT3M55S",
+      "videoId": "rv-rnp_npuQ"
     }
   ]
 }
