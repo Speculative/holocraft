@@ -21814,6 +21814,13 @@
       "title": "\u3010Minecraft\u3011\u5927\u8208\u596e\u6574\u5730\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
       "duration": "PT1H33M47S",
       "videoId": "yMFMLF9o0NI"
+    },
+    {
+      "member": "HAATO",
+      "publishedAt": "2022-03-06T06:47:09+00:00",
+      "title": "\u3010Minecraft\u3011I AM HERE. #HololiveEN0",
+      "duration": "PT35M46S",
+      "videoId": "IvugstfXrNY"
     }
   ],
   "craftClips": [
@@ -68600,6 +68607,22 @@
       "title": "Haachama Used To Be A Quiet Girl - How Haachama Was Born\u3010Hololive/Eng Sub\u3011",
       "duration": "PT3M32S",
       "videoId": "mspSPv-wo1k"
+    },
+    {
+      "sourceStreams": [
+        "PCEn19V2jxs"
+      ],
+      "title": "Haachama goes on a Lonely Nostalgia Trip on the Hololive Minecraft Server\u3010Hololive/Eng Sub\u3011",
+      "duration": "PT1M52S",
+      "videoId": "aRfdVxNjw9Y"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Hololive cuties in a 100 yen store (Anya, Reine, Bae, IRyS, Subaru, Miko, Korone) [ENG Sub]",
+      "duration": "PT23M",
+      "videoId": "RJ4jDY2aNoQ"
     }
   ]
 }
