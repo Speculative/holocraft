@@ -21849,6 +21849,27 @@
       "title": "\u3010 Minecraft \u3011\u6700\u8fd1\u904e\u758e\u3063\u3066\u306b\u3047\uff1f\u3084\u308b\u3057\u304b\u306a\u3044\u3060\u308d\u30de\u30a4\u30af\u30e9\uff01\u306b\u3047\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3055\u304f\u3089\u307f\u3053\u3011",
       "duration": "PT3H35M54S",
       "videoId": "PPwKhDB20fY"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2022-03-11T17:31:33+00:00",
+      "title": "\u3010Minecraft\u3011\u4e45\u30052\u56de\u884c\u52d5\u7537\u306e\u30de\u30a4\u30f3\u30af\u30e9\u30d5\u30c8\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT1H56M10S",
+      "videoId": "LpHtPS_Vhso"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2022-03-12T14:09:45+00:00",
+      "title": "\u3010Minecraft\u3011\u4e00\u751f\u5d29\u3057\u7d42\u308f\u3089\u306a\u3044\u5c71\u304c\u3042\u308b\u3068\u3057\u305f\u3089\uff1f\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT1H54M37S",
+      "videoId": "e-grj1-5Wd4"
+    },
+    {
+      "member": "NENE",
+      "publishedAt": "2022-03-12T16:03:53+00:00",
+      "title": "\u3010 Minecraft \u3011\u660e\u65e5\u306f\u3068\u3046\u3068\u3046\u30a2\u30a4\u30c9\u30eb\u306b\u8fd1\u3065\u304f\u65e5\u306a\u306e\u3067\u3001\u9053\u3092\u4f5c\u308a\u307e\u3059\u3002\u3010 \u6843\u9234\u306d\u306d  / \u30db\u30ed\u30e9\u30a4\u30d6 \u3011",
+      "duration": "PT2H42M46S",
+      "videoId": "EYHOmc5nwys"
     }
   ],
   "craftClips": [
@@ -68764,6 +68785,22 @@
       "title": "Noel gets a surprise invitation from Subaru [Hololive/ENG Sub]",
       "duration": "PT1M18S",
       "videoId": "2x8cS1Jbv8c"
+    },
+    {
+      "sourceStreams": [
+        "PPwKhDB20fY"
+      ],
+      "title": "Miko reveals that Koyori looked really nervous when they met in the cinema [Hololive/Eng sub]",
+      "duration": "PT1M1S",
+      "videoId": "VGkbhBXqZEI"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Subaru is worried about Noel and plans another collab with her [Hololive/ENG Sub]",
+      "duration": "PT48S",
+      "videoId": "NDR5CSpSHB8"
     }
   ]
 }
