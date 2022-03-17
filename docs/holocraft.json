@@ -21828,6 +21828,20 @@
       "title": "\u3010Minecraft\u3011\u305d\u308d\u305d\u308d\u3001\u307b\u3093\u3068\u305d\u308d\u305d\u308d\u5c71\u304c\u306a\u304f\u306a\u308a\u307e\u3059\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
       "duration": "PT2H8M16S",
       "videoId": "zvP0zo5exkE"
+    },
+    {
+      "member": "HAATO",
+      "publishedAt": "2022-03-17T14:47:29+00:00",
+      "title": "\u3010Minecraft\u3011\u3064\u3044\u306b\uff01\u3061\u3087\u308d\u3061\u6355\u7372\uff01\u91e3\u308c\u305f\u305e\u304a\u304a\u304a\uff5e\uff01\uff57\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u8d64\u4e95\u306f\u3042\u3068\u3011",
+      "duration": "PT40M37S",
+      "videoId": "x2nb8c4_hWo"
+    },
+    {
+      "member": "MIKO",
+      "publishedAt": "2022-03-17T14:48:30+00:00",
+      "title": "\u3010 Minecraft \u3011\u3057\u3087\u3046\u304c\u306a\u3044\u306a\u3001\u3084\u3063\u3061\u3083\u3044\u307e\u3059\u304b\uff01\ud83d\ude0e\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3055\u304f\u3089\u307f\u3053\u3011",
+      "duration": "PT4H19M47S",
+      "videoId": "kKtZ6jDuO5Q"
     }
   ],
   "craftClips": [
@@ -52460,14 +52474,6 @@
     },
     {
       "sourceStreams": [
-        "OqpeRJrY2BE"
-      ],
-      "title": "Kanata: Earthquake Strike Japan Right After She Got \"Cursed\" Fortune Stick\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M35S",
-      "videoId": "gMOncNlR5zE"
-    },
-    {
-      "sourceStreams": [
         "KmJyzi-0bVo"
       ],
       "title": "Pekora Being Toyed By Sana & Baelz While Talking In Voice Chat\u3010Hololive | HoloEN | Eng Sub\u3011",
@@ -68841,6 +68847,22 @@
       "title": "#4 Oozora Subaru in Final Fantasy 7 - Flat chested florist [Hololive/ENG Sub]",
       "duration": "PT12M30S",
       "videoId": "Us0HXBuc0WQ"
+    },
+    {
+      "sourceStreams": [
+        "kKtZ6jDuO5Q"
+      ],
+      "title": "Miko's mom was panicking during the Earthquake because of an unexpected reason [Hololive/Eng sub]",
+      "duration": "PT53S",
+      "videoId": "hICFZq_bxGQ"
+    },
+    {
+      "sourceStreams": [
+        "kKtZ6jDuO5Q"
+      ],
+      "title": "Haachama joins the server while Miko reacting to Haachama's Honey trap [Hololive/Eng sub]",
+      "duration": "PT2M38S",
+      "videoId": "o1GUvGI-QZo"
     }
   ]
 }
