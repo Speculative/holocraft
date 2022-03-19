@@ -21842,6 +21842,13 @@
       "title": "\u3010 Minecraft \u3011\u3057\u3087\u3046\u304c\u306a\u3044\u306a\u3001\u3084\u3063\u3061\u3083\u3044\u307e\u3059\u304b\uff01\ud83d\ude0e\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3055\u304f\u3089\u307f\u3053\u3011",
       "duration": "PT4H19M47S",
       "videoId": "kKtZ6jDuO5Q"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2022-03-18T17:22:28+00:00",
+      "title": "\u3010Minecraft\u3011\u672c\u5f53\u306b\u3044\u305f!?!?\u5996\u602a\u5c71\u30ca\u30af\u30b7\u306e\u751f\u614b\u306b\u8feb\u308b!!!\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT1H35M32S",
+      "videoId": "r3kQ2RySFMQ"
     }
   ],
   "craftClips": [
@@ -68911,6 +68918,14 @@
       "title": "Subaru finds out Luna was kind to her [Hololive/ENG Sub]",
       "duration": "PT2M1S",
       "videoId": "CEJbzoQVsKY"
+    },
+    {
+      "sourceStreams": [
+        "kKtZ6jDuO5Q"
+      ],
+      "title": "Miko can(?) pronounce \"Jujutsu Kaisen\" correctly [Hololive/Eng sub]",
+      "duration": "PT43S",
+      "videoId": "k6QHmAUn-w4"
     }
   ]
 }
