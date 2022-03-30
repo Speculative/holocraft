@@ -21947,6 +21947,20 @@
       "title": "\u3010Minecraft\u3011\u305d\u308d\u305d\u308d\u534a\u5206\uff01\u307f\u3093\u306a\u3067\u904a\u3079\u308b\u30b4\u30eb\u30d5\u5834\u5efa\u7bc9\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
       "duration": "PT3H5M55S",
       "videoId": "CiQd7IPatts"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2022-03-29T17:22:38+00:00",
+      "title": "\u3010Minecraft\u3011\u4eca\u65e5\u306a\u3093\u304b\u3081\u3063\u3061\u3083\u3044\u3044\u65e5\u3067\u3059\u306d\u3047\uff01\uff01\uff01\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT3H4M16S",
+      "videoId": "dsHGfSUWeHA"
+    },
+    {
+      "member": "PEKORA",
+      "publishedAt": "2022-03-30T12:53:49+00:00",
+      "title": "\u3010Minecraft\u3011\u3082\u3046\u3059\u3050\u30a8\u30a4\u30d7\u30ea\u30eb\u30d5\u30fc\u30eb\u3067\u3059\u306d\uff3e\uff3e\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
+      "duration": "PT2H33M29S",
+      "videoId": "Ngmc7hjzqM8"
     }
   ],
   "craftClips": [
@@ -68712,6 +68726,30 @@
       "title": "Noel \"Subaru is already beautiful\" Kanata is angered [Hololive/ENG Sub]",
       "duration": "PT1M4S",
       "videoId": "ltvvyfh1mT4"
+    },
+    {
+      "sourceStreams": [
+        "Ngmc7hjzqM8"
+      ],
+      "title": "Pekora Is Wondering Since When Haachama Became a Madlass",
+      "duration": "PT2M34S",
+      "videoId": "-ioP6pHV3Gk"
+    },
+    {
+      "sourceStreams": [
+        "sLyLFDmNlls"
+      ],
+      "title": "Miko doesn't know about herself [Hololive/Eng sub]",
+      "duration": "PT1M13S",
+      "videoId": "krT2vbbctRk"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Subaru smacks Kanata and calls her dummy twice + Noel [Hololive/ENG Sub]",
+      "duration": "PT2M19S",
+      "videoId": "bGFMTymjMUg"
     }
   ]
 }
