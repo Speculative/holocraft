@@ -22094,6 +22094,20 @@
       "title": "\u3010Minecraft\u3011\u632f\u308a\u3058\u3083\u306a\u3044\u65b9\u306e\u3001UPROAR!!\u7d76\u5bfe\u898b\u308b\u306a\u67a0 / \u30a2\u30b9\u30c6\u30eb",
       "duration": "PT7H56M56S",
       "videoId": "3Ak8hgAEQl0"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2022-04-09T17:45:54+00:00",
+      "title": "\u3010Minecraft\u3011\u30a8\u30f3\u30c9\u3067\u30b7\u30e5\u30eb\u30ab\u30fc(\u3068\u30a8\u30ea\u30c8\u30e9)\u304c\u305f\u304f\u3055\u3093\u307b\u3057\u3044\uff01\u306e\u3067\u6e96\u5099\u3057\u307e\u3059\uff01\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT2H24M24S",
+      "videoId": "V0gJTyrEGV4"
+    },
+    {
+      "member": "MATSURI",
+      "publishedAt": "2022-04-10T13:41:39+00:00",
+      "title": "\u3010Minecraft\u3011\u307e\u308b\u3070\u3064\u30af\u30a4\u30ba\u5b8c\u6210\u3055\u305b\u308b\u3084\u3055\u3093\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u590f\u8272\u307e\u3064\u308a\u3011",
+      "duration": "PT2H24M4S",
+      "videoId": "xXZ4nYscAZU"
     }
   ],
   "craftClips": [
@@ -69105,6 +69119,22 @@
       "title": "The Day Detective Akai Haato was replaced by HAACHAMA \u3010Hololive/Eng Sub\u3011",
       "duration": "PT5M46S",
       "videoId": "Qjr-nLf0h2o"
+    },
+    {
+      "sourceStreams": [
+        "xXZ4nYscAZU"
+      ],
+      "title": "Matsuri's Story When First Met Chloe and Watched Her Doing Skinship With Lui-nee Like Real Couple",
+      "duration": "PT2M48S",
+      "videoId": "RJecW5XFblQ"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Subaru saw overseas comment say it's impossible to defend Pekora compared to Haachama [Hololive/ENG]",
+      "duration": "PT3M12S",
+      "videoId": "pgGBFetJd2k"
     }
   ]
 }
