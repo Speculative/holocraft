@@ -22465,6 +22465,20 @@
       "title": "\u3010Minecraft\u3011Play with Kaela!\u3010GeeMoon\u3011",
       "duration": "PT5H47M1S",
       "videoId": "U-OUp6ol1PE"
+    },
+    {
+      "member": "GURA",
+      "publishedAt": "2022-05-16T02:47:45+00:00",
+      "title": "\u3010MINECRAFT\u3011i like the minecraft  \ud83d\udc38",
+      "duration": "PT2H3M43S",
+      "videoId": "_zWJFKXDOyY"
+    },
+    {
+      "member": "KANATA",
+      "publishedAt": "2022-05-16T12:52:01+00:00",
+      "title": "\u3010Minecraft\u3011\u304b\u306a\u5efa\u59cb\u52d5\uff01\uff1f\u5de8\u5927\u3046\u3071\u304a\u304c\u6b32\u3057\u3044\uff01\uff01\uff01\uff01\uff01\u3010\u5929\u97f3\u304b\u306a\u305f/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT2H34M57S",
+      "videoId": "EQKHrH2p0Nc"
     }
   ],
   "craftClips": [
@@ -70148,6 +70162,54 @@
       "title": "Mio thinks Towa and Subaru have a troublesome relationship (Okayu) [Hololive/ENG Sub]",
       "duration": "PT1M37S",
       "videoId": "ClX5GE_-ipE"
+    },
+    {
+      "sourceStreams": [
+        "U-OUp6ol1PE"
+      ],
+      "title": "Kaela Gets Chased by Moona For Playing With Her Levers and Discovering Her Secret Room",
+      "duration": "PT3M10S",
+      "videoId": "w1vf5dmqU7c"
+    },
+    {
+      "sourceStreams": [
+        "_zWJFKXDOyY"
+      ],
+      "title": "Gura's Funniest Minecraft Stream Moment #1",
+      "duration": "PT5M47S",
+      "videoId": "eKlYFotUY-w"
+    },
+    {
+      "sourceStreams": [
+        "_zWJFKXDOyY"
+      ],
+      "title": "\ud835\ude42\ud835\ude50\ud835\ude4d\ud835\ude3c \ud835\ude54\ud835\ude4a\ud835\ude50 \ud835\ude3e\ud835\ude3c\ud835\ude49'\ud835\ude4f \ud835\ude4e\ud835\ude3c\ud835\ude54 \ud835\ude4f\ud835\ude43\ud835\ude3c\ud835\ude4f...",
+      "duration": "PT35S",
+      "videoId": "Z3sem4lGqQ8"
+    },
+    {
+      "sourceStreams": [
+        "_zWJFKXDOyY"
+      ],
+      "title": "Gura somehow made this even better...",
+      "duration": "PT46S",
+      "videoId": "6FfhbqmqG2I"
+    },
+    {
+      "sourceStreams": [
+        "EQKHrH2p0Nc"
+      ],
+      "title": "Kanata imitates Miko's AI \"Monotone Mikochi\" [Hololive/Eng sub]",
+      "duration": "PT46S",
+      "videoId": "SRutzqQKU7M"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Subaru experiences Tifa sitting down [Hololive/ENG Sub]",
+      "duration": "PT3M53S",
+      "videoId": "yev89QRtcGE"
     }
   ]
 }
