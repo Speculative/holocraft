@@ -22479,6 +22479,27 @@
       "title": "\u3010Minecraft\u3011\u304b\u306a\u5efa\u59cb\u52d5\uff01\uff1f\u5de8\u5927\u3046\u3071\u304a\u304c\u6b32\u3057\u3044\uff01\uff01\uff01\uff01\uff01\u3010\u5929\u97f3\u304b\u306a\u305f/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT2H34M57S",
       "videoId": "EQKHrH2p0Nc"
+    },
+    {
+      "member": "MOONA",
+      "publishedAt": "2022-05-17T05:29:33+00:00",
+      "title": "\u3010Minecraft\u3011ADVENTURE TIME!\u3010GeeMoon\u3011",
+      "duration": "P0D",
+      "videoId": "7LuPXfBjdNQ"
+    },
+    {
+      "member": "OLLIE",
+      "publishedAt": "2022-05-17T09:53:21+00:00",
+      "title": "\u3010MINECRAFT\u3011WHATS IN THE SERVER\u3010Hololive Indonesia 2nd Gen\u3011",
+      "duration": "P0D",
+      "videoId": "tPpOr-Xj7l0"
+    },
+    {
+      "member": "HAATO",
+      "publishedAt": "2022-05-17T12:46:46+00:00",
+      "title": "\u3010Minecraft\u3011\u304b\u25cb\u306a\u305f\u3093\u306b\u30c9\u30c3\u30ad\u30ea\u4f5c\u6226\u30fb\u30fb\u30fb\uff01\uff1f\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u306f\u3042\u3061\u3083\u307e\u3011",
+      "duration": "PT2H31M9S",
+      "videoId": "sRy13wru-SQ"
     }
   ],
   "craftClips": [
@@ -70210,6 +70231,30 @@
       "title": "Subaru experiences Tifa sitting down [Hololive/ENG Sub]",
       "duration": "PT3M53S",
       "videoId": "yev89QRtcGE"
+    },
+    {
+      "sourceStreams": [
+        "EQKHrH2p0Nc"
+      ],
+      "title": "Kanata Talking About Laplus's Voice That Remains the Same After Inhaling Helium and Her \"Girlfriend\"",
+      "duration": "PT2M10S",
+      "videoId": "D4ZSpVlSBr8"
+    },
+    {
+      "sourceStreams": [
+        "EQKHrH2p0Nc"
+      ],
+      "title": "Kanata REACTS to Aqua's Secret Room & Gura's Signs - Minecraft \u3010ENG Sub Hololive\u3011",
+      "duration": "PT1M33S",
+      "videoId": "O91-QekElnY"
+    },
+    {
+      "sourceStreams": [
+        "zYYXgCiCEEk"
+      ],
+      "title": "Bae learns the Ame way",
+      "duration": "PT41S",
+      "videoId": "1Xs67wYJuzg"
     }
   ]
 }
