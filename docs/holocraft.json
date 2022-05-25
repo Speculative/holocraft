@@ -22647,6 +22647,20 @@
       "title": "\u3010Minecraft\u3011\u3064\u3044\u306b\u30fb\u30fb\u30fb\u306f\u3042\u307f\u3053\u3001\u611b\u3092\u78ba\u304b\u3081\u5408\u3046\uff01\uff1f\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u306f\u3042\u3061\u3083\u307e\u3011",
       "duration": "P0D",
       "videoId": "lrgy93wsNso"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2022-05-25T11:29:45+00:00",
+      "title": "\u3010Minecraft\u3011\u8fd1\u4ee3\u90fd\u5e02\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9\u306b\u306a\u3093\u304b\u3042\u308a\u304c\u305f\u3044\u3082\u306e\u3092\u4f5c\u308d\u3046\u3068\u3044\u3046\u8a08\u753b\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "P0D",
+      "videoId": "DrKcNHbH0Cw"
+    },
+    {
+      "member": "MIKO",
+      "publishedAt": "2022-05-25T14:45:56+00:00",
+      "title": "\u3010 Minecraft \u9006\u30c9\u30c3\u30ad\u30ea\u3011\u306f\u3042\u3061\u3083\u307e\u3001\u307f\u3053\u306e\u3053\u3068\u306f\u3010\u672c\u6c17\u3011\u306a\u3093\u3060\u3088\u306b\u3047\uff1f\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3055\u304f\u3089\u307f\u3053/\u8d64\u4e95\u306f\u3042\u3068\u3011",
+      "duration": "PT1H29M14S",
+      "videoId": "h-Tts5EBEu0"
     }
   ],
   "craftClips": [
@@ -70527,6 +70541,30 @@
       "title": "Matsuri Does Neko Hanekawa's Tongue Twister Perfectly But Can Struggling Pronounce \"Knowledge\"",
       "duration": "PT2M4S",
       "videoId": "lkknW3AEYv0"
+    },
+    {
+      "sourceStreams": [
+        "h-Tts5EBEu0"
+      ],
+      "title": "Miko panics after Haachama telling her \"I love you\" [Hololive/Eng sub]",
+      "duration": "PT53S",
+      "videoId": "Ur1lilWsWXg"
+    },
+    {
+      "sourceStreams": [
+        "h-Tts5EBEu0"
+      ],
+      "title": "Miko suddenly starts jumping on Haachama's bed [Hololive/Eng sub]",
+      "duration": "PT1M1S",
+      "videoId": "xRW_yXAbH-g"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Subaru apologizes to everyone that translates for her [Hololive/ENG Sub]",
+      "duration": "PT3M52S",
+      "videoId": "LOlGRP-7tsA"
     }
   ]
 }
