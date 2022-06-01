@@ -22656,6 +22656,13 @@
       "videoId": "h-Tts5EBEu0"
     },
     {
+      "member": "ARURAN",
+      "publishedAt": "2022-05-25T17:31:16+00:00",
+      "title": "\u3010Minecraft\u3011\u8fd1\u4ee3\u90fd\u5e02\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9\u306b\u306a\u3093\u304b\u3042\u308a\u304c\u305f\u3044\u3082\u306e\u3092\u4f5c\u308d\u3046\u3068\u3044\u3046\u8a08\u753b\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT3H10M4S",
+      "videoId": "DrKcNHbH0Cw"
+    },
+    {
       "member": "AMELIA",
       "publishedAt": "2022-05-27T02:44:25+00:00",
       "title": "\u3010MINECRAFT\u3011Laying down the Groundwork",
@@ -22703,6 +22710,13 @@
       "title": "\u3010\u30de\u30a4\u30f3\u30af\u30e9\u30d5\u30c8/Minecraft\u3011\u3010\u4e0d\u77e5\u706b\u30d5\u30ec\u30a2/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT3H2M9S",
       "videoId": "FgHs9Wx5FDY"
+    },
+    {
+      "member": "AMELIA",
+      "publishedAt": "2022-06-01T06:40:26+00:00",
+      "title": "\u3010MINECRAFT\u3011Prepping Materials~!",
+      "duration": "PT2H50M25S",
+      "videoId": "lnwAx2uD0g0"
     }
   ],
   "craftClips": [
@@ -70697,6 +70711,14 @@
       "title": "Subaru Choco Lui and Ui goes to Disney Noel not being able to go Subaru pampered [Hololive/ENG Sub]",
       "duration": "PT4M47S",
       "videoId": "9izdsp7BTPI"
+    },
+    {
+      "sourceStreams": [
+        "FgHs9Wx5FDY"
+      ],
+      "title": "Shiranui Flare Plan a Horrible Thing To Sora Senpai  | Minecraft  [Hololive/Eng Sub]",
+      "duration": "PT1M10S",
+      "videoId": "Y763WYAJGhM"
     }
   ]
 }
