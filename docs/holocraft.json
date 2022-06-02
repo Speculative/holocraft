@@ -22717,6 +22717,20 @@
       "title": "\u3010MINECRAFT\u3011Prepping Materials~!",
       "duration": "PT2H50M25S",
       "videoId": "lnwAx2uD0g0"
+    },
+    {
+      "member": "KANATA",
+      "publishedAt": "2022-06-02T12:05:59+00:00",
+      "title": "\u3010Minecraft\u3011\u304b\u306a\u5efa\u9762\u63a5\u6e96\u5099\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\u3010\u5929\u97f3\u304b\u306a\u305f/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT1H52M43S",
+      "videoId": "JLX6eDMjzd8"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2022-06-02T13:10:12+00:00",
+      "title": "\u3010Minecraft\u3011\u307e\u3055\u304b\u9854\u306e\u4e0a\u534a\u8eab\u304c\u3053\u3093\u306a\u306b\u5927\u5909\u3060\u3068\u306f\u3060\u308c\u3082\u601d\u3063\u3066\u3044\u306a\u304b\u3063\u305f\u306e\u3067\u3042\u308b\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "P0D",
+      "videoId": "2LAMMGrx4EU"
     }
   ],
   "craftClips": [
@@ -70719,6 +70733,30 @@
       "title": "Shiranui Flare Plan a Horrible Thing To Sora Senpai  | Minecraft  [Hololive/Eng Sub]",
       "duration": "PT1M10S",
       "videoId": "Y763WYAJGhM"
+    },
+    {
+      "sourceStreams": [
+        "JLX6eDMjzd8"
+      ],
+      "title": "Kanata Wonder Why Haachama is Scared of Nene, Who Was Being Assertive On Yesterday Totsumachi",
+      "duration": "PT2M39S",
+      "videoId": "Qt-2_kRrvhI"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Towa and Subaru hang out off stream a lot, but the reason they don't collab... [Hololive/ENG Sub]",
+      "duration": "PT1M20S",
+      "videoId": "ETkS_bIOSis"
+    },
+    {
+      "sourceStreams": [
+        "lnwAx2uD0g0"
+      ],
+      "title": "Ame: \ud835\uddd7\ud835\udde2\ud835\udde1'\ud835\udde7 \ud835\udde6\ud835\udde3\ud835\uddd4\ud835\udde0!",
+      "duration": "PT2M14S",
+      "videoId": "gBWYAmvFzlk"
     }
   ]
 }
