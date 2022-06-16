@@ -22885,6 +22885,27 @@
       "title": "\u3010Minecraft\u3011 Testing out farm and chill\u3010GeeMoon\u3011",
       "duration": "P0D",
       "videoId": "LvGvVSW1uJ8"
+    },
+    {
+      "member": "AMELIA",
+      "publishedAt": "2022-06-16T01:15:28+00:00",
+      "title": "\u3010Minecraft\u3011'ello again! NOW BACK TO WORK",
+      "duration": "PT2H30M12S",
+      "videoId": "tl6e0BheRDE"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2022-06-16T14:04:55+00:00",
+      "title": "\u3010Minecraft 1.19\u3011\u30db\u30ed\u30b9\u30bf\u30b5\u30fc\u30d0\u30fc\u3082\u3064\u3044\u306b\u30a2\u30d7\u30c7\uff01\u30a6\u30a9\u30fc\u30c7\u30f3\u3088\u2026\u4eca\u3053\u305d\u30ea\u30d9\u30f3\u30b8\u306e\u6642\uff01 #\u30db\u30ed\u30b9\u30bf\u30a6\u30a9\u30fc\u30c7\u30f3\u8a0e\u4f10 \u3010\u82b1\u54b2\u307f\u3084\u3073/\u5cb8\u5802\u5929\u771f/\u6c34\u7121\u4e16\u71d0\u592e/\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "P0D",
+      "videoId": "RuAyFpinob8"
+    },
+    {
+      "member": "WATAME",
+      "publishedAt": "2022-06-16T15:38:06+00:00",
+      "title": "\u3010Minecraft\u3011\u6bdb\u5208\u308a\u4f1a\u3058\u3087...\u6563\u9aea\u5c4b\u3055\u3093\u4f5c\u308b\u305e\uff5e\uff01\u3010\u89d2\u5dfb\u308f\u305f\u3081/\u30db\u30ed\u30e9\u30a4\u30d6\uff14\u671f\u751f\u3011",
+      "duration": "PT2H23M8S",
+      "videoId": "F7tWP_JYoHU"
     }
   ],
   "craftClips": [
@@ -71273,6 +71294,38 @@
       "title": "Natalia joins, but... - Subaru Draws Tales of the Abyss Ep3 [Hololive/ENG Sub]",
       "duration": "PT2M50S",
       "videoId": "hxOcWGmppwo"
+    },
+    {
+      "sourceStreams": [
+        "tl6e0BheRDE"
+      ],
+      "title": "Amelia opens Gura's stream then watches Bubba having a battle with Bloop [Hololive/JP sub]",
+      "duration": "PT53S",
+      "videoId": "rxSS6w59YRw"
+    },
+    {
+      "sourceStreams": [
+        "tl6e0BheRDE"
+      ],
+      "title": "Amelia loves 3D Chloe's lewd pose [Hololive/JP sub]",
+      "duration": "PT35S",
+      "videoId": "mfqo3N2xSyQ"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Subaru tries Roll-Ups candy recommended by Amelia [Hololive/ENG Sub]",
+      "duration": "PT3M22S",
+      "videoId": "Q01dQIydfss"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Lamy corrects Subaru on how her child, Dora-chan was birthed [Hololive/ENG Sub]",
+      "duration": "PT1M25S",
+      "videoId": "AMUiZJjUoN8"
     }
   ]
 }
