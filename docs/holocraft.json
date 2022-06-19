@@ -22934,6 +22934,27 @@
       "title": "\u3010 Minecraft 1.19\u3011\u65b0\u30a2\u30d7\u30c7\u63a2\u7d22\u968a\u3001\u51fa\u52d5\u306b\u3047\uff01\uff01\uff01\uff01\uff01\uff01\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3055\u304f\u3089\u307f\u3053\u3011",
       "duration": "P0D",
       "videoId": "81wv34LOCOo"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2022-06-19T11:18:51+00:00",
+      "title": "\u3010Minecraft 1.19\u3011\u5929\u771f\u6751\u306b\u30ab\u30a8\u30eb\u3092\u547c\u3093\u3067\u7e41\u6b96\u3055\u305b\u305f\u3044\uff01&\u30ab\u30a8\u30eb\u30e9\u30a4\u30c8\u304c\u6b32\u3057\u3044\uff01 \u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "P0D",
+      "videoId": "eA_Jh4kZDQk"
+    },
+    {
+      "member": "MIKO",
+      "publishedAt": "2022-06-19T12:05:38+00:00",
+      "title": "\u3010 Minecraft 1.19 \u3011\u3059\u3079\u3066\u5931\u3046\u304b\u3082\u3057\u308c\u306a\u3044\u3001\u53e4\u4ee3\u90fd\u5e02\u3067\u6700\u6050\u65b0MOB\u30a6\u30a9\u30fc\u30c7\u30f3\u5bfe\u6c7a\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3055\u304f\u3089\u307f\u3053\u3011",
+      "duration": "PT1H57M47S",
+      "videoId": "9DQkhUPgEH0"
+    },
+    {
+      "member": "MIYABI",
+      "publishedAt": "2022-06-19T15:05:28+00:00",
+      "title": "\u3010\u96d1\u8ac7\u3011 \u30ea\u30f3\u30b0\u30d5\u30a3\u30c3\u30c8\u304b\u3089\u9003\u3052\u308b\u306a\u3010\u82b1\u54b2\u307f\u3084\u3073/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT1H25M52S",
+      "videoId": "GBYm2vMYNLc"
     }
   ],
   "craftClips": [
@@ -28206,14 +28227,6 @@
     },
     {
       "sourceStreams": [
-        "fDDyY3yq4OE"
-      ],
-      "title": "i forgot",
-      "duration": "PT48S",
-      "videoId": "Hghx2g645Os"
-    },
-    {
-      "sourceStreams": [
         "Im33aBeSyf0"
       ],
       "title": "Gura SNIPES Her Parrot",
@@ -28227,14 +28240,6 @@
       "title": "Gura NTR Amelia For...",
       "duration": "PT3M53S",
       "videoId": "QCaS256qFKU"
-    },
-    {
-      "sourceStreams": [
-        "pc9ptF7A5ec"
-      ],
-      "title": "Gura Stare Contest With Chat...",
-      "duration": "PT2M31S",
-      "videoId": "JsWLit_MMlE"
     },
     {
       "sourceStreams": [
@@ -71435,6 +71440,70 @@
       "title": "Bae recommends Subaru to eat Tim Tam, Australia's most loved chocolate biscuit [Hololive/ENG Sub]",
       "duration": "PT2M16S",
       "videoId": "xrL28hqNC2c"
+    },
+    {
+      "sourceStreams": [
+        "D32ZLcYa1Yc"
+      ],
+      "title": "Pekora Visiting Moona's House and is Confused to Find So Many New Stuff There",
+      "duration": "PT2M39S",
+      "videoId": "akmCj7G2f3I"
+    },
+    {
+      "sourceStreams": [
+        "81wv34LOCOo"
+      ],
+      "title": "Miko suddenly starts singing enthusiastically while exploring things in Minecraft [Hololive/Eng sub]",
+      "duration": "PT1M9S",
+      "videoId": "uzjqrsCZVMI"
+    },
+    {
+      "sourceStreams": [
+        "81wv34LOCOo"
+      ],
+      "title": "Miko accidentally makes a serious scream while riding on a boat [Hololive/Eng sub]",
+      "duration": "PT34S",
+      "videoId": "cGN6r7Nje4Q"
+    },
+    {
+      "sourceStreams": [
+        "81wv34LOCOo"
+      ],
+      "title": "Miko believes Watame doing quite bad things in \"Girigiri Warukunai Watame\" [Hololive/Eng sub]",
+      "duration": "PT46S",
+      "videoId": "EsU-q2UpjlE"
+    },
+    {
+      "sourceStreams": [
+        "9DQkhUPgEH0"
+      ],
+      "title": "Miko Run Away From Warden And Fall Into Lava And Laughed At by Allay | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT55S",
+      "videoId": "gM10M-pb5kc"
+    },
+    {
+      "sourceStreams": [
+        "9DQkhUPgEH0"
+      ],
+      "title": "Sakura Miko Scream On Top Of Her Lungs When She Finally Met Warden | Minecraft  [Hololive/Eng Sub]",
+      "duration": "PT1M3S",
+      "videoId": "30pMhkM20Fw"
+    },
+    {
+      "sourceStreams": [
+        "81wv34LOCOo"
+      ],
+      "title": "Sakura Miko Made The Weirdest Arrow And Dig Straight Into a Creeper Above | Minecraft [Hololive]",
+      "duration": "PT47S",
+      "videoId": "FWQu7XnXAik"
+    },
+    {
+      "sourceStreams": [
+        "81wv34LOCOo"
+      ],
+      "title": "Sakura Miko Experienced The Horror Of Warden Without Even Saw It | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M41S",
+      "videoId": "0bxfQVwAFmE"
     }
   ]
 }
