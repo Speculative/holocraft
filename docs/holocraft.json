@@ -22955,6 +22955,13 @@
       "title": "\u3010\u96d1\u8ac7\u3011 \u30ea\u30f3\u30b0\u30d5\u30a3\u30c3\u30c8\u304b\u3089\u9003\u3052\u308b\u306a\u3010\u82b1\u54b2\u307f\u3084\u3073/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
       "duration": "PT1H25M52S",
       "videoId": "GBYm2vMYNLc"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2022-06-20T14:19:14+00:00",
+      "title": "\u3010Minecraft 1.19\u3011\u30ab\u30a8\u30eb\u3092\u5168\u7a2e\u985e\u96c6\u3081\u3066\u304a\u3053\u3046\uff01\u3042\u3068\u306f\u30cd\u30b6\u30fc\u3092\u63a2\u691c\u3057\u305f\u3044\uff01 \u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "P0D",
+      "videoId": "eHb4lK5i-H8"
     }
   ],
   "craftClips": [
@@ -43748,14 +43755,6 @@
       "title": "Pekora the ecologist experiments with Big Dripleaf, new weird plant in Minecraft \u3010ENG Sub Hololive\u3011",
       "duration": "PT2M54S",
       "videoId": "A2h1q3W7RmE"
-    },
-    {
-      "sourceStreams": [
-        "-o1rg4IDOp8"
-      ],
-      "title": "Rushia got very nervous and fell in love with Okayu after seeing her fanart [Hololive/Eng sub]",
-      "duration": "PT1M9S",
-      "videoId": "3EEBNONE0sE"
     },
     {
       "sourceStreams": [
@@ -71504,6 +71503,22 @@
       "title": "Sakura Miko Experienced The Horror Of Warden Without Even Saw It | Minecraft [Hololive/Eng Sub]",
       "duration": "PT1M41S",
       "videoId": "0bxfQVwAFmE"
+    },
+    {
+      "sourceStreams": [
+        "9DQkhUPgEH0"
+      ],
+      "title": "Sakura Miko Panic When Her TNT Trap Didn't Kill The Warden | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M40S",
+      "videoId": "X3IACC6WAJU"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Noel thinks Subaru and Lamy made babies [Hololive/ENG Sub]",
+      "duration": "PT1M9S",
+      "videoId": "VnO3DV4AcAI"
     }
   ]
 }
