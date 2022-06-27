@@ -23032,6 +23032,20 @@
       "title": "\u3010Minecraft\u3011\u30a6\u30a9\u30fc\u30c7\u30f3\u8a0e\u4f10\u306b\u5411\u3051\u3066\u6e96\u5099\u3092\u3057Ver1.19\u306e\u307e\u3060\u898b\u306c\u4e16\u754c\u3092\u697d\u3057\u3080\uff01\uff01\uff01\uff01\uff01\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
       "duration": "PT2H39M25S",
       "videoId": "EaLHJrxYa4U"
+    },
+    {
+      "member": "NENE",
+      "publishedAt": "2022-06-27T11:09:54+00:00",
+      "title": "\u3010 Minecraft \u3011\u30ab\u30a8\u30eb\u3092\u9023\u308c\u3066\u5e30\u308b\u3001\u306a\u3093\u3061\u3083\u3063\u3066(\u7b11)\u3010 \u30db\u30ed\u30e9\u30a4\u30d6 / \u6843\u9234\u306d\u306d \u3011",
+      "duration": "PT2H57M27S",
+      "videoId": "SsDAWtidOL8"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2022-06-27T13:00:23+00:00",
+      "title": "\u3010Minecraft1.19\u3011\u71d0\u592e\u304f\u3093\u304c\u3061\u3087\u3063\u3068\u9032\u3081\u3066\u304f\u308c\u305f\u307f\u305f\u3044\u3067\u3059\uff01\u30cd\u30b6\u30fc\u3092\u7121\u529b\u5316\u3057\u307e\u3057\u3087\u3046\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "P0D",
+      "videoId": "MUazlx19oO0"
     }
   ],
   "craftClips": [
@@ -40470,22 +40484,6 @@
     },
     {
       "sourceStreams": [
-        "wD_l2I0qj3E"
-      ],
-      "title": "Gura woke up early for the summer festival [HololiveEN/JP sub]",
-      "duration": "PT1M43S",
-      "videoId": "H2xgobPEU-E"
-    },
-    {
-      "sourceStreams": [
-        "GgtTfmEs6k4"
-      ],
-      "title": "Lamy is very excited to visit around the summer festival with Ina-chan [Hololive/Eng sub]",
-      "duration": "PT1M37S",
-      "videoId": "0tGK18LUdEc"
-    },
-    {
-      "sourceStreams": [
         "xMMcdRE2K4M"
       ],
       "title": "Miko laughs pretty hard at Suichan who performs as the best jump scares [Hololive/Eng sub]",
@@ -41850,14 +41848,6 @@
       "title": "Botan utilizes Lucky Hololive members picture for her charm to get a blue axolotl [Hololive/Eng sub]",
       "duration": "PT49S",
       "videoId": "p-hZ9jQcCYs"
-    },
-    {
-      "sourceStreams": [
-        "6fFnvGUENJg"
-      ],
-      "title": "Lamy gets surprised that Marine got a blue axolotl in 45 minutes [Hololive/Eng sub]",
-      "duration": "PT46S",
-      "videoId": "8MWobFh4qPY"
     },
     {
       "sourceStreams": [
@@ -71786,6 +71776,38 @@
       "title": "Nene goes and comes back from the washroom in 0 seconds [Hololive/Eng sub]",
       "duration": "PT40S",
       "videoId": "GtEL3Spn0ns"
+    },
+    {
+      "sourceStreams": [
+        "SsDAWtidOL8"
+      ],
+      "title": "Nene's TRAGIC ATTEMPT to LOOK COOL in front of SANA (Pon Moment) - Minecraft \u3010ENG Sub Hololive\u3011",
+      "duration": "PT2M1S",
+      "videoId": "PMtJXLyibkk"
+    },
+    {
+      "sourceStreams": [
+        "EaLHJrxYa4U"
+      ],
+      "title": "Nousagi Ruined Pekora Ghost Story | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT37S",
+      "videoId": "v0XTYEcLSRo"
+    },
+    {
+      "sourceStreams": [
+        "EaLHJrxYa4U"
+      ],
+      "title": "Pekora Called Koyori Psychopath For Giving Her Rabbit Skin | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M",
+      "videoId": "0ejx_7iRFvE"
+    },
+    {
+      "sourceStreams": [
+        "SsDAWtidOL8"
+      ],
+      "title": "Nene Speaks Cute English; Tsukumo Sana Appears! \u3010Hololive/Eng Sub\u3011",
+      "duration": "PT5M2S",
+      "videoId": "SYpvDs_SC1o"
     }
   ]
 }
