@@ -23207,6 +23207,34 @@
       "title": "\u3010Minecraft1.19\u3011\u65b0\u8981\u7d20\uff01\u68ee\u306e\u6d0b\u9928\u306b\u3044\u308b\u30a2\u30ec\u30a4\u3092\u52a9\u3051\u306b\u884c\u304f\u305e\u3046\uff01\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
       "duration": "PT2H37M22S",
       "videoId": "oYbqdtdl2s4"
+    },
+    {
+      "member": "KIARA",
+      "publishedAt": "2022-07-09T21:35:21+00:00",
+      "title": "\u3010MINECRAFT\u3011find frog. love frog? am frog! #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6",
+      "duration": "PT6H8M28S",
+      "videoId": "niJDkgLMkwk"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2022-07-10T13:28:07+00:00",
+      "title": "\u3010Minecraft1.19\u3011\u30a2\u30ec\u30a4\u3061\u3083\u3093\u767a\u898b\uff01\u3055\u3041\u5929\u771f\u6751\u307e\u3067\u4e00\u7dd2\u306b\u304a\u6563\u6b69\u3057\u3088\u3046\u306d\u3047\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "P0D",
+      "videoId": "GfKvn_hB-18"
+    },
+    {
+      "member": "SUISEI",
+      "publishedAt": "2022-07-10T14:02:40+00:00",
+      "title": "\u3010 Minecraft \u3011\u306a\u3093\u304b\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u3057\u305f\u3089\u3057\u3044\u203c\ud83d\ude1c\ud83d\udca5\u2190\u9045\u3044\u30ca(\u7b11)\u3010\u30db\u30ed\u30e9\u30a4\u30d6 / \u661f\u8857\u3059\u3044\u305b\u3044 \u3011",
+      "duration": "PT2H47M53S",
+      "videoId": "5_-e1A7VrhE"
+    },
+    {
+      "member": "MIKO",
+      "publishedAt": "2022-07-10T14:08:05+00:00",
+      "title": "\u3010 Minecraft 1.19 \u3011\u53eb\u3093\u3067\u3082\u52a9\u3051\u306f\u6765\u306a\u3044\u306b\u3047\uff01\u89d2\u7b1b\u3082\u304e\u53d6\u308a\u968a\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3055\u304f\u3089\u307f\u3053\u3011",
+      "duration": "PT3H47M27S",
+      "videoId": "bzeLvF1ygqI"
     }
   ],
   "craftClips": [
@@ -72215,6 +72243,51 @@
       "title": "Subaru shows the first message Towa sent her [Hololive/ENG Sub]",
       "duration": "PT2M28S",
       "videoId": "cSiSFDLRsn8"
+    },
+    {
+      "sourceStreams": [
+        "5_-e1A7VrhE",
+        "bzeLvF1ygqI"
+      ],
+      "title": "Suisei chases Miko while swinging her axe [Hololive/Eng sub]",
+      "duration": "PT2M5S",
+      "videoId": "UucY1lX9LyQ"
+    },
+    {
+      "sourceStreams": [
+        "5_-e1A7VrhE",
+        "bzeLvF1ygqI"
+      ],
+      "title": "Suisei falls in Miko's trap then panics  [Hololive/Eng sub]",
+      "duration": "PT2M11S",
+      "videoId": "_cab7qickfA"
+    },
+    {
+      "sourceStreams": [
+        "bzeLvF1ygqI",
+        "5_-e1A7VrhE"
+      ],
+      "title": "Sakura Miko Having Bad Time Babysitting Lost Suisei | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M24S",
+      "videoId": "tGJ1dwMny9Q"
+    },
+    {
+      "sourceStreams": [
+        "bzeLvF1ygqI",
+        "5_-e1A7VrhE"
+      ],
+      "title": "Suisei Fell Into Miko Frog Pit Trap | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M29S",
+      "videoId": "Rphw4EHowVM"
+    },
+    {
+      "sourceStreams": [
+        "bzeLvF1ygqI",
+        "5_-e1A7VrhE"
+      ],
+      "title": "Sakura Miko Prank Suisei And End Up Dead | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M44S",
+      "videoId": "gW5rqlfXUaY"
     }
   ]
 }
