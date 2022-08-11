@@ -23410,6 +23410,20 @@
       "title": "\u3010Minecraft\u3011\u590f\u796d\u308a\u306b\u5411\u3051\u3066\u306e\u62e1\u5f35\u5de5\u4e8b\u306a\u3046\u3010\u7345\u767d\u307c\u305f\u3093/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT2H19M48S",
       "videoId": "aJ0lBWur20c"
+    },
+    {
+      "member": "MIKO",
+      "publishedAt": "2022-08-11T06:44:34+00:00",
+      "title": "#5\u3010 Minecraft Hardcore \u3011\u30cf\u30fc\u30c9\u30b3\u30a2100DAYS\ud83c\udf3b\u307f\u3053\u306e\u306a\u3064\u3084\u3059\u307f\uff5e\u304a\u308f\u3089\u306a\u3044\u5168\u30ed\u30b9\u3068\u306e\u6226\u3044\uff5e\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3055\u304f\u3089\u307f\u3053\u3011",
+      "duration": "PT2H35M37S",
+      "videoId": "caMZVieR5e4"
+    },
+    {
+      "member": "OLLIE",
+      "publishedAt": "2022-08-11T07:03:15+00:00",
+      "title": "\u3010MINECRAFT\u3011FINISHING OFF!! LAST SPURT!!\u3010Hololive Indonesia 2nd Gen\u3011",
+      "duration": "PT4H36M20S",
+      "videoId": "OEc2NFCUlN8"
     }
   ],
   "craftClips": [
@@ -73538,6 +73552,14 @@
       "title": "Subaru finds it hard to pick presents for hololive members (Polka Okayu Luna Marine Mio) [ENG Sub]",
       "duration": "PT4M47S",
       "videoId": "fk99DPce7As"
+    },
+    {
+      "sourceStreams": [
+        "aJ0lBWur20c"
+      ],
+      "title": "Bae Accidentally Breaks Botan By Saying \"WAZZZZUP\"\u3010Hololive\u3011",
+      "duration": "PT46S",
+      "videoId": "CpaVPoV569c"
     }
   ]
 }
