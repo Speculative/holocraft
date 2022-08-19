@@ -23585,6 +23585,20 @@
       "title": "\u3010\u30de\u30a4\u30af\u30e9\u3011\u5149\u308b\u30a4\u30ab\u3001\u898b\u306a\u304b\u3063\u305f\uff1f\u5149\u308b\u30a4\u30ab\u58a8\u5927\u4f5c\u6226\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u5927\u795e\u30df\u30aa\u3011",
       "duration": "PT2H13M46S",
       "videoId": "61-TR5fCBO8"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2022-08-19T10:48:30+00:00",
+      "title": "\u3010Minecraft1.19\u3011\u7a81\u7136\u306e\u30de\u30a4\u30af\u30e9\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT3H5M56S",
+      "videoId": "Y3Q44lNoQR8"
+    },
+    {
+      "member": "MIO",
+      "publishedAt": "2022-08-19T12:07:52+00:00",
+      "title": "\u3010\u30de\u30a4\u30af\u30e9\u3011\u8f1d\u304f\u30a4\u30ab\u58a8\u30c8\u30e9\u30c3\u30d7\u3092\u5236\u4f5c\u4e2d\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u5927\u795e\u30df\u30aa\u3011",
+      "duration": "PT2H27M9S",
+      "videoId": "XGxyp-e_JFM"
     }
   ],
   "craftClips": [
@@ -74051,6 +74065,22 @@
       "title": "Subaru no longer the same after playing RUST [hololive/ENG Sub]",
       "duration": "PT1M15S",
       "videoId": "KEpKpijocVU"
+    },
+    {
+      "sourceStreams": [
+        "tHZ0fxUmCfU"
+      ],
+      "title": "Haato's Cute Habit Warms Matsuri & Nene's Heart - Minecraft \u3010ENG Sub Hololive\u3011",
+      "duration": "PT33S",
+      "videoId": "dJa6-t0QL7k"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Subaru won't be watching Steins;Gate 0 after consulting Polka, but will start watching Code Geass",
+      "duration": "PT2M",
+      "videoId": "rzLbJiTyPNo"
     }
   ]
 }
