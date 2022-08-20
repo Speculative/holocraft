@@ -23599,6 +23599,20 @@
       "title": "\u3010\u30de\u30a4\u30af\u30e9\u3011\u8f1d\u304f\u30a4\u30ab\u58a8\u30c8\u30e9\u30c3\u30d7\u3092\u5236\u4f5c\u4e2d\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u5927\u795e\u30df\u30aa\u3011",
       "duration": "PT2H27M9S",
       "videoId": "XGxyp-e_JFM"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2022-08-20T11:07:15+00:00",
+      "title": "\u3010Minecraft1.19\u3011\u4eca\u65e5\u306f\u5c4b\u53f0\u5efa\u7bc9\u3092\u3057\u3066\u3044\u304f\u305e\u305e\u305e\u305e\uff01\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "P0D",
+      "videoId": "I5kILeRsnls"
+    },
+    {
+      "member": "TOWA",
+      "publishedAt": "2022-08-20T15:05:49+00:00",
+      "title": "\u3010Minecraft\u3011\u7af6\u99ac\u5834\u4f5c\u308b\uff01\u305d\u306e2\u3010\u5e38\u95c7\u30c8\u30ef/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT2H38M20S",
+      "videoId": "vhin7MNfehc"
     }
   ],
   "craftClips": [
@@ -74081,6 +74095,14 @@
       "title": "Subaru won't be watching Steins;Gate 0 after consulting Polka, but will start watching Code Geass",
       "duration": "PT2M",
       "videoId": "rzLbJiTyPNo"
+    },
+    {
+      "sourceStreams": [
+        "vhin7MNfehc"
+      ],
+      "title": "Towa Lamenting About Her Not-so-Girly Scream\u3010HOLOLIVE\u3011\u3010ENG SUB\u3011",
+      "duration": "PT1M26S",
+      "videoId": "71I3j5z8Tek"
     }
   ]
 }
