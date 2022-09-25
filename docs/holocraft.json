@@ -24152,6 +24152,13 @@
       "title": "\u3010Minecraft1.19\u3011\u30b5\u30fc\u30d0\u30fc\u4e2d\u306e\u7802\u3092\u304b\u304d\u96c6\u3081\u308b\u914d\u4fe1\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
       "duration": "P0D",
       "videoId": "U2cwg_-7H9k"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2022-09-25T13:41:36+00:00",
+      "title": "\u3010Minecraft1.19\u3011\u306e\u3093\u3073\u308a\u96d1\u8ac7\u5efa\u7bc9\u914d\u4fe1\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "P0D",
+      "videoId": "PGzGqWxzA3w"
     }
   ],
   "craftClips": [
@@ -75387,6 +75394,14 @@
       "title": "Haachama reveals the way she talks in her real life [Hololive/Eng sub]",
       "duration": "PT51S",
       "videoId": "ABqJgvL_Vcg"
+    },
+    {
+      "sourceStreams": [
+        "gG_bQPGUg_4"
+      ],
+      "title": "Sana and Watame Barking, Meowing, and Bleating.\u3010Minecraft\u3011",
+      "duration": "PT2M52S",
+      "videoId": "GX9leqA-jj4"
     }
   ]
 }
