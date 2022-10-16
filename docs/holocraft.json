@@ -21291,13 +21291,6 @@
       "videoId": "iXY7m84ZEYw"
     },
     {
-      "member": "HAATO",
-      "publishedAt": "2022-02-18T13:06:21+00:00",
-      "title": "\u3010Minecraft\u3011AKUKIN\uff1f\u77e5\u3089\u306d\u3047\u3051\u3069\u3001\u30a2\u30a4\u30b5\u30c4\u3057\u307e\u3059\u308f\uff5e\uff5e\uff5e\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u306f\u3042\u3061\u3083\u307e\u3011",
-      "duration": "PT59M16S",
-      "videoId": "axdsG1Z4OpQ"
-    },
-    {
       "member": "MOONA",
       "publishedAt": "2022-02-18T17:20:11+00:00",
       "title": "\u3010Minecraft\u3011Chill bro... moona will find a way.\u3010#MoonArchitect\u3011",
@@ -46544,7 +46537,6 @@
     },
     {
       "sourceStreams": [
-        "axdsG1Z4OpQ",
         "iXY7m84ZEYw"
       ],
       "title": "Haachama Who Loves Aqua-chan Sends Her Presents In Aquahabara's Construction Area",
@@ -46593,14 +46585,6 @@
     },
     {
       "sourceStreams": [
-        "axdsG1Z4OpQ"
-      ],
-      "title": "Haachama Rage Because No One Play Minecraft Anymore | Minecraft [Hololive/Eng Sub]",
-      "duration": "PT1M42S",
-      "videoId": "_efg4WGlNTM"
-    },
-    {
-      "sourceStreams": [
         "iXY7m84ZEYw"
       ],
       "title": "Minato Aqua Finds A Stalker In The Hololive Minecraft Server...\u3010Hololive/Eng Sub\u3011",
@@ -46614,38 +46598,6 @@
       "title": "Okayu got Subaru to confess to Okayu talking about food with Towa [Hololive/ENG Sub]",
       "duration": "PT2M59S",
       "videoId": "aFTOmbZ_sQ8"
-    },
-    {
-      "sourceStreams": [
-        "axdsG1Z4OpQ"
-      ],
-      "title": "Haachama built a gigantic building but she gets sad because nobody notices the building [Hololive]",
-      "duration": "PT1M4S",
-      "videoId": "OCxrQTGx514"
-    },
-    {
-      "sourceStreams": [
-        "axdsG1Z4OpQ"
-      ],
-      "title": "Tsundere Haachama Denied That She Love Aqua So Much | Minecraft [Hololive/Eng Sub]",
-      "duration": "PT1M24S",
-      "videoId": "izeTjTS8Af8"
-    },
-    {
-      "sourceStreams": [
-        "axdsG1Z4OpQ"
-      ],
-      "title": "Haachama Attacks Minato Aqua's AKUKIN Underground Empire\u3010Hololive/Eng Sub\u3011",
-      "duration": "PT9M53S",
-      "videoId": "n1PoZUfJHS0"
-    },
-    {
-      "sourceStreams": [
-        "axdsG1Z4OpQ"
-      ],
-      "title": "Haachama Ded multiple times at Akukin HQ",
-      "duration": "PT54S",
-      "videoId": "xyL-7uzwpgQ"
     },
     {
       "sourceStreams": [
@@ -46673,20 +46625,11 @@
     },
     {
       "sourceStreams": [
-        "axdsG1Z4OpQ",
         "iXY7m84ZEYw"
       ],
       "title": "Haachama caught Aqua saying \"Haachama loves me so much\" in her stream [Hololive/Eng sub]",
       "duration": "PT1M10S",
       "videoId": "pwTBmS_jBDU"
-    },
-    {
-      "sourceStreams": [
-        "axdsG1Z4OpQ"
-      ],
-      "title": "[Hololive Compilation] Ritore's Translator Choice #83 [02/20/2022]",
-      "duration": "PT8M48S",
-      "videoId": "eNsu52CkTl8"
     },
     {
       "sourceStreams": [
@@ -46714,8 +46657,7 @@
     },
     {
       "sourceStreams": [
-        "9XdIVvpXfSg",
-        "axdsG1Z4OpQ"
+        "9XdIVvpXfSg"
       ],
       "title": "Miko's Reaction When Seeing Gigantic Flying Castle Built By Haachama Kensetsu In HoloEN Server",
       "duration": "PT2M38S",
