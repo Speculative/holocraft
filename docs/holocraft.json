@@ -24271,6 +24271,20 @@
       "title": "\u3010\u96d1\u8ac7Minecraft\u3011\u71b1\u5e2f\u9b5a\u96c6\u3081\u3064\u3064\u6c34\u4f4d\u3092\u5897\u3084\u3059\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
       "duration": "P0D",
       "videoId": "ZYnj9_HjnVo"
+    },
+    {
+      "member": "REINE",
+      "publishedAt": "2022-10-19T12:28:47+00:00",
+      "title": "\u3010MINECRAFT\u3011CASTLE & WAFFLE\u3010Reine/Kaela/hololiveID\u3011",
+      "duration": "P0D",
+      "videoId": "spX4D4B2olU"
+    },
+    {
+      "member": "HAATO",
+      "publishedAt": "2022-10-19T12:48:48+00:00",
+      "title": "\u3010Minecraft\u3011\u3061\u3083\u307e\u30dd\u30bf\uff01\u30db\u30b0\u30ef\u30fc\u30c4\u57ce\u306e\u5927\u5e83\u9593\u4f5c\u308b\u301c\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u8d64\u4e95\u306f\u3042\u3068\u3011",
+      "duration": "PT2H32M32S",
+      "videoId": "ONnTH70z8Gk"
     }
   ],
   "craftClips": [
@@ -75217,6 +75231,14 @@
       "title": "\u3010Hololive/Eng sub\u3011Watame Sushi open! Peh Peh Peh! \u3010Tsunomaki Watame\u3011",
       "duration": "PT2M50S",
       "videoId": "uakp823bAAc"
+    },
+    {
+      "sourceStreams": [
+        "ONnTH70z8Gk"
+      ],
+      "title": "Haachama Chats With Reine Using Her Godlike English Skills - Minecraft \u3010ENG Sub Hololive\u3011",
+      "duration": "PT2M25S",
+      "videoId": "JuI66SyRvhw"
     }
   ]
 }
