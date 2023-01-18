@@ -24824,6 +24824,27 @@
       "title": "\u3010MINECRAFT\u3011I'M KEEPING MY PROMISE, KAELA\u3010Hololive Indonesia 2nd Gen\u3011",
       "duration": "P0D",
       "videoId": "KmKuKZZU8m8"
+    },
+    {
+      "member": "FLARE",
+      "publishedAt": "2023-01-18T15:58:36+00:00",
+      "title": "\u3010\u30de\u30a4\u30f3\u30af\u30e9\u30d5\u30c8/Minecraft\u3011\u65b0\u30db\u30ed\u9bd6\u304c\u304d\u305f\u3089\u3057\u3044\u3010\u4e0d\u77e5\u706b\u30d5\u30ec\u30a2/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT2H28M56S",
+      "videoId": "ToDdmZgU5VQ"
+    },
+    {
+      "member": "PEKORA",
+      "publishedAt": "2023-01-18T16:01:02+00:00",
+      "title": "\u3010Minecraft\u3011\u30db\u30ed\u9bd6\u306b\u65b0\u30ef\u30fc\u30eb\u30c9\u304d\uff54\u3089\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
+      "duration": "PT4H27M12S",
+      "videoId": "8J5YVI7PiAY"
+    },
+    {
+      "member": "KANATA",
+      "publishedAt": "2023-01-18T16:06:59+00:00",
+      "title": "\u3010Minecraft\u3011\u65b0\u30db\u30ed\u9bd6\u30ef\u30fc\u30eb\u30c9\u89e3\u7981\uff01\uff01\uff01\uff01\uff01\u3010\u5929\u97f3\u304b\u306a\u305f/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT5H26M43S",
+      "videoId": "sCZZ9jt_Mfs"
     }
   ],
   "craftClips": [
@@ -67217,6 +67238,30 @@
       "title": "Pekora Thought Gura's Cute Voice Was Perfect For Their Live Song Together\u3010Hololive\u3011",
       "duration": "PT43S",
       "videoId": "jXUBi0KzT1g"
+    },
+    {
+      "sourceStreams": [
+        "8J5YVI7PiAY"
+      ],
+      "title": "*NEW HOLOSERVER* Pekora's Adventure Started With TRAGIC COMEDY - Minecraft \u3010ENG Sub Hololive\u3011",
+      "duration": "PT5M5S",
+      "videoId": "cWcX0q5A-xo"
+    },
+    {
+      "sourceStreams": [
+        "8J5YVI7PiAY"
+      ],
+      "title": "Pekora Totally Forget How To Be Pro Minecraft  [Hololive/Eng Sub]",
+      "duration": "PT1M30S",
+      "videoId": "6_c-2d3eROo"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Subaru asks Sora for advice on collab with Azki, but Sora has full confidence on Subaru [hololive]",
+      "duration": "PT2M25S",
+      "videoId": "_RNeX-L9rCM"
     }
   ]
 }
