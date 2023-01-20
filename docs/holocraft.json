@@ -24873,6 +24873,27 @@
       "title": "\u3010 Minecraft \u3011\u65b0\u3057\u3044\u30db\u30ed\u9bd6\u304c\u3067\u304d\u305f\u3089\u3057\u3044\ud83d\udc40\u2728\u6df1\u591c\u63a2\u7d22\u3057\u3088\uff5e\ud83c\udf19\u2728\u3010 #\u30ed\u30dc\u5b50\u751f\u653e\u9001 /\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT1H55M57S",
       "videoId": "uTlwyk05n4Q"
+    },
+    {
+      "member": "SORA",
+      "publishedAt": "2023-01-20T08:09:55+00:00",
+      "title": "\u3010Minecraft\u3011\u65b0\u3057\u3044\u4e16\u754c\u304c\u3067\u304d\u305f\u3068\u805e\u3044\u3066\uff01\uff01\u3010#\u3068\u304d\u306e\u305d\u3089\u751f\u653e\u9001\u3011",
+      "duration": "PT4H2S",
+      "videoId": "ffWAhA5h60U"
+    },
+    {
+      "member": "KORONE",
+      "publishedAt": "2023-01-20T10:32:45+00:00",
+      "title": "\u3010Minecraft\u3011\u4e45\u3057\u3076\u308a\u3059\u304e\u3066\u3082\u306f\u3084\u521d\u898b\u2606\u65b0\u30db\u30ed\u9bd6\u3078\u3086\u304f\u306e\u5dfb\u3010\u620c\u795e\u3053\u308d\u306d/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "P0D",
+      "videoId": "WAeVrxKMaE4"
+    },
+    {
+      "member": "PEKORA",
+      "publishedAt": "2023-01-20T15:50:30+00:00",
+      "title": "\u3010Minecraft\u3011\u30ab\u30c3\u30b3\u30a4\u30a4\u79d8\u5bc6\u57fa\u5730\u4f5c\u308b\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
+      "duration": "PT3H18M23S",
+      "videoId": "ft-5W8Rfnm0"
     }
   ],
   "craftClips": [
@@ -67306,6 +67327,32 @@
       "title": "Kaela can't quite decipher this Pekolish sentences\u3010Both POVs\u3011",
       "duration": "PT1M41S",
       "videoId": "cG620mPyIhY"
+    },
+    {
+      "sourceStreams": [
+        "HS3NLPkhDFI",
+        "VEc3gu9uW6E"
+      ],
+      "title": "Botan Witnesses Fire at Miko's Office but Decides to Let It Burn",
+      "duration": "PT4M19S",
+      "videoId": "Vs5bNrJiIMM"
+    },
+    {
+      "sourceStreams": [
+        "VEc3gu9uW6E"
+      ],
+      "title": "Series Of Unfortunate Events Lead Sakura Miko Into Diamond Deposit | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M54S",
+      "videoId": "dueCceOf3xI"
+    },
+    {
+      "sourceStreams": [
+        "VEc3gu9uW6E",
+        "HS3NLPkhDFI"
+      ],
+      "title": "Botan And Miko Can't Stop Laughing At Freezing Koyori | Minecraft |[Hololive/Eng Sub]",
+      "duration": "PT1M6S",
+      "videoId": "-cE4SneQPAk"
     }
   ]
 }
