@@ -25160,6 +25160,48 @@
       "title": "\u3010Minecraft\u3011\u88c5\u5099\u3084\u62e0\u70b9\u3092\u6700\u5f37\u306b\u3057\u305f\u3044\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
       "duration": "PT3H10M14S",
       "videoId": "dnfh_cSj91c"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2023-02-01T05:12:03+00:00",
+      "title": "\u3010EN\u00d7JP\u30b3\u30e9\u30dc\uff01\u3011Welcome TEMPUS 2nd gen!! \u4e00\u7dd2\u306b\u30b5\u30fc\u30d0\u30fc\u89b3\u5149\u3057\u3088\u3046\uff01\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9\u8996\u70b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT1H40M41S",
+      "videoId": "f0-WvHjwKk8"
+    },
+    {
+      "member": "SORA",
+      "publishedAt": "2023-02-01T14:07:29+00:00",
+      "title": "\u3010minecraft\u3011ID\u306e\u59b9iofi\u3061\u3083\u3093\u3068\u30b5\u30fc\u30d0\u30fc\u63a2\u691c\u3010#\u3068\u304d\u306e\u305d\u3089\u751f\u653e\u9001 /\u30db\u30ed\u30e9\u30a4\u30d6/Airani Iofifteen\u3011",
+      "duration": "P0D",
+      "videoId": "Kv8MnJLN3nQ"
+    },
+    {
+      "member": "SORA",
+      "publishedAt": "2023-02-01T14:14:09+00:00",
+      "title": "\u3010minecraft\u3011EN\u306e\u304a\u53cb\u9054\u3079\u30fc\u3061\u3083\u3093\u3068\u30de\u30a4\u30af\u30e9\u3067\u5192\u967a\uff01\uff01\u3010#\u3068\u304d\u306e\u305d\u3089\u751f\u653e\u9001 /\u30db\u30ed\u30e9\u30a4\u30d6/Hakos Baelz \u3011",
+      "duration": "P0D",
+      "videoId": "gADdgOUMw4k"
+    },
+    {
+      "member": "KANATA",
+      "publishedAt": "2023-02-01T14:41:02+00:00",
+      "title": "\u3010Minecraft\u3011\u660e\u65e5\u30a8\u30f3\u30c9\u30e9\u5012\u3059\u3063\u3066\u307e\u3058\u3067\u3059\u304b\uff1f\uff1f\uff1f\u3010\u5929\u97f3\u304b\u306a\u305f/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT4H9M16S",
+      "videoId": "qurJ6DzaZw8"
+    },
+    {
+      "member": "PEKORA",
+      "publishedAt": "2023-02-01T16:10:30+00:00",
+      "title": "\u3010Minecraft\u3011\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
+      "duration": "P0D",
+      "videoId": "utPEH5Y0fnU"
+    },
+    {
+      "member": "TOWA",
+      "publishedAt": "2023-02-01T16:14:42+00:00",
+      "title": "\u3010Minecraft\u3011\u307b\u308d\u3055\u3070\uff5e\uff5e in PEBOT\u3010\u5e38\u95c7\u30c8\u30ef/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "P0D",
+      "videoId": "RQxbJLX2KgU"
     }
   ],
   "craftClips": [
@@ -68118,6 +68160,22 @@
       "title": "Pekora Has An Evil Plan For Kaela In Mind | Minecraft [Hololive/Eng Sub]",
       "duration": "PT1M29S",
       "videoId": "LtrQHLg4VSY"
+    },
+    {
+      "sourceStreams": [
+        "dnfh_cSj91c"
+      ],
+      "title": "Pekora Saying \"Hey Kaela\" Sounds Surprisingly Terrifying\u3010Hololive\u3011",
+      "duration": "PT43S",
+      "videoId": "1WJiXe6lxhY"
+    },
+    {
+      "sourceStreams": [
+        "dnfh_cSj91c"
+      ],
+      "title": "Pekora Wants 10,000 Copper To Settle PekoChama Dispute - New Holoserver Minecraft \u3010ENG Sub Hololive\u3011",
+      "duration": "PT1M29S",
+      "videoId": "kH3U5RQPg1w"
     }
   ]
 }
