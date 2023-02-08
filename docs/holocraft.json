@@ -25349,6 +25349,27 @@
       "title": "\u3010 Minecraft \u3011\u521d\uff01\u30cd\u30b6\u30e9\u30a4\u30c8\u88c5\u5099\u3064\u304f\u308a\u305f\u3044\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u590f\u8272\u307e\u3064\u308a\u3011",
       "duration": "PT3H55M57S",
       "videoId": "wc9npigkbLM"
+    },
+    {
+      "member": "MATSURI",
+      "publishedAt": "2023-02-08T07:04:14+00:00",
+      "title": "\u3010 Minecraft \u3011\u307e\u3063\u305f\u308a\u663c\u91e3\u308a\u96d1\u8ac7\ud83c\udfa3\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u590f\u8272\u307e\u3064\u308a\u3011",
+      "duration": "PT3H34M27S",
+      "videoId": "N2MVACnZnLg"
+    },
+    {
+      "member": "SORA",
+      "publishedAt": "2023-02-08T10:29:57+00:00",
+      "title": "\u3010minecraft\u3011\u305d\u3089\u30c8\u30ec\u30a4\u30f3\u65b0\u30b5\u30fc\u30d0\u30fc\u6e96\u5099\uff01\uff01\u3010#\u3068\u304d\u306e\u305d\u3089\u751f\u653e\u9001 /\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "P0D",
+      "videoId": "JScPWquNRSo"
+    },
+    {
+      "member": "TOWA",
+      "publishedAt": "2023-02-08T16:11:34+00:00",
+      "title": "\u3010Minecraft\u3011\u30db\u30ed\u65b0\u30b5\u30fc\u30d0\u30fc\u3067\u304a\u3046\u3061\u3065\u304f\u308a\uff01PART2\u3010\u5e38\u95c7\u30c8\u30ef/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT2H51M24S",
+      "videoId": "VNxAGLVEjIk"
     }
   ],
   "craftClips": [
@@ -68587,6 +68608,14 @@
       "title": "Kazama Iroha Built Korone a Proper Trash Can After Zenlos Accident | Minecraft [Hololive/Eng Sub]",
       "duration": "PT1M29S",
       "videoId": "Jxm0zci0ExQ"
+    },
+    {
+      "sourceStreams": [
+        "W-Jbw-9lGHA"
+      ],
+      "title": "Pekora Refuses Alliance & Tries To Sell Copper To Iroha - New Holoserver Minecraft\u3010ENG Sub Hololive\u3011",
+      "duration": "PT1M10S",
+      "videoId": "2BVM7pC5U0I"
     }
   ]
 }
