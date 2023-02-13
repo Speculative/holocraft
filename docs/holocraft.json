@@ -25253,13 +25253,6 @@
       "videoId": "BKxR7SbifYE"
     },
     {
-      "member": "ROBOCO",
-      "publishedAt": "2023-02-04T11:05:58+00:00",
-      "title": "\u3010 Minecraft \u3011\u30c0\u30a4\u30e4\u307b\u3057\u3044\u3044\u3044\u3044\u3044\u3044\u3044\u2728\uff11\uff19\u6642\uff5e\u6b4c\u307f\u305f\u540c\u6642\u8996\u8074\uff01\u3010 #\u30ed\u30dc\u5b50\u751f\u653e\u9001 /\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
-      "duration": "PT2H24M35S",
-      "videoId": "O1bkYqux_Ug"
-    },
-    {
       "member": "FLARE",
       "publishedAt": "2023-02-04T11:56:18+00:00",
       "title": "\u3010\u30de\u30a4\u30f3\u30af\u30e9\u30d5\u30c8/Minecraft\u3011\u307e\u3063\u305f\u308a\u30db\u30ed\u9bd6\u5efa\u7bc9\ud83c\udfe0\ud83c\udf32\u3010\u4e0d\u77e5\u706b\u30d5\u30ec\u30a2/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
@@ -25419,6 +25412,20 @@
       "title": "\u3010 Minecraft \u3011\u3082\u3046\u6016\u304f\u306a\u3044\uff01\u30cd\u30b6\u30fc\u306f\u5ead\uff01\u5b89\u5fc3\u5b89\u5168\uff01\u3010 \u6843\u9234\u306d\u306d / \u30db\u30ed\u30e9\u30a4\u30d6 \u3011",
       "duration": "PT2H26M41S",
       "videoId": "CsZx6zM5pjg"
+    },
+    {
+      "member": "TOWA",
+      "publishedAt": "2023-02-13T11:42:31+00:00",
+      "title": "\u3010Minecraft\u3011\u30db\u30ed\u65b0\u30b5\u30fc\u30d0\u30fc\u3067\u304a\u3046\u3061\u3065\u304f\u308a\uff01PART3\u3010\u5e38\u95c7\u30c8\u30ef/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT2H14M53S",
+      "videoId": "VUwpT3B-QcE"
+    },
+    {
+      "member": "PEKORA",
+      "publishedAt": "2023-02-13T15:59:14+00:00",
+      "title": "\u3010Minecraft\u3011\u30de\u30a4\u30af\u30e9\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
+      "duration": "PT2H36M30S",
+      "videoId": "SpNeE5sSZAE"
     }
   ],
   "craftClips": [
@@ -68531,14 +68538,6 @@
     },
     {
       "sourceStreams": [
-        "O1bkYqux_Ug"
-      ],
-      "title": "Roboco Was Astonished By Miko's Fancy & Cute House - New Holoserver Minecraft \u3010ENG Sub Hololive\u3011",
-      "duration": "PT1M49S",
-      "videoId": "tYg1kVvQjy0"
-    },
-    {
-      "sourceStreams": [
         "gADdgOUMw4k"
       ],
       "title": "Sora Tries To Say \"Pickaxe\" In English But It Sounded Like \"Pickle\"\u3010Hololive\u3011",
@@ -68754,6 +68753,22 @@
       "title": "When no one in group made it to Ender Dragon before and now attempting 1 block challenge",
       "duration": "PT1M19S",
       "videoId": "S5Abj7uGTQg"
+    },
+    {
+      "sourceStreams": [
+        "BcYDUUFbj7A"
+      ],
+      "title": "Korone Accidentally Throws Okayu into Pig Jail [Hololive/SMOK]",
+      "duration": "PT2M15S",
+      "videoId": "h_nseCJRp7A"
+    },
+    {
+      "sourceStreams": [
+        "SpNeE5sSZAE"
+      ],
+      "title": "Pekora Playing With Lava Inside Koyori Lab | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M32S",
+      "videoId": "b8hPsjWCp_E"
     }
   ]
 }
