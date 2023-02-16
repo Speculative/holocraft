@@ -25440,6 +25440,48 @@
       "title": "\u3010Minecraft\u3011\u30ec\u30fc\u30eb\u7e4b\u3052\u3066\u79d8\u5bc6\uff08\u306b\u306a\u308b\u4e88\u5b9a\uff09\u306e\u5834\u6240\u307e\u3067\u7e4b\u3052\uff01\uff01\u3010\u5929\u97f3\u304b\u306a\u305f/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT3H47M21S",
       "videoId": "GwGkuHjFT8A"
+    },
+    {
+      "member": "MIKO",
+      "publishedAt": "2023-02-16T08:56:23+00:00",
+      "title": "\u3010 Minecraft \u3011\u305f\u306e\u3057\u3044\u30de\u30a4\u30af\u30e9\u306e\u3058\u304b\u3093\u3060\u306b\u3047\uff01\uff01\uff01\uff01\uff01\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3055\u304f\u3089\u307f\u3053\u3011",
+      "duration": "PT3H52M57S",
+      "videoId": "hyBMnyS5Duo"
+    },
+    {
+      "member": "NENE",
+      "publishedAt": "2023-02-16T11:20:24+00:00",
+      "title": "\u3010 Minecraft \u3011\u91d1\u9271\u77f3\u304c\u3044\u3063\u3071\u3044\u307b\u3057\u3044\uff01\uff01\uff01\uff01\uff01\uff01\uff01\u3010 \u6843\u9234\u306d\u306d / \u30db\u30ed\u30e9\u30a4\u30d6 \u3011",
+      "duration": "PT2H6M36S",
+      "videoId": "ycIqjAYaN0s"
+    },
+    {
+      "member": "MATSURI",
+      "publishedAt": "2023-02-16T13:19:16+00:00",
+      "title": "\u3010 Minecraft \u3011\u6df1\u591c\u306b\u7761\u7720\u5c0e\u5165\u91e3\u308a\u914d\u4fe1\ud83d\udc21\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u590f\u8272\u307e\u3064\u308a\u3011",
+      "duration": "P0D",
+      "videoId": "4Dy7IAiTlC4"
+    },
+    {
+      "member": "HAATO",
+      "publishedAt": "2023-02-16T14:22:38+00:00",
+      "title": "\u3010 Minecraft \u3011\u3044\u308d\u306f\u3061\u3083\u3093\u3068\u304a\u30c7\u30fc\u30c8\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u8d64\u4e95\u306f\u3042\u3068/\u98a8\u771f\u3044\u308d\u306f\u3011",
+      "duration": "PT2H1M14S",
+      "videoId": "T1KDSK5FgpM"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2023-02-16T15:36:39+00:00",
+      "title": "\u3010\u30cf\u30fc\u30c9\u30b3\u30a2Minecraft\u3011#2 \u4eca\u65e5\u306f\u3064\u3044\u306b\u30cd\u30b6\u30fc\u3092\u63a2\u7d22\u3057\u305f\u3044\u3068\u601d\u3044\u307e\u3059\uff01\u3010\u82b1\u54b2\u307f\u3084\u3073/\u5f8b\u53ef/\u5f71\u5c71\u30b7\u30a8\u30f3/\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "P0D",
+      "videoId": "2Y64kYSOVzk"
+    },
+    {
+      "member": "SHION",
+      "publishedAt": "2023-02-16T15:37:44+00:00",
+      "title": "\u3010Minecraft\u3011\u5869\u30d1\u30f3\u3067\u65b0\u30db\u30ed\u9bd6\u306b\u4e57\u308a\u8fbc\u3080\u305e\u30fc\uff01\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u7d2b\u54b2\u30b7\u30aa\u30f3/\u620c\u795e\u3053\u308d\u306d\u3011",
+      "duration": "PT3H10M43S",
+      "videoId": "bNf0lNiq7Fw"
     }
   ],
   "craftClips": [
@@ -68799,6 +68841,22 @@
       "title": "Natsuiro Matsuri Use Kindness To Traumatized Kanata | Minecraft [Hololive/Eng Sub]",
       "duration": "PT2M36S",
       "videoId": "0s4qIjFlM58"
+    },
+    {
+      "sourceStreams": [
+        "ycIqjAYaN0s"
+      ],
+      "title": "Nene Met Ina IRL and Didn't Even Notice...\u3010Hololive\u3011",
+      "duration": "PT3M4S",
+      "videoId": "Fyo1NaqnQPM"
+    },
+    {
+      "sourceStreams": [
+        "bNf0lNiq7Fw"
+      ],
+      "title": "Korone And Shion Doing Dumb And Dumberer Minecart Trip | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M25S",
+      "videoId": "uJjTdC3rfxc"
     }
   ]
 }
