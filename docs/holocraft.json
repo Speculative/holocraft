@@ -25482,6 +25482,27 @@
       "title": "\u3010Minecraft\u3011\u5869\u30d1\u30f3\u3067\u65b0\u30db\u30ed\u9bd6\u306b\u4e57\u308a\u8fbc\u3080\u305e\u30fc\uff01\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u7d2b\u54b2\u30b7\u30aa\u30f3/\u620c\u795e\u3053\u308d\u306d\u3011",
       "duration": "PT3H10M43S",
       "videoId": "bNf0lNiq7Fw"
+    },
+    {
+      "member": "MIYABI",
+      "publishedAt": "2023-02-17T08:48:02+00:00",
+      "title": "\u3010Minecraft\u30114\u4eba\u3067\u30cf\u30fc\u30c9\u30b3\u30a2!!\u30a8\u30f3\u30c9\u30e9\u8a0e\u4f10\u3078\u306e\u9053\u3010\u82b1\u54b2\u307f\u3084\u3073/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "P0D",
+      "videoId": "Tyta6iY4RIA"
+    },
+    {
+      "member": "LAMY",
+      "publishedAt": "2023-02-17T14:51:55+00:00",
+      "title": "\u3010Minecraft\u3011\u65b0\u9bd6\u3092\u63a2\u691c\u3059\u308b\uff01\u3010\u96ea\u82b1\u30e9\u30df\u30a3/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT1H40M10S",
+      "videoId": "uKNxsjgkvUs"
+    },
+    {
+      "member": "SORA",
+      "publishedAt": "2023-02-17T15:05:03+00:00",
+      "title": "\u3010minecraft\u3011\u305d\u3089\u307f\u3053\u306e\u5192\u967a\uff01\uff01\u3010#\u305d\u3089\u307f\u3053/\u30db\u30ed\u30e9\u30a4\u30d6/\u3055\u304f\u3089\u307f\u3053/\u3068\u304d\u306e\u305d\u3089\u3011",
+      "duration": "PT1H53M39S",
+      "videoId": "P42Rgq8npyU"
     }
   ],
   "craftClips": [
@@ -68857,6 +68878,63 @@
       "title": "Korone And Shion Doing Dumb And Dumberer Minecart Trip | Minecraft [Hololive/Eng Sub]",
       "duration": "PT1M25S",
       "videoId": "uJjTdC3rfxc"
+    },
+    {
+      "sourceStreams": [
+        "bNf0lNiq7Fw"
+      ],
+      "title": "Korone and Shion Notice Something Off at Botan's Steak Shop [Hololive]",
+      "duration": "PT2M",
+      "videoId": "lD3NMZkXmOw"
+    },
+    {
+      "sourceStreams": [
+        "uKNxsjgkvUs"
+      ],
+      "title": "Lamy Gets Triggered By Chloe's Lack Of Attention To Detail - Minecraft Reaction \u3010ENG Sub Hololive\u3011",
+      "duration": "PT1M20S",
+      "videoId": "G_iz8vCnNrs"
+    },
+    {
+      "sourceStreams": [
+        "uKNxsjgkvUs"
+      ],
+      "title": "Lamy Can't Believe Nene's Beetle Will Be 5th Gen House - Minecraft \u3010ENG Sub Hololive\u3011",
+      "duration": "PT1M4S",
+      "videoId": "ybJ9LXzEzSM"
+    },
+    {
+      "sourceStreams": [
+        "P42Rgq8npyU"
+      ],
+      "title": "Sakura Miko Accidently Hit Sora And Make Her Cry | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M3S",
+      "videoId": "8mwzwdjQuvk"
+    },
+    {
+      "sourceStreams": [
+        "P42Rgq8npyU"
+      ],
+      "title": "Tokino Sora Can't Stop Laughing At Miko Getting Crushed By Wall Trap | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT45S",
+      "videoId": "pda8mIJTStE"
+    },
+    {
+      "sourceStreams": [
+        "bNf0lNiq7Fw"
+      ],
+      "title": "Korone And Shion Called Matsuri House a Torrture Chamber | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M21S",
+      "videoId": "9C0CwzE98oY"
+    },
+    {
+      "sourceStreams": [
+        "hyBMnyS5Duo",
+        "bNf0lNiq7Fw"
+      ],
+      "title": "Korone And Shion Accidentally Made Miko Cry | Minecraft  [Hololive/Eng Sub]",
+      "duration": "PT1M48S",
+      "videoId": "rjaxO75I0Vw"
     }
   ]
 }
