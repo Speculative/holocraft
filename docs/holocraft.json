@@ -25517,1162 +25517,37 @@
       "title": "\u3010Minecraft\u3011\u56de\u8def\u3068\u30d6\u30e9\u30a4\u30c8\u308f\u305f\u3081\u4f5c\u308a\u305f\u3044\uff01\u3010\u89d2\u5dfb\u308f\u305f\u3081/\u30db\u30ed\u30e9\u30a4\u30d6\uff14\u671f\u751f\u3011",
       "duration": "P0D",
       "videoId": "4QDn-hyeQnE"
+    },
+    {
+      "member": "OKAYU",
+      "publishedAt": "2023-02-19T17:10:15+00:00",
+      "title": "\u3010\u30de\u30a4\u30f3\u30af\u30e9\u30d5\u30c8/Minecraft\u3011\u81ea\u5206\u306e\u30b5\u30fc\u30d0\u30fc\u306b\u3066\uff01\u672c\u65e5\u4fee\u884c\uff01\u2728\u3010\u732b\u53c8\u304a\u304b\u3086/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "P0D",
+      "videoId": "B31uOMl3X_E"
+    },
+    {
+      "member": "HAATO",
+      "publishedAt": "2023-02-20T04:30:54+00:00",
+      "title": "\u3010 Hogwarts in Minecraft \u3011\u6df1\u591c\u306e\u307e\u3063\u305f\u308a\u30de\u30a4\u30af\u30e9\u266a\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u8d64\u4e95\u306f\u3042\u3068\u3011",
+      "duration": "P0D",
+      "videoId": "W1sn2dVGsCE"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2023-02-20T07:47:52+00:00",
+      "title": "\u3010Minecraft\u3011\u8d85\u4e45\u3005\u306b\u5929\u771f\u6751\u306b\u304d\u305f\u5b88\u8b77\u8005\u3002\u304a\u7247\u3065\u3051\u3092\u3059\u308b\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "P0D",
+      "videoId": "QXs_M0pR1cc"
+    },
+    {
+      "member": "PEKORA",
+      "publishedAt": "2023-02-20T15:49:58+00:00",
+      "title": "\u3010Minecraft\u3011\u6563\u3005\u306a\u8a00\u308f\u308c\u3088\u3046\u306e\u307a\u3053\u3089\u30bf\u30ef\u30fc\u3092\u6539\u9020\u3057\u307e\u3059\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
+      "duration": "PT3H17M9S",
+      "videoId": "LkiR_4-t6EU"
     }
   ],
   "craftClips": [
-    {
-      "sourceStreams": [
-        "uymqvgGR5aE"
-      ],
-      "title": "\u3010Hololive\u3011Rushia's Revenge Lead to Total Item Loss\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT10M3S",
-      "videoId": "L0zMSZj6OMM"
-    },
-    {
-      "sourceStreams": [
-        "7n76dt5ZKks",
-        "pCErOEYqi7o",
-        "jHWZnoBKxVg",
-        "qUygTdW6ZG8",
-        "bcUhphovmYI"
-      ],
-      "title": "\u3010Hololive\u3011Four Heavenly Kings Falling Apart ft. Miko, Flare, Polka, Kanata,Botan\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT10M",
-      "videoId": "_13dFPGNSWE"
-    },
-    {
-      "sourceStreams": [
-        "7n76dt5ZKks",
-        "pCErOEYqi7o",
-        "jHWZnoBKxVg",
-        "qUygTdW6ZG8",
-        "bcUhphovmYI"
-      ],
-      "title": "\u3010Hololive\u3011Emergency Quest ft. Miko, Flare, Botan, Kanata, Polka\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT14M4S",
-      "videoId": "TpmUMpwtyA8"
-    },
-    {
-      "sourceStreams": [
-        "KKoKI2sXLgs"
-      ],
-      "title": "\u3010Hololive\u3011Towa: New Victim Of \"The Sorrow\" Trap\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M29S",
-      "videoId": "kc2DtV6TARk"
-    },
-    {
-      "sourceStreams": [
-        "qiz8gUY1Z9I"
-      ],
-      "title": "\u3010Hololive\u3011Pekora's Sacrifice Ritual (Chicken to Rose)\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT9M3S",
-      "videoId": "btytlhJfyOU"
-    },
-    {
-      "sourceStreams": [
-        "fVdzGPtCOBc"
-      ],
-      "title": "\u3010Hololive\u3011Rushia: Love Confession From Subaru\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M26S",
-      "videoId": "4vwCs16zZB0"
-    },
-    {
-      "sourceStreams": [
-        "7yqkgUdu8B8",
-        "lmAfQcIEHek",
-        "MhRRfZHevug"
-      ],
-      "title": "\u3010Hololive\u3011Menya Botan Taking Over Holo Server\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT10M59S",
-      "videoId": "-fpdDI46q6U"
-    },
-    {
-      "sourceStreams": [
-        "sDYIpRyEvNo"
-      ],
-      "title": "\u3010Hololive\u3011Subaru Met With an Unexpected Crisis During Pre-Stream\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M32S",
-      "videoId": "CI4LALO_IOU"
-    },
-    {
-      "sourceStreams": [
-        "bRYYJU88q6Y"
-      ],
-      "title": "\u3010Hololive\u3011AKUKIN New Salary System: Cod Gacha\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M3S",
-      "videoId": "53_hyjsfmRs"
-    },
-    {
-      "sourceStreams": [
-        "gRLpeZrj_MQ",
-        "uB53SJNuToA"
-      ],
-      "title": "\u3010Hololive\u3011Pekora Used Noel to De-stress\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT10M23S",
-      "videoId": "cSEHFam00zs"
-    },
-    {
-      "sourceStreams": [
-        "gRLpeZrj_MQ",
-        "egTpXCr0p9E"
-      ],
-      "title": "\u3010Hololive\u3011Pekora Recruiting Botan to Usada Construction\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT10M31S",
-      "videoId": "TG3007claIk"
-    },
-    {
-      "sourceStreams": [
-        "aSDdkqpPsdE"
-      ],
-      "title": "\u3010Hololive\u3011Coco House Destroyed By Creeper Again!?\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M25S",
-      "videoId": "FKyIUp6JCbk"
-    },
-    {
-      "sourceStreams": [
-        "BejV_UYBMuU",
-        "mghBi8M7c5w"
-      ],
-      "title": "\u3010Hololive\u3011Watame Feels Responsible for Miko's Total Item Loss\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT10M24S",
-      "videoId": "AKOtq7fov14"
-    },
-    {
-      "sourceStreams": [
-        "A99d4galwjI"
-      ],
-      "title": "\u3010Hololive\u3011Kanata: Ender Dragon Escaped\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT5M7S",
-      "videoId": "CfuRPPeYD1I"
-    },
-    {
-      "sourceStreams": [
-        "YICTdOYB5qM"
-      ],
-      "title": "\u3010Hololive\u3011Aqua: AKUKIN New Headquarter ft. Marine, Mio\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT9M33S",
-      "videoId": "SMyVwwgTVdo"
-    },
-    {
-      "sourceStreams": [
-        "F_4e-9HAYUo"
-      ],
-      "title": "\u3010Hololive\u3011Kanata: Spy Gorilla\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT1M19S",
-      "videoId": "yqSSaqqn3Qc"
-    },
-    {
-      "sourceStreams": [
-        "usQtq78O06U"
-      ],
-      "title": "\u3010Hololive\u3011Watame Saved By God Moona\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M59S",
-      "videoId": "giWBmZeg8mY"
-    },
-    {
-      "sourceStreams": [
-        "4fJ7ceoHqlY",
-        "UcBbW0xMyzk",
-        "q1qVyuK38_I"
-      ],
-      "title": "\u3010Hololive\u3011Hololive Fantasy ft. Miko, Flare, Polka\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT10M13S",
-      "videoId": "GlGUcK1ionQ"
-    },
-    {
-      "sourceStreams": [
-        "BKGQBHrgvgI"
-      ],
-      "title": "\u3010Hololive\u3011Shishiro Botan: Wisdom Teeth Extraction Experience\u3010Eng Sub\u3011",
-      "duration": "PT5M28S",
-      "videoId": "zwDqZxTJUCc"
-    },
-    {
-      "sourceStreams": [
-        "ucLwtAAp__o",
-        "TRcHYdwPDgo"
-      ],
-      "title": "\u3010Hololive\u3011Mel & Ollie: Married During First Collaboration\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT9M32S",
-      "videoId": "cyO-28Fjn18"
-    },
-    {
-      "sourceStreams": [
-        "vtKsgnkGp1s",
-        "C87Kah8hFQ4"
-      ],
-      "title": "\u3010Hololive\u3011Miko Became Ollie's Hero\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT10M44S",
-      "videoId": "__Iylk2dHxg"
-    },
-    {
-      "sourceStreams": [
-        "jiLNkZpviDo",
-        "luBeq1Z0Jg8"
-      ],
-      "title": "\u3010Hololive\u3011Pekora & Moona: \"The End\" Adventure!!!\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT12M36S",
-      "videoId": "ADDQtKe10uU"
-    },
-    {
-      "sourceStreams": [
-        "NkeaAvzX1qk"
-      ],
-      "title": "\u3010Hololive\u3011Miko: Conquered Magma\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT9M11S",
-      "videoId": "DTm41DumG5s"
-    },
-    {
-      "sourceStreams": [
-        "BwsYzT9qTCo"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: R.I.P. Moona's Love\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M28S",
-      "videoId": "KZ7MI-blhCM"
-    },
-    {
-      "sourceStreams": [
-        "sXaoj4JZ8zI"
-      ],
-      "title": "\u3010Hololive\u3011Aqua: Quitting Minecraft\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M10S",
-      "videoId": "YEyfc6SwpKo"
-    },
-    {
-      "sourceStreams": [
-        "8Jkb48Ioj_E"
-      ],
-      "title": "\u3010Hololive\u3011Aqua: AKUKIN Construction Interview ft. Marine, Mio, etc\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT15M40S",
-      "videoId": "qPUgQaF881M"
-    },
-    {
-      "sourceStreams": [
-        "6G5cLfEwDMY"
-      ],
-      "title": "\u3010Hololive\u3011Pekora & Subaru: Christmas Prank War!!!\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT10M9S",
-      "videoId": "ttC1UXEsLmc"
-    },
-    {
-      "sourceStreams": [
-        "AlIR82ujv2M"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: TNT Cannon v2 (The Revenge Of Pekora)\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M22S",
-      "videoId": "5AuZN1AS8PA"
-    },
-    {
-      "sourceStreams": [
-        "6K3G0PJOHSE"
-      ],
-      "title": "\u3010Hololive\u3011Lamy: Keep This A Secret!!!\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M1S",
-      "videoId": "rpku7RPYrP4"
-    },
-    {
-      "sourceStreams": [
-        "7LCF8kRMDvI"
-      ],
-      "title": "\u3010Hololive\u3011Aqua & Shion: Getting NTR By Okayu\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M35S",
-      "videoId": "bupn8mMoa1I"
-    },
-    {
-      "sourceStreams": [
-        "sVVWXYa5WHE"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: TNT Cannon Malfunction\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT6M18S",
-      "videoId": "StljwCk8osw"
-    },
-    {
-      "sourceStreams": [
-        "jQd8NrsR-dA",
-        "L4r1lLX0-Ew"
-      ],
-      "title": "\u3010Hololive\u3011Aqua Revenge Prank On Miko\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT10M26S",
-      "videoId": "fx5lHBVfUqM"
-    },
-    {
-      "sourceStreams": [
-        "1zv-eRbIrc8"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: Revisiting TNT Cannon\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT1M41S",
-      "videoId": "6Oo0Pu9U6rI"
-    },
-    {
-      "sourceStreams": [
-        "XirNF9RzvIs"
-      ],
-      "title": "\u3010Hololive\u3011Subaru: S.B. Field Deployed!!!\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M11S",
-      "videoId": "nOrHp1FWY2w"
-    },
-    {
-      "sourceStreams": [
-        "rIh3wjETcD4",
-        "QivLpdnBgUs",
-        "bvn319UGUNY"
-      ],
-      "title": "\u3010Hololive\u3011Pekora & Moona: First Collaboration ft. Botan\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT16M3S",
-      "videoId": "YEOHc7uqJ4M"
-    },
-    {
-      "sourceStreams": [
-        "bvn319UGUNY"
-      ],
-      "title": "\u3010Hololive\u3011Botanx Locked Onto Subangelion\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M16S",
-      "videoId": "NB5Zm1nrlXM"
-    },
-    {
-      "sourceStreams": [
-        "p0gXKP88zQg"
-      ],
-      "title": "\u3010Hololive\u3011Miko: Teasing Aqua ft. Baqua\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT9M29S",
-      "videoId": "r29M9BRM-PM"
-    },
-    {
-      "sourceStreams": [
-        "tQHp8t_KYXw"
-      ],
-      "title": "\u3010Hololive\u3011Miko: Reaction to Pekora's War Crimes\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT1M40S",
-      "videoId": "MXv_GdA1qFI"
-    },
-    {
-      "sourceStreams": [
-        "x79tYcuNR_0"
-      ],
-      "title": "\u3010Hololive\u3011Kanata On Coco's Break\u3010Eng Sub\u3011",
-      "duration": "PT1M50S",
-      "videoId": "r_Z3g3p_KDk"
-    },
-    {
-      "sourceStreams": [
-        "eciK6t1dKKU"
-      ],
-      "title": "\u3010Hololive\u3011Aqua: Instant Karma!!!\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT1M41S",
-      "videoId": "abLwjhBVtYc"
-    },
-    {
-      "sourceStreams": [
-        "nSqaHqRQVIc",
-        "qUT4uprqAdk"
-      ],
-      "title": "\u3010Hololive\u3011Pekora & Miko: PRANK WAR!!!\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT10M28S",
-      "videoId": "8dn_ENIxaf0"
-    },
-    {
-      "sourceStreams": [
-        "ZEL0A4QnXuQ"
-      ],
-      "title": "\u3010Hololive\u3011Miko: Start Of PekoMiko War!?!?\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M9S",
-      "videoId": "TXYi1QmvZnc"
-    },
-    {
-      "sourceStreams": [
-        "UNyhk4B_B7A",
-        "MoOUFt3yHRI"
-      ],
-      "title": "\u3010Hololive\u3011Haachama & Watame: Lover's Quarrel\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT9M55S",
-      "videoId": "AcFFU6ADU3g"
-    },
-    {
-      "sourceStreams": [
-        "FNMXvXf1u8M"
-      ],
-      "title": "\u3010Hololive\u3011Sports Festival Arc\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT17M21S",
-      "videoId": "zP9j1WdfnHo"
-    },
-    {
-      "sourceStreams": [
-        "2lmJqaIehr8"
-      ],
-      "title": "\u3010Hololive\u3011Pekora Taking Care Of Moona ft. Botan & Marine\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT1M37S",
-      "videoId": "KPJ4KUDfmXE"
-    },
-    {
-      "sourceStreams": [
-        "egq_q7KCIIw"
-      ],
-      "title": "\u3010Hololive\u3011Aqua VS Subaru Showdown!!! ft. Miko\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M10S",
-      "videoId": "zc_I6t7R2eY"
-    },
-    {
-      "sourceStreams": [
-        "nFj8gbOal9U"
-      ],
-      "title": "\u3010Hololive\u3011Lamy: Victim Of \"The Sorrow\" Trap\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT4M28S",
-      "videoId": "Rf_Sp3WUm7U"
-    },
-    {
-      "sourceStreams": [
-        "08bI-5S-dsw"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: Adventure Of \"THE END\"\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M31S",
-      "videoId": "hERSCqr8gXA"
-    },
-    {
-      "sourceStreams": [
-        "PPXybL1bJb0"
-      ],
-      "title": "\u3010Hololive\u3011Aqua: TNT Digging Device (Underground Empire)\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M41S",
-      "videoId": "56kwXHe1lgQ"
-    },
-    {
-      "sourceStreams": [
-        "A2io0-_aM7E"
-      ],
-      "title": "\u3010Hololive\u3011Shion: Victim Of \"The Sorrow\" Trap\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M51S",
-      "videoId": "yDwi31nsNvM"
-    },
-    {
-      "sourceStreams": [
-        "29A7NrbtTp4"
-      ],
-      "title": "\u3010Hololive\u3011Haachama: Utterly Defeated By Subangelion\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M22S",
-      "videoId": "OiId1oxfq5M"
-    },
-    {
-      "sourceStreams": [
-        "qs2AQI5djiA",
-        "iSDgmIjcMYE"
-      ],
-      "title": "\u3010Hololive\u3011Pekora AMBUSHED By Towa Sama\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT5M20S",
-      "videoId": "fnxMLFI-fm0"
-    },
-    {
-      "sourceStreams": [
-        "CpY7BmxU1G0",
-        "kYCSZBG44AU",
-        "U3a1ITYoIAw"
-      ],
-      "title": "\u3010Hololive\u3011Subaru: Starting Another War!!! ft. Polka, Nene\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M28S",
-      "videoId": "KfGDfL-tU0I"
-    },
-    {
-      "sourceStreams": [
-        "J5K50nujEnk"
-      ],
-      "title": "\u3010Hololive\u3011Subaru: THIS IS WAR!!! ft. Sneaky Pekora\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT9M1S",
-      "videoId": "AXumKQsJlow"
-    },
-    {
-      "sourceStreams": [
-        "sc7iJMrb_Tk"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: Revenge Prank On Subangelion/Mikongeroon\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M1S",
-      "videoId": "_LyIYhxIIMA"
-    },
-    {
-      "sourceStreams": [
-        "CFY0KDrgLSg"
-      ],
-      "title": "\u3010Hololive\u3011Miko: Miko-Char Reveal!!! ft. Pekodam, Subangelion\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT4M1S",
-      "videoId": "ajUnKakBSMg"
-    },
-    {
-      "sourceStreams": [
-        "sUMSFgNs_HM"
-      ],
-      "title": "\u3010Hololive\u3011Subaru: Reaction to Pekora's Human Trafficking\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M19S",
-      "videoId": "ftkDQVT3e7Q"
-    },
-    {
-      "sourceStreams": [
-        "sUMSFgNs_HM"
-      ],
-      "title": "\u3010Hololive\u3011Subaru: Pekodam Pooping Prank\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M54S",
-      "videoId": "VTwrbkfVgfQ"
-    },
-    {
-      "sourceStreams": [
-        "utAB-BzcQ5M"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: Usada Trade Center\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT5M30S",
-      "videoId": "GEUOXW2uP48"
-    },
-    {
-      "sourceStreams": [
-        "pPDEYs4gbWE"
-      ],
-      "title": "\u3010Hololive\u3011Aqua: Baka? IQ 5? IQ 5000?\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT1M43S",
-      "videoId": "3eSFJfioJJc"
-    },
-    {
-      "sourceStreams": [
-        "10hitoSpG_A"
-      ],
-      "title": "\u3010Hololive\u3011Aqua: Self-Leaked Secret\u3010Eng Sub\u3011",
-      "duration": "PT3M7S",
-      "videoId": "40MacxeQ5z8"
-    },
-    {
-      "sourceStreams": [
-        "nD_Z58RnB8A"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: Villager Gachapon ft. Moona\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT4M47S",
-      "videoId": "YH8r3WJ0qV4"
-    },
-    {
-      "sourceStreams": [
-        "OWcHYk5Ez88"
-      ],
-      "title": "\u3010Hololive\u3011Aqua, Miko & Flare: Wither RTA\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT1M6S",
-      "videoId": "4Gf48Xn4PBw"
-    },
-    {
-      "sourceStreams": [
-        "r-kUBHFW5YM",
-        "kSfVb2Qn04s",
-        "JU6fCsD5R0g",
-        "DU5lKKpljjA",
-        "YcO0-aYg65Y",
-        "UD8VaYwaJf8",
-        "3FCByzAmO60"
-      ],
-      "title": "\u3010Hololive\u3011\"The Sorrow\" Trap Compilation\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT12M4S",
-      "videoId": "72bZZ2e4CMQ"
-    },
-    {
-      "sourceStreams": [
-        "pn8zTlxKBJ4",
-        "QKlL_KGlHHA",
-        "GSZD9GgTTCs",
-        "wldy1BjyULA"
-      ],
-      "title": "\u3010Hololive\u3011Miko: Dragon Sama!!! ft. Botan, Pekora, Fubuki, Mio, Subaru, Ayame\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M11S",
-      "videoId": "Zpm6lHSZkCM"
-    },
-    {
-      "sourceStreams": [
-        "t7-zjVe9Scs"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: Just A Prank!!! ft. Moona, Kanata\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT10M7S",
-      "videoId": "0Y8LJqY-62U"
-    },
-    {
-      "sourceStreams": [
-        "pvg2S8A5oNk",
-        "t7-zjVe9Scs"
-      ],
-      "title": "\u3010Hololive\u3011Miko & Pekora: VS Ender Dragon\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT13M18S",
-      "videoId": "9TSu3Na7hLY"
-    },
-    {
-      "sourceStreams": [
-        "3FCByzAmO60"
-      ],
-      "title": "\u3010Hololive\u3011Polka: Victim Of \"The Sorrow\" Trap\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT4M21S",
-      "videoId": "v0hOq799Dl4"
-    },
-    {
-      "sourceStreams": [
-        "gBcpKLW08y0",
-        "_bK8Zfr5XQ8",
-        "UD8VaYwaJf8",
-        "HnUsWAok_Lk",
-        "6nBnLnIHXrM",
-        "RuOndLrc7Lk"
-      ],
-      "title": "\u3010Hololive\u3011DEATH COASTER!!! ft. Haachama, Sora, Miko, Towa, Aqua, Flare\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT13M28S",
-      "videoId": "SW67kc6wADc"
-    },
-    {
-      "sourceStreams": [
-        "UD8VaYwaJf8"
-      ],
-      "title": "\u3010Hololive\u3011Haachama: Victim Of \"The Sorrow\" Trap\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT4M37S",
-      "videoId": "UDAqg9qpuSI"
-    },
-    {
-      "sourceStreams": [
-        "RL9HxoOHkrg"
-      ],
-      "title": "\u3010Hololive\u3011Pekora & Moona: Wither Adventure\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M21S",
-      "videoId": "GEvYnKhu2sY"
-    },
-    {
-      "sourceStreams": [
-        "YcO0-aYg65Y"
-      ],
-      "title": "\u3010Hololive\u3011Marine: PAID Victim Of \"The Sorrow\" Trap\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT4M43S",
-      "videoId": "4NpE4I1qm_g"
-    },
-    {
-      "sourceStreams": [
-        "MjciAwxSKtg",
-        "ZGBbDAAGX0M"
-      ],
-      "title": "\u3010Hololive\u3011Nene: Fell, Drowned & Killed ft. Haachama\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M7S",
-      "videoId": "EQPaFiNFfOk"
-    },
-    {
-      "sourceStreams": [
-        "5tRTKC--p_M"
-      ],
-      "title": "\u3010Hololive\u3011Aqua: Baqua Strikes Again!!!\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT4M30S",
-      "videoId": "fD0VwfLzkU8"
-    },
-    {
-      "sourceStreams": [
-        "w0S3hO3TP0A",
-        "7cI1pXkCQMI",
-        "9mNOlTXWZYw"
-      ],
-      "title": "\u3010Hololive\u3011Subaru & Miko: Death Trap\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M13S",
-      "videoId": "eH_YDsqeF1U"
-    },
-    {
-      "sourceStreams": [
-        "9mNOlTXWZYw",
-        "7cI1pXkCQMI",
-        "DU5lKKpljjA"
-      ],
-      "title": "\u3010Hololive\u3011Miko: END Of Zombie Trap ft. Subaru, Rushia\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M51S",
-      "videoId": "-Of0-jPHr0c"
-    },
-    {
-      "sourceStreams": [
-        "DU5lKKpljjA"
-      ],
-      "title": "\u3010Hololive\u3011Rushia: Victim Of \"The Sorrow\" Trap\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT6M21S",
-      "videoId": "h4bMu4jWRmg"
-    },
-    {
-      "sourceStreams": [
-        "w0S3hO3TP0A"
-      ],
-      "title": "\u3010Hololive\u3011Subaru: Victim of Zombie Trap\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT4M39S",
-      "videoId": "W17vWboJSps"
-    },
-    {
-      "sourceStreams": [
-        "F-qrv79PRao"
-      ],
-      "title": "\u3010Hololive\u3011Aqua: AKUKIN Construction's DECLARATION\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M45S",
-      "videoId": "ZCVkCCA4cN8"
-    },
-    {
-      "sourceStreams": [
-        "JU6fCsD5R0g",
-        "OuReP8ThqYQ"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: First Victim of Zombie Trap\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M6S",
-      "videoId": "xjHigspExWY"
-    },
-    {
-      "sourceStreams": [
-        "JU6fCsD5R0g",
-        "9zhANjFUbVg",
-        "pOedpmOV5Lg",
-        "43aB63pJjYc",
-        "kSfVb2Qn04s"
-      ],
-      "title": "\u3010Hololive\u3011Pekora & Moona: Usada OR Akukin Construction\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT9M30S",
-      "videoId": "rdOtmRPnjPw"
-    },
-    {
-      "sourceStreams": [
-        "JU6fCsD5R0g"
-      ],
-      "title": "\u3010Hololive\u3011Pekora:\"The Sorrow\" Trap IMPROVED ft. Victim Flare\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT5M7S",
-      "videoId": "nim56b8XltQ"
-    },
-    {
-      "sourceStreams": [
-        "EVB08Znu-zg"
-      ],
-      "title": "\u3010Hololive\u3011Marine Wrote & Read Doujinshi ft. Flare\u3010Eng Sub\u3011",
-      "duration": "PT2M43S",
-      "videoId": "w_A-3DFIR0M"
-    },
-    {
-      "sourceStreams": [
-        "kSfVb2Qn04s"
-      ],
-      "title": "\u3010Hololive\u3011Miko: NEW Victim Of Slime Trap\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M15S",
-      "videoId": "mFXEgRa5AOM"
-    },
-    {
-      "sourceStreams": [
-        "kSfVb2Qn04s"
-      ],
-      "title": "\u3010Hololive\u3011Miko: Victim of \"The Sorrow\" Trap\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT4M37S",
-      "videoId": "bMqVaTQgrq8"
-    },
-    {
-      "sourceStreams": [
-        "r-kUBHFW5YM"
-      ],
-      "title": "\u3010Hololive\u3011Aqua: First Victim of \"The Sorrow\" Trap\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT4M12S",
-      "videoId": "GhzE11b3WRw"
-    },
-    {
-      "sourceStreams": [
-        "_JZHLHtQ3Us"
-      ],
-      "title": "\u3010Hololive\u3011Miko & Mio: Elite English Conversation\u3010Eng Sub\u3011",
-      "duration": "PT3M20S",
-      "videoId": "803IdZsRq88"
-    },
-    {
-      "sourceStreams": [
-        "OuReP8ThqYQ"
-      ],
-      "title": "\u3010Hololive\u3011Rushia: First Victim Of TNT Explosion Sound Trap ft. Subaru\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M15S",
-      "videoId": "OXno8rayESk"
-    },
-    {
-      "sourceStreams": [
-        "OuReP8ThqYQ"
-      ],
-      "title": "\u3010Hololive\u3011Rushia: DYING to Slime Trap AGAIN !?\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M58S",
-      "videoId": "Wvo_9b8WZMQ"
-    },
-    {
-      "sourceStreams": [
-        "e9U34noBEA8"
-      ],
-      "title": "\u3010Hololive\u3011Pekora STALKING Moona!!!\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT5M26S",
-      "videoId": "Ht_OOz7-71w"
-    },
-    {
-      "sourceStreams": [
-        "VrOXTbAWvhI",
-        "qhIYVLFgb8g",
-        "e9U34noBEA8"
-      ],
-      "title": "\u3010Hololive\u3011Pekora's Hotel REVIEWED By Matsuri\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M58S",
-      "videoId": "AmQbHqo2pLo"
-    },
-    {
-      "sourceStreams": [
-        "_nr8L0UbsqY",
-        "nnPvwD2aT08"
-      ],
-      "title": "\u3010Hololive\u3011Korone & Shion: Living Together, Dying Together\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT11M2S",
-      "videoId": "e5NueR7SCKw"
-    },
-    {
-      "sourceStreams": [
-        "N3pE6jO4i-0"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: HUNTED By Moona's Dogs ft. Miko Trapped\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M24S",
-      "videoId": "4ieYE8EoKyU"
-    },
-    {
-      "sourceStreams": [
-        "AEPqwCuJRys"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: Prank FAILED ft. Moona\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M37S",
-      "videoId": "xNctSiIbeLQ"
-    },
-    {
-      "sourceStreams": [
-        "CsLhIyGyVjk"
-      ],
-      "title": "\u3010Hololive\u3011Shion VS Prison Cell Trap\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M10S",
-      "videoId": "FXdIwnjgGm0"
-    },
-    {
-      "sourceStreams": [
-        "y3WPN1uBusg",
-        "rL4IzDz_juI",
-        "H3rxJpLtdc8",
-        "OsPHUvr4-gI"
-      ],
-      "title": "\u3010Hololive\u3011Watame: Feeding Pufferfish to Everyone!!!\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT13M35S",
-      "videoId": "84IEg5nFzIw"
-    },
-    {
-      "sourceStreams": [
-        "VrOXTbAWvhI"
-      ],
-      "title": "\u3010Hololive\u3011Subaru: Firework Trap + Revenge EPIC FAIL\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT9M15S",
-      "videoId": "dYUSEz4aB0E"
-    },
-    {
-      "sourceStreams": [
-        "B5ifs6_bVNU"
-      ],
-      "title": "\u3010Hololive\u3011Aqua: Worried About Shion's Panties\u3010Eng Sub\u3011",
-      "duration": "PT3M17S",
-      "videoId": "l-MVgCsmkFs"
-    },
-    {
-      "sourceStreams": [
-        "y3WPN1uBusg",
-        "4ybRKMqaca8"
-      ],
-      "title": "\u3010Hololive\u3011Watame & Flare: Love Affair\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M5S",
-      "videoId": "kCEQpVaQsWA"
-    },
-    {
-      "sourceStreams": [
-        "y3WPN1uBusg"
-      ],
-      "title": "\u3010Hololive\u3011Watame: Making Your Day Better\u3010Eng Sub\u3011",
-      "duration": "PT1M22S",
-      "videoId": "U8hCJMeafgc"
-    },
-    {
-      "sourceStreams": [
-        "VrOXTbAWvhI",
-        "3oDMv8tXWL4"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: Extorted? & KILLED Lamy...\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT12M6S",
-      "videoId": "A8-oY3WhsuQ"
-    },
-    {
-      "sourceStreams": [
-        "N6H1udXvuRE",
-        "yb_KBlwPIn4"
-      ],
-      "title": "\u3010Hololive\u3011Aqua VS Subaru: Prison Cell Trap ft. Mio, Marine\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT9M44S",
-      "videoId": "oHst3p0BUVM"
-    },
-    {
-      "sourceStreams": [
-        "ar5Ti1jG59o"
-      ],
-      "title": "\u3010Hololive\u3011Watame: NEW Sign Board At AKUKIN Construction\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M40S",
-      "videoId": "A6zZt1HD_wA"
-    },
-    {
-      "sourceStreams": [
-        "mqwBMDIsRJQ"
-      ],
-      "title": "\u3010Hololive\u3011AquaMarine: Prank Backfired (AquaMarineShionGO Edition)\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M1S",
-      "videoId": "aNmz07RbN3Y"
-    },
-    {
-      "sourceStreams": [
-        "m5_GfWtKJFk"
-      ],
-      "title": "\u3010Hololive\u3011Rushia: Reaction To Pekora's Apology Gift\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT5M14S",
-      "videoId": "MZGp0vtL0mk"
-    },
-    {
-      "sourceStreams": [
-        "qelypSy-9wQ",
-        "EGCETcjUiog"
-      ],
-      "title": "\u3010Hololive\u3011Aqua VS 5th Gen: Prankster GETS Pranked\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT12M41S",
-      "videoId": "TmNLTFZlNRg"
-    },
-    {
-      "sourceStreams": [
-        "ZoV7danNWJk"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: Extortion Prank ft. Polka, Lamy\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT9M21S",
-      "videoId": "xV00K-n0y-Q"
-    },
-    {
-      "sourceStreams": [
-        "fxey0JKIU94"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: Aftermath Of The Slime Trap Incident\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT4M16S",
-      "videoId": "k7KUYa5X7ZY"
-    },
-    {
-      "sourceStreams": [
-        "5GUb02JMabg",
-        "uMUVcEH6HOY"
-      ],
-      "title": "\u3010Hololive\u3011Shion VS AquaMarine: Neighbour Wars\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT14M24S",
-      "videoId": "2raR8o4GbGA"
-    },
-    {
-      "sourceStreams": [
-        "tgjyGcJVkvU"
-      ],
-      "title": "\u3010Hololive\u3011Aqua: Neighbour Wars: Noise Prank\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M52S",
-      "videoId": "9Q-7-ZpFoL4"
-    },
-    {
-      "sourceStreams": [
-        "79LLw5XSvIU"
-      ],
-      "title": "\u3010Hololive\u3011Rushia: First Victim of Pekora's Slime Trap\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M18S",
-      "videoId": "ZGwdULyYovY"
-    },
-    {
-      "sourceStreams": [
-        "-aslVdSaAfU",
-        "N6H1udXvuRE",
-        "TxY6zQbUYs8"
-      ],
-      "title": "\u3010Hololive\u3011Aqua & Shion: Neighbour In Arm\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT5M11S",
-      "videoId": "mDVpUXBowWE"
-    },
-    {
-      "sourceStreams": [
-        "TxY6zQbUYs8"
-      ],
-      "title": "\u3010Hololive\u3011Aqua Fishing For Marine\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M29S",
-      "videoId": "1b-BsGBxDiE"
-    },
-    {
-      "sourceStreams": [
-        "gKHM5r2EWAE",
-        "N6H1udXvuRE"
-      ],
-      "title": "\u3010Hololive\u3011Subaru: Horse Prank On Aqua\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M12S",
-      "videoId": "BPzgtUqS1PE"
-    },
-    {
-      "sourceStreams": [
-        "m-xBsmr84H8",
-        "Gkuo7RtYMoc",
-        "gKHM5r2EWAE",
-        "N6H1udXvuRE"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: Payback Prank On Subaru ft. Aqua\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT12M51S",
-      "videoId": "8cqJty9bR5M"
-    },
-    {
-      "sourceStreams": [
-        "m-xBsmr84H8",
-        "aWB-jC_b-Ag",
-        "5HIRys4QTT0"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: The Great Invisibility War ft. Subaru, Shion\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT10M45S",
-      "videoId": "FASf7gQvggI"
-    },
-    {
-      "sourceStreams": [
-        "pX0BF8u_kyg"
-      ],
-      "title": "\u3010Hololive\u3011Haachama: Polka Hidden Camera Prank!!!\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M1S",
-      "videoId": "q4dz48exePM"
-    },
-    {
-      "sourceStreams": [
-        "lBna3oE3P9U",
-        "2qT9m_XQ3O0",
-        "CYhwUquwg7I",
-        "CO0Fjw43pto"
-      ],
-      "title": "\u3010Daily Hololive Highlight\u3011Nene: OCD, Haachama Stalking Lamy, Watame GOT Ding Dong Ditched\u3010Eng Sub\u3011",
-      "duration": "PT4M19S",
-      "videoId": "yWOVewDV1DQ"
-    },
-    {
-      "sourceStreams": [
-        "I7Z3Ti8gZfc"
-      ],
-      "title": "\u3010Hololive\u3011Shion: FIRST Victim to Subaru's TRAP ft. Aqua Magma Blocks & Yagoo\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M5S",
-      "videoId": "PYvPfP-pmBw"
-    },
-    {
-      "sourceStreams": [
-        "WRZ4lEKK5SQ",
-        "AxZwugWRdWE"
-      ],
-      "title": "\u3010Daily Hololive Highlight\u3011Pekora & Noel: English Battle,Lucky Pekora,Coco: Are You Winning?\u3010Eng Sub\u3011",
-      "duration": "PT5M40S",
-      "videoId": "ZriDN7pv8wE"
-    },
-    {
-      "sourceStreams": [
-        "YGQ1iZsvQVE"
-      ],
-      "title": "\u3010Hololive\u3011Aqua: Return of Neighbour War, Hololive Resistance, R.I.P Yagoo \u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M29S",
-      "videoId": "Fhni0dE7its"
-    },
-    {
-      "sourceStreams": [
-        "d0EAmUiOUwM"
-      ],
-      "title": "\u3010Daily Hololive Highlight\u3011Botan: PC Master Race, Marine: TRICKED, Nene: Revenge, Kissing ED\u3010Eng Sub\u3011",
-      "duration": "PT2M42S",
-      "videoId": "4tNMQH3FfvY"
-    },
-    {
-      "sourceStreams": [
-        "EpxA0bsV2DQ",
-        "TCyVS6p1-yc",
-        "_eVKqwBhk3Q"
-      ],
-      "title": "\u3010Daily Hololive Highlight\u3011Haachama: YAGOO Watching You,Coco: MORE Japanese Meme,Watame: FAQ\u3010Eng Sub\u3011",
-      "duration": "PT5M43S",
-      "videoId": "yrY_IF5_YzU"
-    },
-    {
-      "sourceStreams": [
-        "rJ9ywp5wgJI",
-        "_5g4caQa0_c",
-        "GwWTAU-pNeM",
-        "yOnFhn943qs"
-      ],
-      "title": "\u3010Daily Hololive Highlight\u3011Rushia KILLED Polka, Nene: EPIC FAIL ft.Botan,Lamy,Polka, F YAGOO\u3010Eng Sub\u3011",
-      "duration": "PT3M25S",
-      "videoId": "mJduY-TZiGE"
-    },
-    {
-      "sourceStreams": [
-        "ofh2NXKaDqs",
-        "hDTUfG30hFo"
-      ],
-      "title": "\u3010Daily Hololive Highlight\u3011Watame's Healing Spell, Polka: Anime Death, Marine FOOLED By Aqua\u3010Eng Sub\u3011",
-      "duration": "PT3M11S",
-      "videoId": "I9-dVEGRHag"
-    },
-    {
-      "sourceStreams": [
-        "Zb2MlIS8lc8",
-        "_K2ZjMPz5HA"
-      ],
-      "title": "\u3010Daily Hololive Highlight\u3011Nene Sensei, Aqua Awkward Moment, Pekora's Love for TNT\u3010Eng Sub\u3011",
-      "duration": "PT4M54S",
-      "videoId": "ENVF4JdK4b0"
-    },
-    {
-      "sourceStreams": [
-        "hPxpv2lzXLM"
-      ],
-      "title": "\u3010Daily Hololive Highlight\u3011Haachama Identity Crisis, Nene's Pronunciation, Lamy Embarrassed\u3010Eng Sub\u3011",
-      "duration": "PT8M14S",
-      "videoId": "tPtIvI6JNiY"
-    },
-    {
-      "sourceStreams": [
-        "eWO5qnLxhzQ"
-      ],
-      "title": "\u3010Hololive\u3011Marine: Minecraft Is A Scary Place...\u3010Eng Sub\u3011",
-      "duration": "PT3M50S",
-      "videoId": "jGiDwZN1EsM"
-    },
-    {
-      "sourceStreams": [
-        "m0-8Ea3lN9Y"
-      ],
-      "title": "\u3010Daily Hololive Highlight\u3011Coco On Reddit Japanese Meme, Watame Toyed, Nene: Doraemon\u3010Eng Sub\u3011",
-      "duration": "PT3M48S",
-      "videoId": "qraK1tE4QhM"
-    },
-    {
-      "sourceStreams": [
-        "3TJ4ogvRAAs"
-      ],
-      "title": "\u3010Hololive\u3011Pekora's Ingenious Plan ft. Sora & Towa\u3010Eng Sub\u3011",
-      "duration": "PT9M46S",
-      "videoId": "Z7McUP3hVII"
-    },
-    {
-      "sourceStreams": [
-        "No3QRIr0GOM"
-      ],
-      "title": "\u3010Hololive\u3011Matsuri & Luna ENCOUNTERED RARE EVENT\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M4S",
-      "videoId": "CNPACy1M2No"
-    },
-    {
-      "sourceStreams": [
-        "No3QRIr0GOM"
-      ],
-      "title": "\u3010Hololive\u3011Matsuri TO Luna's RESCUE\u3010Eng Sub\u3011",
-      "duration": "PT1M28S",
-      "videoId": "azyebFQ-F0Y"
-    },
-    {
-      "sourceStreams": [
-        "577MuT9ywQo"
-      ],
-      "title": "\u3010Hololive\u3011Aqua TRAP BACKFIRED\u3010Eng Sub\u3011",
-      "duration": "PT8M32S",
-      "videoId": "jSuCMrDcenk"
-    },
-    {
-      "sourceStreams": [
-        "mfdrEMOXtJA"
-      ],
-      "title": "Hololive Highlights #1 \u3010Eng Sub\u3011",
-      "duration": "PT4M12S",
-      "videoId": "DBbQ7BRUzUA"
-    },
     {
       "sourceStreams": [
         "HnAnp9FfDuU"
@@ -33671,15 +32546,6 @@
     },
     {
       "sourceStreams": [
-        "eYw6oWRTM2U",
-        "GJsYspe2200"
-      ],
-      "title": "\u3010Hololive\u3011Botan's Ramen Shop Officially Opens ft. Nene's Reaction\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT4M10S",
-      "videoId": "-NEKn4XuN2k"
-    },
-    {
-      "sourceStreams": [
         "a4Kcq9zQgig"
       ],
       "title": "Choco-sensei Thinks Skinny Men Are More Popular",
@@ -33701,33 +32567,6 @@
       "title": "[Oozora Subaru] Fitting In (Okayu / Korone) [Hololive] [EN Subs]",
       "duration": "PT1M30S",
       "videoId": "eFtYrzz8Ijg"
-    },
-    {
-      "sourceStreams": [
-        "-UbSxTkVjjU",
-        "vphSyRcVwrk"
-      ],
-      "title": "\u3010Hololive\u3011Miko & Kanata: Hidden Contract Prank\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M47S",
-      "videoId": "FTjGcT9rm6Y"
-    },
-    {
-      "sourceStreams": [
-        "XTcCafIsvJ4",
-        "OXvZeCj3ut8",
-        "HZ_t-qB4fKI"
-      ],
-      "title": "\u3010Hololive\u3011Fubuki & Mio: Holo Server Date ft. Watame's Sushi, Botan's Ramen\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT15M6S",
-      "videoId": "97CsUcgCxjA"
-    },
-    {
-      "sourceStreams": [
-        "vphSyRcVwrk"
-      ],
-      "title": "\u3010Hololive\u3011Kanata: New Victim Of \"The Sorrow\" Trap\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT5M19S",
-      "videoId": "aXT9nWKGYT8"
     },
     {
       "sourceStreams": [
@@ -33768,163 +32607,6 @@
       "title": "Reason Bloom Features Rare Groups & Apple [Subaru, Mio, Miko, Noel, Towa, A-chan] [Hololive/EN Subs]",
       "duration": "PT3M37S",
       "videoId": "DxUU7f3OCmA"
-    },
-    {
-      "sourceStreams": [
-        "akF1RgsFRCY"
-      ],
-      "title": "\u3010Hololive\u3011Kanata Made Pekora's BGM, Not Spy I'm Gorilla\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT9M23S",
-      "videoId": "2aSYKgFCLRI"
-    },
-    {
-      "sourceStreams": [
-        "MtiTpaPWfmg"
-      ],
-      "title": "\u3010Hololive\u3011Rushia: Pure Evil Witnessed By Subaru & Konta\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT4M54S",
-      "videoId": "OrOmBErUb0c"
-    },
-    {
-      "sourceStreams": [
-        "fovUsdifUtI"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: Pekoland Of Death, Start Of Development\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT11M19S",
-      "videoId": "6h1zU_JPJRY"
-    },
-    {
-      "sourceStreams": [
-        "fovUsdifUtI",
-        "SerXt3Xk250"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: Spy Kanata WANTED By Usada Construction ft. Coco\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M37S",
-      "videoId": "C96prI7pN88"
-    },
-    {
-      "sourceStreams": [
-        "kgPwaQWeRhY"
-      ],
-      "title": "\u3010Hololive\u3011Moona Fixed TTT & Praised By Pekora\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M2S",
-      "videoId": "7R0lW2pTloE"
-    },
-    {
-      "sourceStreams": [
-        "Y8GM1p3x0Hs"
-      ],
-      "title": "\u3010Hololive\u3011Lamy Destroyed Pekora's Tenk\u016b Trap Tower (TTT)\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M46S",
-      "videoId": "vHuQhdviQd8"
-    },
-    {
-      "sourceStreams": [
-        "iAl7acYA8uU"
-      ],
-      "title": "\u3010Hololive\u3011Choco Stalked By Miko, The Kind Demon Lord\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT4M22S",
-      "videoId": "iMB0I4SDj5M"
-    },
-    {
-      "sourceStreams": [
-        "HU4-94zatIE",
-        "3TJ4ogvRAAs"
-      ],
-      "title": "\u3010Hololive\u3011Suisei Gets Haunted In Minecraft & Can't Stop Screaming\u3010Horror\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M53S",
-      "videoId": "7Z33j_G2Yr4"
-    },
-    {
-      "sourceStreams": [
-        "K6uh2jGMtX4"
-      ],
-      "title": "\u3010Hololive\u3011Matsuri Gone Mad After Her Basement Got Buried By Aqua Accidentally\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M53S",
-      "videoId": "K9WPCozNdnY"
-    },
-    {
-      "sourceStreams": [
-        "pMtwH3bZwu4",
-        "h40pKBdEqRs",
-        "S0V9dQtpnlM"
-      ],
-      "title": "\u3010Hololive\u3011Miko Joined Shiranui Construction ft. Flare, Polka\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT4M39S",
-      "videoId": "i7KbkVG_1Tk"
-    },
-    {
-      "sourceStreams": [
-        "fR_uLwBIHRY"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: Goodbye Joseph... (Hardcore)\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M24S",
-      "videoId": "5DYBuPKl2zU"
-    },
-    {
-      "sourceStreams": [
-        "_BqDWHzripE"
-      ],
-      "title": "\u3010Hololive\u3011Nene Accidentally Hijacked Kiara's Channel ft. Kiara in Chat\u3010Eng Sub\u3011",
-      "duration": "PT4M51S",
-      "videoId": "jsaNGL4Rs40"
-    },
-    {
-      "sourceStreams": [
-        "10V-1piTUdw"
-      ],
-      "title": "\u3010Hololive\u3011Botan: Why Minecraft Is Scarier Than Horror Games\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M53S",
-      "videoId": "w-a2dKijrBw"
-    },
-    {
-      "sourceStreams": [
-        "sfsI3b4zX6U",
-        "bbZzOHMxZe4"
-      ],
-      "title": "\u3010Hololive\u3011Watame Joined Miko's Demon Lord Army\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M27S",
-      "videoId": "kB-8vbNR6sA"
-    },
-    {
-      "sourceStreams": [
-        "_mggdfxxEmQ"
-      ],
-      "title": "\u3010Hololive\u3011Subaru Admits That She Stole \"Suba Suba Suba\" From Pekora ft. Rushia\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT1M41S",
-      "videoId": "e4Ygxe9Td1M"
-    },
-    {
-      "sourceStreams": [
-        "o5Y-v5-QUd4"
-      ],
-      "title": "\u3010Hololive\u3011Watame Found Out That Menya Botan Is Selling Her Meat!!!\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M19S",
-      "videoId": "3zN95B_ElmI"
-    },
-    {
-      "sourceStreams": [
-        "5iH0vffPDVY"
-      ],
-      "title": "\u3010Hololive\u3011Pekora Giving Moona Her Birthday Present!!!\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT5M15S",
-      "videoId": "RoUJ7TI9MgA"
-    },
-    {
-      "sourceStreams": [
-        "qWetncnJG_M"
-      ],
-      "title": "\u3010Hololive\u3011Subaru's Potential New Outfit\u3010Eng Sub\u3011",
-      "duration": "PT3M1S",
-      "videoId": "fhcFt0L8l5A"
-    },
-    {
-      "sourceStreams": [
-        "dAiMpAgmdSo"
-      ],
-      "title": "\u3010Hololive\u3011Pekora's Secret Plan Not Progressing Well...\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT4M16S",
-      "videoId": "Hi5tK-e6sYs"
     },
     {
       "sourceStreams": [
@@ -34585,71 +33267,6 @@
     },
     {
       "sourceStreams": [
-        "kwSACBayuHs"
-      ],
-      "title": "\u3010Hololive\u3011Rushia Dug Her Own Grave & Lost Everything\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M53S",
-      "videoId": "dROMgrhVVbM"
-    },
-    {
-      "sourceStreams": [
-        "f8D4QUt4ngk"
-      ],
-      "title": "\u3010Hololive\u3011Kanata Made Darth Vader BGM For Miko, Got Pranked Instead\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M18S",
-      "videoId": "HmRr4aknqWg"
-    },
-    {
-      "sourceStreams": [
-        "beQD2QdDViA"
-      ],
-      "title": "\u3010Hololive\u3011Miko Making Weird Faces\u3010Eng Sub\u3011",
-      "duration": "PT2M21S",
-      "videoId": "pF2LvGokcYQ"
-    },
-    {
-      "sourceStreams": [
-        "iEFnU417Buc"
-      ],
-      "title": "\u3010Hololive\u3011Nene Insults Listeners While They Can't Hear Her Due to YouTube Buffering Issues\u3010Eng Sub\u3011",
-      "duration": "PT2M29S",
-      "videoId": "DwXKHwfC9PI"
-    },
-    {
-      "sourceStreams": [
-        "74pt-8UKmV4",
-        "f0mCD0_68Gg"
-      ],
-      "title": "\u3010Hololive\u3011Pekora's Pekoland Traps Backfired ft. Choco, Level 508 Monster\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT11M50S",
-      "videoId": "2tPhcc1Z28I"
-    },
-    {
-      "sourceStreams": [
-        "74pt-8UKmV4"
-      ],
-      "title": "\u3010Hololive\u3011Pekora's Reaction to Kanata Making Her BGM\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M5S",
-      "videoId": "Meuxy48O9g4"
-    },
-    {
-      "sourceStreams": [
-        "2IXDuBpriLU"
-      ],
-      "title": "\u3010Hololive\u3011Matsuri & Luna: Using Subangelion For Target Practice\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M24S",
-      "videoId": "pxKToyri3Ts"
-    },
-    {
-      "sourceStreams": [
-        "oDXc5ZyFHNI"
-      ],
-      "title": "\u3010Hololive\u3011Kanata Made Aqua's BGM, Triple Not Fourth Spy\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT4M16S",
-      "videoId": "LMYDlFTQzY0"
-    },
-    {
-      "sourceStreams": [
         "f8D4QUt4ngk"
       ],
       "title": "Kanata Does her Job as a Heavenly King and Makes a BGM for Maou Miko \u3010Hololive English Sub\u3011",
@@ -34755,18 +33372,6 @@
     },
     {
       "sourceStreams": [
-        "EJA51gRzAVk",
-        "Xv1XcTVRBdo",
-        "CHvZk19prog",
-        "5rBX64SuKYo",
-        "QHblZBNohMo"
-      ],
-      "title": "\u3010Hololive\u3011Kanata & Marine Made \"Ahoy!\" BGM, Reaction From Subaru, Moona, Reine\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT12M12S",
-      "videoId": "wQ08qFeJ2cs"
-    },
-    {
-      "sourceStreams": [
         "Y2sxHh9wmHQ"
       ],
       "title": "\u3010ENG Sub\u3011Black Company Manager - AKUKIN Massive Collab in Minecraft PART 10 Ookami Mio\u3010Hololive\u3011",
@@ -34834,23 +33439,6 @@
     },
     {
       "sourceStreams": [
-        "1ENhYqEsH_4",
-        "t55zz84TuS4"
-      ],
-      "title": "\u3010Hololive\u3011Flare Being Wholesome, Talking About Coco & Her Anti\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M52S",
-      "videoId": "7njT1nzLi6Q"
-    },
-    {
-      "sourceStreams": [
-        "t55zz84TuS4"
-      ],
-      "title": "\u3010Hololive\u3011Coco: Victim Of Pekoland Trap\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M31S",
-      "videoId": "imgROTZBnnM"
-    },
-    {
-      "sourceStreams": [
         "WcKpYZBC69U"
       ],
       "title": "\u3010ENG Sub\u3011Rushia's sudden MARRIAGE PROPOSAL to Shion\u3010Hololive\u3011",
@@ -34877,15 +33465,6 @@
     },
     {
       "sourceStreams": [
-        "TA2DNNX9_jg",
-        "Wty3qW35-BU"
-      ],
-      "title": "\u3010Hololive\u3011Miko & Kanata: Invisible Potion Prank On Mio\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT10M11S",
-      "videoId": "_nfsbL9Mork"
-    },
-    {
-      "sourceStreams": [
         "I7_tBbluNZ4"
       ],
       "title": "When Korone Cancelled Her Stream Because She Was Feeling Down, Miko Cheered Her Up [Hololive]",
@@ -34900,22 +33479,6 @@
       "title": "Oozora Subaru - Korone's Balls [Hololive/ENG Sub]",
       "duration": "PT2M1S",
       "videoId": "KhT_kdEvJiQ"
-    },
-    {
-      "sourceStreams": [
-        "EHfkId_sunE"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: New Employee Joined Usada Construction \u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M51S",
-      "videoId": "DklyPS5WlvQ"
-    },
-    {
-      "sourceStreams": [
-        "FZj32UQsF8Y"
-      ],
-      "title": "\u3010Hololive\u3011Coco Found Sora Stalking Her\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M2S",
-      "videoId": "LQi72qD6qRc"
     },
     {
       "sourceStreams": [
@@ -34959,16 +33522,6 @@
       "title": "Oozora Subaru - Peeping [Hololive/ENG Sub]",
       "duration": "PT4M22S",
       "videoId": "t7p2YP2E4DA"
-    },
-    {
-      "sourceStreams": [
-        "EHfkId_sunE",
-        "SnNz_FKpWq0",
-        "AAavIRQ0IqI"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: Deathbed Trap ft. Moona, Kiara\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT12M14S",
-      "videoId": "tUZ3T6fPlYk"
     },
     {
       "sourceStreams": [
@@ -35063,23 +33616,6 @@
       "sourceStreams": [
         "FGzwW9rxHvw"
       ],
-      "title": "\u3010Hololive\u3011Pekora Planned to Recruit Watame & Luna to Usada Construction\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT1M59S",
-      "videoId": "IeTbHFHSbFA"
-    },
-    {
-      "sourceStreams": [
-        "FGzwW9rxHvw",
-        "etWdMSgxiII"
-      ],
-      "title": "\u3010Hololive\u3011Pekora & Towa: Pekoland Trap VS Water Park Trap\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT9M42S",
-      "videoId": "CnkU09UGuCs"
-    },
-    {
-      "sourceStreams": [
-        "FGzwW9rxHvw"
-      ],
       "title": "Pekora wants a Minecraft pet but ends up killing several hundred animals instead (Hololive)",
       "duration": "PT8M40S",
       "videoId": "sm3T9EbZ-48"
@@ -35102,24 +33638,6 @@
     },
     {
       "sourceStreams": [
-        "PelrpaMQ8Ac",
-        "A00RNlMaR9A"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: Prisoners Parade ft. Witness Sora\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT10M6S",
-      "videoId": "dz7g_eE5wns"
-    },
-    {
-      "sourceStreams": [
-        "PelrpaMQ8Ac",
-        "gjWunBJXqbI"
-      ],
-      "title": "\u3010Hololive\u3011Pekora Tried Trapping Reine With Pekoland Traps\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT4M21S",
-      "videoId": "R2LTA2aX-xU"
-    },
-    {
-      "sourceStreams": [
         "zPow2ty78Yw"
       ],
       "title": "Nene and Shion Ended up Alone at Hololive HQ... [ENG]",
@@ -35133,16 +33651,6 @@
       "title": "Oozora Subaru - Tainted [Hololive/ENG Sub]",
       "duration": "PT2M13S",
       "videoId": "GPb6BuFcs5E"
-    },
-    {
-      "sourceStreams": [
-        "KUNTGyhmyUA",
-        "3hHLHPCfTh8",
-        "8k7JJ6jiqe8"
-      ],
-      "title": "\u3010Hololive\u3011Watame & Nene: Victim Of Pekoland Traps ft. Botan\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT9M40S",
-      "videoId": "9DF2BtjTMek"
     },
     {
       "sourceStreams": [
@@ -35191,22 +33699,6 @@
       "title": "Oozora Subaru - Creepy Miracle with Tokoyami Towa [Hololive/ENG Sub]",
       "duration": "PT2M22S",
       "videoId": "Aiugu-wtehs"
-    },
-    {
-      "sourceStreams": [
-        "SnojwaCxKLw"
-      ],
-      "title": "\u3010Hololive\u3011Pekora Became Botan's Ingredient (Botan's Steak & Grill )\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT4M34S",
-      "videoId": "x1ll9vHj3FU"
-    },
-    {
-      "sourceStreams": [
-        "SnojwaCxKLw"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: 2b2t Map Art Reaction\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M12S",
-      "videoId": "z40OJHu1lG8"
     },
     {
       "sourceStreams": [
@@ -35260,14 +33752,6 @@
       "sourceStreams": [
         "llr097yXqXM"
       ],
-      "title": "\u3010Hololive\u3011Miko Blackmailed By Suisei\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M52S",
-      "videoId": "kjYk4huYOwE"
-    },
-    {
-      "sourceStreams": [
-        "llr097yXqXM"
-      ],
       "title": "Sakura Miko Often Sleeps Naked Recently\u3010Hololive\u3011",
       "duration": "PT1M18S",
       "videoId": "mv3HT8J0P8M"
@@ -35295,22 +33779,6 @@
       "title": "Oozora Subaru - Pampered by her family [Hololive/ENG Sub]",
       "duration": "PT4M45S",
       "videoId": "nBbpsYik1dg"
-    },
-    {
-      "sourceStreams": [
-        "sdMQaFo8ev0"
-      ],
-      "title": "\u3010Hololive\u3011Suisei: Victim Of Pekoland Trap\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M8S",
-      "videoId": "A95v-DzZw30"
-    },
-    {
-      "sourceStreams": [
-        "llr097yXqXM"
-      ],
-      "title": "\u3010Hololive\u3011Miko: Victim Of Pekorland Trap & Ollie's Maze\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M14S",
-      "videoId": "AprsCWyDh0g"
     },
     {
       "sourceStreams": [
@@ -35403,14 +33871,6 @@
     },
     {
       "sourceStreams": [
-        "OOmygNv8yuc"
-      ],
-      "title": "\u3010Hololive\u3011Pekora Appeared in Official YouTube Advertisement\u3010Eng Sub\u3011",
-      "duration": "PT1M53S",
-      "videoId": "M9nu2_MpNPA"
-    },
-    {
-      "sourceStreams": [
         "Jg5xC8J4XFw"
       ],
       "title": "Flare Gets Triggered by 0th Gen Members Cuz They Are Bad at Communicating \u3010Hololive English Sub\u3011",
@@ -35432,22 +33892,6 @@
       "title": "Hololive members are socially awkward\u3010 Hololive \u25b7 Eng sub\u3011",
       "duration": "PT2M45S",
       "videoId": "mYfnVKhrIY8"
-    },
-    {
-      "sourceStreams": [
-        "OOmygNv8yuc"
-      ],
-      "title": "\u3010Hololive\u3011Pekora Has Been Watching Twitch Streamers\u3010Eng Sub\u3011",
-      "duration": "PT2M24S",
-      "videoId": "HC5WDBXpPic"
-    },
-    {
-      "sourceStreams": [
-        "OOmygNv8yuc"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: Roller Coaster Of Fear ft. Moona & Pecoaster\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M50S",
-      "videoId": "3HvCyjp-YSE"
     },
     {
       "sourceStreams": [
@@ -35510,14 +33954,6 @@
     },
     {
       "sourceStreams": [
-        "4LQLRQPuZMM"
-      ],
-      "title": "\u3010Hololive\u3011Coco's Mother Went Back to Her Home Country By Herself\u3010Eng Sub\u3011",
-      "duration": "PT3M30S",
-      "videoId": "bTq80mkWvV4"
-    },
-    {
-      "sourceStreams": [
         "YCGc5Ax_rwI"
       ],
       "title": "\u3010ENG Sub\u3011Watame Asks Chat Something, Gets HUNTED - Minecraft\u3010Hololive\u3011",
@@ -35531,14 +33967,6 @@
       "title": "Oozora Subaru - Koronesuki vs Subatomo [Hololive/ENG Sub]",
       "duration": "PT1M48S",
       "videoId": "DnVTFilXvgI"
-    },
-    {
-      "sourceStreams": [
-        "MPC3Zw14X-M"
-      ],
-      "title": "\u3010Hololive\u3011Roboco: Victim Of Pekoland Traps\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT4M40S",
-      "videoId": "oohqeDLtrbk"
     },
     {
       "sourceStreams": [
@@ -35587,39 +34015,6 @@
       "title": "Oozora Subaru - Please Don't Forget Me! [Hololive/ENG Sub]",
       "duration": "PT1M16S",
       "videoId": "oYtpKQ2EEyg"
-    },
-    {
-      "sourceStreams": [
-        "weUh0e8SuG0"
-      ],
-      "title": "\u3010Hololive\u3011Rushia: Victim Of Pekoland Traps\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT5M8S",
-      "videoId": "OgAukORvBYA"
-    },
-    {
-      "sourceStreams": [
-        "w282Sx48La4",
-        "nDx035D2Sg8"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: Invisible Firework Prank On Botan\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT4M21S",
-      "videoId": "JO_xOvTbvY8"
-    },
-    {
-      "sourceStreams": [
-        "w282Sx48La4"
-      ],
-      "title": "\u3010Hololive\u3011Pekora's Secret Attraction For Pekoland Opening\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M32S",
-      "videoId": "X_u9W9REWqA"
-    },
-    {
-      "sourceStreams": [
-        "XMJeULblZlQ"
-      ],
-      "title": "\u3010Hololive\u3011Towa: First Victim Of Pecoaster ft. Moona\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M58S",
-      "videoId": "nxjBt89xpy0"
     },
     {
       "sourceStreams": [
@@ -35681,14 +34076,6 @@
     },
     {
       "sourceStreams": [
-        "lcvSgblcG4A"
-      ],
-      "title": "\u3010Hololive\u3011Coco: Pekoland Burned Down By Lightning\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M51S",
-      "videoId": "-aBaR32wRG8"
-    },
-    {
-      "sourceStreams": [
         "e8llAEWyvxI"
       ],
       "title": "Lamy Reacts To Rushia's\u300cCutting Board\u300d\u3010Hololive Clip\u3011",
@@ -35729,14 +34116,6 @@
     },
     {
       "sourceStreams": [
-        "DPb638J0oz0"
-      ],
-      "title": "\u3010Hololive\u3011Coco: Hololive Members Appeared In Textbook\u3010Eng Sub\u3011",
-      "duration": "PT3M3S",
-      "videoId": "_w7YPhxLb0c"
-    },
-    {
-      "sourceStreams": [
         "OoXCfL-s38s"
       ],
       "title": "Luna (Drunk) Joins Polka & Matsuri's Monster Hunter Collab [ENG]",
@@ -35750,15 +34129,6 @@
       "title": "Hololive is listed in Japanese high school textbooks\u3010 Hololive \u25b7 Eng sub\u3011",
       "duration": "PT2M20S",
       "videoId": "RzieoPUXmR8"
-    },
-    {
-      "sourceStreams": [
-        "o23R-iK19w8",
-        "qDevLrteu3g"
-      ],
-      "title": "\u3010Hololive\u3011Suisei: Internship Experience ft. Flare\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M3S",
-      "videoId": "-zEnpsTHqDA"
     },
     {
       "sourceStreams": [
@@ -35784,22 +34154,6 @@
       "title": "\u3010ENG Sub\u3011Suisei x Flare : HOUSE REVIEW!! - Minecraft Collab Shiranui Kensetsu\u3010Hololive\u3011",
       "duration": "PT12M3S",
       "videoId": "ynv0XSUBclQ"
-    },
-    {
-      "sourceStreams": [
-        "RIY_PRDSwBM"
-      ],
-      "title": "\u3010Hololive\u3011Watame Instantly Regrets Her Words\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT1M37S",
-      "videoId": "Ct_kVqpAOVE"
-    },
-    {
-      "sourceStreams": [
-        "RIY_PRDSwBM"
-      ],
-      "title": "\u3010Hololive\u3011Watame Cooked Alive IN Shishiro Food's Dormitory\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M42S",
-      "videoId": "JtUIhRsKsSg"
     },
     {
       "sourceStreams": [
@@ -35843,28 +34197,11 @@
     },
     {
       "sourceStreams": [
-        "K0fbpU7FhYk",
-        "VtJaDPoagGM"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: Pekoland's Opening Ceremony ft. Moona, Coco, Botan, Kanata\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT9M4S",
-      "videoId": "g7jx8C64Ly4"
-    },
-    {
-      "sourceStreams": [
         "K0fbpU7FhYk"
       ],
       "title": "\u3010ENG Sub\u3011Pekora REFLECTS ON PEKOLAND + NEW CASTLE TOUR!! - Minecraft Usada Kensetsu\u3010Hololive\u3011",
       "duration": "PT5M42S",
       "videoId": "ksXzNY7_I6w"
-    },
-    {
-      "sourceStreams": [
-        "vuVYx2nUy3M"
-      ],
-      "title": "\u3010Hololive\u3011Rushia Dying Over And Over Again\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT8M13S",
-      "videoId": "GgXp7DlqFhs"
     },
     {
       "sourceStreams": [
@@ -35915,14 +34252,6 @@
       "title": "Flare is Amazed by Pekoland Castle \u3010HOLOLIVE\u3011\u3010ENG SUB\u3011",
       "duration": "PT1M6S",
       "videoId": "u1PFpHfoQPE"
-    },
-    {
-      "sourceStreams": [
-        "8uNCm_qDdK0"
-      ],
-      "title": "\u3010Hololive\u3011Pekora Conversing With A Villager\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M7S",
-      "videoId": "yHm052wAEPE"
     },
     {
       "sourceStreams": [
@@ -36076,14 +34405,6 @@
       "sourceStreams": [
         "PSXfDsQ1rxM"
       ],
-      "title": "\u3010Hololive\u3011Pekora: Wall Trap For Rushia\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M55S",
-      "videoId": "rpSp8C2giH0"
-    },
-    {
-      "sourceStreams": [
-        "PSXfDsQ1rxM"
-      ],
       "title": "Pekora practicing Spanish and English with chat but nobody understands (Hololive)",
       "duration": "PT3M1S",
       "videoId": "6YNQ6yQg9hI"
@@ -36210,15 +34531,6 @@
         "k_2P7N_4y_k",
         "rGlfi9brQM4"
       ],
-      "title": "\u3010Hololive\u3011Rushia FLATTENED By Wall Trap ft. Pekora\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M52S",
-      "videoId": "fzaSSqOw1pk"
-    },
-    {
-      "sourceStreams": [
-        "k_2P7N_4y_k",
-        "rGlfi9brQM4"
-      ],
       "title": "\u3010ENG Sub\u3011Rushia gets FLATTENED by Pekora *BOTH POVS* Minecraft Usada Kensetsu Interview\u3010Hololive\u3011",
       "duration": "PT2M35S",
       "videoId": "KF8H0R2L8KE"
@@ -36248,14 +34560,6 @@
       "title": "[Hololive Compilation] Ritore's Translator Choice #43 [5/16]",
       "duration": "PT10M21S",
       "videoId": "ZvMdYJamCk4"
-    },
-    {
-      "sourceStreams": [
-        "jDANZuw6IDM"
-      ],
-      "title": "\u3010Hololive\u3011Matsuri: Holomem Pays For Their Own Original Songs\u3010Eng Sub\u3011",
-      "duration": "PT2M50S",
-      "videoId": "feTpmMRah3g"
     },
     {
       "sourceStreams": [
@@ -36432,14 +34736,6 @@
       "title": "[HololiveEN] Kiara - Phoenixton: The Town That Has Been Resurrected By a Phoenix",
       "duration": "PT38M9S",
       "videoId": "WJ4OpEFmDnQ"
-    },
-    {
-      "sourceStreams": [
-        "fdn19qxRSJo"
-      ],
-      "title": "\u3010Hololive\u3011Pekora's Reaction to Hololive Alternative(Full ver.) Teaser\u3010Eng Sub\u3011",
-      "duration": "PT2M57S",
-      "videoId": "e6Y5PsuWV8c"
     },
     {
       "sourceStreams": [
@@ -36621,14 +34917,6 @@
       "title": "Oozora Subaru Gave Inspirational Words to Nekomata Okayu, but... [Hololive/ENG Sub]",
       "duration": "PT3M25S",
       "videoId": "mMiOD3JtLpQ"
-    },
-    {
-      "sourceStreams": [
-        "g5rH3etwbfE"
-      ],
-      "title": "\u3010Hololive\u3011Towa: Superchat Won't Stop After Saying She Wants A New Chair\u3010Eng Sub\u3011",
-      "duration": "PT3M20S",
-      "videoId": "QWDjAd78u6A"
     },
     {
       "sourceStreams": [
@@ -37153,14 +35441,6 @@
     },
     {
       "sourceStreams": [
-        "MUh5C2OGEc4"
-      ],
-      "title": "\u3010Hololive\u3011Hololive Members' Reaction to Haachama's Indefinite Hiatus\u3010Eng Sub\u3011",
-      "duration": "PT3M10S",
-      "videoId": "WmmsXFFkFig"
-    },
-    {
-      "sourceStreams": [
         "sUMSFgNs_HM"
       ],
       "title": "Oozora Subaru Talks About Her Close Friends When Asked About a Certain Sad News [Hololive/ENG Sub]",
@@ -37175,14 +35455,6 @@
       "title": "\u3010ENG Sub\u3011Watame GOT TERRIFIED by RUSHIA!! *Both POVs* - Minecraft \u3010Hololive\u3011",
       "duration": "PT4M3S",
       "videoId": "LEeCih4Otl8"
-    },
-    {
-      "sourceStreams": [
-        "S9n0AzngCuc"
-      ],
-      "title": "\u3010Hololive\u3011Kanata & Botan Found Out That Pekora Is A Gorilla\u3010Eng Sub\u3011",
-      "duration": "PT2M8S",
-      "videoId": "fFDMwV3spDA"
     },
     {
       "sourceStreams": [
@@ -37265,14 +35537,6 @@
       "title": "Pekora and Kuso Zombie, Botan Double Beer, Coco Space, Marine Please Tell Me, Miko Spit",
       "duration": "PT3M28S",
       "videoId": "yQn0KVra2nY"
-    },
-    {
-      "sourceStreams": [
-        "EM6gggvv1WQ"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: Farewell Present For Coco\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT2M7S",
-      "videoId": "yOuvvi5veDo"
     },
     {
       "sourceStreams": [
@@ -37640,15 +35904,6 @@
     },
     {
       "sourceStreams": [
-        "CxmyVRFcAps",
-        "wD_l2I0qj3E"
-      ],
-      "title": "\u3010Hololive\u3011Gura Laughing At Pekora's English When Talking For the First Time\u3010Eng Sub\u3011",
-      "duration": "PT1M38S",
-      "videoId": "DMWD9ECfNnc"
-    },
-    {
-      "sourceStreams": [
         "GgtTfmEs6k4"
       ],
       "title": "Yukihana Lamy asks Ina if she likes Takoyaki",
@@ -37822,14 +36077,6 @@
     },
     {
       "sourceStreams": [
-        "3McazDzNuO4"
-      ],
-      "title": "\u3010Hololive\u3011Coco Left A Message During Her Last Minecraft Stream\u3010Eng Sub\u3011",
-      "duration": "PT1M29S",
-      "videoId": "9Uojv1DNLaw"
-    },
-    {
-      "sourceStreams": [
         "qyxicVOgAn4"
       ],
       "title": "Tsunomaki Watame asked the color to 4th gen member",
@@ -37902,14 +36149,6 @@
     },
     {
       "sourceStreams": [
-        "pSw-K1QAqS8"
-      ],
-      "title": "\u3010Hololive\u3011Kanata Inherits Kiryu Group, Hit With Non-Stop Superchat Rain \u3010Eng Sub\u3011",
-      "duration": "PT2M47S",
-      "videoId": "qG1s5blQQjA"
-    },
-    {
-      "sourceStreams": [
         "KxRqccuM8BU"
       ],
       "title": "Miko's Finally at Her 7th Elytra and is Now the Same as Naruto\u3010Hololive English Sub\u3011",
@@ -37932,22 +36171,6 @@
       "title": "Ina being cute for 3 minutes+ in Minecraft",
       "duration": "PT3M53S",
       "videoId": "ALRHaIHaUmg"
-    },
-    {
-      "sourceStreams": [
-        "--T2RAWZ1JI"
-      ],
-      "title": "\u3010Hololive\u3011Nene Mistaken Bot Spams As Fan Support Message\u3010Eng Sub\u3011",
-      "duration": "PT1M35S",
-      "videoId": "0VCMHTwzTGw"
-    },
-    {
-      "sourceStreams": [
-        "F2iGeYwQ2Zk"
-      ],
-      "title": "\u3010Hololive\u3011Pekora Will Be Streaming On Twitch\u3010Eng Sub\u3011",
-      "duration": "PT2M7S",
-      "videoId": "Qa_-XgO38jw"
     },
     {
       "sourceStreams": [
@@ -38005,22 +36228,6 @@
       "title": "Luna Unknowingly Travelled the Tunnel of Love with Subaru [Hololive/ENG Sub]",
       "duration": "PT1M21S",
       "videoId": "D77UWXgYdkM"
-    },
-    {
-      "sourceStreams": [
-        "nVl_N4AXspo"
-      ],
-      "title": "\u3010Hololive\u3011Watame Made Weather Hackers BGM to Remember Coco\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT1M35S",
-      "videoId": "lOsTc3nXg04"
-    },
-    {
-      "sourceStreams": [
-        "nxefH7VhNwk"
-      ],
-      "title": "\u3010Hololive\u3011Pekora Gave Kiara A House As Her Birthday Present\u3010Eng Sub\u3011",
-      "duration": "PT3M12S",
-      "videoId": "U9PrDwn0HHc"
     },
     {
       "sourceStreams": [
@@ -38088,27 +36295,11 @@
     },
     {
       "sourceStreams": [
-        "LaD14j13-xY"
-      ],
-      "title": "\u3010Hololive\u3011Rushia Forgot to Mute & End Stream For 15 Minutes\u3010Eng Sub\u3011",
-      "duration": "PT1M19S",
-      "videoId": "LcvuG1Q26sM"
-    },
-    {
-      "sourceStreams": [
         "aNGCGkyZLc8"
       ],
       "title": "Kanata Walks on 4 Legs \u3010HOLOLIVE\u3011\u3010ENG SUB\u3011",
       "duration": "PT2M27S",
       "videoId": "GWADFHHCZAY"
-    },
-    {
-      "sourceStreams": [
-        "4q4slKIDgzc"
-      ],
-      "title": "\u3010Hololive\u3011Rushia Gone Insane After Viewers Won't Stop Unsubscribing\u3010Eng Sub\u3011",
-      "duration": "PT1M34S",
-      "videoId": "nSrgtEN9pKk"
     },
     {
       "sourceStreams": [
@@ -38125,14 +36316,6 @@
       "title": "Lamy & Sora SUPER LOVEY DOVEY MOMENT!! Kissing in Minecraft TeeTee Moment \u3010ENG Sub Hololive\u3011",
       "duration": "PT1M31S",
       "videoId": "3vCAaAXw4XY"
-    },
-    {
-      "sourceStreams": [
-        "OXsV49dg5Fc"
-      ],
-      "title": "\u3010Hololive\u3011Kanata Dying Inside When Her Housekeeper Found A Massage Vibrator In Her Room \u3010Eng Sub\u3011",
-      "duration": "PT3M3S",
-      "videoId": "dxEvpw_IwXQ"
     },
     {
       "sourceStreams": [
@@ -38168,22 +36351,6 @@
     },
     {
       "sourceStreams": [
-        "ggoqCOhy5-Q"
-      ],
-      "title": "\u3010Hololive\u3011Kanata Tried To Boast, Ends Up Roasting Herself\u3010Eng Sub\u3011",
-      "duration": "PT1M26S",
-      "videoId": "kStCO83VvT0"
-    },
-    {
-      "sourceStreams": [
-        "ggoqCOhy5-Q"
-      ],
-      "title": "\u3010Hololive\u3011Kanata: Marine Is Slowly Becoming Like Coco To Her\u3010Eng Sub\u3011",
-      "duration": "PT1M34S",
-      "videoId": "SUNAtqefWVg"
-    },
-    {
-      "sourceStreams": [
         "2eNsR-PCfo8"
       ],
       "title": "Sora\uff1aKawaisou peko(You are pitiful)\u3010 Hololive \u25b7 Eng sub\u3011",
@@ -38216,14 +36383,6 @@
     },
     {
       "sourceStreams": [
-        "Xlx_cAJP13o"
-      ],
-      "title": "\u3010Hololive\u3011Kanata Finally Got Her Blue Axolotl After 3200 Tries\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT1M43S",
-      "videoId": "w6yWqj6GpVg"
-    },
-    {
-      "sourceStreams": [
         "6fFnvGUENJg"
       ],
       "title": "Marine Got Blue Axolotl within 1 Hour and Flex it to Kanata\u3010HOLOLIVE\u3011\u3010ENG SUB\u3011",
@@ -38238,22 +36397,6 @@
       "title": "Elite Miko scams poor axolotl farmer Kanata twice\u3010Both POVs\u3011",
       "duration": "PT23M1S",
       "videoId": "8URVmgKz114"
-    },
-    {
-      "sourceStreams": [
-        "KnX61tdwNRQ"
-      ],
-      "title": "\u3010Hololive\u3011Botan: Crying Practice For Blue Axolotl\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT1M45S",
-      "videoId": "PFk4-U40xas"
-    },
-    {
-      "sourceStreams": [
-        "nfzarpQanCA"
-      ],
-      "title": "\u3010Hololive\u3011Pekora Looks Cute In Crayon Shin-Chan Art Style\u3010Eng Sub\u3011",
-      "duration": "PT1M15S",
-      "videoId": "RpJ5FAqrifw"
     },
     {
       "sourceStreams": [
@@ -38305,22 +36448,6 @@
     },
     {
       "sourceStreams": [
-        "ARKdZuhGhTQ"
-      ],
-      "title": "\u3010Hololive\u3011Rushia Did The Hands Free Challenge Accidentally\u3010Eng Sub\u3011",
-      "duration": "PT54S",
-      "videoId": "oFanFZr_y8g"
-    },
-    {
-      "sourceStreams": [
-        "XtZNjqW4WDU"
-      ],
-      "title": "\u3010Hololive\u3011Flare Got A Blue Axolotl After 1073 Tries & Can't Stop Laughing\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT1M26S",
-      "videoId": "z968MioGxVQ"
-    },
-    {
-      "sourceStreams": [
         "oUqdn_qoj2A",
         "BGL8QSvGAzs"
       ],
@@ -38352,14 +36479,6 @@
       "title": "Baby Luna's First Flight",
       "duration": "PT3M11S",
       "videoId": "oukKv0RMQuc"
-    },
-    {
-      "sourceStreams": [
-        "KDSXhe1Tt9U"
-      ],
-      "title": "\u3010Hololive\u3011Miko Laughed At Suisei Instead Of Helping Her ft. Flare\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT1M24S",
-      "videoId": "6QlqXw05gIg"
     },
     {
       "sourceStreams": [
@@ -38471,15 +36590,6 @@
     },
     {
       "sourceStreams": [
-        "BGL8QSvGAzs",
-        "oUqdn_qoj2A"
-      ],
-      "title": "\u3010Hololive\u3011Luna Thought That Yagoo Is A Titan ft. Miko\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT1M19S",
-      "videoId": "maj_Ev-Vi6M"
-    },
-    {
-      "sourceStreams": [
         "HargkBSTwjA"
       ],
       "title": "Korone Has Too Much Fun Killing Squids and Forgets That She Can't Breath Underwater in Minecraft",
@@ -38533,22 +36643,6 @@
       "title": "Subaru was Top of Her School Year for Biology [Hololive/ENG Sub]",
       "duration": "PT2M36S",
       "videoId": "1_hgclbWFew"
-    },
-    {
-      "sourceStreams": [
-        "7JsSzKUydAI"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: Fastest Way To Get Diamond Is By Stealing\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT1M31S",
-      "videoId": "L08jxASSkHk"
-    },
-    {
-      "sourceStreams": [
-        "KOEEG1U1VvQ"
-      ],
-      "title": "\u3010Hololive\u3011Pekora: Sora Train Prank ft. Towa, Sora\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT3M28S",
-      "videoId": "oK03HVWlVSg"
     },
     {
       "sourceStreams": [
@@ -38611,14 +36705,6 @@
     },
     {
       "sourceStreams": [
-        "jMIaVke43tM"
-      ],
-      "title": "Botan's Happy to Reach 893k (Yakuza) Subs Which Reminds Her Of Coco\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M18S",
-      "videoId": "fHEt0b41WkA"
-    },
-    {
-      "sourceStreams": [
         "9_rG20ewnRM",
         "oBT6SROOeK0",
         "NXpDjOrQ_p0"
@@ -38634,22 +36720,6 @@
       "title": "[Hololive Compilation] Ritore's Translator Choice #53 [7/25]",
       "duration": "PT10M37S",
       "videoId": "N-PNxFE4bFU"
-    },
-    {
-      "sourceStreams": [
-        "Lix0JMTSJcU"
-      ],
-      "title": "Miko Tried Killing Kanata But Got Her School Burned, And Killed By Marine\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT2M7S",
-      "videoId": "WdpWFMcDLFY"
-    },
-    {
-      "sourceStreams": [
-        "YAA7kt8GQc8"
-      ],
-      "title": "Miko Being A Sore Loser After Her Fans Chose Money Over Her\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT2M1S",
-      "videoId": "4EQZ4KUl4h8"
     },
     {
       "sourceStreams": [
@@ -38695,28 +36765,11 @@
     },
     {
       "sourceStreams": [
-        "dsGTMUdG6JM"
-      ],
-      "title": "Watame Jinxed Herself\u3010Minecraft\u3011\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M39S",
-      "videoId": "sQOCbIZ_050"
-    },
-    {
-      "sourceStreams": [
         "HjR-Yv8myIo"
       ],
       "title": "Flare Threw Away The Wrong Item By Mistake And Couldn't Stop Laughing About It\u3010Hololive | Flare\u3011",
       "duration": "PT1M27S",
       "videoId": "_SRRlSWpamE"
-    },
-    {
-      "sourceStreams": [
-        "PiDCL6vZ23Q",
-        "5pNr9jRePkw"
-      ],
-      "title": "Pekora Misunderstood That Noel Wants to Join Usada Construction\u3010Minecraft\u3011\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT2M14S",
-      "videoId": "k16pdy9Pxu0"
     },
     {
       "sourceStreams": [
@@ -38779,22 +36832,6 @@
       "sourceStreams": [
         "QwhXY_WE8rM"
       ],
-      "title": "Rushia Got The Miko Curse\u3010Minecraft\u3011\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M5S",
-      "videoId": "rJtQc0Ly_so"
-    },
-    {
-      "sourceStreams": [
-        "1cAvIqTVFZU"
-      ],
-      "title": "Watame Flex On Hololive Fans\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M39S",
-      "videoId": "Pw0qL9kTJoI"
-    },
-    {
-      "sourceStreams": [
-        "QwhXY_WE8rM"
-      ],
       "title": "Rushia Became THE GOAT Herself After Hearing Loud Goat Scream in Minecraft \u3010ENG Sub Hololive\u3011",
       "duration": "PT50S",
       "videoId": "rupOl5h_75U"
@@ -38806,14 +36843,6 @@
       "title": "\u3010ENG Sub\u3011Haachama Challenges Pekora's Shooting Game ft. Kanata - Minecraft Summer Festival\u3010Hololive\u3011",
       "duration": "PT2M3S",
       "videoId": "HmKrNWIYXC4"
-    },
-    {
-      "sourceStreams": [
-        "p4xocMDqcY4"
-      ],
-      "title": "Watame Shows Her Navel And Superchats Won't Stop\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M3S",
-      "videoId": "KiJ1JvfVO1k"
     },
     {
       "sourceStreams": [
@@ -38880,22 +36909,6 @@
       "title": "Pekora the ecologist experiments with Big Dripleaf, new weird plant in Minecraft \u3010ENG Sub Hololive\u3011",
       "duration": "PT2M54S",
       "videoId": "A2h1q3W7RmE"
-    },
-    {
-      "sourceStreams": [
-        "qYIP8Sh2PLk"
-      ],
-      "title": "Watame Caught Miko Killing Sheep After Dying In Hardcore Mode\u3010Minecraft\u3011\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M35S",
-      "videoId": "OcRyxZoyPT0"
-    },
-    {
-      "sourceStreams": [
-        "_jARjB3kwa4"
-      ],
-      "title": "Lamy & Polka Witness A Rabbit Murdering An UsaKen Employee\u3010Minecraft\u3011\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT2M6S",
-      "videoId": "YL7WrmW0M7Q"
     },
     {
       "sourceStreams": [
@@ -39178,14 +37191,6 @@
     },
     {
       "sourceStreams": [
-        "lezMEBmDB_M"
-      ],
-      "title": "Towa Insults Fans As Encouragement\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M12S",
-      "videoId": "WtBf9wJO5qQ"
-    },
-    {
-      "sourceStreams": [
         "18acYev10fM"
       ],
       "title": "Botan is Whimsical Just Like That  \u3010Hololive English Sub\u3011",
@@ -39407,47 +37412,6 @@
     },
     {
       "sourceStreams": [
-        "PkF4aX9uDcs"
-      ],
-      "title": "Flare's Seductive Voice\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M17S",
-      "videoId": "KBE59GI-wvU"
-    },
-    {
-      "sourceStreams": [
-        "dfl9ntM7U8E"
-      ],
-      "title": "Sora Found Out That Miko Can't Do Sit-Ups\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M21S",
-      "videoId": "maYWreOjevI"
-    },
-    {
-      "sourceStreams": [
-        "Lb1jDyMp9fU",
-        "Ic9g5tSZBE8"
-      ],
-      "title": "Pekora & Rushia Got Scared By Flare's Ghast Noise\u3010Minecraft\u3011\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M13S",
-      "videoId": "fHBp6gOLs6Y"
-    },
-    {
-      "sourceStreams": [
-        "geOhswbyrfo"
-      ],
-      "title": "Rushia's In Such Disbelief That She Forgot to Scream\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M15S",
-      "videoId": "3uyDC6IMcMg"
-    },
-    {
-      "sourceStreams": [
-        "b8HierrGwyQ"
-      ],
-      "title": "Haachama Rick Rolled Everyone\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M26S",
-      "videoId": "NlJ8ObD5IGI"
-    },
-    {
-      "sourceStreams": [
         "Lb1jDyMp9fU",
         "Ic9g5tSZBE8"
       ],
@@ -39577,31 +37541,6 @@
     },
     {
       "sourceStreams": [
-        "mvyN-uVq4p4",
-        "lezMEBmDB_M"
-      ],
-      "title": "Pekora Laughs At Towa's TNT Prank & Felt Sorry For Her\u3010Minecraft\u3011\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M43S",
-      "videoId": "UrRxfSHVT_k"
-    },
-    {
-      "sourceStreams": [
-        "xcVV75uOeYU"
-      ],
-      "title": "Watame Failed to Open A Bag Of Snacks Despite Using Her Full Strength\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M18S",
-      "videoId": "bG_VIP7jEc0"
-    },
-    {
-      "sourceStreams": [
-        "PkF4aX9uDcs"
-      ],
-      "title": "Flare Reveals Her Real Age Range\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M29S",
-      "videoId": "NGtkpkN8pgY"
-    },
-    {
-      "sourceStreams": [
         "J879te5WrpE"
       ],
       "title": "Flare Tells Marine That Her Luck Is More Amazing Than Pekora, The 3rd Gen Lucky Rabbit\u3010Hololive Eng\u3011",
@@ -39623,22 +37562,6 @@
       "title": "Flare Imitates Spider Noise, Kanata Asks Coco, Akirose's Cat Fan-service, Mel, Subaru Scared of Dog",
       "duration": "PT4M50S",
       "videoId": "PcKYHIUgg78"
-    },
-    {
-      "sourceStreams": [
-        "xcVV75uOeYU"
-      ],
-      "title": "Miko Mistaken Watame's Meat As Poop ft. Haachama\u3010Minecraft\u3011\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M5S",
-      "videoId": "bnsYOy-ooHg"
-    },
-    {
-      "sourceStreams": [
-        "EootVKrfAyE"
-      ],
-      "title": "Haachama Introduced Her New Friend From Kindergarden\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT3M6S",
-      "videoId": "eaL0GGu-JD0"
     },
     {
       "sourceStreams": [
@@ -39771,22 +37694,6 @@
     },
     {
       "sourceStreams": [
-        "NhEJAr54uVc"
-      ],
-      "title": "Rushia Died Within A Minute During 3rd Gen Minecraft Collab ft. Pekora, Marine..\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M26S",
-      "videoId": "So6IbQPPAWY"
-    },
-    {
-      "sourceStreams": [
-        "erjdxOS63GE"
-      ],
-      "title": "Haachama's New Creation Have Already Took 3 Lives ft. Kanata, Mel, Reine, Lamy..\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M54S",
-      "videoId": "I4eTrb9HlZM"
-    },
-    {
-      "sourceStreams": [
         "4jcQHAK3P8c",
         "erjdxOS63GE",
         "XK9C19MQ1qw",
@@ -39900,14 +37807,6 @@
     },
     {
       "sourceStreams": [
-        "Jer5WpKLcnc"
-      ],
-      "title": "Botan Can't Stop Laughing At Towa's TNT Prank\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M4S",
-      "videoId": "RSFgsm_Too4"
-    },
-    {
-      "sourceStreams": [
         "_eDu0OCQfOo"
       ],
       "title": "Sakura Miko From Hololive Nye~\u3010Hololive English Sub\u3011",
@@ -39929,14 +37828,6 @@
       "title": "Subaru Predicts Hakos Will Be Bullied [Hololive/ENG Sub]",
       "duration": "PT1M29S",
       "videoId": "LYfefJ_UgAw"
-    },
-    {
-      "sourceStreams": [
-        "FofxqnUumI0"
-      ],
-      "title": "Kanata Started Speaking In Gorilla Language After Seeing A Creeper\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M10S",
-      "videoId": "XCV8VuPgCyw"
     },
     {
       "sourceStreams": [
@@ -39971,14 +37862,6 @@
       "title": "Miko Found Lamy's Secret Place to Hide Corpses [Hololive ENG Sub]",
       "duration": "PT48S",
       "videoId": "cSO0HuTeCbU"
-    },
-    {
-      "sourceStreams": [
-        "7V3CTPeDDxY"
-      ],
-      "title": "Pekora: Pandora's Box Trap\u3010Minecraft\u3011\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT2M2S",
-      "videoId": "2VCqLwxkdWQ"
     },
     {
       "sourceStreams": [
@@ -40107,23 +37990,6 @@
     },
     {
       "sourceStreams": [
-        "pcEgWdFXxEc",
-        "nKHypEjnRXE"
-      ],
-      "title": "Shion's Reaction After Seeing Gura's Passionate Love Letter\u3010Minecraft\u3011\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT2M",
-      "videoId": "tDd-NxoU49U"
-    },
-    {
-      "sourceStreams": [
-        "wH8p_yedYxs"
-      ],
-      "title": "Flare's Reaction to Pekora's Pandora Box Trap\u3010Minecraft\u3011\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M10S",
-      "videoId": "_Sf3ocTSuk0"
-    },
-    {
-      "sourceStreams": [
         "AWAFhALdaF8"
       ],
       "title": "Elite Miko Is Willing To Teach Her Elite Japanese To Everyone\u3010Hololive Eng Sub\u3011",
@@ -40197,14 +38063,6 @@
     },
     {
       "sourceStreams": [
-        "PtpBXSKJjMQ"
-      ],
-      "title": "Botan Got Embarrassed While Getting Vaccinated\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M57S",
-      "videoId": "frBl9moAfCw"
-    },
-    {
-      "sourceStreams": [
         "e3yn9O7Pv84",
         "q2mmOwuhQRc"
       ],
@@ -40271,28 +38129,11 @@
     },
     {
       "sourceStreams": [
-        "NM8X0yYLBk4",
-        "0hpVIDPAXKY"
-      ],
-      "title": "Flare Found Out That Sora senpai Has Been Corrupted\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M25S",
-      "videoId": "MIVrQJ1hcQw"
-    },
-    {
-      "sourceStreams": [
         "NM8X0yYLBk4"
       ],
       "title": "Flare Talking Alone, Botan Drain Kiss, Aqua Jump Scare, Korone Mio Blessed Laughter",
       "duration": "PT4M27S",
       "videoId": "vKC32LmnEYU"
-    },
-    {
-      "sourceStreams": [
-        "43y-Db5MYfI"
-      ],
-      "title": "Towa Calls Out Haters & Her Thoughts On rpr Collaboration\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M13S",
-      "videoId": "2EelhtSkMZY"
     },
     {
       "sourceStreams": [
@@ -40386,14 +38227,6 @@
     },
     {
       "sourceStreams": [
-        "-d6UbmSL1_I"
-      ],
-      "title": "Sora Found Out That Flare Said That She Have Changed\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT52S",
-      "videoId": "DL7v04jn-pQ"
-    },
-    {
-      "sourceStreams": [
         "F5Z2ghuBVsk"
       ],
       "title": "Chat Immediately Tell Rushia's Nickname After She Wants A Nickname Like Noel and Marine\u3010Hololive En\u3011",
@@ -40447,31 +38280,6 @@
       "title": "Natsuiro Matsuri \u2013 Math with Matsuri",
       "duration": "PT4M3S",
       "videoId": "n4FTLE87zz4"
-    },
-    {
-      "sourceStreams": [
-        "g-5YeXukn7o",
-        "loL40i1Jm_E"
-      ],
-      "title": "Pekora Payback Matsuri's Prank With A Prank Of Her Own\u3010Minecraft\u3011\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M29S",
-      "videoId": "V1_UL6RwcXs"
-    },
-    {
-      "sourceStreams": [
-        "g-5YeXukn7o"
-      ],
-      "title": "Pekora Made Mapo Tofu Trap For Gura\u3010Minecraft\u3011\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M57S",
-      "videoId": "1k-25DzWcic"
-    },
-    {
-      "sourceStreams": [
-        "F5Z2ghuBVsk"
-      ],
-      "title": "Rushia Commits Mass Rabbit Murder After Finding Out That It Killed A Villager\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M13S",
-      "videoId": "quQ42rC4NrQ"
     },
     {
       "sourceStreams": [
@@ -40682,14 +38490,6 @@
       "sourceStreams": [
         "PnInGQHbpug"
       ],
-      "title": "Rushia Made A Bleach's Soul Slayer & Viewers Call It \"Flat Chest\"\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M32S",
-      "videoId": "uXE4u9K0YPw"
-    },
-    {
-      "sourceStreams": [
-        "PnInGQHbpug"
-      ],
       "title": "Rushia Was Shocked After A Piglin Teleported Even Though She Has Closed The Entrance Gate",
       "duration": "PT3M8S",
       "videoId": "669gioW1Wp4"
@@ -40733,48 +38533,6 @@
       "title": "Yabai Matsuri Will be on National TV [Hololive/ENG Sub]",
       "duration": "PT1M43S",
       "videoId": "MM4x3HjskmY"
-    },
-    {
-      "sourceStreams": [
-        "7ZoPFNRDERA"
-      ],
-      "title": "Pekora Got Banned From HoloEN Server By Kiara\u3010Hololive English\u3011",
-      "duration": "PT1M23S",
-      "videoId": "9rGdTmMRWeE"
-    },
-    {
-      "sourceStreams": [
-        "7ZoPFNRDERA"
-      ],
-      "title": "Pekora Laughs At Gura's Failed Pandora's Box ft. Kiara\u3010Hololive English\u3011",
-      "duration": "PT1M29S",
-      "videoId": "w3QIIP6RYag"
-    },
-    {
-      "sourceStreams": [
-        "WIwVn-jByvw",
-        "ogUDwAnXz7k"
-      ],
-      "title": "Gura Calls Marine A Nudist & She Happily Accepts It ft. Aqua, Ina\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M38S",
-      "videoId": "XltUo5IVLRo"
-    },
-    {
-      "sourceStreams": [
-        "gp9Q9j8fRr0"
-      ],
-      "title": "Aqua's Scream Of Horror When Haachama Appeared Out Of Nowhere ft. Marine\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M41S",
-      "videoId": "jm-g_OfLe50"
-    },
-    {
-      "sourceStreams": [
-        "JLgN-F-9eQc",
-        "azgX8qJhhnw"
-      ],
-      "title": "\u3010Hololive\u3011Demon Lord Miko VS Rebellious Polka\u3010Minecraft\u3011\u3010Eng Sub\u3011",
-      "duration": "PT13M21S",
-      "videoId": "cvUi3__6WJk"
     },
     {
       "sourceStreams": [
@@ -40987,27 +38745,11 @@
     },
     {
       "sourceStreams": [
-        "aD_niqW7BPM"
-      ],
-      "title": "Pekora & Moona: 1st Year Anniversary Collaboration Highlights\u3010PekoMoon\u3011\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT3M23S",
-      "videoId": "-lK7U6mMwYg"
-    },
-    {
-      "sourceStreams": [
         "sUMSFgNs_HM"
       ],
       "title": "Subaru Could have Debuted with Okayu's Outfit [Hololive/ENG Sub]",
       "duration": "PT2M10S",
       "videoId": "a42rbzWdsOk"
-    },
-    {
-      "sourceStreams": [
-        "dD7quZY5yf0"
-      ],
-      "title": "Shion Ends Stream & Went to The Hospital Because Her Cat's Feeling Unwell\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M50S",
-      "videoId": "DOgINO6MhgA"
     },
     {
       "sourceStreams": [
@@ -41045,22 +38787,6 @@
       "sourceStreams": [
         "PpXbfeWmpGw"
       ],
-      "title": "Pekora's Terrified Of PekoMama Who's Always Watching Her Streams\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M29S",
-      "videoId": "_IKnZR9xYa8"
-    },
-    {
-      "sourceStreams": [
-        "PpXbfeWmpGw"
-      ],
-      "title": "Pekora Got Spammed By YouTube's New Feature For Members\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M38S",
-      "videoId": "9ojjQNKrW3Y"
-    },
-    {
-      "sourceStreams": [
-        "PpXbfeWmpGw"
-      ],
       "title": "Pekora Flexes UsaKen's Wealth By Giving Shion The Best Gift From UsaKen  \u3010Hololive Eng Sub\u3011",
       "duration": "PT2M51S",
       "videoId": "BH9AXqCmg4o"
@@ -41088,14 +38814,6 @@
       "title": "Subaru acted as Juliet in Romeo and Juliet when she was small [Hololive/ENG Sub]",
       "duration": "PT1M17S",
       "videoId": "22rk0p1ESLc"
-    },
-    {
-      "sourceStreams": [
-        "wc335_1Y9tM"
-      ],
-      "title": "Botan Accidentally Calls Sora Who Picks Up Instantly\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M31S",
-      "videoId": "fC1JsIvWk6U"
     },
     {
       "sourceStreams": [
@@ -41131,14 +38849,6 @@
     },
     {
       "sourceStreams": [
-        "pfBYFoys2tw"
-      ],
-      "title": "Botan Tells Us The Real Culprit That Called Sora Senpai\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M56S",
-      "videoId": "Gi5IHrijxT0"
-    },
-    {
-      "sourceStreams": [
         "BZOkMVAUEn0"
       ],
       "title": "Rushia Talks About Her Favorite Chuunibyou Anime Characters While Building\u3010Hololive Eng Sub\u3011",
@@ -41168,14 +38878,6 @@
       "title": "Subaru was worried about Shion and wants to be called sugar like Ayame [Hololive/ENG Sub]",
       "duration": "PT1M45S",
       "videoId": "VgVMSab_fI8"
-    },
-    {
-      "sourceStreams": [
-        "W7gUkrx2KPk"
-      ],
-      "title": "Calli Accidentally Scared the \ud835\udc07\ud835\udc04\ud835\udc0b\ud835\udc0b Out Of Gura\u3010Hololive English\u3011",
-      "duration": "PT1M25S",
-      "videoId": "C_PD45LD9pE"
     },
     {
       "sourceStreams": [
@@ -41248,14 +38950,6 @@
       "title": "Tomboy blows up 2021 [Hololive/ENG Sub]",
       "duration": "PT2M52S",
       "videoId": "wDKwZnPLpFU"
-    },
-    {
-      "sourceStreams": [
-        "W7gUkrx2KPk"
-      ],
-      "title": "Gura Crying Together With Chat\u3010Hololive English\u3011",
-      "duration": "PT1M14S",
-      "videoId": "1AkeZIgQ7_k"
     },
     {
       "sourceStreams": [
@@ -41393,15 +39087,6 @@
     },
     {
       "sourceStreams": [
-        "ZTdH0nZzUDA",
-        "gpasMn9CE9w"
-      ],
-      "title": "Pekora Saw The Clip Where Gura & Calli Is Scared Of Her\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M34S",
-      "videoId": "YUvtoaj5uPQ"
-    },
-    {
-      "sourceStreams": [
         "xlic2D9lmAM"
       ],
       "title": "Watame Says She's Going to Sleep but Suddenly Watame Night Fever Begins [Hololive Clip]",
@@ -41463,22 +39148,6 @@
       "title": "Subaru creates a song on the spot to calm herself down in horror game [Hololive/ENG Sub]",
       "duration": "PT3M32S",
       "videoId": "tMMF2Xq7GqI"
-    },
-    {
-      "sourceStreams": [
-        "YvU0sJCmFlE"
-      ],
-      "title": "Gura Cursed At Creeper And Gets Instant Karma\u3010Hololive English\u3011",
-      "duration": "PT1M4S",
-      "videoId": "AUwZ1JWsYlQ"
-    },
-    {
-      "sourceStreams": [
-        "ZTdH0nZzUDA"
-      ],
-      "title": "Pekora's Cute Interaction With Kiara, Amelia & Baelz\u3010Hololive | HoloEN | Eng Sub\u3011",
-      "duration": "PT4M18S",
-      "videoId": "elPOFLBoOjI"
     },
     {
       "sourceStreams": [
@@ -41603,14 +39272,6 @@
     },
     {
       "sourceStreams": [
-        "ZTdH0nZzUDA"
-      ],
-      "title": "Kiara Went to Pekora's Rescue While Naked...\u3010Hololive | HoloEN | Eng Sub\u3011",
-      "duration": "PT1M51S",
-      "videoId": "Vv7ri0dobC8"
-    },
-    {
-      "sourceStreams": [
         "XYpA7q4MowM"
       ],
       "title": "Botan Gives A Rank For NePoLaBo Members' Streams For Perfectionist Viewers\u3010Hololive English Sub\u3011",
@@ -41632,14 +39293,6 @@
       "title": "Subaru reassures her viewers about her 3rd anniversary live [Hololive/ENG Sub]",
       "duration": "PT2M7S",
       "videoId": "2mfGoZCJda4"
-    },
-    {
-      "sourceStreams": [
-        "rgyB7dVh7YE"
-      ],
-      "title": "Nene Made Yagoo A Catchy Greeting & Wants Him to Say it ft. Polka\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M15S",
-      "videoId": "ve8f_QrOZV8"
     },
     {
       "sourceStreams": [
@@ -41688,23 +39341,6 @@
       "title": "Marine felt some synergy with Subaru, but... [Hololive/ENG Sub]",
       "duration": "PT3M44S",
       "videoId": "OKHUR4LxMbY"
-    },
-    {
-      "sourceStreams": [
-        "KmJyzi-0bVo",
-        "gFUpshFisw0"
-      ],
-      "title": "Pekora & Subaru Pranking & Killing Each Other (PekoSuba War)\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT8M9S",
-      "videoId": "GtZBa7sbcGE"
-    },
-    {
-      "sourceStreams": [
-        "1fWgTSxccvo"
-      ],
-      "title": "Nene Caught By Fubuki Bragging About Being In \"Weekly Playboy\" Magazine\u3010Hololive | Eng Sub\u3011",
-      "duration": "PT1M37S",
-      "videoId": "5m4xh2kYfbU"
     },
     {
       "sourceStreams": [
@@ -41781,14 +39417,6 @@
       "title": "Subaru addresses the problem of messages not showing on stream chat [Hololive/ENG Sub]",
       "duration": "PT1M26S",
       "videoId": "mKvPYp8RC_Q"
-    },
-    {
-      "sourceStreams": [
-        "KmJyzi-0bVo"
-      ],
-      "title": "Pekora Being Toyed By Sana & Baelz While Talking In Voice Chat\u3010Hololive | HoloEN | Eng Sub\u3011",
-      "duration": "PT8M19S",
-      "videoId": "doKrwkWb-CI"
     },
     {
       "sourceStreams": [
@@ -68998,6 +66626,30 @@
       "title": "Kanata Shows Chloe Her New Get Rich Quick Scheme - New Holoserver Minecraft \u3010ENG Sub Hololive\u3011",
       "duration": "PT1M31S",
       "videoId": "XXb0BxKHxuM"
+    },
+    {
+      "sourceStreams": [
+        "LkiR_4-t6EU"
+      ],
+      "title": "Pekora Put Horns On Her Tower To Celebrate Laplus' Comeback - Minecraft \u3010ENG Sub Hololive\u3011",
+      "duration": "PT1M44S",
+      "videoId": "cBerbFd0TKc"
+    },
+    {
+      "sourceStreams": [
+        "utPEH5Y0fnU"
+      ],
+      "title": "PEBOT and Others \u3010Clips Compilation\u3011",
+      "duration": "PT15M34S",
+      "videoId": "sGKvZJcDhF0"
+    },
+    {
+      "sourceStreams": [
+        "4Dy7IAiTlC4"
+      ],
+      "title": "Okayu Lets Out LEWD Noises when Playing Sumo [Hololve Clip Compilation]",
+      "duration": "PT11M1S",
+      "videoId": "GulUJqE8t-4"
     }
   ]
 }
