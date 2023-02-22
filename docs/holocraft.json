@@ -25573,6 +25573,27 @@
       "title": "\u3010#\uff11\u30d6\u30edSMOK\u3011\uff11\u30d6\u30ed\u30c3\u30af\u304b\u3089\u306f\u3058\u307e\u308b\u3001SMOK\u751f\u6d3b#02\u3010\u30de\u30a4\u30f3\u30af\u30e9\u30d5\u30c8\u3011",
       "duration": "PT2H18M54S",
       "videoId": "uSJMkBDk9Hg"
+    },
+    {
+      "member": "WATAME",
+      "publishedAt": "2023-02-22T10:12:21+00:00",
+      "title": "\u3010Minecraft\u3011\u56de\u8def\u4fee\u6b63\uff06\u6d0b\u9928\u4e0b\u306e\u6c34\u4e2d\u306b\u5009\u5eab\u308b\u305e\uff01\u3010\u89d2\u5dfb\u308f\u305f\u3081/\u30db\u30ed\u30e9\u30a4\u30d6\uff14\u671f\u751f\u3011",
+      "duration": "P0D",
+      "videoId": "zGIZB3JQcy0"
+    },
+    {
+      "member": "SHIEN",
+      "publishedAt": "2023-02-22T10:29:53+00:00",
+      "title": "\u3010Minecraft\u3011\u732b\u306e\u65e5\u306a\u306e\u3067\u732b\u30ab\u30d5\u30a7\u3092\u4f5c\u308a\u307e\u3059\u3010\u5f71\u5c71\u30b7\u30a8\u30f3/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "P0D",
+      "videoId": "mxXSrh_MtII"
+    },
+    {
+      "member": "TOWA",
+      "publishedAt": "2023-02-22T11:10:23+00:00",
+      "title": "\u3010Minecraft\u3011\u30db\u30ed\u65b0\u30b5\u30fc\u30d0\u30fc\u3067\u304a\u3046\u3061\u3065\u304f\u308a\uff01PART4\u3010\u5e38\u95c7\u30c8\u30ef/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT1H54M48S",
+      "videoId": "o-Tid4pQnLw"
     }
   ],
   "craftClips": [
@@ -69086,6 +69107,71 @@
       "title": "Watame Found Marine 78 yo's Grave and Slept In There",
       "duration": "PT2M13S",
       "videoId": "VF2DoqQmzKs"
+    },
+    {
+      "sourceStreams": [
+        "uSJMkBDk9Hg"
+      ],
+      "title": "Okayu Dying When Seeing Subaru Reaction Knowing That Mio Is The One Who Make Dangerous Thing",
+      "duration": "PT8M9S",
+      "videoId": "Eh_foCSaxs0"
+    },
+    {
+      "sourceStreams": [
+        "uSJMkBDk9Hg",
+        "4adUk5vt1L8"
+      ],
+      "title": "4 Years Later, Subaru FINALLY Learns the True Culprit [Hololive/Okayu/Mio]",
+      "duration": "PT1M35S",
+      "videoId": "MhFatq-C6HU"
+    },
+    {
+      "sourceStreams": [
+        "LkiR_4-t6EU"
+      ],
+      "title": "Pekora Reacts To Watame's Underwater House - New Holoserver Minecraft \u3010ENG Sub Hololive\u3011",
+      "duration": "PT1M4S",
+      "videoId": "uGOhDioarLs"
+    },
+    {
+      "sourceStreams": [
+        "hwBOxFMjqMM"
+      ],
+      "title": "Supervisor Suisei Make Miko Nervous And Laughing At The Same Time | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M24S",
+      "videoId": "NzX0dFf22N8"
+    },
+    {
+      "sourceStreams": [
+        "hwBOxFMjqMM"
+      ],
+      "title": "Hoshimachi Suisei loves To Stare Sakura Miko While She's Drowning In The Lava [Hololive/Eng Sub]",
+      "duration": "PT1M12S",
+      "videoId": "IUvHJ4NPZfM"
+    },
+    {
+      "sourceStreams": [
+        "hwBOxFMjqMM"
+      ],
+      "title": "Sakura Miko Stream Laggy Because Of Suisei Fame | minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M5S",
+      "videoId": "dMDCFr88D-I"
+    },
+    {
+      "sourceStreams": [
+        "hwBOxFMjqMM"
+      ],
+      "title": "Suisei Log Off When Sakura Miko Come To Pick Her Up In Old Server | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M18S",
+      "videoId": "kNmXFZyl8-Q"
+    },
+    {
+      "sourceStreams": [
+        "hwBOxFMjqMM"
+      ],
+      "title": "Suisei keep bringing unwanted visitors to Miko's Dungeon Site\u3010EngSub\u3011",
+      "duration": "PT3M59S",
+      "videoId": "zVF48Tp_Vdc"
     }
   ]
 }
