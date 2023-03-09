@@ -25860,6 +25860,34 @@
       "title": "\u3010minecraft\u3011\u65b0\u30b5\u30fc\u30d0\u30fc\u306b\u7acb\u6d3e\u306a\u5efa\u7269\u3092\uff01\uff01\u3010#\u3068\u304d\u306e\u305d\u3089\u751f\u653e\u9001/\u30db\u30ed\u30e9\u30a4\u30d6/\u3068\u304d\u306e\u305d\u3089\u3011",
       "duration": "PT3H16M45S",
       "videoId": "mMYokr4zpSo"
+    },
+    {
+      "member": "SHION",
+      "publishedAt": "2023-03-09T10:29:32+00:00",
+      "title": "\u3010Minecraft\u3011\u30db\u30ed\u9bd6\u3067\u4eca\u65e5\u3082\u3086\u308b\u308a\u3068\u304a\u5bb6\u4f5c\u308a\uff01\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u7d2b\u54b2\u30b7\u30aa\u30f3\u3011",
+      "duration": "P0D",
+      "videoId": "99fId4MjfPM"
+    },
+    {
+      "member": "FLARE",
+      "publishedAt": "2023-03-09T12:12:16+00:00",
+      "title": "\u3010\u30de\u30a4\u30f3\u30af\u30e9\u30d5\u30c8/Minecraft\u3011\u30de\u30c3\u30d7\u30a2\u30fc\u30c8\u70ba\u306e\u6574\u5730\uff01\u3010\u4e0d\u77e5\u706b\u30d5\u30ec\u30a2/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "P0D",
+      "videoId": "7aTk2haiPmI"
+    },
+    {
+      "member": "SUBARU",
+      "publishedAt": "2023-03-09T15:37:56+00:00",
+      "title": "\u3010\uff03\u751f\u30b9\u30d0\u30eb\u3011\u304a\u6563\u6b69\u3059\u308b\u3057\u3085\u3070\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\uff01\uff01\uff01\uff01\uff01\uff01\uff01/MINE CRAFT\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u5927\u7a7a\u30b9\u30d0\u30eb\u3011",
+      "duration": "PT3H22M33S",
+      "videoId": "vep5k-IT3rc"
+    },
+    {
+      "member": "INANIS",
+      "publishedAt": "2023-03-09T16:01:25+00:00",
+      "title": "\u3010Minecraft\u3011 I Like the Part Where I WAH and WAH All Over the Place",
+      "duration": "PT1H31M28S",
+      "videoId": "R34ow2ec_Yk"
     }
   ],
   "craftClips": [
@@ -69704,6 +69732,33 @@
       "title": "Pekora tricked Moona to meet with her Warden buddy \u3010EngSub\u3011",
       "duration": "PT4M52S",
       "videoId": "RI0w89QOamg"
+    },
+    {
+      "sourceStreams": [
+        "rnPEwzHpzgo",
+        "4QDn-hyeQnE",
+        "2PvJ8XDtmEQ",
+        "6puvpOmoqZY"
+      ],
+      "title": "HoloJP Wonders Why Kaela Likes This Number...\u3010Hololive\u3011",
+      "duration": "PT1M44S",
+      "videoId": "KRs5l7Pv8uA"
+    },
+    {
+      "sourceStreams": [
+        "vep5k-IT3rc"
+      ],
+      "title": "Oozora Subaru Try Koyori Hell Coaster And Regret It | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M53S",
+      "videoId": "1CI48Zm2NHo"
+    },
+    {
+      "sourceStreams": [
+        "vep5k-IT3rc"
+      ],
+      "title": "Oozora Subaru Casually Wander Inside Pekora House n Jump To The Basement | Minecraft  [Hololive/Sub]",
+      "duration": "PT1M24S",
+      "videoId": "DJHRgr4E-gs"
     }
   ]
 }
