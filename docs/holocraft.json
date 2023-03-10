@@ -25888,6 +25888,27 @@
       "title": "\u3010Minecraft\u3011 I Like the Part Where I WAH and WAH All Over the Place",
       "duration": "PT1H31M28S",
       "videoId": "R34ow2ec_Yk"
+    },
+    {
+      "member": "MATSURI",
+      "publishedAt": "2023-03-10T06:39:00+00:00",
+      "title": "\u3010 Minecraft \u3011\u6d77\u5e95\u795e\u6bbf\u306b\u884c\u304d\u305f\u3044\uff01\u4f55\u304c\u5fc5\u8981\uff1f\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u590f\u8272\u307e\u3064\u308a\u3011",
+      "duration": "P0D",
+      "videoId": "JFSC3rCzXWk"
+    },
+    {
+      "member": "NOEL",
+      "publishedAt": "2023-03-10T12:24:25+00:00",
+      "title": "\u3010Minecraft\u3011\u660e\u65e5\u3057\u3089\u5efa\u3067\u5192\u967a\u4e88\u5b9a\uff01\uff01\uff01\u6e96\u5099\u3057\u306a\u304f\u3066\u306f\u30c3\uff01\uff01\u3010\u767d\u9280\u30ce\u30a8\u30eb/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT3H4M54S",
+      "videoId": "5E8YhlbGPyo"
+    },
+    {
+      "member": "NENE",
+      "publishedAt": "2023-03-10T14:24:51+00:00",
+      "title": "\u3010 Minecraft \u3011\u4f5c\u6226D\u3092\u8a08\u753b\u3057\u307e\u3057\u305f\u2026\u3078\u3078\u2026\u3010 \u6843\u9234\u306d\u306d / \u30db\u30ed\u30e9\u30a4\u30d6 \u3011",
+      "duration": "PT4H16M54S",
+      "videoId": "pP00n0vSbtY"
     }
   ],
   "craftClips": [
@@ -69759,6 +69780,30 @@
       "title": "Oozora Subaru Casually Wander Inside Pekora House n Jump To The Basement | Minecraft  [Hololive/Sub]",
       "duration": "PT1M24S",
       "videoId": "DJHRgr4E-gs"
+    },
+    {
+      "sourceStreams": [
+        "R34ow2ec_Yk"
+      ],
+      "title": "Ina Tries To Talk Like Pekora But Ends Up Sounding Adorable\u3010Hololive\u3011",
+      "duration": "PT53S",
+      "videoId": "oQ7cuSops2E"
+    },
+    {
+      "sourceStreams": [
+        "R34ow2ec_Yk"
+      ],
+      "title": "Ina Explaining How Thankful She Is to Takodachis and hololive\u3010hololive EN\u3011",
+      "duration": "PT2M17S",
+      "videoId": "gU8FXx2c-cU"
+    },
+    {
+      "sourceStreams": [
+        "vep5k-IT3rc"
+      ],
+      "title": "Subaru visits Kaela's Lava Factory and tried her Lava Temple coaster \u3010EngSub\u3011",
+      "duration": "PT3M58S",
+      "videoId": "SIT1ZvIIdos"
     }
   ]
 }
