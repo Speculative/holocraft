@@ -25972,6 +25972,20 @@
       "title": "\u3010Minecraft\u3011\u305f\u3000\u3060\u3000\u3044\u3000\u307e\u3000\u30db\u3000\u30ed\u3000\u9bd6\u3010\u6e4a\u3042\u304f\u3042/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT2H58M54S",
       "videoId": "pgvWMKIdbpY"
+    },
+    {
+      "member": "SORA",
+      "publishedAt": "2023-03-13T08:16:25+00:00",
+      "title": "\u3010minecraft\u3011\u6b66\u5668\u5eab\u5b8c\u5099\u306e\u6700\u5f37\u30ae\u30eb\u30c9\u3078\u3010#\u3068\u304d\u306e\u305d\u3089\u751f\u653e\u9001/\u30db\u30ed\u30e9\u30a4\u30d6/\u3068\u304d\u306e\u305d\u3089\u3011",
+      "duration": "PT3H19M48S",
+      "videoId": "74Vuu7FNNpA"
+    },
+    {
+      "member": "NENE",
+      "publishedAt": "2023-03-13T11:07:29+00:00",
+      "title": "\u3010 Minecraft \u3011\u306d\u306d\u306e\u9f3b\u6c34\u3001\u6edd\u8aac\u3010 \u6843\u9234\u306d\u306d / \u30db\u30ed\u30e9\u30a4\u30d6 \u3011",
+      "duration": "PT1H59M2S",
+      "videoId": "4xw9mhUYl4I"
     }
   ],
   "craftClips": [
@@ -69946,6 +69960,31 @@
       "title": "Kazama Iroha Show Her Secret Room For Sora Senpai Who Need Help | Minecraft [Hololive/Eng Sub]",
       "duration": "PT1M13S",
       "videoId": "Gbq0i4FxS5k"
+    },
+    {
+      "sourceStreams": [
+        "58yIGietSxQ"
+      ],
+      "title": "Pekora Finally Notices \"JORK\" Is Actually Spelled \"JOKE\" In English...\u3010Hololive\u3011",
+      "duration": "PT1M1S",
+      "videoId": "BbemFLVxaWE"
+    },
+    {
+      "sourceStreams": [
+        "pgvWMKIdbpY"
+      ],
+      "title": "Aqua Met Kiara IRL But Couldn't Communicate...\u3010Hololive\u3011",
+      "duration": "PT2M16S",
+      "videoId": "5PLh8WcuW3I"
+    },
+    {
+      "sourceStreams": [
+        "58yIGietSxQ",
+        "pgvWMKIdbpY"
+      ],
+      "title": "Pekora pranks Aqua into her Warden's cage",
+      "duration": "PT1M35S",
+      "videoId": "1sFwb9-iUxE"
     }
   ]
 }
