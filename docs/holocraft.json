@@ -26056,6 +26056,13 @@
       "title": "\u3010Minecraft\u3011\u4eca\u65e5\u306f\u3086\u308b\uff5e\u308a\u3068\u30db\u30ed\u30b9\u30bf\u9bd6\u6563\u6b69\u3010\u82b1\u54b2\u307f\u3084\u3073/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
       "duration": "PT1H7M49S",
       "videoId": "bfzW8fOOyjk"
+    },
+    {
+      "member": "KANATA",
+      "publishedAt": "2023-03-18T15:10:37+00:00",
+      "title": "\u3010Minecraft\u3011\u660e\u65e5\u306b\u5411\u3051\u3066\u7cbe\u795e\u7d71\u4e00\u30fb\u30fb\u30fb\u591c\u306e\u304a\u6563\u6b69\u3060\uff01\uff01\uff01\uff01\u3010\u5929\u97f3\u304b\u306a\u305f/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT59M58S",
+      "videoId": "3U-g8HLcwkM"
     }
   ],
   "craftClips": [
@@ -70144,6 +70151,14 @@
       "title": "Botan REACTS to Pekora's TOWER (Curiosity Didn't Kill The Lion) - Minecraft \u3010ENG Sub Hololive\u3011",
       "duration": "PT1M47S",
       "videoId": "a1I6n4M3qvo"
+    },
+    {
+      "sourceStreams": [
+        "3U-g8HLcwkM"
+      ],
+      "title": "Amane Kanata Found a Thief Headquarter   | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M20S",
+      "videoId": "YlPick83jow"
     }
   ]
 }
