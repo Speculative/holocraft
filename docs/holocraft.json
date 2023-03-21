@@ -26098,6 +26098,13 @@
       "title": "\u3010Minecraft\u3011\u30de\u30a4\u30af\u30e9\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
       "duration": "PT3H25M40S",
       "videoId": "EwXKM76Xsus"
+    },
+    {
+      "member": "SORA",
+      "publishedAt": "2023-03-21T08:56:32+00:00",
+      "title": "\u3010minecraft\u3011\u5dfb\u304d\u8fbc\u307e\u308c\u306e\u305d\u3089\u30ae\u30eb\u30de\u30b9\u3001\u306a\u3093\u304b\u5009\u5eab\u4f5c\u308b\u3010#\u3068\u304d\u306e\u305d\u3089\u751f\u653e\u9001/\u30db\u30ed\u30e9\u30a4\u30d6/\u3068\u304d\u306e\u305d\u3089\u3011",
+      "duration": "PT3H33M17S",
+      "videoId": "WosLaHVMLCI"
     }
   ],
   "craftClips": [
@@ -70218,6 +70225,23 @@
       "title": "Pekora Take Koyori Hell Coaster And Taste Her Own Medicine | Minecraft [Hololive/Eng Sub]",
       "duration": "PT1M26S",
       "videoId": "OYRYqes4WlA"
+    },
+    {
+      "sourceStreams": [
+        "EwXKM76Xsus",
+        "rIh3wjETcD4"
+      ],
+      "title": "Pekora Was Suprised Moona Spoke Japanese While MC'ing At 4th Fes\u3010Hololive\u3011",
+      "duration": "PT1M12S",
+      "videoId": "voQNfQTL_rc"
+    },
+    {
+      "sourceStreams": [
+        "uBy_x0UM414"
+      ],
+      "title": "Watame Saw The Mukiroze Cosplayer Who Moved Aki To Tears \u3010ENG Sub Hololive\u3011",
+      "duration": "PT57S",
+      "videoId": "f5Cy9s2B6wY"
     }
   ]
 }
