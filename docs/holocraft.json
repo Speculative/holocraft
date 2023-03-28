@@ -26259,6 +26259,41 @@
       "title": "\u3010Minecraft\u3011#\u30de\u30a4\u30af\u30e9\u30d0\u30fc\u30b5\u30b9 \u30db\u30ed\u30c1\u30fc\u30e0\u3067\u53c2\u6226\u3060\uff5e\uff01\ud83d\udfe1\u9ec4\u8272\u30c1\u30fc\u30e0\ud83d\udfe1\u3010\u7345\u767d\u307c\u305f\u3093/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "P0D",
       "videoId": "sM2VvHTH9oE"
+    },
+    {
+      "member": "MEL",
+      "publishedAt": "2023-03-28T02:46:41+00:00",
+      "title": "\u3010Minecraft\u3011\u65b9\u5411\u97f3\u75f4\u306e\u7d20\u6750\u96c6\u3081\u306e\u65c5\uff01\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u591c\u7a7a\u30e1\u30eb\u3011",
+      "duration": "PT5H37M43S",
+      "videoId": "Oee8piYxDgA"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2023-03-28T03:00:16+00:00",
+      "title": "Minecraft\u3067\u30d2\u30c4\u30b8\u306e\u9854\u3092\u4f5c\u3063\u3066\u3044\u305f\u304c\u2026 #shorts #minecraft  #Vtuber #\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9  #\u30db\u30ed\u30b9\u30bf\u30fc\u30ba",
+      "duration": "PT34S",
+      "videoId": "LXX-CFz0iJY"
+    },
+    {
+      "member": "GURA",
+      "publishedAt": "2023-03-28T03:50:59+00:00",
+      "title": "\u3010MINECRAFT\u3011minecraft! \ud83d\udc1f",
+      "duration": "PT3H28M40S",
+      "videoId": "14pt35XLqzs"
+    },
+    {
+      "member": "MOONA",
+      "publishedAt": "2023-03-28T10:03:23+00:00",
+      "title": "\u3010Minecraft\u3011grinding all the way\u3010holoID\u3011",
+      "duration": "PT2H41M15S",
+      "videoId": "6C-i_m6svkc"
+    },
+    {
+      "member": "PEKORA",
+      "publishedAt": "2023-03-28T13:23:07+00:00",
+      "title": "\u3010Minecraft\u3011\u30de\u30a4\u30af\u30e9\u30d0\u30fc\u30b5\u30b9\uff01\ud83d\udfe1\u30db\u30ed\u30c1\u30fc\u30e0\ud83d\udfe1\u3067\u512a\u52dd\u3060\uff01\u512a\u52dd\u3060\uff01\u512a\u52dd\u512a\u52dd\u512a\u52dd\u3060\uff01\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
+      "duration": "PT3H59M44S",
+      "videoId": "Q0Ukn3r4fdc"
     }
   ],
   "craftClips": [
@@ -69865,6 +69900,63 @@
       "title": "Okayu Rides Koyori's HELL COASTER & Meets Warden - New Holoserver Minecraft \u3010ENG Sub Hololive\u3011",
       "duration": "PT3M43S",
       "videoId": "QjB69KfQuLY"
+    },
+    {
+      "sourceStreams": [
+        "14pt35XLqzs"
+      ],
+      "title": "Gura's microphone caught her picking her nose...",
+      "duration": "PT40S",
+      "videoId": "OAYRK03cHgM"
+    },
+    {
+      "sourceStreams": [
+        "14pt35XLqzs"
+      ],
+      "title": "Gura wants to stop wearing spats...",
+      "duration": "PT1M14S",
+      "videoId": "LzJbiQJLYVA"
+    },
+    {
+      "sourceStreams": [
+        "14pt35XLqzs"
+      ],
+      "title": "Gura Finds Okayu's Sign and Sends Her A Cute Message\u3010Hololive\u3011",
+      "duration": "PT2M15S",
+      "videoId": "t_JG6k_11Aw"
+    },
+    {
+      "sourceStreams": [
+        "Y5zwV3NKBfo"
+      ],
+      "title": "Okayu Finds Gura's Trident and Decides To Move In Next To Gura's House In Minecraft\u3010Hololive\u3011",
+      "duration": "PT1M34S",
+      "videoId": "H7qNDWwTmL8"
+    },
+    {
+      "sourceStreams": [
+        "RvcATZr59jM"
+      ],
+      "title": "Pekora Couldn't Keep A Straight Face At Laplus' \"House\" - New Holoserver Minecraft\u3010ENG Sub Hololive\u3011",
+      "duration": "PT1M41S",
+      "videoId": "ZK2rY4_YsHU"
+    },
+    {
+      "sourceStreams": [
+        "isd0czmhG2o"
+      ],
+      "title": "hololive vs Oga's bitter melon juice",
+      "duration": "PT39M29S",
+      "videoId": "frhCH8T9t2g"
+    },
+    {
+      "sourceStreams": [
+        "DvI5q3p-XLg",
+        "RvcATZr59jM"
+      ],
+      "title": "Pekora Show Shion Her Gatling Gun And Make Her Partner In Criime | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT2M3S",
+      "videoId": "3WwSMnJ6DGY"
     }
   ]
 }
