@@ -26525,6 +26525,34 @@
       "title": "\u3010Minecraft\u3011\u30de\u30a4\u30af\u30e9\u65b0\u9bd6\u3069\u3053\u3067\u3059\u304b\uff01\u60aa\u9b54\u306e\u5927\u5192\u967a\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u7652\u6708\u3061\u3087\u3053\u3011",
       "duration": "PT1H38M55S",
       "videoId": "p6hAYKguiHU"
+    },
+    {
+      "member": "PEKORA",
+      "publishedAt": "2023-04-06T08:06:41+00:00",
+      "title": "\u3010Minecraft\u3011\u30de\u30a4\u30af\u30e9\u3053\u305d\u307a\u3053\u3089\u306e\u751f\u304d\u308b\u9053\u306a\u3093\u3060\u3088\uff01\uff01\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
+      "duration": "PT3H32M",
+      "videoId": "kBCIEgTTo40"
+    },
+    {
+      "member": "MIO",
+      "publishedAt": "2023-04-06T10:17:19+00:00",
+      "title": "\u3010\u30de\u30a4\u30af\u30e9\u3011\u3042\u3084\u3081\u3068\u4e00\u7dd2\u306b\u304a\u3046\u3061\u3092\u5efa\u3066\u308b\uff01\u3010 \u5927\u795e\u30df\u30aa\u8996\u70b9\u3011",
+      "duration": "PT2H4M16S",
+      "videoId": "tt68Dohr0fk"
+    },
+    {
+      "member": "AYAME",
+      "publishedAt": "2023-04-06T11:33:13+00:00",
+      "title": "\u3010 Minecraft \u3011\u30df\u30aa\u3061\u3083\u3093\u3068\u304a\u5bb6\u3065\u304f\u308a\u3059\u308b\uff01",
+      "duration": "PT2H3M40S",
+      "videoId": "id6mGNNq4ac"
+    },
+    {
+      "member": "KANATA",
+      "publishedAt": "2023-04-06T11:36:51+00:00",
+      "title": "\u3010Minecraft\u3011\u6cf3\u3050\u5929\u4f7f\u3001\u5b9f\u5bb6\u76f4\u5e30\u30b7\u30e3\u30c1\u3002\u3010\u5929\u97f3\u304b\u306a\u305f/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT1H21M36S",
+      "videoId": "7iEw9_uQ1HU"
     }
   ],
   "craftClips": [
@@ -70409,6 +70437,56 @@
       "title": "Subaru starts wanting to Move Out so Badly after seeing Pekora's Gatling Cannon and KoyoSuba Cannon",
       "duration": "PT1M27S",
       "videoId": "UFZGpn2v2pg"
+    },
+    {
+      "sourceStreams": [
+        "cLpPykn7gvc",
+        "AIjsLy9S9oI"
+      ],
+      "title": "Watame and Towa Watching Hololive Minecraft God Kaela Astonished Seeing Pandas They Bring To Server",
+      "duration": "PT2M48S",
+      "videoId": "I8lQdjB0Xk0"
+    },
+    {
+      "sourceStreams": [
+        "p6hAYKguiHU"
+      ],
+      "title": "Choco's reaction to Lui's Transparent Bathroom is Hilarious [Hololive/Eng sub]",
+      "duration": "PT2M32S",
+      "videoId": "c9WXrDFujSo"
+    },
+    {
+      "sourceStreams": [
+        "tt68Dohr0fk"
+      ],
+      "title": "Ookami Mio Execute a Merchant After Disturbing Ayame | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M30S",
+      "videoId": "tMvvtTeAJIc"
+    },
+    {
+      "sourceStreams": [
+        "p6hAYKguiHU"
+      ],
+      "title": "Yuzuki Choco Imagination Went Crazy Over Lui Transparent Bathroom | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M25S",
+      "videoId": "g-JsW-9G1PE"
+    },
+    {
+      "sourceStreams": [
+        "KTgXfl0kqjs",
+        "UQv3jMMU0M0"
+      ],
+      "title": "Tokino Sora Report an Illegal Request In Her Guild To Subaru | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT57S",
+      "videoId": "0QAqJu6UQgI"
+    },
+    {
+      "sourceStreams": [
+        "AIjsLy9S9oI"
+      ],
+      "title": "Tokoyami Towa Jump Over Ghast Fire Ball While Laughing  | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M12S",
+      "videoId": "fQ1i3e4aMbs"
     }
   ]
 }
