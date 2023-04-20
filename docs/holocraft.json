@@ -26786,13 +26786,6 @@
       "videoId": "HEBCeBng4PU"
     },
     {
-      "member": "AYAME",
-      "publishedAt": "2023-04-13T22:04:30+00:00",
-      "title": "\u3010 Minecraft \u3011\u306e\u3093\u3073\u308a\u6574\u5730\u7d20\u6750\u96c6\u3081\uff5e\uff5e",
-      "duration": "P0D",
-      "videoId": "VAebIAsK1Fo"
-    },
-    {
       "member": "OKAYU",
       "publishedAt": "2023-04-14T01:11:33+00:00",
       "title": "\u3010Minecraft\u3011\u306f\u3058\u3081\u3066\u306e\uff01\u30de\u30c3\u30d7\u30a2\u30fc\u30c8\u306b\u6311\u6226\u3060\uff01\u3010\u732b\u53c8\u304a\u304b\u3086/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
@@ -26947,13 +26940,6 @@
       "videoId": "VjB16Ldfvrk"
     },
     {
-      "member": "MIKO",
-      "publishedAt": "2023-04-19T08:50:15+00:00",
-      "title": "\u3010 Minecraft \u3011\u6557\u5317\u306e\u30c1\u30c3\u30b9\u3092\u594f\u3067\u3088\u3046\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3055\u304f\u3089\u307f\u3053\u3011",
-      "duration": "P0D",
-      "videoId": "oL8f15l5WlA"
-    },
-    {
       "member": "KORONE",
       "publishedAt": "2023-04-19T09:53:01+00:00",
       "title": "\u3010Minecraft\u3011\u85e4\u6728\u304f\u3093(\u30b9\u30c8\u30e9\u30a4\u30c0\u30fc)\u306e\u304a\u5bb6\u3092\u4f5c\u308a\u305f\u3044\uff01\uff01\uff01\u3010\u620c\u795e\u3053\u308d\u306d/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
@@ -26973,6 +26959,41 @@
       "title": "\u3010Minecraft\u3011\u7b2c8\u56de\u3064\u3044\u306b\u6298\u308a\u8fd4\u3057\u305f\u30e9\u30fc\u30b8\u30c1\u30a7\u30b9\u30c8\u3092\u30b9\u30bf\u30c3\u30af\u30c0\u30a4\u30e4\u3067\u57cb\u3081\u3088\u3046\u306e\u4f1a\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
       "duration": "P0D",
       "videoId": "IkFwuP1w_O8"
+    },
+    {
+      "member": "FLARE",
+      "publishedAt": "2023-04-19T17:54:08+00:00",
+      "title": "\u3010Super Chat\u304a\u793c\u52d5\u753b\u3011ARK\uff5e\u30de\u30a4\u30af\u30e9\u307e\u3067\u3002\u3044\u3064\u3082\u3042\u308a\u304c\u3068\u3046\ud83d\udc90\u3010\u4e0d\u77e5\u706b\u30d5\u30ec\u30a2/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT1H34M30S",
+      "videoId": "GShxNQpMPJQ"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2023-04-20T11:01:51+00:00",
+      "title": "\u3010Minecraft\u3011\u7b2c9\u56de\u30b9\u30bf\u30c3\u30af\u30c0\u30a4\u30e4\u3067\u30e9\u30fc\u30b8\u30c1\u30a7\u30b9\u30c8\u3092\u57cb\u3081\u3066\u3057\u307e\u3046\u4f1a\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "P0D",
+      "videoId": "s6v3RrYPJm8"
+    },
+    {
+      "member": "NENE",
+      "publishedAt": "2023-04-20T14:26:53+00:00",
+      "title": "\u3010 Minecraft \u3011\u306d\u306d\u3053\u3088\u30de\u30a4\u30af\u30e9\u8a08\u753b\u2026\uff01\uff1f\uff01\uff1f\u3010 \u6843\u9234\u306d\u306d / \u30db\u30ed\u30e9\u30a4\u30d6 \u3011",
+      "duration": "PT3H5M39S",
+      "videoId": "wJciVQOwKXU"
+    },
+    {
+      "member": "OKAYU",
+      "publishedAt": "2023-04-20T14:28:41+00:00",
+      "title": "\u3010Minecraft\u3011\u30df\u30aa\u3061\u3083\u3093\u304c\u3046\u3061\u306e\u30a2\u30eb\u30d0\u30a4\u30c8\u306b\u6765\u3066\u304f\u308c\u307e\u3057\u305f\ud83c\udf32\ud83c\udf32\ud83c\udf32\u3010 #\u307f\u304a\u304b\u3086 /\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT2H36M55S",
+      "videoId": "K4mXfVkUUP0"
+    },
+    {
+      "member": "KIARA",
+      "publishedAt": "2023-04-20T15:13:11+00:00",
+      "title": "\u3010MINECRAFT\u3011WITHER SHOWDOWNNNNN #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6",
+      "duration": "P0D",
+      "videoId": "8Fh9twRq7oQ"
     }
   ],
   "craftClips": [
@@ -71354,6 +71375,22 @@
       "title": "Kaela looks pretty charming IRL",
       "duration": "PT56S",
       "videoId": "Asnhj3c_6Z4"
+    },
+    {
+      "sourceStreams": [
+        "VjB16Ldfvrk"
+      ],
+      "title": "Ina Is Surprised Okayu Is Still Awake Playing Minecraft\u3010Hololive\u3011",
+      "duration": "PT2M13S",
+      "videoId": "d_sew8kfCH8"
+    },
+    {
+      "sourceStreams": [
+        "itLPibUO1fw"
+      ],
+      "title": "Sakura Miko Is Confused At Korone Who Keep Looking The Sky | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M13S",
+      "videoId": "4_MXylRXYMk"
     }
   ]
 }
