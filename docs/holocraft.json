@@ -27080,13 +27080,6 @@
       "videoId": "K8btXkx7zcI"
     },
     {
-      "member": "LUNA",
-      "publishedAt": "2023-04-23T12:56:41+00:00",
-      "title": "\u3010 Minecraft \u3011\u5bdd\u8d77\u304d\u30de\u30a4\u30af\u30e9\u306a\u306e\u3089\uff5e\uff5e\uff5e\uff5e\uff5e\ud83d\udd30\u3010\u59eb\u68ee\u30eb\u30fc\u30ca/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
-      "duration": "P0D",
-      "videoId": "NGmuiHq47P8"
-    },
-    {
       "member": "CALLIOPE",
       "publishedAt": "2023-04-23T15:09:16+00:00",
       "title": "\u3010MINECRAFT\u3011father son exploring with @KoboKanaeru !!",
@@ -27148,6 +27141,13 @@
       "title": "\u3010Minecraft\u3011\u308f\u305f\u3081\u3068\u30c8\u30ef\u69d8\u3067\u30e4\u30ae\u6355\u7372\u4f5c\u6226\u3058\u3083\u3042\uff5e\uff01\ud83d\udc10\u3010\u5e38\u95c7\u30c8\u30ef/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT1H57M2S",
       "videoId": "_8WBUrJLlLM"
+    },
+    {
+      "member": "KIARA",
+      "publishedAt": "2023-04-26T15:42:19+00:00",
+      "title": "\u3010MINECRAFT\u3011Early Bird Get The Work Done!! #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6",
+      "duration": "PT4H11M51S",
+      "videoId": "6I-nwfxtlqA"
     }
   ],
   "craftClips": [
@@ -71643,6 +71643,55 @@
       "title": "Nekomata Okayu Caught Kaela Sneaking Inside Her House | Minecraft [Hololive/Eng Sub]",
       "duration": "PT1M12S",
       "videoId": "OjVQFp0W3Uw"
+    },
+    {
+      "sourceStreams": [
+        "phEWxfwagH8",
+        "nxbSLFv2JAs"
+      ],
+      "title": "A-chan's Sudden Girly Scream Surprises Sora and Iofi\u3010Hololive\u3011",
+      "duration": "PT1M5S",
+      "videoId": "n0GUzJjwNgw"
+    },
+    {
+      "sourceStreams": [
+        "phEWxfwagH8"
+      ],
+      "title": "A-Chan Reacts To Korone's Eccentric House & Shion's Pranks On It \u3010ENG Sub Hololive\u3011",
+      "duration": "PT2M",
+      "videoId": "Q1rTxtT32Oc"
+    },
+    {
+      "sourceStreams": [
+        "_8WBUrJLlLM"
+      ],
+      "title": "Towa reacts to Miko's Magic Momosuzu Mirror Truck that looks very sensitive [Hololive/Eng sub]",
+      "duration": "PT57S",
+      "videoId": "y4mULqFccIw"
+    },
+    {
+      "sourceStreams": [
+        "dU2vQh4FDL0"
+      ],
+      "title": "Okayu doesn't expect so many overseas viewers hate Pineapple Pizza [Hololive/Eng sub]",
+      "duration": "PT1M21S",
+      "videoId": "UlGUN9mHAbs"
+    },
+    {
+      "sourceStreams": [
+        "dU2vQh4FDL0"
+      ],
+      "title": "Nekomata Okayu Watched Her Hard Working Nieghbors Doing Something scary | Minecraft [Hololive/Sub]",
+      "duration": "PT52S",
+      "videoId": "3VhcYHOtaIY"
+    },
+    {
+      "sourceStreams": [
+        "_8WBUrJLlLM"
+      ],
+      "title": "Towa And Watame Found Their Missing Pet Kept Alive By Kaela | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT55S",
+      "videoId": "Tt5etYLjMT8"
     }
   ]
 }
