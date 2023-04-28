@@ -27197,6 +27197,34 @@
       "title": "\u3010Minecraft\u3011\u30db\u30ed\u9bd6\u3002\u304a\u304b\u3086\u3093\u306b\u8a98\u308f\u308c\u305f\u306e\u3067\u8003\u3048\u306a\u304c\u3089\u3001\u3068\u308a\u3042\u3048\u305a\u3001\u307c\u3063\u3061\u3056\u5efa\u7bc9\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u767d\u4e0a\u30d5\u30d6\u30ad\u3011",
       "duration": "P0D",
       "videoId": "mqG4cUeUi6s"
+    },
+    {
+      "member": "WATAME",
+      "publishedAt": "2023-04-27T21:04:49+00:00",
+      "title": "\u3010Minecraft\u3011\u4eca\u65e5\u306f\u8272\u3005\u3084\u308b\uff01\u660e\u65e5\u306f\u30db\u30ed\u30c9\u30ed\u30b1\u30a4 \uff01\uff01\uff01\uff08\u5009\u5eab\u6574\u7406\u4ee5\u5916\u3010\u89d2\u5dfb\u308f\u305f\u3081/\u30db\u30ed\u30e9\u30a4\u30d6\uff14\u671f\u751f\u3011",
+      "duration": "P0D",
+      "videoId": "rNZ9YKYHDUg"
+    },
+    {
+      "member": "OLLIE",
+      "publishedAt": "2023-04-28T15:26:59+00:00",
+      "title": "\u3010MINECRAFT\u3011I AM HERE AND I AM READY TO GIVE THE HOLOID RAVINE A MAKEOVER\u3010Hololive Indonesia 2nd Gen\u3011",
+      "duration": "P0D",
+      "videoId": "vZh3WdaQTUc"
+    },
+    {
+      "member": "ROBOCO",
+      "publishedAt": "2023-04-28T15:35:44+00:00",
+      "title": "\u3010 #\u30db\u30ed\u30c9\u30ed\u30b1\u30a4 \u3011holoX\u304b\u3089\u306e\u6311\u6226\u72b6\u203c\u5168\u529b\u3069\u308d\u30fc\u307c\u30fc\u3010\u30ed\u30dc\u5b50\u3055\u3093 /\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "P0D",
+      "videoId": "CJ1IPUzicrw"
+    },
+    {
+      "member": "SUISEI",
+      "publishedAt": "2023-04-28T16:03:15+00:00",
+      "title": "\u3010#\u30db\u30ed\u30c9\u30ed\u30b1\u30a4\u3011\u30c9\u30ed\u30dc\u30a6\u3067\u3059\u304c\u7121\u7f6a\u3067\u3059\u3002\u3010\u30db\u30ed\u30e9\u30a4\u30d6 / \u661f\u8857\u3059\u3044\u305b\u3044\u3011",
+      "duration": "P0D",
+      "videoId": "sC2Ybfav5lQ"
     }
   ],
   "craftClips": [
@@ -71773,6 +71801,39 @@
       "title": "Sui-chan gets captured and pranked by Miko [Hololive/Eng sub]",
       "duration": "PT2M31S",
       "videoId": "or2YqS5WQYA"
+    },
+    {
+      "sourceStreams": [
+        "AIUJwEuryC0",
+        "_8WBUrJLlLM"
+      ],
+      "title": "Towa and Watame Having Fun With Goat Horn and Member's Mask With Moona",
+      "duration": "PT3M29S",
+      "videoId": "mxvXkLV6710"
+    },
+    {
+      "sourceStreams": [
+        "k0s0b81MaBc"
+      ],
+      "title": "Shion spotted Okayu shouting \"I love Shion\", so she's going to get married tomorrow [Hololive]",
+      "duration": "PT1M7S",
+      "videoId": "507sXYDXrd8"
+    },
+    {
+      "sourceStreams": [
+        "k0s0b81MaBc"
+      ],
+      "title": "Viewer believes Shion's real voice is cuter than her streaming voice [Hololive]",
+      "duration": "PT1M19S",
+      "videoId": "HcMw4cRSy5s"
+    },
+    {
+      "sourceStreams": [
+        "mqG4cUeUi6s"
+      ],
+      "title": "Okayu masquerade Into Masked Riddler To Trick Fubuki | Minecraft [Hololive/Eng Sub]",
+      "duration": "PT1M35S",
+      "videoId": "TKpM1HpoQR4"
     }
   ]
 }
