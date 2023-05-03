@@ -27414,6 +27414,41 @@
       "title": "\u3010MINECRAFT\u3011TET TENENENE NE NET TET TENE NE NENE NET\u3010Hololive Indonesia 2nd Gen\u3011",
       "duration": "P0D",
       "videoId": "H4bz2ihxAK8"
+    },
+    {
+      "member": "WATAME",
+      "publishedAt": "2023-05-02T21:00:54+00:00",
+      "title": "\u3010Minecraft\u3011\u6d77\u5e95\u30c8\u30f3\u30cd\u30eb\u3092\u5b8c\u6210\u3055\u305b\u308b\u305e\u304a \uff01\uff01\uff01\u3010\u89d2\u5dfb\u308f\u305f\u3081/\u30db\u30ed\u30e9\u30a4\u30d6\uff14\u671f\u751f\u3011",
+      "duration": "P0D",
+      "videoId": "PliSrDKVPnU"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2023-05-03T11:40:58+00:00",
+      "title": "\u3010Minecraft\u3011\u7b2c13\u56de\u3064\u3044\u306b\u7d42\u308f\u308a\u3092\u8fce\u3048\u308b\u30e9\u30fc\u30b8\u30c1\u30a7\u30b9\u30c8\u3092\u30c0\u30a4\u30e4\u3067\u3044\u3063\u3071\u3044\u306b\u3059\u308b\u4f1a\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT3H17M26S",
+      "videoId": "a0HX9c6PgPE"
+    },
+    {
+      "member": "KANATA",
+      "publishedAt": "2023-05-03T12:56:41+00:00",
+      "title": "\u3010Minecraft\u3011\u3082\u3046\u3042\u3068\u5c11\u3057\u306a\u3093\u3060\u30fb\u30fb\u30fb\u307f\u3093\u306a\u306e\u77e5\u6075\u3092\u8cb8\u3057\u3066\u304f\u308c\uff01\uff01\uff01\uff01\u3010\u5929\u97f3\u304b\u306a\u305f/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT1H42M4S",
+      "videoId": "wl2MOKfuiZc"
+    },
+    {
+      "member": "CHOCO",
+      "publishedAt": "2023-05-03T14:49:23+00:00",
+      "title": "\u3010Minecraft\u3011\u30ed\u30de\u30f3\u3092\u4f5c\u308c\uff01\u8997\u304d\u9732\u5929\u98a8\u5442\u4f5c\u308a\uff01\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u7652\u6708\u3061\u3087\u3053\u3011",
+      "duration": "PT1H40M4S",
+      "videoId": "Rwkpp4-NBAk"
+    },
+    {
+      "member": "SORA",
+      "publishedAt": "2023-05-03T17:18:32+00:00",
+      "title": "\u3010minecraft\u3011\u304b\u306a\u305f\u57ce\u306e\u5e8a\u3092\u4f5c\u308b\u306e\u3060\uff01\uff01\u3010#\u3068\u304d\u306e\u305d\u3089\u751f\u653e\u9001/\u30db\u30ed\u30e9\u30a4\u30d6/\u3068\u304d\u306e\u305d\u3089\u3011",
+      "duration": "PT4H4M51S",
+      "videoId": "W64T5SzCFOg"
     }
   ],
   "craftClips": [
@@ -72158,6 +72193,30 @@
       "title": "Tokino Sora Received A Quest From Shion And Investigate Her House | Minecraft [Hololive/Eng Sub]",
       "duration": "PT1M32S",
       "videoId": "kdF_q5BWlVM"
+    },
+    {
+      "sourceStreams": [
+        "ErJvRoNp01o"
+      ],
+      "title": "Okayu Decide To Visit Lui's Hometown for Company Outing After Knowing Lui's Family Runs Sushi Shop",
+      "duration": "PT3M11S",
+      "videoId": "wtwf6v6MCFY"
+    },
+    {
+      "sourceStreams": [
+        "Rwkpp4-NBAk"
+      ],
+      "title": "Choco gets angry after noticing her 2nd peeking spot also got blocked [Hololive/Eng sub]",
+      "duration": "PT1M34S",
+      "videoId": "RbQoG6GURTQ"
+    },
+    {
+      "sourceStreams": [
+        "t_WfNlg8PJk"
+      ],
+      "title": "REINE DEAD SO MANY TIMES AND SWEARS A LOT",
+      "duration": "PT1M48S",
+      "videoId": "_Xn9sDxuYtg"
     }
   ]
 }
