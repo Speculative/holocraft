@@ -4,6 +4,7 @@ on:
   schedule:
     # Every day at 12:00 Eastern Time
     - cron: "0 16 * * *"
+  workflow_dispatch:
 
 jobs:
   update:
@@ -19,7 +20,7 @@ jobs:
           python-version: 3.9
 
       - name: Install poetry
-        run: pip install poetry==1.1.5
+        run: pip install poetry==1.4.2
 
       - name: Poetry get deps
         run: poetry install
