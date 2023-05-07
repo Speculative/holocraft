@@ -27484,6 +27484,20 @@
       "title": "\u3010Minecraft\u3011\u4f55\u304b\u914d\u4fe1\u3057\u3088\u3046\u3001\u305d\u306e\u6c17\u6301\u3061\u3060\u3051\u3067\u6728\u3092\u5207\u308b\u3053\u3068\u3092\u9078\u3093\u3060\u7537\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
       "duration": "P0D",
       "videoId": "thTAaroeRKQ"
+    },
+    {
+      "member": "OKAYU",
+      "publishedAt": "2023-05-06T19:08:53+00:00",
+      "title": "\u3010Minecraft\u3011\u306e\u3093\u3073\u308a\u6df1\u591c\u4f5c\u696dDA\ud83c\udf59\ud83c\udf39\ud83c\udf32\u3010#\u6ce5\u68d2\u5efa\u8a2d/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT2H12M36S",
+      "videoId": "-eFke_NTdrE"
+    },
+    {
+      "member": "LUNA",
+      "publishedAt": "2023-05-07T08:19:08+00:00",
+      "title": "\u3010 Minecraft \u3011\u5bb6\u306e\u5468\u308a\u3092\u7d20\u6575\u306b\u3057\u3088\u3046\uff5e\uff5e\uff5e\uff5e\uff5e\ud83d\udd30\u3010\u59eb\u68ee\u30eb\u30fc\u30ca/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "P0D",
+      "videoId": "PIBRew__aVE"
     }
   ],
   "craftClips": [
@@ -72268,6 +72282,14 @@
       "title": "Suisei's Face In This Animation Broke Miko\u3010Hololive\u3011",
       "duration": "PT2M43S",
       "videoId": "PS5cYdXgg9o"
+    },
+    {
+      "sourceStreams": [
+        "-eFke_NTdrE"
+      ],
+      "title": "Okayu wants Lui to be a l*wd girl [Hololive/Eng sub]",
+      "duration": "PT1M13S",
+      "videoId": "wNHvw2ecbf4"
     }
   ]
 }
