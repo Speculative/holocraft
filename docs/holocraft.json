@@ -27547,6 +27547,20 @@
       "title": "\u3010Minecraft\u3011\u30eb\u30a4\u3061\u3083\u3093\u3068\u6ce5\u68d2\u5efa\u8a2d\u5de5\u5834\u3092\u4f5c\u308b\u305e\ud83c\udf59\ud83c\udf39\u3010 #\u6ce5\u68d2\u5efa\u8a2d /\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT5H39M6S",
       "videoId": "JmCakhu2w-c"
+    },
+    {
+      "member": "OLLIE",
+      "publishedAt": "2023-05-10T17:06:11+00:00",
+      "title": "\u3010MINECRAFT\u3011NEED A HAND BESTIE?? //Helping Iofi-senpai w/ her UFO!!\u3010Hololive Indonesia 2nd Gen\u3011",
+      "duration": "PT4H24M52S",
+      "videoId": "ImQ24jP45uE"
+    },
+    {
+      "member": "IOFI",
+      "publishedAt": "2023-05-10T17:08:19+00:00",
+      "title": "\u3010 Minecraft \u3011UFO Making and Planning PART 1\u3010 iofi / hololive \u3011",
+      "duration": "PT4H24M3S",
+      "videoId": "G_jdleN1WvY"
     }
   ],
   "craftClips": [
@@ -72372,6 +72386,23 @@
       "title": "5-Star Service at Yozora Hotel | Hololive ENG Sub",
       "duration": "PT1M57S",
       "videoId": "Mx-qxe9W0X8"
+    },
+    {
+      "sourceStreams": [
+        "cdgFi5u92Sk",
+        "V2n7DMXVEWc"
+      ],
+      "title": "Fubuki And Mio Voluntarily Fell Into Okayu Trap | Minecraft  [Hololive/Sub]",
+      "duration": "PT1M4S",
+      "videoId": "XRFRFaLbzOA"
+    },
+    {
+      "sourceStreams": [
+        "JmCakhu2w-c"
+      ],
+      "title": "Okayu Has Wild Imagination About Gal Takane Lui | Minecraft [Hololive/Sub]",
+      "duration": "PT59S",
+      "videoId": "lx1axI6a1jU"
     }
   ]
 }
