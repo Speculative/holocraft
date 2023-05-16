@@ -27659,6 +27659,27 @@
       "title": "\u3010Minecraft\u3011\u96d1\u8ac7\u3057\u306a\u304c\u3089\u5bb6\u3064\u304f\u308a\u307e\u3059\u3010\u30db\u30ed\u30e9\u30a4\u30d6 / \u661f\u8857\u3059\u3044\u305b\u3044\u3011",
       "duration": "PT3H12M5S",
       "videoId": "sbOCrD2DJY8"
+    },
+    {
+      "member": "LUNA",
+      "publishedAt": "2023-05-16T06:57:24+00:00",
+      "title": "\u3010 Minecraft \u3011\u3093\u306a\u96fb\u9244\u306e\u30b8\u30e3\u30f3\u30b0\u30eb\u30af\u30eb\u30fc\u30ba\uff01\u306a\u306e\u3089\uff5e\ud83d\ude83\u3010\u59eb\u68ee\u30eb\u30fc\u30ca/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "P0D",
+      "videoId": "726Qj6YW-bg"
+    },
+    {
+      "member": "MOONA",
+      "publishedAt": "2023-05-16T10:19:05+00:00",
+      "title": "\u3010Minecraft\u3011Ah... yes... redstone.\u3010holoID\u3011",
+      "duration": "PT4H41M24S",
+      "videoId": "fwod-IlwGfY"
+    },
+    {
+      "member": "MOONA",
+      "publishedAt": "2023-05-16T13:50:16+00:00",
+      "title": "\u3010Minecraft\u3011let's go to 30%\u3010holoID\u3011",
+      "duration": "P0D",
+      "videoId": "gUM587qr5qs"
     }
   ],
   "craftClips": [
@@ -72609,6 +72630,33 @@
       "title": "\ud835\udc07\ud835\udc1a\ud835\udc2f\ud835\udc1e \ud835\udc32\ud835\udc28\ud835\udc2e \ud835\udc1e\ud835\udc2f\ud835\udc1e\ud835\udc2b \ud835\udc21\ud835\udc1e\ud835\udc1a\ud835\udc2b\ud835\udc1d \ud835\udc00-\ud835\udc1c\ud835\udc21\ud835\udc1a\ud835\udc27 \ud835\udc2c\ud835\udc1c\ud835\udc2b\ud835\udc1e\ud835\udc1a\ud835\udc26 \ud835\udc25\ud835\udc22\ud835\udc24\ud835\udc1e \ud835\udc2d\ud835\udc21\ud835\udc22\ud835\udc2c?",
       "duration": "PT1M21S",
       "videoId": "oEBCSgolQR4"
+    },
+    {
+      "sourceStreams": [
+        "0XRyDIR4hBI",
+        "h6i8kdE0jdI",
+        "Q6pNbJK4YoM"
+      ],
+      "title": "A-Chan Makes English Mistake That Breaks Ollie and Iofi\u3010Hololive\u3011",
+      "duration": "PT2M34S",
+      "videoId": "5CZW1Pfurpg"
+    },
+    {
+      "sourceStreams": [
+        "sbOCrD2DJY8",
+        "0XRyDIR4hBI"
+      ],
+      "title": "Ina Accidentally Scares Suisei By Suddenly Falling In Front Of Her\u3010Hololive\u3011",
+      "duration": "PT2M5S",
+      "videoId": "DkI0NG7Dyd0"
+    },
+    {
+      "sourceStreams": [
+        "sbOCrD2DJY8"
+      ],
+      "title": "Suichan notices that she sounds SEISO with her nasal voice [Hololive/Eng sub]",
+      "duration": "PT1M7S",
+      "videoId": "Ucm_oc1YsNw"
     }
   ]
 }
