@@ -27843,13 +27843,6 @@
       "videoId": "b5CvWIJqWlk"
     },
     {
-      "member": "AMELIA",
-      "publishedAt": "2023-05-25T12:51:00+00:00",
-      "title": "\u3018Friday Stream\u3019gamin~",
-      "duration": "P0D",
-      "videoId": "kE80JMRi_XI"
-    },
-    {
       "member": "AKI",
       "publishedAt": "2023-05-25T15:59:05+00:00",
       "title": "\u3010 Minecraft \u3011\u3064\u3044\u306b\u521d\u4e0a\u9678\uff01\u65b0\u30db\u30ed\u9bd6\u89b3\u5149\u3058\u3083\u30fc\uff01\uff01\uff01\u3010\u30a2\u30ad\u30fb\u30ed\u30fc\u30bc\u30f3\u30bf\u30fc\u30eb/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
@@ -27869,6 +27862,20 @@
       "title": "\u3010 #\uff11\u30d6\u30edmiComet \u3011\u30d3\u30b8\u30cd\u30b9\u306e\u529b\u3067\uff11\u30d6\u30ed\u751f\u6d3b\uff01\uff01\uff01\uff01\uff01\uff01\uff01\u306b\u3047\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3055\u304f\u3089\u307f\u3053\u3011",
       "duration": "P0D",
       "videoId": "CklNxvworF8"
+    },
+    {
+      "member": "OKAYU",
+      "publishedAt": "2023-05-26T18:33:52+00:00",
+      "title": "\u3010Minecraft\u3011\u8cc7\u91d1\u3092\u8abf\u9054\u3057\u306b\u30a4\u30af\u30be\ud83d\udc8e\u7761\u7720\u5c0e\u5165\u306b\u3069\u3046\u305e\ud83d\udc8e\u3010\u732b\u53c8\u304a\u304b\u3086/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "P0D",
+      "videoId": "1qL0wqoOHQk"
+    },
+    {
+      "member": "MIO",
+      "publishedAt": "2023-05-27T12:17:04+00:00",
+      "title": "\u3010\u30de\u30a4\u30af\u30e9\u3011\u990a\u8702\u5834\u3092\u3064\u304f\u308a\u305f\u30fc\uff0d\u3044\uff01\uff08\u7d20\u6750\u96c6\u3081\u304b\u3089\uff09\u3010 \u30db\u30ed\u30e9\u30a4\u30d6/\u5927\u795e\u30df\u30aa\u3011",
+      "duration": "PT2H16S",
+      "videoId": "zJ3qYkVevV0"
     }
   ],
   "craftClips": [
@@ -73047,6 +73054,46 @@
       "title": "Miko wants Kaela's love letter so badly [Hololive/Eng sub]",
       "duration": "PT1M10S",
       "videoId": "F3TasEjdE9c"
+    },
+    {
+      "sourceStreams": [
+        "CklNxvworF8"
+      ],
+      "title": "MiComet learns that Hoshiyomi is pig [Hololive/Eng sub]",
+      "duration": "PT59S",
+      "videoId": "0M1DohA2OTY"
+    },
+    {
+      "sourceStreams": [
+        "CklNxvworF8"
+      ],
+      "title": "Miko got scolded by her mom because she's visiting Sui-chan's house too often [Hololive/Eng sub]",
+      "duration": "PT1M8S",
+      "videoId": "2LIFr_ghZvE"
+    },
+    {
+      "sourceStreams": [
+        "CklNxvworF8"
+      ],
+      "title": "MiComet start pushing them off each other the moment they get into 1 block Minecraft [Hololive]",
+      "duration": "PT1M46S",
+      "videoId": "IPVWXAhpW08"
+    },
+    {
+      "sourceStreams": [
+        "CklNxvworF8"
+      ],
+      "title": "Miko And Suisei Were Not Prepared For Creeper | Minecraft [Hololive/Sub]",
+      "duration": "PT1M3S",
+      "videoId": "10AVxQzIq0Y"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Subaru gets an outfit prediction like nothing else [hololive/ENG Sub]",
+      "duration": "PT1M19S",
+      "videoId": "oQlld6kBQ3U"
     }
   ]
 }
