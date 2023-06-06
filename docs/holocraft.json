@@ -28079,6 +28079,20 @@
       "title": "\u3010Minecraft\u3011\u30a8\u30f3\u30c9\u30e9RTA\uff01\uff01\u307e\u3058\u30672\u6642\u9593...3\u6642\u9593\u4ee5\u5185\u306b\u5012\u3059\u305e\uff01\uff01\uff01\uff01\uff01\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
       "duration": "P0D",
       "videoId": "_QljkteYcdA"
+    },
+    {
+      "member": "LUNA",
+      "publishedAt": "2023-06-06T05:15:20+00:00",
+      "title": "\u3010 Minecraft \u3011 \"\u3093\u306a\u96fb\u9244\" \u306e\u30a4\u30f3\u30d5\u30e9\u3092\u6574\u3048\u308b\u306e\u3089\uff01\ud83d\ude83\u3010\u59eb\u68ee\u30eb\u30fc\u30ca/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT4H53M29S",
+      "videoId": "bOSQFeuccEI"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2023-06-06T10:57:15+00:00",
+      "title": "\u3010Minecraft\u3011\u30df\u30c4\u30d0\u30c1\u3082\u308a\u3082\u308a\u7e41\u6b96\u96d1\u8ac7\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "P0D",
+      "videoId": "VP1hgA22fH4"
     }
   ],
   "craftClips": [
@@ -73342,6 +73356,22 @@
       "title": "Miko starts explaining 4D using a lot of Technical words [Hololive/Eng sub]",
       "duration": "PT1M39S",
       "videoId": "9LHbVj2ULYY"
+    },
+    {
+      "sourceStreams": [
+        "_QljkteYcdA"
+      ],
+      "title": "Pekora Gets Angry at Villagers Who Keeps Getting In and Out of House When Looking for Ender Pearl",
+      "duration": "PT3M36S",
+      "videoId": "_bWXQocibSI"
+    },
+    {
+      "sourceStreams": [
+        "bOSQFeuccEI"
+      ],
+      "title": "Himemori Luna Adorably Irritated By Her Lazy Cat | Minecraft [Hololive/Sub]",
+      "duration": "PT2M26S",
+      "videoId": "6kl0WO-6S1Q"
     }
   ]
 }
