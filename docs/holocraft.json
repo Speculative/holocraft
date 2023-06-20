@@ -28277,13 +28277,6 @@
       "videoId": "exGx8u2zfl0"
     },
     {
-      "member": "LUNA",
-      "publishedAt": "2023-06-18T19:02:22+00:00",
-      "title": "\u3010 Minecraft \u3011 \"\u3093\u306a\u96fb\u9244\" \u306e\u99c5\u3092\u6539\u88c5\u3059\u308b\u306e\u3089\uff5e\uff01\ud83d\ude83\u3010\u59eb\u68ee\u30eb\u30fc\u30ca/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
-      "duration": "P0D",
-      "videoId": "4U5qJveYm48"
-    },
-    {
       "member": "MOONA",
       "publishedAt": "2023-06-19T11:02:06+00:00",
       "title": "\u3010Minecraft\u3011Auto Sorter Redstone! ALMOST FINISH?!\u3010holoID\u3011",
@@ -28310,6 +28303,27 @@
       "title": "\u3010Minecraft\u3011\u685c\u3092\u63a2\u3057\u306b\u884c\u304f\u305e!!\u3010\u82b1\u54b2\u307f\u3084\u3073/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
       "duration": "PT2H39M38S",
       "videoId": "6mfZE2uNhk8"
+    },
+    {
+      "member": "OKAYU",
+      "publishedAt": "2023-06-19T21:34:05+00:00",
+      "title": "\u3010Minecraft\u3011\u685c\u30d6\u30ed\u30c3\u30af\u3067\u904a\u307c\u3046\ud83c\udf38\ud83c\udf38\ud83c\udf38\u3010\u732b\u53c8\u304a\u304b\u3086/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "P0D",
+      "videoId": "3rwzzDukLgw"
+    },
+    {
+      "member": "SUISEI",
+      "publishedAt": "2023-06-20T12:13:25+00:00",
+      "title": "\u3010Minecraft\u3011\u5929\u6587\u53f0\u517c\u304a\u3046\u3061\u3001\u5b8c\u6210\u203c\uff08\u3055\u305b\u307e\u3059\uff09\u3010\u30db\u30ed\u30e9\u30a4\u30d6 / \u661f\u8857\u3059\u3044\u305b\u3044\u3011",
+      "duration": "PT2H3M45S",
+      "videoId": "dNNJrZXUY6I"
+    },
+    {
+      "member": "PEKORA",
+      "publishedAt": "2023-06-20T15:41:42+00:00",
+      "title": "\u3010Minecraft\u3011Ver1.20\u6fc0\u30ec\u30a2\u30a2\u30a4\u30c6\u30e0\u3092\u898b\u3064\u3051\u308b\u305e\u304a\u304a\u304a\u304a\u304a\u304a\u304a\u304a\u304a\u304a\u304a\uff01\uff01\uff01\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
+      "duration": "PT3H28M6S",
+      "videoId": "b2frqBsclKU"
     }
   ],
   "craftClips": [
@@ -73577,6 +73591,38 @@
       "title": "Shiranui Flare And Polka Had A Heated Argument | Minecraft [Hololive/Sub]",
       "duration": "PT1M32S",
       "videoId": "ZBGJA-SXRHc"
+    },
+    {
+      "sourceStreams": [
+        "b2frqBsclKU"
+      ],
+      "title": "Pekora wants to make a new greeting to escape from \"Almond\" [Hololive/Eng sub]",
+      "duration": "PT2M19S",
+      "videoId": "ZP7ik8jl5iI"
+    },
+    {
+      "sourceStreams": [
+        "dNNJrZXUY6I"
+      ],
+      "title": "Suichan asked management for dying her hair [Hololive/Eng sub]",
+      "duration": "PT1M10S",
+      "videoId": "u5nnZow2vG8"
+    },
+    {
+      "sourceStreams": [
+        "92s82JlONE4"
+      ],
+      "title": "Ina Fishes The Best Fishing Pole of Her Life While Talking About Gacha \u3010Minecraft\u3011\u3010hololive EN\u3011",
+      "duration": "PT2M4S",
+      "videoId": "QQhM75JxE84"
+    },
+    {
+      "sourceStreams": [
+        "b2frqBsclKU"
+      ],
+      "title": "Pekora was amazed by Iofi's UFO and Risu Island's bridge \u3010Minecraft\u3011",
+      "duration": "PT57S",
+      "videoId": "r_Epj-GLwQo"
     }
   ]
 }
