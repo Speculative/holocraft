@@ -28373,6 +28373,34 @@
       "title": "\u3010\u96d1\u8ac7\u3011\uff14\u5468\u5e74\u30a4\u30d9\u30f3\u30c8\u307e\u3067\u3042\u30682\u65e5\u3089\u3057\u3044\u3067\u3059\u3088!!\u3010\u82b1\u54b2\u307f\u3084\u3073/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
       "duration": "PT2H30M42S",
       "videoId": "9tUV-oWu44Q"
+    },
+    {
+      "member": "IOFI",
+      "publishedAt": "2023-06-24T13:07:56+00:00",
+      "title": "\u3010 Minecraft \u3011UFO and Chill\u3010 iofi / hololive \u3011",
+      "duration": "PT2H57M16S",
+      "videoId": "ffiKxem4Wz4"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2023-06-24T14:15:18+00:00",
+      "title": "\u3010Minecraft\u3011\u65b0\u8981\u7d20\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u535a\u7269\u9928\u3092\u4f5c\u308a\u305f\u3044\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT3H8M44S",
+      "videoId": "xRM6ecDRdgA"
+    },
+    {
+      "member": "LUNA",
+      "publishedAt": "2023-06-24T14:26:33+00:00",
+      "title": "\u3010 Minecraft \u3011 \u672c\u65e5\u3082\u300c\u3093\u306a\u96fb\u9244\u300d\u65bd\u5de5\u4e2d\u306a\u306e\u3089 \uff5e\uff01\ud83d\ude83\u3010\u59eb\u68ee\u30eb\u30fc\u30ca/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT5H8M6S",
+      "videoId": "Ca2a_9RpCIo"
+    },
+    {
+      "member": "MOONA",
+      "publishedAt": "2023-06-24T16:22:07+00:00",
+      "title": "\u3010Minecraft\u3011Grind and Chill\u3010holoID\u3011",
+      "duration": "PT3H8M33S",
+      "videoId": "07hG6zBIsqk"
     }
   ],
   "craftClips": [
@@ -73744,6 +73772,14 @@
       "title": "Miko Is Proud That Suisei Finally Face Her Biggest Fear | MInecraft [Hololive/Sub]",
       "duration": "PT2M12S",
       "videoId": "YoOfXhWYj6E"
+    },
+    {
+      "sourceStreams": [
+        "Ga0EHGMZPCY"
+      ],
+      "title": "Kiara Just COULDN'T Understand This One Specific Part About Kaela",
+      "duration": "PT2M43S",
+      "videoId": "l4PcYZwrulY"
     }
   ]
 }
