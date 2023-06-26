@@ -28415,6 +28415,41 @@
       "title": "\u3010 Minecraft \u3011\u4eca\u65e5\u306f\u52d5\u7269\u5712\u306e\u4f55\u3092\u4f5c\u308d\u3046\u304b\u2026\uff01\u3010\u5e38\u95c7\u30c8\u30ef/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT2H4M18S",
       "videoId": "DXuOssMlPs8"
+    },
+    {
+      "member": "LUNA",
+      "publishedAt": "2023-06-26T10:56:42+00:00",
+      "title": "\u3010 Minecraft \u3011 \u3093\u306a\u99c5\u306e\u7dda\u8def\u5207\u308a\u66ff\u3048\u306b\u7740\u624b\u3059\u308b\u306e\u3089\uff01\"\u3093\u306a\u96fb\u9244\" \ud83d\ude83\u3010\u59eb\u68ee\u30eb\u30fc\u30ca/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "P0D",
+      "videoId": "XnbaxvK5lvU"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2023-06-26T11:33:21+00:00",
+      "title": "\u3010Minecraft\u3011\u660e\u65e5\u306e\u5efa\u7bc9\u30b3\u30e9\u30dc\u7528\u306b\u8cc7\u6750\u3092\u96c6\u3081\u307e\u304f\u308b\u67a0\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "P0D",
+      "videoId": "BZ1uCDv5ptE"
+    },
+    {
+      "member": "NENE",
+      "publishedAt": "2023-06-26T12:15:36+00:00",
+      "title": "\u3010 \u30de\u30a4\u30af\u30e9 \u3011\u685c\u30a2\u30d7\u30c7\u3067\u4f5c\u308b\u30e9\u30df\u30a3\u306e\u304a\u82b1\u898b\u5bb4\u4f1a\u306e\u5bb6\uff01\uff12\u3010 \u6843\u9234\u306d\u306d / \u30db\u30ed\u30e9\u30a4\u30d6 \u3011",
+      "duration": "PT3H2M36S",
+      "videoId": "Sv-gGYBLNvA"
+    },
+    {
+      "member": "TOWA",
+      "publishedAt": "2023-06-26T12:17:46+00:00",
+      "title": "\u3010 Minecraft \u3011\u30aa\u30a6\u30e0\ud83d\udc26\u30cf\u30a6\u30b9\u3092\u3064\u304f\u308b\u3093\u3058\u3083\u3042\u3042\u3042\uff01\uff01\uff01\u3010\u5e38\u95c7\u30c8\u30ef/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT2H24M54S",
+      "videoId": "N7nAx-Ph4qo"
+    },
+    {
+      "member": "OLLIE",
+      "publishedAt": "2023-06-26T12:42:48+00:00",
+      "title": "\u3010MINECRAFT\u3011I FORGOT THAT I HAVEN'T FINISHED THE ID TRAIN STATION\u3010Hololive Indonesia 2nd Gen\u3011",
+      "duration": "PT5H14M1S",
+      "videoId": "NM8EDVgvFwg"
     }
   ],
   "craftClips": [
@@ -73850,6 +73885,14 @@
       "title": "Nothing Can Stop Himemori Luna From Collecting Leaves | Minecraft [Hololive/Sub]",
       "duration": "PT1M45S",
       "videoId": "8CEL2xvK88E"
+    },
+    {
+      "sourceStreams": [
+        "50RfxfrjboM"
+      ],
+      "title": "Tokino Sora Running Around All Night To Find The Portal She Came From | Minecraft [Hololive/Sub]",
+      "duration": "PT1M19S",
+      "videoId": "qCYxjM29EFo"
     }
   ]
 }
