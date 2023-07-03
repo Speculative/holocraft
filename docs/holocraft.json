@@ -28499,6 +28499,27 @@
       "title": "\u3010 Minecraft \u3011\u30aa\u30a6\u30e0\ud83d\udc26\u3092\u78ba\u4fdd\u3059\u308b\u306e\u3060\u3063\uff01\u30cf\u30a6\u30b9\u3082\u5b8c\u6210\u3055\u305b\u308b\uff01\u3010\u5e38\u95c7\u30c8\u30ef/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT3H4M48S",
       "videoId": "IRWubaqHHbM"
+    },
+    {
+      "member": "NENE",
+      "publishedAt": "2023-07-03T12:27:01+00:00",
+      "title": "\u304a\u77e5\u3089\u305b\u3042\u308a\uff01\u304a\u3044\u3057\u3044\u304a\u9152\u3067\u76db\u308a\u4e0a\u304c\u308b\u305e\u3044 #\u306d\u307d\u3089\u307cT4U",
+      "duration": "PT1H19M11S",
+      "videoId": "ov-pX6Rj0s8"
+    },
+    {
+      "member": "FUBUKI",
+      "publishedAt": "2023-07-03T12:37:34+00:00",
+      "title": "\u3010Minecraft\u3011\u6ce5\u68d2\u5efa\u8a2d\u306e\u5192\u967a\u3000\u6d77\u5e95\u795e\u6bbf\u7de8\u3010\uff03\u6ce5\u68d2\u5efa\u8a2d\u3011",
+      "duration": "PT2H28M59S",
+      "videoId": "szRWzxNosXM"
+    },
+    {
+      "member": "OKAYU",
+      "publishedAt": "2023-07-03T12:38:10+00:00",
+      "title": "\u3010Minecraft\u3011\u307f\u3093\u306a\u3067\u6d77\u5e95\u795e\u6bbf\u306b\u9060\u8db3\u3060\u305e\uff5e\uff5e\uff5e\uff01\ud83c\udf0a\ud83c\udf0a\u3010#\u6ce5\u68d2\u5efa\u8a2d/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT2H29M17S",
+      "videoId": "RaTP3C-LRuw"
     }
   ],
   "craftClips": [
@@ -73974,6 +73995,62 @@
       "title": "Watame Got Scared By Kaela's Temple New Guard | Minecraft [Hololive/Sub]",
       "duration": "PT1M3S",
       "videoId": "vTNGmShWF-k"
+    },
+    {
+      "sourceStreams": [
+        "RaTP3C-LRuw"
+      ],
+      "title": "Okayu gets fascinated by Laplus's Shota Voice [Hololive/Eng sub]",
+      "duration": "PT1M7S",
+      "videoId": "Lj1cTd3KOBI"
+    },
+    {
+      "sourceStreams": [
+        "RaTP3C-LRuw"
+      ],
+      "title": "Laplus Gets Scared by Lui's Psychopathic Behavior... [Hololive/Eng sub]",
+      "duration": "PT1M21S",
+      "videoId": "LNy8jE8HxDQ"
+    },
+    {
+      "sourceStreams": [
+        "RaTP3C-LRuw"
+      ],
+      "title": "Okayu believes Mio wants to get pushed off from the cliff [Hololive/Eng sub]",
+      "duration": "PT42S",
+      "videoId": "iSApVBrcwLs"
+    },
+    {
+      "sourceStreams": [
+        "RaTP3C-LRuw"
+      ],
+      "title": "Nekomata Okayu Fool Around And Find Out | Minecraft  [Hololive/Sub]",
+      "duration": "PT1M15S",
+      "videoId": "Hx1OPxpUO7w"
+    },
+    {
+      "sourceStreams": [
+        "szRWzxNosXM"
+      ],
+      "title": "Laplus Lead An Angry Mama Bear Into Everyone | Minecraft [Hololive/Sub]",
+      "duration": "PT48S",
+      "videoId": "Y-2yc3YORF0"
+    },
+    {
+      "sourceStreams": [
+        "IRWubaqHHbM"
+      ],
+      "title": "Tokoyami Towa Acquired  Her New Llama In Questionable Manner  | Minecraft  [Hololive/Sub]",
+      "duration": "PT1M5S",
+      "videoId": "VeXbEksb3TM"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Aqua speedruns Subaru's birthday call-in [hololive/ENG Sub]",
+      "duration": "PT1M1S",
+      "videoId": "z6ooohPQBNg"
     }
   ]
 }
