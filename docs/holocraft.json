@@ -28520,6 +28520,20 @@
       "title": "\u3010Minecraft\u3011\u307f\u3093\u306a\u3067\u6d77\u5e95\u795e\u6bbf\u306b\u9060\u8db3\u3060\u305e\uff5e\uff5e\uff5e\uff01\ud83c\udf0a\ud83c\udf0a\u3010#\u6ce5\u68d2\u5efa\u8a2d/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT2H29M17S",
       "videoId": "RaTP3C-LRuw"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2023-07-04T14:14:50+00:00",
+      "title": "\u3010Minecraft\u3011\u4f01\u753b\u306e\u30c6\u30b9\u30c8\u30d7\u30ec\u30a4\u304c\u3057\u305f\u3044\u4f1a\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "P0D",
+      "videoId": "4RLSBCPCcqE"
+    },
+    {
+      "member": "RISU",
+      "publishedAt": "2023-07-04T16:14:00+00:00",
+      "title": "\u3010hololiveId\u3011HEWROOO RISUNERS ~!!!!\u3010Ayunda Risu\u3011",
+      "duration": "PT3H6M44S",
+      "videoId": "omZH4gmAhac"
     }
   ],
   "craftClips": [
@@ -74051,6 +74065,22 @@
       "title": "Aqua speedruns Subaru's birthday call-in [hololive/ENG Sub]",
       "duration": "PT1M1S",
       "videoId": "z6ooohPQBNg"
+    },
+    {
+      "sourceStreams": [
+        "RaTP3C-LRuw"
+      ],
+      "title": "Laplus' First Trip With Dorobo Kensetsu and Seeing Everyone Fool Around and Tease Each Other",
+      "duration": "PT2M59S",
+      "videoId": "UzpoBPqYff4"
+    },
+    {
+      "sourceStreams": [
+        "RaTP3C-LRuw"
+      ],
+      "title": "Everyone Watching Lui Dying of Laughter to Okayu's Lame Dad Joke and Redo The Joke to Laplus",
+      "duration": "PT2M25S",
+      "videoId": "c_NOOBRTla4"
     }
   ]
 }
