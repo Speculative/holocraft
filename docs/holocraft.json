@@ -28632,6 +28632,13 @@
       "title": "\u3010Minecraft\u3011\u8d85\u4e45\u3005\u306b\u30db\u30ed\u9bd6\u3092\u304a\u6563\u6b69\u3059\u308b\u30e8\uff5e\uff01\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u7d2b\u54b2\u30b7\u30aa\u30f3\u3011",
       "duration": "P0D",
       "videoId": "ZKMACq3XENk"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2023-07-12T09:11:56+00:00",
+      "title": "\u3010Minecraft\u3011\u935b\u51b6\u578b\u96c6\u3081\uff01\u4eca\u65e5\u306f\u524d\u54e8\u57fa\u5730\u63a2\u3057\u3092\u30e1\u30a4\u30f3\u306b\u3084\u308a\u307e\u3059\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "P0D",
+      "videoId": "7NiwK4V5C4Q"
     }
   ],
   "craftClips": [
@@ -74243,6 +74250,38 @@
       "title": "Nekomata Okayu Forget Everything After Hearing Kaela's Temple Guard Roar | Minecraft  [Hololive/Sub]",
       "duration": "PT55S",
       "videoId": "wRZiE7KN6c0"
+    },
+    {
+      "sourceStreams": [
+        "ZKMACq3XENk"
+      ],
+      "title": "Shion Thought This Is How You Spell \"HOUSE\" In English... \u3010ENG Sub Hololive\u3011",
+      "duration": "PT49S",
+      "videoId": "8ajHLiF7D_Q"
+    },
+    {
+      "sourceStreams": [
+        "ZKMACq3XENk"
+      ],
+      "title": "Shion got impressed by Gura's cute autogprah [Hololive/Eng sub]",
+      "duration": "PT42S",
+      "videoId": "xVj2Iwbn6a0"
+    },
+    {
+      "sourceStreams": [
+        "bPC0ZRNEKS0"
+      ],
+      "title": "Why did Calli Start Playing Minecraft Again? [holoEN - Calli]",
+      "duration": "PT1M16S",
+      "videoId": "GgJD2JVVk6s"
+    },
+    {
+      "sourceStreams": [
+        "ZKMACq3XENk"
+      ],
+      "title": "Murasaki Shion Think There's Lion Hiding Under Kaela's Temple | Minecraft [Hololive/Sub]",
+      "duration": "PT48S",
+      "videoId": "UdVVNxNGKmc"
     }
   ]
 }
