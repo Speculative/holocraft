@@ -28828,6 +28828,27 @@
       "title": "\u3010 Minecraft \u3011Team Practice!\u3010 iofi / hololive \u3011",
       "duration": "P0D",
       "videoId": "exAzZ_oYAOg"
+    },
+    {
+      "member": "SORA",
+      "publishedAt": "2023-08-05T05:40:31+00:00",
+      "title": "\u3010minecraft\u3011HOLOIDCUP2023\u7df4\u7fd2\u4f1a\u3060\uff01\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3068\u304d\u306e\u305d\u3089\u3011",
+      "duration": "PT1H18M35S",
+      "videoId": "HYzK2c8qZrE"
+    },
+    {
+      "member": "RISU",
+      "publishedAt": "2023-08-05T05:54:31+00:00",
+      "title": "\u3010Minecraft\u3011Team Practice IKZ !!!!\u3010Ayunda Risu\u3011",
+      "duration": "PT1H45M25S",
+      "videoId": "ABl_8UMgXe4"
+    },
+    {
+      "member": "SUISEI",
+      "publishedAt": "2023-08-05T12:57:29+00:00",
+      "title": "\u3010\u96d1\u8ac7\u3011\u8a71\u305b\uff01\u8a71\u305b\uff01\u30a2\u30c4\u304c\u30ca\u30c4\u30a4\uff01\u2600\u2600\u2600\u3010\u30db\u30ed\u30e9\u30a4\u30d6 / \u661f\u8857\u3059\u3044\u305b\u3044\u3011",
+      "duration": "PT1H39M11S",
+      "videoId": "vA7nQSfeRJQ"
     }
   ],
   "craftClips": [
@@ -74690,6 +74711,30 @@
       "title": "Kiara's impression of Shiori changed a bit after her debut",
       "duration": "PT2M15S",
       "videoId": "vASC-RsR-Gs"
+    },
+    {
+      "sourceStreams": [
+        "vA7nQSfeRJQ"
+      ],
+      "title": "Suisei Talks About Her Recent Relationship With Aqua\u3010Hololive\u3011",
+      "duration": "PT2M21S",
+      "videoId": "SP0RDSwE8dE"
+    },
+    {
+      "sourceStreams": [
+        "vA7nQSfeRJQ"
+      ],
+      "title": "Suisei Finds Out the \"Hi Honey\" Clip Reached Over 10 Million Views and Speaks Cute English\u3010Hololive\u3011",
+      "duration": "PT4M3S",
+      "videoId": "1XOaB6-of5M"
+    },
+    {
+      "sourceStreams": [
+        "vA7nQSfeRJQ"
+      ],
+      "title": "Suichan suddenly start picking fight with overseas viewers in English\u3010Hololive/Eng sub\u3011",
+      "duration": "PT2M37S",
+      "videoId": "-tXkZnQIgBI"
     }
   ]
 }
