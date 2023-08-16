@@ -28982,6 +28982,34 @@
       "title": "\u3010 Minecraft \u3011\u30db\u30ed\u9bd6\u590f\u796d\u308a2023\u306b\u5411\u3051\u3066\u306a\u306b\u3092\u5efa\u7bc9\u3057\u3088\u3046\u304b\uff01\u3010\u5e38\u95c7\u30c8\u30ef/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT1H56M42S",
       "videoId": "yx1mVfKMfss"
+    },
+    {
+      "member": "MIO",
+      "publishedAt": "2023-08-16T13:17:54+00:00",
+      "title": "\u3010\u30de\u30a4\u30af\u30e9\u3011\u6ce5\u68d2\u5efa\u8a2d\u306f\u7af6\u99ac\u5834\u3092\u3064\u304f\u3063\u3066\u4e00\u767a\u5132\u3051\u305f\u3044\u3010\u5927\u795e\u30df\u30aa\u8996\u70b9\u3011",
+      "duration": "PT3H6M29S",
+      "videoId": "E4iZb4afVeI"
+    },
+    {
+      "member": "OKAYU",
+      "publishedAt": "2023-08-16T13:22:25+00:00",
+      "title": "\u3010 Minecraft \u3011\u30db\u30ed\u9bd6\u590f\u796d\u308a2023\u306b\u5411\u3051\u3066\uff01\u6e96\u5099\u3060\ud83d\udd25\u3010 \u732b\u53c8\u304a\u304b\u3086/#\u6ce5\u68d2\u5efa\u8a2d \u3011",
+      "duration": "PT3H6M54S",
+      "videoId": "kUqJipVpqrQ"
+    },
+    {
+      "member": "MIKO",
+      "publishedAt": "2023-08-16T14:54:01+00:00",
+      "title": "\u3010 Minecraft \u3011\u3057\u3089\u3051\u3093\u51fa\u5e97\ud83d\udc7b\u3053\u308f\uff5e\uff5e\u3044\u304a\u5316\u3051\u5c4b\u6577\u3064\u304f\u308b\u305e\uff01\uff01\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3055\u304f\u3089\u307f\u3053\u3011",
+      "duration": "PT2H41M42S",
+      "videoId": "66bBLOxb0UQ"
+    },
+    {
+      "member": "IOFI",
+      "publishedAt": "2023-08-16T16:07:10+00:00",
+      "title": "\u3010 HoloID CUP 2023 \u3011Kampung Perkutut Vs Srikaya Dalam Bentengan\u3010 iofi / hololive \u3011",
+      "duration": "P0D",
+      "videoId": "L5g_wvtgqn0"
     }
   ],
   "craftClips": [
@@ -74963,6 +74991,15 @@
       "title": "Flare and Subaru making date plans [hololive/ENG Sub]",
       "duration": "PT4M12S",
       "videoId": "tjPHMeJH_CU"
+    },
+    {
+      "sourceStreams": [
+        "kUqJipVpqrQ",
+        "E4iZb4afVeI"
+      ],
+      "title": "Okami Mio And Okayu Encounter Skeleton Horse First Time | Minecraft [Hololive/Sub]",
+      "duration": "PT1M15S",
+      "videoId": "KZ3-H5xxk2U"
     }
   ]
 }
