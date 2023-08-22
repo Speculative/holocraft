@@ -29136,6 +29136,13 @@
       "title": "\u3010#\u6ce5\u68d2\u5efa\u8a2d\u3011\u30de\u30c3\u30d7\u30a2\u30fc\u30c8\u4f5c\u696d\u914d\u4fe1\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u767d\u4e0a\u30d5\u30d6\u30ad\u3011",
       "duration": "PT2H30M16S",
       "videoId": "UL8NqkYQPJE"
+    },
+    {
+      "member": "POLKA",
+      "publishedAt": "2023-08-22T11:15:55+00:00",
+      "title": "\u3010Minecraft\u30114\u4eba\u3067\u300c\u307b\u304f\u305d\u7b11\u3080\u30ea\u30e3\u30de\u300d\u304b\u3089\u306e\u8131\u51fa #\u30d0\u30ab\u30bf\u30ec\u30b5\u30fc\u30ab\u30b9\u3010\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "P0D",
+      "videoId": "lmVtWPR32WA"
     }
   ],
   "craftClips": [
@@ -75232,6 +75239,15 @@
       "title": "Even Watame Can't Resist Gura's Cute Japanese\u3010Hololive\u3011",
       "duration": "PT2M19S",
       "videoId": "ZP0AGdzm9Io"
+    },
+    {
+      "sourceStreams": [
+        "tLvfHlonRPk",
+        "6k_G6nPJMa8"
+      ],
+      "title": "Tokino Sora Giggling At Luna Stealing Her Bamboo Right In Front Of Her | Minecraft  [Hololive/Sub]",
+      "duration": "PT1M17S",
+      "videoId": "Fo_C8Q3H0g0"
     }
   ]
 }
