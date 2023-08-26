@@ -29234,6 +29234,13 @@
       "title": "\u3010Minecraft\u3011\u590f\u796d\u308a\u4f1a\u5834\u306e\u82b1\u706b\u767a\u5c04\u90e8\u5206\u3092\u4f5c\u308b\u4e88\u5b9a\uff01\u3010\u7345\u767d\u307c\u305f\u3093/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT2H37M19S",
       "videoId": "eH11rhGr-X8"
+    },
+    {
+      "member": "TOWA",
+      "publishedAt": "2023-08-26T08:45:52+00:00",
+      "title": "\u3010 Minecraft \u3011\u95d8\u6280\u5834\u3092\u672c\u65e5\u306b\u3066\u5b8c\u6210\u3055\u305b\u308b\uff01\u3010\u5e38\u95c7\u30c8\u30ef/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT2H43M44S",
+      "videoId": "lzMWt2w4hxY"
     }
   ],
   "craftClips": [
@@ -75380,6 +75387,23 @@
       "title": "Omaru Polka Never Failed To Make Shiranui Flare Laugh With Her Entrance | Minecraft [Hololive/Sub]",
       "duration": "PT1M7S",
       "videoId": "HFDxMZDhSQg"
+    },
+    {
+      "sourceStreams": [
+        "c_9R-H9TBv0",
+        "GnWdRPfkb9U"
+      ],
+      "title": "Okayu and Pekora Found Nene's \"Sheep Penetrating\" Machine...\u3010Hololive\u3011",
+      "duration": "PT2M6S",
+      "videoId": "lE4fhZGdbT8"
+    },
+    {
+      "sourceStreams": [
+        "GnWdRPfkb9U"
+      ],
+      "title": "Pekora's Deadly Maze Will Ignite The Summer Festival \u3010ENG Sub Hololive\u3011",
+      "duration": "PT1M11S",
+      "videoId": "JkGC7EwEMv0"
     }
   ]
 }
