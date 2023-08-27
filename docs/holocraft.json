@@ -29241,6 +29241,20 @@
       "title": "\u3010 Minecraft \u3011\u95d8\u6280\u5834\u3092\u672c\u65e5\u306b\u3066\u5b8c\u6210\u3055\u305b\u308b\uff01\u3010\u5e38\u95c7\u30c8\u30ef/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT2H43M44S",
       "videoId": "lzMWt2w4hxY"
+    },
+    {
+      "member": "LUNA",
+      "publishedAt": "2023-08-26T18:53:36+00:00",
+      "title": "\u3010 Minecraft \u3011\u304a\u3064\u304b\u308c\u30b5\u30de\u30fc\u611f\u60f3\u4f1a\uff01\u304b\u304d\u6c37\u6a5f\u6539\u826f\u3059\u308b\u306e\u3089\uff01\ud83c\udf67\u3010\u59eb\u68ee\u30eb\u30fc\u30ca/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "P0D",
+      "videoId": "4bZIVKf2F6A"
+    },
+    {
+      "member": "KORONE",
+      "publishedAt": "2023-08-27T14:25:05+00:00",
+      "title": "\u3010Minecraft\u3011\u590f\u796d\u308a\u4f1a\u5834\u306e\u8349\u3080\u3057\u3063\u3066\u7dba\u9e97\u306b\u3057\u305f\u3044\uff06\u30db\u30ed\u30b5\u30de\u304a\u75b2\u308c\u30b5\u30de\u30fc\u3010\u620c\u795e\u3053\u308d\u306d/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "P0D",
+      "videoId": "8U2URQUoWg0"
     }
   ],
   "craftClips": [
@@ -75404,6 +75418,22 @@
       "title": "Pekora's Deadly Maze Will Ignite The Summer Festival \u3010ENG Sub Hololive\u3011",
       "duration": "PT1M11S",
       "videoId": "JkGC7EwEMv0"
+    },
+    {
+      "sourceStreams": [
+        "lzMWt2w4hxY"
+      ],
+      "title": "Koro-san and Okayu Do a Little Trolling When Visiting Towa & Lui Who Are Preparing for Summer Fes",
+      "duration": "PT3M35S",
+      "videoId": "JWYexEmgLy0"
+    },
+    {
+      "sourceStreams": [
+        "lzMWt2w4hxY"
+      ],
+      "title": "Takane Lui Loses It At Korone Stuck And Attacked By Phantom | Minecraft [Hololive/Sub]",
+      "duration": "PT1M34S",
+      "videoId": "IOHAaDf_P2A"
     }
   ]
 }
