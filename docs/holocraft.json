@@ -29444,6 +29444,27 @@
       "title": "\u3010minecraft\u3011\u7247\u4ed8\u3051\u3057\u306a\u3044\u3068\u306a\u3041\u3002\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3068\u304d\u306e\u305d\u3089\u3011",
       "duration": "PT2H36M58S",
       "videoId": "iCdc7KniRM8"
+    },
+    {
+      "member": "NENE",
+      "publishedAt": "2023-09-03T11:04:07+00:00",
+      "title": "\u590f\u796d\u308a\u306e\u4f1a\u5834\u3092\u56de\u308b\u305d\u3093\u306a\u3001\u591c\u3010Minecraft\u3011",
+      "duration": "PT1H52M55S",
+      "videoId": "r0IXEEHrFXo"
+    },
+    {
+      "member": "OKAYU",
+      "publishedAt": "2023-09-03T13:27:35+00:00",
+      "title": "\u3010Minecraft\u3011\u5927\u81f3\u6025\u306d\u3053\u306d\u3053\u3042\u3044\u3089\u3093\u3069\u306e\u5916\u89b3\u5b8c\u6210\u3092\u76ee\u6307\u305b\ud83d\udd25\u3010\u732b\u53c8\u304a\u304b\u3086/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "P0D",
+      "videoId": "dudmzt07ueA"
+    },
+    {
+      "member": "MIKO",
+      "publishedAt": "2023-09-03T14:34:51+00:00",
+      "title": "\u3010 Minecraft \u3011\u697d\u3057\u3066\u91d1\u3092\u304b\u304d\u96c6\u3081\u3066\u8131\u2606\u50b5\u52d9\u8005\uff5e\u5cf6\u6d41\u3057\u56de\u907f\uff5e\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3055\u304f\u3089\u307f\u3053\u3011",
+      "duration": "PT2H24M53S",
+      "videoId": "9PAFtxnpfDA"
     }
   ],
   "craftClips": [
@@ -75769,6 +75790,30 @@
       "title": "Kanata Looking for Creeper, Marine do Rookie Hunting",
       "duration": "PT4M17S",
       "videoId": "ZXMnbpDY7aA"
+    },
+    {
+      "sourceStreams": [
+        "9PAFtxnpfDA"
+      ],
+      "title": "The result of Miko start gambling for clearing her debt...\u3010Hololive/Eng sub\u3011",
+      "duration": "PT12M2S",
+      "videoId": "tML0ewkdNcg"
+    },
+    {
+      "sourceStreams": [
+        "9PAFtxnpfDA"
+      ],
+      "title": "Sakua Miko Borrowed Diamonds From The Worst Person Possible | Minecraft [Hololive/Sub]",
+      "duration": "PT2M7S",
+      "videoId": "rdyG2n5phtc"
+    },
+    {
+      "sourceStreams": [
+        "r0IXEEHrFXo"
+      ],
+      "title": "Momosuzu Nene Confession Drag Miko Into Money Laundering Scandal | Minecraft [Hololive/Sub]",
+      "duration": "PT1M3S",
+      "videoId": "ET4w_G7G9Zc"
     }
   ]
 }
