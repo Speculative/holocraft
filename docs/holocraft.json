@@ -29479,6 +29479,41 @@
       "title": "\u3053\u306e\u307e\u307e\u3067\u306f\u8b66\u5bdf\u306b\u6355\u307e\u3063\u3066\u3057\u307e\u3044\u307e\u3059\u3002\u3010Minecraft\u3011",
       "duration": "PT2H13M14S",
       "videoId": "0_wnr32aWCE"
+    },
+    {
+      "member": "SUBARU",
+      "publishedAt": "2023-09-06T11:59:02+00:00",
+      "title": "\u3010\uff03\u5927\u7a7a\u8b66\u5bdf\u3011\u5927\u7a7a\u8b66\u5bdf\u30d7\u30c1\u88c1\u5224 IN MINE CRAFT / OOZORA PORICE MINE CRAFT\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u5927\u7a7a\u30b9\u30d0\u30eb\u3011",
+      "duration": "PT53M38S",
+      "videoId": "Qgb2fDiTFcs"
+    },
+    {
+      "member": "FLARE",
+      "publishedAt": "2023-09-06T12:30:04+00:00",
+      "title": "\u3010Minecraft\u30111.20\u4f55\u304c\u5897\u3048\u305f\u306e\u304b\u77e5\u308a\u305f\u3044\u3010\u4e0d\u77e5\u706b\u30d5\u30ec\u30a2/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "P0D",
+      "videoId": "M_egsFFQWsQ"
+    },
+    {
+      "member": "MIKO",
+      "publishedAt": "2023-09-06T14:44:28+00:00",
+      "title": "\u3010 Minecraft \u3011\u5cf6\u884c\u304d\u78ba\u5b9a\uff65\uff65\uff65\u306a\u3089\u3070\uff65\uff65\uff65\u304b\u304d\u96c6\u3081\u3066\u3084\u308b\u3057\u304b\u306a\u3044\u306b\u3047\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3055\u304f\u3089\u307f\u3053\u3011",
+      "duration": "PT2H29M41S",
+      "videoId": "frY54Y8uHWk"
+    },
+    {
+      "member": "OKAYU",
+      "publishedAt": "2023-09-06T15:00:05+00:00",
+      "title": "\u3010 Minecraft \u3011\u4e0d\u52d5\u7523\u696d \u306f\u3058\u3081\u307e\u3057\u305f\ud83c\udfe0\u304a\u5ba2\u69d8 : \u30a2\u30ad\u3061\u3083\u3093\ud83c\udf4e\u3010 \u30a2\u30ad\u30ed\u30bc \u00d7 \u732b\u53c8\u304a\u304b\u3086 /\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT1H52M4S",
+      "videoId": "T5Z03Qlk2QY"
+    },
+    {
+      "member": "AKI",
+      "publishedAt": "2023-09-06T15:01:32+00:00",
+      "title": "\u3010 Minecraft \u3011\u5b9f\u306f\u4e8c\u4eba\u3067\u521d\u30b3\u30e9\u30dc\uff01\u4f4f\u3093\u3067\u3082\u3044\u3044\u5834\u6240\u304c\u3042\u308b\u3063\u3066\u805e\u3044\u3066\u304d\u307e\u3057\u305f\uff01\u3010\u732b\u53c8\u304a\u304b\u3086\u00d7\u30a2\u30ad\u30fb\u30ed\u30fc\u30bc\u30f3\u30bf\u30fc\u30eb/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT1H52M54S",
+      "videoId": "dFl6h4cUrs0"
     }
   ],
   "craftClips": [
@@ -75836,6 +75871,22 @@
       "title": "Mikochi Tryhard To Maintain Her Sanity When Seeing So Many Her Friends Diamond For Paying Debt",
       "duration": "PT2M50S",
       "videoId": "y0wowJDyNio"
+    },
+    {
+      "sourceStreams": [
+        "frY54Y8uHWk"
+      ],
+      "title": "Miko meets FUWAMOCO for the 1st time\u3010Hololive/Eng sub\u3011",
+      "duration": "PT3M28S",
+      "videoId": "IzCtwY2bGWM"
+    },
+    {
+      "sourceStreams": [
+        "Qgb2fDiTFcs"
+      ],
+      "title": "Miko gets angry at Nene imitating her in a sloppy way\u3010Hololive/Eng sub\u3011",
+      "duration": "PT2M23S",
+      "videoId": "IB_ogFGFOcw"
     }
   ]
 }
