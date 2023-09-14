@@ -29633,6 +29633,41 @@
       "title": "\u3010minecraft\u3011\u30ae\u30eb\u30c9\u3068\u3057\u3066\u306e\u6a5f\u80fd\u306f\u306a\u306b\u304c\u5fc5\u8981\u306a\u306e\u304b\u30fb\u30fb\u30fb\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3068\u304d\u306e\u305d\u3089\u3011",
       "duration": "PT3H24M10S",
       "videoId": "AKkQXR0Y494"
+    },
+    {
+      "member": "FLARE",
+      "publishedAt": "2023-09-14T10:00:26+00:00",
+      "title": "\u3010Minecraft\u3011\u307e\u3063\u305f\u308a\u30c0\u30a4\u30e4\u5800\u308a\ud83d\udc8e\u3010\u4e0d\u77e5\u706b\u30d5\u30ec\u30a2/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT3H21M25S",
+      "videoId": "ifYs1se1lBs"
+    },
+    {
+      "member": "FUBUKI",
+      "publishedAt": "2023-09-14T13:31:29+00:00",
+      "title": "\u3010\u6ce5\u68d2\u5efa\u8a2d\u3011\u306d\u3053\u306d\u3053\u3042\u3044\u3089\u3093\u3069\u30de\u30c3\u30d7\u30a2\u30fc\u30c8\u4f5c\u696d\uff01\u30ab\u30fc\u30da\u30c3\u30c8\u307a\u305f\u307a\u305f\u7de8\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u767d\u4e0a\u30d5\u30d6\u30ad\u3011",
+      "duration": "PT27M24S",
+      "videoId": "IE1NwMtfE1s"
+    },
+    {
+      "member": "PEKORA",
+      "publishedAt": "2023-09-14T13:47:07+00:00",
+      "title": "\u3010Minecraft\u3011\u30c0\u30a4\u30e41500\u500b\u5931\u3063\u305f\u3051\u3069\u4eca\u65e5\u306f\u6148\u5584\u4e8b\u696d\u3092\u3057\u307e\u3059\uff08\u30ac\u30c1\uff09\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
+      "duration": "PT1H39M49S",
+      "videoId": "jrwDk8DV9lM"
+    },
+    {
+      "member": "FUBUKI",
+      "publishedAt": "2023-09-14T16:20:35+00:00",
+      "title": "\u3010\u6ce5\u68d2\u5efa\u8a2d\u3011\u306d\u3053\u306d\u3053\u3042\u3044\u3089\u3093\u3069\u30de\u30c3\u30d7\u30a2\u30fc\u30c8\u4f5c\u696d\uff01\u30ab\u30fc\u30da\u30c3\u30c8\u307a\u305f\u307a\u305f\u7de8\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u767d\u4e0a\u30d5\u30d6\u30ad\u3011",
+      "duration": "PT2H39M50S",
+      "videoId": "hG_6F8KSgvs"
+    },
+    {
+      "member": "OKAYU",
+      "publishedAt": "2023-09-14T16:22:18+00:00",
+      "title": "\u3010Minecraft\u3011\u306d\u3053\u306d\u3053\u3042\u3044\u3089\u3093\u3069\u306b\u4f4f\u6c11\u304c\u3084\u3063\u3066\u304f\u308b\ud83c\udfdd!?\u3010\u732b\u53c8\u304a\u304b\u3086/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT3H9M19S",
+      "videoId": "EIc4hPzK5OU"
     }
   ],
   "craftClips": [
@@ -76096,6 +76131,14 @@
       "title": "Tokino Sora Got Scared By Kaela's Fake Creeper | Minecraft [Hololive/Sub]",
       "duration": "PT1M27S",
       "videoId": "jLdV4eSLvg0"
+    },
+    {
+      "sourceStreams": [
+        "AKkQXR0Y494"
+      ],
+      "title": "Soratomo Teases And Treat Tokino Sora Like A Baby | Minecraft [Hololive/Sub]",
+      "duration": "PT55S",
+      "videoId": "ZgHIqKy9STM"
     }
   ]
 }
