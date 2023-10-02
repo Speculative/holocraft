@@ -30214,6 +30214,13 @@
       "title": "\u3010#\u30de\u30a4\u30af\u30e9\u809d\u8a66\u30572023\u3011\u4eca\u5e74\u306e\u65b0MAP\u300cINTO THE BACKROOMS\u300d\u3092\u30ce\u30a8\u30d5\u30ec\u30dd\u30eb\u3067\u884c\u304f\u305e\uff01\u3010\u4e0d\u77e5\u706b\u30d5\u30ec\u30a2/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT2H37M19S",
       "videoId": "k0dHzI4Nx_k"
+    },
+    {
+      "member": "ARURAN",
+      "publishedAt": "2023-10-02T12:34:35+00:00",
+      "title": "\u3010Minecraft\u3011\u534a\u81ea\u52d5\u7c98\u571f\u88fd\u9020\u6a5f\u306a\u308b\u3082\u306e\u3092\u3064\u304f\u308a\u305f\u3044\u3010\u30a2\u30eb\u30e9\u30f3\u30c7\u30a3\u30b9/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "P0D",
+      "videoId": "VJAoogqYh5c"
     }
   ],
   "craftClips": [
@@ -76882,6 +76889,14 @@
       "title": "Shirakami Fubuki Surprised That Ookami Mio Want Ayame Get Eaten | Minecraft [Hololive/Sub]",
       "duration": "PT1M27S",
       "videoId": "FuzmNd9hjfQ"
+    },
+    {
+      "sourceStreams": [
+        "k0dHzI4Nx_k"
+      ],
+      "title": "Shirogane Noel Accidentally Make Shiranui Flare Went Through Hell | Minecraft  [Hololive/Sub]",
+      "duration": "PT1M21S",
+      "videoId": "XiHpjFWhMlw"
     }
   ]
 }
