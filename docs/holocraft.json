@@ -30368,6 +30368,13 @@
       "title": "\u3010\u4f01\u753b\u767a\u8868\u3011\u3044\u304f\u305e\uff01#\u30db\u30ed\u30e9\u30a4\u30d6\u5927\u904b\u52d5\u4f1a2023 \u4f01\u753b\u8aac\u660e\u4f1a \ud83c\udff3 \ud83c\udf0e hololive Sports festival 2023\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3055\u304f\u3089\u307f\u3053\u3011",
       "duration": "PT1H2M5S",
       "videoId": "Mm1m0E-yqe4"
+    },
+    {
+      "member": "ROBERU",
+      "publishedAt": "2023-10-16T08:16:08+00:00",
+      "title": "\u3010Minecraft\u3011\u30ea\u30cf\u30d3\u30ea\u30de\u30a4\u30af\u30e9\u3010\u5915\u523b\u30ed\u30d9\u30eb/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT1H39M57S",
+      "videoId": "lgbLeM3ZXbQ"
     }
   ],
   "craftClips": [
@@ -77086,6 +77093,22 @@
       "title": "\u3010\u30de\u30a4\u30af\u30e9\u809d\u8a66\u30572023\u3011 INTO THE BACKROOMS \u3010Clips\u3011",
       "duration": "PT15M15S",
       "videoId": "NCQiwIZ0I_I"
+    },
+    {
+      "sourceStreams": [
+        "Mm1m0E-yqe4"
+      ],
+      "title": "Subaru, Miko and Mio Reaction When Anya and IRyS Join Yellow Team As ID and EN Branch Member",
+      "duration": "PT1M38S",
+      "videoId": "9Qde3yNYQAU"
+    },
+    {
+      "sourceStreams": [
+        "7vLteHlHF9s"
+      ],
+      "title": "*Watame Sees Zeta's Thighs in 3D* \u3010Hololive\u3011",
+      "duration": "PT1M30S",
+      "videoId": "XmCjOXzKqXg"
     }
   ]
 }
