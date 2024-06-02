@@ -31831,6 +31831,20 @@
       "title": "\u3010MINECRAFT\u3011STRUCTURING AND BONING\u3010Kureiji Ollie\u3011",
       "duration": "PT1H6M26S",
       "videoId": "dOM6PQ4-TOU"
+    },
+    {
+      "member": "SORA",
+      "publishedAt": "2024-06-02T09:38:34+00:00",
+      "title": "\u3010Minecraft\u3011\u4eca\u65e5\u3082\u3064\u304f\u308b\u304b\uff01\uff01\u9053\u3002\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3068\u304d\u306e\u305d\u3089\u3011",
+      "duration": "PT2H32M15S",
+      "videoId": "NB9Uodk-Vcc"
+    },
+    {
+      "member": "OLLIE",
+      "publishedAt": "2024-06-02T10:34:21+00:00",
+      "title": "\u3010MINECRAFT\u3011SERVER PLEASE DON'T CRASH\u3010Kureiji Ollie\u3011",
+      "duration": "PT3H17M58S",
+      "videoId": "dWacwnRc5h8"
     }
   ],
   "craftClips": [
@@ -79503,6 +79517,22 @@
       "title": "Shiranui Flare Can't Stop Laughing At Tokino Sora Becoming Piglin Magnet | Minecraft [Hololive/Sub]",
       "duration": "PT58S",
       "videoId": "xB8FztSnV2M"
+    },
+    {
+      "sourceStreams": [
+        "NB9Uodk-Vcc"
+      ],
+      "title": "Kanade Amazed With Sora-chan's Guild and A Room That Kaela Built For Her Guild\u3010Hololive English Sub\u3011",
+      "duration": "PT3M37S",
+      "videoId": "cQCmlcW5nLw"
+    },
+    {
+      "sourceStreams": [
+        "NB9Uodk-Vcc"
+      ],
+      "title": "Tokino Sora Did Her Favorite Thing To Kanade | Minecraft [Hololive/Sub]",
+      "duration": "PT1M29S",
+      "videoId": "kQMstQfpk1o"
     }
   ]
 }
