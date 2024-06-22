@@ -32167,6 +32167,13 @@
       "title": "\u3010Minecraft\u3011\uff18\u756a\u51fa\u53e3\u98a8\u306e\u30de\u30a4\u30af\u30e9\u4e16\u754c\uff01\uff1f\uff01\uff1f\uff01\uff1f\uff01\uff1f\uff01\u3010\uff03\u306b\u3083\u3093\u3050\u307f\u3053\u30fc\u3093\u3011",
       "duration": "PT1H38M55S",
       "videoId": "mGwtYqzfcME"
+    },
+    {
+      "member": "FUBUKI",
+      "publishedAt": "2024-06-21T22:47:11+00:00",
+      "title": "\u3010Minecraft\u30d5\u30d6\u9bd6\u30111\u6642\u9593\u3002\u671d\u6d3b\u306e\u9752\u30a6\u30fc\u30d1\u30fc\u30eb\u30fc\u30d1\u30fc\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u767d\u4e0a\u30d5\u30d6\u30ad\u3011",
+      "duration": "PT1H31M54S",
+      "videoId": "pSp6As0tqKo"
     }
   ],
   "craftClips": [
@@ -79927,6 +79934,14 @@
       "title": "Pekora's Story About She Learn To Ride Bicycle and Corrupt Her Brother's Data\u3010Hololive English Sub\u3011",
       "duration": "PT3M39S",
       "videoId": "MeKhvXCNDXE"
+    },
+    {
+      "sourceStreams": [
+        "mGwtYqzfcME"
+      ],
+      "title": "Miko and Fubuki Dying After Okayu Tells Them What She Would Do If Scared in a Haunted House",
+      "duration": "PT2M40S",
+      "videoId": "fG4whfLOKvQ"
     }
   ]
 }
