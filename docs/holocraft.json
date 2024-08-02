@@ -14438,13 +14438,6 @@
       "videoId": "v2kxNF1OwWw"
     },
     {
-      "member": "BOTAN",
-      "publishedAt": "2021-07-05T18:55:49+00:00",
-      "title": "\u3010Minecraft\u3011\u990a\u6b96\u6240\u4f5c\u308a\u305f\u3044\uff06\u304a\u91d1\u8fd4\u3055\u306a\u304d\u3083\u2026\u3010\u7345\u767d\u307c\u305f\u3093/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
-      "duration": "PT4H41M51S",
-      "videoId": "Krw1MDHZNb0"
-    },
-    {
       "member": "MATSURI",
       "publishedAt": "2021-07-05T18:57:36+00:00",
       "title": "\u3010Minecraft\u3011\u3088\u3075\u304b\u3057('\u03c9')\u270c\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u590f\u8272\u307e\u3064\u308a\u3011",
@@ -32447,6 +32440,27 @@
       "title": "\u3010Minecraft\u3011Build a wool stage?\u3010holoID\u3011",
       "duration": "PT2H15M12S",
       "videoId": "Q598_DJWyhs"
+    },
+    {
+      "member": "LUNA",
+      "publishedAt": "2024-08-01T18:11:47+00:00",
+      "title": "\u3010 #\u30db\u30ed\u30de\u30a4\u30af\u30e9\u4eba\u72fcRPG \u3011\u3075\u306a\u3075\u306a(\u30fbo\u30fb\ud83c\udf6c)\u3010\u59eb\u68ee\u30eb\u30fc\u30ca/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "P0D",
+      "videoId": "qW9hpJ6Tqvk"
+    },
+    {
+      "member": "RISU",
+      "publishedAt": "2024-08-02T11:37:32+00:00",
+      "title": "\u3010Minecraft\u3011NOT long stream !\u3010Ayunda Risu\u3011",
+      "duration": "PT2H1M22S",
+      "videoId": "jmea9YOG8q8"
+    },
+    {
+      "member": "MIYABI",
+      "publishedAt": "2024-08-02T14:42:57+00:00",
+      "title": "\u3010Minecraft\u3011\u6d77\u8cca\u8239\u3092\u304a\u62ab\u9732\u76ee\u3057\u307e\u3059\u3010\u82b1\u54b2\u307f\u3084\u3073/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT1H19M45S",
+      "videoId": "fIY4S0Hneo0"
     }
   ],
   "craftClips": [
@@ -40769,7 +40783,6 @@
         "qmAeg8CF54w",
         "IKiwczRMeXs",
         "xop_KX-7Als",
-        "Krw1MDHZNb0",
         "qnVfEPslSjE"
       ],
       "title": "[Hololive EN] Ina and Kiara - Preparations for the Ender Dragon (English/Espa\u00f1ol [CC])",
@@ -60505,14 +60518,6 @@
     },
     {
       "sourceStreams": [
-        "Krw1MDHZNb0"
-      ],
-      "title": "Shishiro Botan Dying Laughing Watching Nene Dying From Elytra Nightmare | Minecraft [Hololive]",
-      "duration": "PT1M24S",
-      "videoId": "UQb0c4XgLZY"
-    },
-    {
-      "sourceStreams": [
         "qbfbkTXuGqc"
       ],
       "title": "Shiranui Flare n Polka Don't Barely Understand What Sakura Miko Saying | Minecraft [Hololive/En Sub]",
@@ -72493,7 +72498,6 @@
     },
     {
       "sourceStreams": [
-        "Krw1MDHZNb0",
         "nVl_N4AXspo",
         "ARKdZuhGhTQ"
       ],
@@ -72614,7 +72618,6 @@
     },
     {
       "sourceStreams": [
-        "Krw1MDHZNb0",
         "v2kxNF1OwWw",
         "k1Q4q5mt6Rw",
         "VXZzn56FiaY"
