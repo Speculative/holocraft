@@ -32608,6 +32608,41 @@
       "title": "\u3010Minecraft\u3011PAVONASHI PRACTICE ARC #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6",
       "duration": "P0D",
       "videoId": "ARMP10M1S6g"
+    },
+    {
+      "member": "IOFI",
+      "publishedAt": "2024-08-10T07:35:56+00:00",
+      "title": "\u3010Minecraft\u3011HOLOID CUP PRACTICE!\u3010 iofi / hololiveID \u3011",
+      "duration": "PT2H25M1S",
+      "videoId": "fb1oEzquV2c"
+    },
+    {
+      "member": "SORA",
+      "publishedAt": "2024-08-10T07:36:21+00:00",
+      "title": "\u3010Minecraft\u3011HOLOID CUP\u306e\u7df4\u7fd2\u3057\u3061\u3083\u3046\u3088\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3068\u304d\u306e\u305d\u3089/iofi\u3011",
+      "duration": "PT2H26M49S",
+      "videoId": "iUM2dx0qUVg"
+    },
+    {
+      "member": "REINE",
+      "publishedAt": "2024-08-10T07:40:20+00:00",
+      "title": "\u3010MINECRAFT\u3011REINE POV! \ud83d\udeab\ud83d\udeabYOU WOULDNT STEAL A THUMBNAIL\ud83d\udeab\ud83d\udeab\u3010Pavolia Reine/hololiveID 2nd gen\u3011",
+      "duration": "PT2H29M5S",
+      "videoId": "2N56XB0X3gk"
+    },
+    {
+      "member": "REINE",
+      "publishedAt": "2024-08-10T09:15:56+00:00",
+      "title": "\u3010MINECRAFT\u3011#holoIDCup2024  \u0336P\u0336A\u0336V\u0336O\u0336N\u0336A\u0336S\u0336H\u0336I\u0336 \u0336H\u0336I\u0336G\u0336H\u0336S\u0336C\u0336H\u0336O\u0336O\u0336L\u0336 \u0336A\u0336U\u0336\u3010Pavolia Reine/hololiveID\u3011",
+      "duration": "P0D",
+      "videoId": "Gq96Ei6ANwg"
+    },
+    {
+      "member": "KIARA",
+      "publishedAt": "2024-08-10T14:49:58+00:00",
+      "title": "\u3010Minecraft\u3011ID CUP - Pavonashi FTW! TONJOK THE RIVALS #kfp #holoIDCup2024",
+      "duration": "P0D",
+      "videoId": "YeKbKzHsm_M"
     }
   ],
   "craftClips": [
@@ -80418,6 +80453,14 @@
       "title": "Hajime Become Most Unluckiest Member of Hololive's Werewolf Minecraft With Okayu & Aqua\u3010Hololive\u3011",
       "duration": "PT8M27S",
       "videoId": "NneF_LqbTG4"
+    },
+    {
+      "sourceStreams": [
+        "iUM2dx0qUVg"
+      ],
+      "title": "Tokino Sora Accidently Turned Ollie Into Megaphone | Minecraft [Hololive/Sub]",
+      "duration": "PT1M2S",
+      "videoId": "Rqc4BsDqmC8"
     }
   ]
 }
