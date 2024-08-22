@@ -32755,6 +32755,34 @@
       "title": "\u3010Minecraft\u3011\u306a\u3093\u304b\u30a2\u30c3\u30d7\u30c7\u30fc\u30c8\u3042\u3063\u305f\u306e\uff1f\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3068\u304d\u306e\u305d\u3089\u3011",
       "duration": "PT2H31M29S",
       "videoId": "76cHcbxUWMw"
+    },
+    {
+      "member": "IZURU",
+      "publishedAt": "2024-08-22T06:18:34+00:00",
+      "title": "\u3010Minecraft\u3011\u30bd\u30ed\u30cf\u30fc\u30c9\u30b3\u30a2 6\u30de\u30c3\u30d7\u3082\u3084\u308a\u3083\u30d7\u30ed\u3010\u594f\u624b\u30a4\u30c5\u30eb / \u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "P0D",
+      "videoId": "zYXOTNNdutw"
+    },
+    {
+      "member": "TEMMA",
+      "publishedAt": "2024-08-22T14:15:48+00:00",
+      "title": "\u3010Minecraft\u3011\u73fe\u572813/122 \u82b1\u5cb8\u3067\u3059\u3079\u3066\u306e\u9032\u6357\u3092\u9054\u6210\u3059\u308b\uff01 Part2\u3010\u5cb8\u5802\u5929\u771f/\u82b1\u54b2\u307f\u3084\u3073/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT3H57M48S",
+      "videoId": "u5f8f9GJQRA"
+    },
+    {
+      "member": "MIYABI",
+      "publishedAt": "2024-08-22T14:19:44+00:00",
+      "title": "#2\u3010Minecraft\u3011\u82b1\u5cb8\u3067\u5168\u5b9f\u7e3e\u89e3\u9664\u3059\u308b\u305e!!\u3010\u82b1\u54b2\u307f\u3084\u3073/\u30db\u30ed\u30b9\u30bf\u30fc\u30ba\u3011",
+      "duration": "PT3H59M11S",
+      "videoId": "SeJPgapvqP4"
+    },
+    {
+      "member": "AQUA",
+      "publishedAt": "2024-08-22T15:47:42+00:00",
+      "title": "\u3010Minecraft\u3011\u30db\u30ed\u9bd6\uff01\u89b3\u5149\u3057\u305f\u308a\u3075\u308a\u304b\u3048\u308b\u305e\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\uff01\u3010\u6e4a\u3042\u304f\u3042/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT2H5M40S",
+      "videoId": "ZxN7raRF_24"
     }
   ],
   "craftClips": [
@@ -80597,6 +80625,14 @@
       "title": "Pekora Visits Aqua & Shion Neighbor Wars Area 5 Years Later \u3010ENG Sub Hololive\u3011",
       "duration": "PT2M8S",
       "videoId": "1evJJIhgFkQ"
+    },
+    {
+      "sourceStreams": [
+        "76cHcbxUWMw"
+      ],
+      "title": "Tokino Sora Has Been Haunted By Her AC | Minecraft [Hololive/Sub]",
+      "duration": "PT1M39S",
+      "videoId": "hfgC19_4Buw"
     }
   ]
 }
