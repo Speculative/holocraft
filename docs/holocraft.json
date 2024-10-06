@@ -33679,6 +33679,41 @@
       "title": "\u3010#\u30de\u30a4\u30af\u30e9\u809d\u8a66\u30572024\u3011\u521d\u53c2\u52a0\uff013\u671f\u751f\u3068\u3086\u304f\u300c\u50d5\u3089\u306e\u590f\u4f11\u307f\u300d\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
       "duration": "PT3H26M8S",
       "videoId": "ITPvZixB0Gk"
+    },
+    {
+      "member": "FUBUKI",
+      "publishedAt": "2024-10-06T04:18:58+00:00",
+      "title": "\u3010#\u30de\u30a4\u30af\u30e9\u809d\u8a66\u30572024\u3011\u30d5\u30d6\u3055\u3093\u3068\u307f\u3053\u3055\u3093\u3068\u3059\u3044\u3055\u3093\u306e\u590f\u4f11\u307f!!!\u3000\u3010#\u3075\u3076\u307f\u3053\u3081\u3063\u3068\u3055\u3093\u3011",
+      "duration": "P0D",
+      "videoId": "X3Z9lR8lTTo"
+    },
+    {
+      "member": "MIKO",
+      "publishedAt": "2024-10-06T04:48:44+00:00",
+      "title": "\u3010#\u30de\u30a4\u30af\u30e9\u809d\u8a66\u30572024\u3011\u307c\u304f\u3089\u306e\u590f\u3084\u3059\u307f\ud83c\udf3b\u3046\u3043\u305a\u3001\u30d5\u30d6\u307f\u3053\u3081\u3063\u3068\u3060\u306b\u3047\uff01\uff01\uff01\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3055\u304f\u3089\u307f\u3053\u3011",
+      "duration": "P0D",
+      "videoId": "m_BFonQNd3k"
+    },
+    {
+      "member": "NENE",
+      "publishedAt": "2024-10-06T11:45:43+00:00",
+      "title": "\u3010#\u30de\u30a4\u30af\u30e9\u809d\u8a66\u30572024\u3011\u53f3\u3082\u5de6\u3082\u5931\u3063\u305f\u306d\u306d\u3055\u3093\u306b\u3088\u308b\u809d\u8a66\u3057\uff01\u307d\u308b\uff5e\u308a\u308a\uff5e\u304b\u3041\uff5e\u306f\u3058\u3081\uff5e\uff5e\u3093\uff1b\uff1b\u52a9\u3051\u3066\u3047\u30fb\u30fb\u3010 \u6843\u9234\u306d\u306d / hololive \u3011",
+      "duration": "PT2H36M44S",
+      "videoId": "GtzYgi6WPgY"
+    },
+    {
+      "member": "SUISEI",
+      "publishedAt": "2024-10-06T13:07:35+00:00",
+      "title": "\u3010#\u30de\u30a4\u30af\u30e9\u809d\u8a66\u30572024\u3011\u521d\u3081\u3066\u306e\u30de\u30a4\u30af\u30e9\u809d\u8a66\u3057\ud83d\udc7b\u2728\u3010#\u3075\u3076\u307f\u3053\u3081\u3063\u3068\u3055\u3093\u3011",
+      "duration": "P0D",
+      "videoId": "QaeU25Y83vo"
+    },
+    {
+      "member": "SUISEI",
+      "publishedAt": "2024-10-06T13:08:42+00:00",
+      "title": "\u3010#\u30de\u30a4\u30af\u30e9\u809d\u8a66\u30572024\u3011\u521d\u3081\u3066\u306e\u30de\u30a4\u30af\u30e9\u809d\u8a66\u3057\ud83d\udc7b\u2728\u3010#\u3075\u3076\u307f\u3053\u3081\u3063\u3068\u3055\u3093\u3011",
+      "duration": "PT3M48S",
+      "videoId": "S1rv3odGuio"
     }
   ],
   "craftClips": [
@@ -81762,6 +81797,14 @@
       "title": "Pekora Reacts To *HUMONGOUS* 3D Map Art On Her Survival Minecraft Server \u3010ENG Sub Hololive\u3011",
       "duration": "PT1M52S",
       "videoId": "ico8Khl687M"
+    },
+    {
+      "sourceStreams": [
+        "w8QtkJY4H5c"
+      ],
+      "title": "Hajime Come And Console Lonely Polka After Her Stream End | Minecraft [Hololive/Sub]",
+      "duration": "PT2M10S",
+      "videoId": "JUTTpoOApuI"
     }
   ]
 }
