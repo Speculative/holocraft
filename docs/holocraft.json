@@ -33938,6 +33938,41 @@
       "title": "\u3010 #\u30db\u30ed\u30af\u30e9\u30c0\u30a4\u30e4\u767a\u6398\u968a \u3011\ud83d\udc8e\u30db\u30ed\u30e1\u30f3\u307f\u3093\u306a\u3067\uff12\uff10\uff12\uff15\u500b\u30c0\u30a4\u30e4\u3092\u8352\u7a3c\u304e\u3059\u308b\u306b\u3047\uff01\uff01\uff01\uff01\uff01\ud83d\udc8e\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3055\u304f\u3089\u307f\u3053\u3011",
       "duration": "PT4H43M16S",
       "videoId": "YvR18f335Fg"
+    },
+    {
+      "member": "FLARE",
+      "publishedAt": "2025-01-07T11:44:19+00:00",
+      "title": "\u3010Minecraft\u30112025\u5e74\uff01\u30db\u30ed\u30e1\u30f3\u307f\u3093\u306a\u3067\u30c0\u30a4\u30e42025\u500b\u96c6\u3081\u3066\u512a\u52dd\u3059\u308b\ud83d\udc8e \u3010\u4e0d\u77e5\u706b\u30d5\u30ec\u30a2/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "P0D",
+      "videoId": "dbASlEuP2sw"
+    },
+    {
+      "member": "NENE",
+      "publishedAt": "2025-01-07T14:48:43+00:00",
+      "title": "\u3010 Minecraft \u3011\uff12\uff10\uff12\uff15\u306e\u30c0\u30a4\u30e4\u96c6\u3081\u308b\u306e\u306b\u52a0\u62c5\u3059\u308b\u3010 \u6843\u9234\u306d\u306d / hololive \u3011",
+      "duration": "PT2H3M4S",
+      "videoId": "iHcBy1nSqYo"
+    },
+    {
+      "member": "FUBUKI",
+      "publishedAt": "2025-01-07T15:18:19+00:00",
+      "title": "\u3010#\u30db\u30ed\u30af\u30e9\u30c0\u30a4\u30e4\u767a\u6398\u968a\u3011\u30db\u30ed\u30af\u30e9\uff12\uff10\uff12\uff15\u500b\u30c0\u30a4\u30e4\u767a\u6398\u968a\u3000DAY\uff12\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u767d\u4e0a\u30d5\u30d6\u30ad\u3011",
+      "duration": "PT3H59M23S",
+      "videoId": "2QCf1T5n2eI"
+    },
+    {
+      "member": "MIO",
+      "publishedAt": "2025-01-07T15:19:59+00:00",
+      "title": "\u3010 #\u30db\u30ed\u30af\u30e9\u30c0\u30a4\u30e4\u767a\u6398\u968a \u3011\u304a\u624b\u4f1d\u3044\u3057\u3088\u3046\u2728\u50cd\u304d\u3084\u3059\u3044\u74b0\u5883\u3064\u304f\u308a\u3010\u5927\u795e\u30df\u30aa\u8996\u70b9\u3011",
+      "duration": "PT1H58M25S",
+      "videoId": "Y011cGsaTPY"
+    },
+    {
+      "member": "PEKORA",
+      "publishedAt": "2025-01-07T15:51:35+00:00",
+      "title": "\u3010Minecraft\u30112025\u5e74\u3060\u304b\u3089\u30c0\u30a4\u30e42025\u500b\u96c6\u3081\u308b\u30db\u30ed\u30e9\u30a4\u30d6\u30e1\u30f3\u30d0\u30fc\u305f\u3061\uff01\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
+      "duration": "PT4H26M21S",
+      "videoId": "JPj5mPFOj9Q"
     }
   ],
   "craftClips": [
@@ -82903,6 +82938,31 @@
       "title": "Korone returns to Minecraft, accidentally eats Rushia's cake \u3010Hololive\u3011 \u3010Minecraft\u3011",
       "duration": "PT3M22S",
       "videoId": "N_z2t3WXC9U"
+    },
+    {
+      "sourceStreams": [
+        "YvR18f335Fg",
+        "sw3HuJ6APjE"
+      ],
+      "title": "Fubuki Tells Miko the Reason Why She Didn't Take the Elementary School Exam Like the Previous Year",
+      "duration": "PT3M7S",
+      "videoId": "dE3JVj90VWI"
+    },
+    {
+      "sourceStreams": [
+        "YvR18f335Fg"
+      ],
+      "title": "Fubuki and Miko Invite Su-chan, Chihaya, Vivi to Follow Them to Gain More Experience in Minecraft",
+      "duration": "PT3M16S",
+      "videoId": "rTLg8rsgLtM"
+    },
+    {
+      "sourceStreams": [
+        "JPj5mPFOj9Q"
+      ],
+      "title": "Usada Pekora Already Know How To Treat Flow Glow Member | Minecraft [Hololive/Sub]",
+      "duration": "PT1M34S",
+      "videoId": "43PDOFLNbyA"
     }
   ]
 }
