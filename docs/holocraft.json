@@ -33973,6 +33973,27 @@
       "title": "\u3010Minecraft\u30112025\u5e74\u3060\u304b\u3089\u30c0\u30a4\u30e42025\u500b\u96c6\u3081\u308b\u30db\u30ed\u30e9\u30a4\u30d6\u30e1\u30f3\u30d0\u30fc\u305f\u3061\uff01\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
       "duration": "PT4H26M21S",
       "videoId": "JPj5mPFOj9Q"
+    },
+    {
+      "member": "FLARE",
+      "publishedAt": "2025-01-08T12:23:13+00:00",
+      "title": "\u3010Minecraft\u3011\u30a8\u30f3\u30c1\u30e3\u30f3\u30c8\u3059\u308b\u3063\ud83d\udc8e \u3010\u4e0d\u77e5\u706b\u30d5\u30ec\u30a2/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "P0D",
+      "videoId": "QmCYoOPXW_8"
+    },
+    {
+      "member": "FUBUKI",
+      "publishedAt": "2025-01-08T16:03:20+00:00",
+      "title": "\u3010#\u30db\u30ed\u30af\u30e9\u30c0\u30a4\u30e4\u767a\u6398\u968a\u3011\u30db\u30ed\u30af\u30e9\uff12\uff10\uff12\uff15\u500b\u30c0\u30a4\u30e4\u767a\u6398\u968a\u3000DAY3\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u767d\u4e0a\u30d5\u30d6\u30ad\u3011",
+      "duration": "PT3H46M14S",
+      "videoId": "Uwj-uW5UXG4"
+    },
+    {
+      "member": "MIKO",
+      "publishedAt": "2025-01-08T16:10:56+00:00",
+      "title": "\u3010 #\u30db\u30ed\u30af\u30e9\u30c0\u30a4\u30e4\u767a\u6398\u968a \u3011\ud83d\udc8e\u30db\u30ed\u30e1\u30f3\u307f\u3093\u306a\u3067\uff12\uff10\uff12\uff15\u500b\u30c0\u30a4\u30e4\u3092\u8352\u7a3c\u304e\u3059\u308b\u306b\u3047\uff01\uff01\uff01\uff01\uff01\ud83d\udc8e\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3055\u304f\u3089\u307f\u3053\u3011",
+      "duration": "PT3H41M8S",
+      "videoId": "4xRbzyHDTrA"
     }
   ],
   "craftClips": [
@@ -82963,6 +82984,22 @@
       "title": "Usada Pekora Already Know How To Treat Flow Glow Member | Minecraft [Hololive/Sub]",
       "duration": "PT1M34S",
       "videoId": "43PDOFLNbyA"
+    },
+    {
+      "sourceStreams": [
+        "JPj5mPFOj9Q"
+      ],
+      "title": "Pekora Can't Handle Another Side of Matsuri After Some Wholesome Moment \u3010Hololive English Sub\u3011",
+      "duration": "PT5M58S",
+      "videoId": "plTN8O2k_E0"
+    },
+    {
+      "sourceStreams": [
+        "FqYOwITnJ68"
+      ],
+      "title": "Biboo Is Devastated by the Untimely Demise of Her Dolphin\u3010MINECRAFT\u3011\u3010holoEN - Calli / Biboo \u3011",
+      "duration": "PT1M18S",
+      "videoId": "Y8LOiemIT98"
     }
   ]
 }
