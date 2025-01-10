@@ -34008,6 +34008,27 @@
       "title": "\u3010#\u30db\u30ed\u30af\u30e9\u30c0\u30a4\u30e4\u767a\u6398\u968a\u3011\u30db\u30ed\u30af\u30e9\uff12\uff10\uff12\uff15\u500b\u30c0\u30a4\u30e4\u767a\u6398\u968a\u3000DAY4\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u767d\u4e0a\u30d5\u30d6\u30ad\u3011",
       "duration": "P0D",
       "videoId": "eZcS6gMs0bY"
+    },
+    {
+      "member": "MIO",
+      "publishedAt": "2025-01-10T15:00:49+00:00",
+      "title": "\u3010 #\u30db\u30ed\u30af\u30e9\u30c0\u30a4\u30e4\u767a\u6398\u968a \u3011\u30c0\u30a4\u30e42025\u9054\u6210\u304a\u795d\u3044\uff01\u30a8\u30f3\u30c9\u30e9\u8a0e\u4f10\u306b\u884c\u304f\uff1f\uff01\u3010\u5927\u795e\u30df\u30aa\u8996\u70b9\u3011",
+      "duration": "PT1H54M2S",
+      "videoId": "w8AQvVymmPQ"
+    },
+    {
+      "member": "FUBUKI",
+      "publishedAt": "2025-01-10T15:16:13+00:00",
+      "title": "\u3010#\u30db\u30ed\u30af\u30e9\u30c0\u30a4\u30e4\u767a\u6398\u968a\u3011\u30db\u30ed\u30af\u30e9\uff12\uff10\uff12\uff15\u500b\u30c0\u30a4\u30e4\u767a\u6398\u968a\u3000\u6700\u7d42\u65e5\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u767d\u4e0a\u30d5\u30d6\u30ad\u3011",
+      "duration": "PT2H1M15S",
+      "videoId": "TtvIW7CGITQ"
+    },
+    {
+      "member": "PEKORA",
+      "publishedAt": "2025-01-10T15:19:33+00:00",
+      "title": "\u3010Minecraft\u30112025\u5e74\u3060\u304b\u3089\u30c0\u30a4\u30e42025\u500b\u96c6\u3081\u308b\u30db\u30ed\u30e9\u30a4\u30d6\u30e1\u30f3\u30d0\u30fc\u305f\u3061\uff01\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
+      "duration": "PT2H5M25S",
+      "videoId": "8FPscUSnrXQ"
     }
   ],
   "craftClips": [
@@ -83014,6 +83035,14 @@
       "title": "Biboo Is Devastated by the Untimely Demise of Her Dolphin\u3010MINECRAFT\u3011\u3010holoEN - Calli / Biboo \u3011",
       "duration": "PT1M18S",
       "videoId": "Y8LOiemIT98"
+    },
+    {
+      "sourceStreams": [
+        "8FPscUSnrXQ"
+      ],
+      "title": "Pekora Really Happy and Proud Watching Her Junior Having Fun Playing Minecraft\u3010Hololive English Sub\u3011",
+      "duration": "PT3M14S",
+      "videoId": "jN0Nhe0q-pY"
     }
   ]
 }
