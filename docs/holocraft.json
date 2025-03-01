@@ -36010,6 +36010,20 @@
       "title": "\u3010Minecraft\u3011\u30ae\u30ea\u30fc\u30b9\u30fc\u30c4\u3092\u4f5c\u308a\u306a\u304c\u3089\u3082\u5bb6\u3064\u3044\u3066\u884c\u3063\u3066\u3044\u3044\u3067\u3059\u304b\u3010\u7345\u767d\u307c\u305f\u3093/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "P0D",
       "videoId": "AvVYQr6q-j0"
+    },
+    {
+      "member": "ROBOCO",
+      "publishedAt": "2025-03-01T09:37:21+00:00",
+      "title": "\u3010 Minecraft \u3011\uff11\u6642\u9593\u3067\u30c0\u30a4\u30e4\u4f55\u500b\u624b\u306b\u5165\u308b\uff01\uff1f\u544a\u77e5\u304c\u3057\u305f\u3044\u30dc\u30af\u306e\u30c0\u30a4\u30e4\u96c6\u3081\ud83d\udc8e\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u30ed\u30dc\u5b50\u3055\u3093\u3011",
+      "duration": "PT2H25M25S",
+      "videoId": "KBeGn6tWM7w"
+    },
+    {
+      "member": "KANATA",
+      "publishedAt": "2025-03-01T12:53:59+00:00",
+      "title": "\u3010Minecraft\u3011\u65b0\u30db\u30ed\u9bd6\uff01\uff01\u88cf\u4f5c\u696d\uff1f\uff08\u8868\uff09\u3059\u308b\u305e\u540d\u63a2\u5075\u30ab\u30ca\u30bf\u30f3\uff01\uff01\u3010\u5929\u97f3\u304b\u306a\u305f/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "P0D",
+      "videoId": "-ejABMPOiAg"
     }
   ],
   "craftClips": [
@@ -85720,6 +85734,23 @@
       "title": "HoloJP's Reaction To Gigi's Crazy Door Island and 'Gigi Railways'\u3010Hololive\u3011",
       "duration": "PT8M12S",
       "videoId": "rip2gCPXwHw"
+    },
+    {
+      "sourceStreams": [
+        "JPj5mPFOj9Q",
+        "hApMCEf-e18"
+      ],
+      "title": "Matsuri Learns That Chihaya Is Kinda Sloppy, but She Finds Her Really Adorable\u3010Hololive English Sub\u3011",
+      "duration": "PT3M11S",
+      "videoId": "UhwD6_oRLys"
+    },
+    {
+      "sourceStreams": [
+        "AvVYQr6q-j0"
+      ],
+      "title": "Shishiro Botan Teased Niko About Her Elytra | Minecraft [Hololive/Sub]",
+      "duration": "PT2M56S",
+      "videoId": "g1n2UwXqM3w"
     }
   ]
 }
