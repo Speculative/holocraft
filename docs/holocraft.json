@@ -36255,6 +36255,27 @@
       "title": "\u3010 Minecraft / \u30db\u30ed\u9bd6 \u3011\u732b\u5cf6\u5efa\u7bc9\u5efa\u7bc9\u5efa\u7bc9\uff5e\uff5e!!!\ud83d\ude38\ud83c\udf34\u2726\u3010 \u732b\u53c8\u304a\u304b\u3086/\u30db\u30ed\u30e9\u30a4\u30d6 \u3011",
       "duration": "PT5H17M22S",
       "videoId": "SBACJGIiqt0"
+    },
+    {
+      "member": "SUISEI",
+      "publishedAt": "2025-03-14T14:31:34+00:00",
+      "title": "\u3010Minecraft\u3011\u661f\u8857\u6751\u958b\u767a\u4e2d\u203c\u4eca\u65e5\u306f\u56de\u8def\u3092\u3002\u3002\u3002\u3010\u30db\u30ed\u30e9\u30a4\u30d6 / \u661f\u8857\u3059\u3044\u305b\u3044\u3011",
+      "duration": "PT5H6M29S",
+      "videoId": "K_na4Akrttg"
+    },
+    {
+      "member": "BOTAN",
+      "publishedAt": "2025-03-14T15:15:43+00:00",
+      "title": "\u3010Minecraft\u3011\u305d\u308d\u305d\u308d\u30e9\u30fc\u30e1\u30f3\u5c4b\u3092\u4f5c\u308a\u305f\u3044\u306a\u3068\u601d\u3044\u306a\u304c\u3089\u5bb6\u3064\u3044\u3066\u884c\u3063\u3066\u3044\u3044\u3067\u3059\u304b\u3010\u7345\u767d\u307c\u305f\u3093/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT3H44M13S",
+      "videoId": "DW0HbpHBjyA"
+    },
+    {
+      "member": "LUNA",
+      "publishedAt": "2025-03-14T15:36:38+00:00",
+      "title": "\u3010 Minecraft \u3011\u65b0\u30db\u30ed\u9bd6\uff01\"\u3093\u306a\u96fb\u9244\"\u6c34\u4e2d\u30c8\u30f3\u30cd\u30eb\u306e\u65bd\u5de5\u306f\u547d\u61f8\u3051\u306a\u306e\u3089\uff01\uff01\uff01\uff03\uff14\u3010\u59eb\u68ee\u30eb\u30fc\u30ca/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT6H14M49S",
+      "videoId": "boo0Py-9ZIM"
     }
   ],
   "craftClips": [
@@ -86064,6 +86085,14 @@
       "title": "Gigi and Cecilia Build The Ugliest Railroad",
       "duration": "PT45M30S",
       "videoId": "YupD5_41bOA"
+    },
+    {
+      "sourceStreams": [
+        "DW0HbpHBjyA"
+      ],
+      "title": "Shishiro Botan Acknowledge Vivi As Minecraft NPC  [Hololive/Sub]",
+      "duration": "PT3M11S",
+      "videoId": "ON3X1J_JaUo"
     }
   ]
 }
