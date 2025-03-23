@@ -36409,6 +36409,13 @@
       "title": "\u3010 Minecraft \u3011\u3042\uff5e\uff5e\uff5e\uff5e\uff5e\uff5e\uff5e\uff5e\u3042\uff57\u3010 \u6843\u9234\u306d\u306d / hololive \u3011",
       "duration": "PT2H4M1S",
       "videoId": "-gpM5bp-eac"
+    },
+    {
+      "member": "SORA",
+      "publishedAt": "2025-03-23T08:52:04+00:00",
+      "title": "\u3010Minecraft\u3011\u6728\u306b\u9b45\u5165\u3089\u308c\u305f\u305d\u3089\u306f\u4eca\u65e5\u3082\u690d\u6797\u5730\u3092\u6c42\u3081\u308b\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3068\u304d\u306e\u305d\u3089\u3011",
+      "duration": "PT3H8M37S",
+      "videoId": "0LiiaV5pEzk"
     }
   ],
   "craftClips": [
@@ -86292,6 +86299,14 @@
       "title": "Sakura Miko Ruined Subaru And Noel Romantic Moment | Minecraft [Hololive/Sub]",
       "duration": "PT2M29S",
       "videoId": "L6MN56UY6sI"
+    },
+    {
+      "sourceStreams": [
+        "0LiiaV5pEzk"
+      ],
+      "title": "Tokino Sora Cuteness Cause Soratomo Drunk | Minecraft [Hololive/Sub]",
+      "duration": "PT2M37S",
+      "videoId": "FmHj6yrr6mA"
     }
   ]
 }
