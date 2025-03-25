@@ -36423,6 +36423,20 @@
       "title": "\u3010Minecraft\u30110\u304b\u3089\u59cb\u307e\u308b\u65b0\u30db\u30ed\u9bd6\uff01\uff01\uff01\u592a\u967d\u795e\u6bbf\u8a08\u753b\u767a\u52d5\uff01\u7d20\u6750\u3042\u3064\u3081\u9811\u5f35\u308d\u304a\u304a\ud83c\udf1e\u3010\u767d\u9280\u30ce\u30a8\u30eb/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT8H14M49S",
       "videoId": "2oyk8GJJtQc"
+    },
+    {
+      "member": "SORA",
+      "publishedAt": "2025-03-25T07:06:25+00:00",
+      "title": "\u3010Minecraft\u3011\u308f\u305f\u3057\u306e\u7406\u60f3\u306e\u30ae\u30eb\u30c9\u4f5c\u308a\uff01\u7d9a\u304d\uff01\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3068\u304d\u306e\u305d\u3089/KuraijiOllie\u3011",
+      "duration": "P0D",
+      "videoId": "ZjRomJkgfQw"
+    },
+    {
+      "member": "OLLIE",
+      "publishedAt": "2025-03-25T11:16:09+00:00",
+      "title": "\u3010MINECRAFT - HOLOLIVE NEW SERVER\u3011CONTINUING THE GUILD!!\u3010Kureiji Ollie\u3011",
+      "duration": "P0D",
+      "videoId": "4azMT8TYmS4"
     }
   ],
   "craftClips": [
@@ -86314,6 +86328,14 @@
       "title": "Tokino Sora Cuteness Cause Soratomo Drunk | Minecraft [Hololive/Sub]",
       "duration": "PT2M37S",
       "videoId": "FmHj6yrr6mA"
+    },
+    {
+      "sourceStreams": [
+        "v0JJaI03oFk"
+      ],
+      "title": "Pekora Visits The Fanciest Creation By HoloJP Ever (Holo Europe) \u3010ENG Sub Hololive\u3011",
+      "duration": "PT4M4S",
+      "videoId": "3oY0813AxwQ"
     }
   ]
 }
