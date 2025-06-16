@@ -35039,13 +35039,6 @@
       "videoId": "OGp9UfOKbdI"
     },
     {
-      "member": "BOTAN",
-      "publishedAt": "2025-02-12T14:40:50+00:00",
-      "title": "\u3010Minecraft\u3011\u5bb6\u3064\u3044\u3066\u884c\u3063\u3066\u3044\u3044\u3067\u3059\u304b\u3010\u7345\u767d\u307c\u305f\u3093/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
-      "duration": "PT3H13M10S",
-      "videoId": "d0AZ0kjLvdM"
-    },
-    {
       "member": "KORONE",
       "publishedAt": "2025-02-12T14:55:51+00:00",
       "title": "\u3010Minecraft\u3011\u65b0\u30db\u30ed\u9bd6\u3067\u5192\u967a\u3057\u305f\u308a\u7d20\u6750\u96c6\u3081\u305f\u308a\u3059\u308b\u305e\uff5e\uff01\u3010\u620c\u795e\u3053\u308d\u306d\u3011",
@@ -86348,15 +86341,6 @@
     },
     {
       "sourceStreams": [
-        "d0AZ0kjLvdM"
-      ],
-      "title": "Shishiro Botan Can't Stop Laughing At Miko's House Fate  | Minecraft [Hololive/Sub]",
-      "duration": "PT2M13S",
-      "videoId": "i0g4eR_3wZ8"
-    },
-    {
-      "sourceStreams": [
-        "d0AZ0kjLvdM",
         "0VyW6ZpFUqg",
         "k7ItgFNNZD0"
       ],
@@ -87248,6 +87232,23 @@
       "title": "Shishiro Botan Can't Stop Laughing At Desperate Kanade | minecraft [Hololive/Sub]",
       "duration": "PT3M47S",
       "videoId": "-YSMPvU60qA"
+    },
+    {
+      "sourceStreams": [
+        "ltqM1ZA6AoQ"
+      ],
+      "title": "Korone Breaks Out the KoroneEnglish for the Ruffians from FUWAMOCO's Raid [Hololive]",
+      "duration": "PT1M30S",
+      "videoId": "FS_MuxyOHFg"
+    },
+    {
+      "sourceStreams": [
+        "xp9-d2RLLZc",
+        "eCSaBgGC_xA"
+      ],
+      "title": "FuwaMoco and HoloJP Keep Having Cute Moments In Minecraft\u3010Hololive\u3011",
+      "duration": "PT6M48S",
+      "videoId": "jJlAU-lxPkM"
     }
   ]
 }
