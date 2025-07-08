@@ -37487,6 +37487,13 @@
       "title": "\u3010\u30db\u30ed\u91d1\u7b56\u30b5\u30d0\u30a4\u30d0\u30eb\u3011\u795e\u4f01\u753b\u306e\u5207\u308a\u629c\u304d\u898b\u308b\u305e\u304a\u304a\uff01\uff01\uff01\uff01\u3010\u5929\u97f3\u304b\u306a\u305f/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT3H3M57S",
       "videoId": "2lBHMSwcy8E"
+    },
+    {
+      "member": "SORA",
+      "publishedAt": "2025-07-08T16:24:52+00:00",
+      "title": "\u3010Minecraft\u3011\u6563\u6b69\u3057\u3088\u3046\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3068\u304d\u306e\u305d\u3089\u3011",
+      "duration": "PT2H14M50S",
+      "videoId": "3iuhEQbE23w"
     }
   ],
   "craftClips": [
@@ -87414,6 +87421,30 @@
       "title": "Tragedy Strikes Almost Instantly After OkaKoro Get a Happy Ghast in the New Update [Hololive]",
       "duration": "PT3M15S",
       "videoId": "-IXqs5aqVhE"
+    },
+    {
+      "sourceStreams": [
+        "4_Cxegi2MY4"
+      ],
+      "title": "Iroha Tells Her Senpai Watame and AZKi to Run After Hearing Laplus\u2019s Tanabata 2025 Wish",
+      "duration": "PT4M13S",
+      "videoId": "M9Yu4hL0FlE"
+    },
+    {
+      "sourceStreams": [
+        "2lBHMSwcy8E"
+      ],
+      "title": "Kanata's Reaction To Clip of FuwaMoco Learning \"Get Pregnant\" Meme From Nene\u3010Hololive\u3011",
+      "duration": "PT9M51S",
+      "videoId": "tjAQBZFSDwA"
+    },
+    {
+      "sourceStreams": [
+        "2lBHMSwcy8E"
+      ],
+      "title": "Kanata Experiences YouTube's Annoying \"Auto Dubbing\" Feature... \u3010ENG Sub Hololive\u3011",
+      "duration": "PT1M48S",
+      "videoId": "Z2SEI3Z-jnQ"
     }
   ]
 }
