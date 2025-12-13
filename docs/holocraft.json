@@ -38691,6 +38691,20 @@
       "title": "\u3010 #\u30db\u30ed\u30c9\u30e9\u30b4\u30f3\u30de\u30a4\u30af\u30e9  | DAY4 \u3011\ud83d\udc32\ud83d\udc32\ud83d\udc32\ud83d\udc32\ud83d\udc32\ud83d\udc32\u3010 \u732b\u53c8\u304a\u304b\u3086/\u30db\u30ed\u30e9\u30a4\u30d6 \u3011",
       "duration": "PT3H11M",
       "videoId": "Kqhm3QCfR6Y"
+    },
+    {
+      "member": "OKAYU",
+      "publishedAt": "2025-12-12T20:40:35+00:00",
+      "title": "\u3010 #\u30db\u30ed\u30c9\u30e9\u30b4\u30f3\u30de\u30a4\u30af\u30e9  | DAY5 \u3011\u6bce\u65e5\u304c\u65b0\u3057\u3044\u5192\u967a\ud83d\udca5\u3010 \u732b\u53c8\u304a\u304b\u3086/\u30db\u30ed\u30e9\u30a4\u30d6 \u3011",
+      "duration": "PT4H4M47S",
+      "videoId": "9Qy4zk6aZgc"
+    },
+    {
+      "member": "PEKORA",
+      "publishedAt": "2025-12-13T03:04:31+00:00",
+      "title": "\u3010\uff03\u30db\u30ed\u30c9\u30e9\u30b4\u30f3\u30de\u30a4\u30af\u30e9\u30115\u65e5\u76ee\uff01\u3068\u3093\u3067\u3082\u306a\u3044\u30c9\u30e9\u30b4\u30f3\u304c\u3044\u308b\u4e16\u754c\u3067\u751f\u304d\u6b8b\u308b\uff01\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
+      "duration": "P0D",
+      "videoId": "OiMY8Zj9_Qc"
     }
   ],
   "craftClips": [
@@ -88878,6 +88892,22 @@
       "title": "Himemori Luna, Kanata And Dragon Wrath | Minecraft [Hololive/Sub]",
       "duration": "PT2M57S",
       "videoId": "2cj5wGsmLxk"
+    },
+    {
+      "sourceStreams": [
+        "Kqhm3QCfR6Y"
+      ],
+      "title": "Marine Made Vivi Say Something Lewd and Okayu's Reaction Is Priceless \u3010Hololive\u3011",
+      "duration": "PT8M40S",
+      "videoId": "XNN-1CEoVVo"
+    },
+    {
+      "sourceStreams": [
+        "Kqhm3QCfR6Y"
+      ],
+      "title": "*Multi POV* Vivi Lost EVERYTHING On Her Adventure With Kanade - Holo Dragon Event \u3010ENG Sub Hololive\u3011",
+      "duration": "PT2M28S",
+      "videoId": "SFnFh30cr4E"
     }
   ]
 }
