@@ -38754,6 +38754,20 @@
       "title": "\u3010 #\u30db\u30ed\u30c9\u30e9\u30b4\u30f3\u30de\u30a4\u30af\u30e9  | DAY6 \u3011\u30c6\u30a4\u30e0\ud83d\udd25\u30c6\u30a4\u30e0\ud83d\udd25\u30c6\u30a4\u30e0\ud83d\udd25\u3010 \u732b\u53c8\u304a\u304b\u3086/\u30db\u30ed\u30e9\u30a4\u30d6 \u3011",
       "duration": "PT6H3M33S",
       "videoId": "SgteNK3ohUk"
+    },
+    {
+      "member": "SUBARU",
+      "publishedAt": "2025-12-16T17:03:39+00:00",
+      "title": "\u3010DAY7\u3011#\u30db\u30ed\u30c9\u30e9\u30b4\u30f3\u30de\u30a4\u30af\u30e9 \u5e7b\u306e\u30c9\u30e9\u30b4\u30f3\u3092\u30b2\u30c3\u30c8\u3057\u306b\u5927\u5192\u967a\u3078\u51fa\u767a\u3057\u3085\u3070\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\uff01\uff01\uff01\uff01\uff1aMINECRAFT\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u5927\u7a7a\u30b9\u30d0\u30eb\u3011",
+      "duration": "P0D",
+      "videoId": "omon-IlNd2A"
+    },
+    {
+      "member": "PEKORA",
+      "publishedAt": "2025-12-17T10:13:39+00:00",
+      "title": "\u3010\uff03\u30db\u30ed\u30c9\u30e9\u30b4\u30f3\u30de\u30a4\u30af\u30e9\u30117\u65e5\u76ee\uff01\u3068\u3093\u3067\u3082\u306a\u3044\u30c9\u30e9\u30b4\u30f3\u304c\u3044\u308b\u4e16\u754c\u3067\u751f\u304d\u6b8b\u308b\uff01\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
+      "duration": "P0D",
+      "videoId": "8XuLpVJyAdo"
     }
   ],
   "craftClips": [
@@ -88957,6 +88971,26 @@
       "title": "*Multi POV* Vivi Lost EVERYTHING On Her Adventure With Kanade - Holo Dragon Event \u3010ENG Sub Hololive\u3011",
       "duration": "PT2M28S",
       "videoId": "SFnFh30cr4E"
+    },
+    {
+      "sourceStreams": [
+        "K88Cl6psKIg",
+        "o7FKdB-yg30",
+        "VhhF5ZPFQSs",
+        "YxYiAqOJEjU",
+        "rVAOKz3G990"
+      ],
+      "title": "Luna Robs Kanata Then Nene Kills Her In Front Of Everyone \ud83d\udc80\u3010ENG Sub Hololive\u3011",
+      "duration": "PT2M30S",
+      "videoId": "6pnMxQKr5VA"
+    },
+    {
+      "sourceStreams": [
+        "gb-9y4zZr5k"
+      ],
+      "title": "Pekora and Okayu Teach Luna Shady Stuff | Minecraft [Hololive/Sub]",
+      "duration": "PT1M19S",
+      "videoId": "UJZgmF1uvlI"
     }
   ]
 }
