@@ -38782,6 +38782,20 @@
       "title": "\u3010\uff03\u30db\u30ed\u30c9\u30e9\u30b4\u30f3\u30de\u30a4\u30af\u30e9\u3011\u6700\u9ad8\u306e\u88c5\u5099\u3092\u3064\u304f\u308b\uff01\uff01\uff1f\uff1f\uff01\uff1f\uff01\u4eca\u65e5\u3082\u30ef\u30af\u30ef\u30af\u306e\u30de\u30a4\u30af\u30e9\uff01\uff01\u3010 \u6843\u9234\u306d\u306d / hololive \u3011",
       "duration": "PT2H2M39S",
       "videoId": "hatxFpkmr-8"
+    },
+    {
+      "member": "SUBARU",
+      "publishedAt": "2025-12-19T10:50:08+00:00",
+      "title": "\u3010\u6700\u7d42\u56de\u3011#\u30db\u30ed\u30c9\u30e9\u30b4\u30f3\u30de\u30a4\u30af\u30e9 \u5e7b\u306e\u30c9\u30e9\u30b4\u30f3\u3092\u30b2\u30c3\u30c8\u3057\u306b\u5927\u5192\u967a\u3078\u51fa\u767a\u3057\u3085\u3070\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\uff01\uff01\uff01\uff01\uff1aMINECRAFT\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u5927\u7a7a\u30b9\u30d0\u30eb\u3011",
+      "duration": "P0D",
+      "videoId": "tPV9mmduSKk"
+    },
+    {
+      "member": "PEKORA",
+      "publishedAt": "2025-12-19T15:20:59+00:00",
+      "title": "\u3010\uff03\u30db\u30ed\u30c9\u30e9\u30b4\u30f3\u30de\u30a4\u30af\u30e9\u3011\u6700\u7d42\u65e5\uff01\u30c9\u30e9\u30b4\u30f3\u304c\u3044\u308b\u4e16\u754c\u3067\u30e9\u30b9\u30dc\u30b9\u5012\u3059\u305e\uff01\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
+      "duration": "P0D",
+      "videoId": "ifqWlKDn_lQ"
     }
   ],
   "craftClips": [
@@ -89005,6 +89019,15 @@
       "title": "Pekora and Okayu Teach Luna Shady Stuff | Minecraft [Hololive/Sub]",
       "duration": "PT1M19S",
       "videoId": "UJZgmF1uvlI"
+    },
+    {
+      "sourceStreams": [
+        "omon-IlNd2A",
+        "8XuLpVJyAdo"
+      ],
+      "title": "Marine Ambushes Vivi After She Logged-In About Meeting Pekora IRL and Hugging Her\u3010Hololive\u3011",
+      "duration": "PT8M13S",
+      "videoId": "NBQ5_6lQwXE"
     }
   ]
 }
