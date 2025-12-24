@@ -38875,6 +38875,13 @@
       "videoId": "goQehrU3gQc"
     },
     {
+      "member": "SORA",
+      "publishedAt": "2025-12-23T14:18:52+00:00",
+      "title": "\u3010#\u30db\u30ed\u30e9\u30a4\u30d6\u30e9\u30f3\u30c9\u3011\u3061\u3087\u3063\u3068\u898b\u5b66\u306b\u884c\u304f\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3068\u304d\u306e\u305d\u3089\u3011",
+      "duration": "PT3H5M32S",
+      "videoId": "Bhney2LCYu0"
+    },
+    {
       "member": "PEKORA",
       "publishedAt": "2025-12-23T14:23:01+00:00",
       "title": "\u3010#\u30db\u30ed\u30e9\u30a4\u30d6\u30e9\u30f3\u30c9\u3011\u4eca\u3044\u304f\u3088\u304f\u308b\u3088\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
@@ -89140,6 +89147,25 @@
       "title": "Marine Ambushes Vivi After She Logged-In About Meeting Pekora IRL and Hugging Her\u3010Hololive\u3011",
       "duration": "PT8M13S",
       "videoId": "NBQ5_6lQwXE"
+    },
+    {
+      "sourceStreams": [
+        "SeG0AYhhHyY",
+        "1cuv_0zLVAk",
+        "zNBtyy3Xclo",
+        "I8Bl8k2cYpo"
+      ],
+      "title": "HoloJP Trying To Speak English With Gigi Is Too Cute and Wholesome\u3010Hololive\u3011",
+      "duration": "PT11M43S",
+      "videoId": "BA7Zd9yUoN0"
+    },
+    {
+      "sourceStreams": [
+        "Bhney2LCYu0"
+      ],
+      "title": "Tokino Sora Stuck In A Soap Opera | Minecraft [Hololive/Sub]",
+      "duration": "PT1M41S",
+      "videoId": "tPLH0WBqVe8"
     }
   ]
 }
