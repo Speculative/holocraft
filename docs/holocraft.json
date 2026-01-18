@@ -38964,6 +38964,13 @@
       "title": "\u3010Hytale\u3011\u8a71\u984c\u306e\u30de\u30a4\u30af\u30e9\u98a8\u30b5\u30f3\u30c9\u30dc\u30c3\u30af\u30b9\u3067\u30b5\u30d0\u30a4\u30d0\u30eb\u59cb\u3081\u3066\u307f\u308b\u305e\uff5e\uff01\u3010\u7345\u767d\u307c\u305f\u3093/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT3H39M50S",
       "videoId": "xvTOaEbwa78"
+    },
+    {
+      "member": "BOTAN",
+      "publishedAt": "2026-01-18T12:58:10+00:00",
+      "title": "\u3010Hytale\u3011\u8a71\u984c\u306e\u30de\u30a4\u30af\u30e9\u98a8\u30b5\u30f3\u30c9\u30dc\u30c3\u30af\u30b9\u3067\u30b5\u30d0\u30a4\u30d0\u30eb\u59cb\u3081\u3066\u307f\u308b\u305e\uff5e\uff01Day 2\u3010\u7345\u767d\u307c\u305f\u3093/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "PT3H46M54S",
+      "videoId": "8VTiOaVz7jQ"
     }
   ],
   "craftClips": [
@@ -89248,6 +89255,14 @@
       "title": "Subaru live reacts to Kanade's planned tour to say thank you to Subaru [hololive/ENG Sub]",
       "duration": "PT18M17S",
       "videoId": "Rb3z-ujG46E"
+    },
+    {
+      "sourceStreams": [
+        "xvTOaEbwa78"
+      ],
+      "title": "Shishiro Botan Can't Stop Laughing At HYTALE [Hololive/Sub]",
+      "duration": "PT2M7S",
+      "videoId": "oGKXuT1zp08"
     }
   ]
 }
