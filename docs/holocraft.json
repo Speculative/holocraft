@@ -38999,6 +38999,20 @@
       "title": "\u3010Hytale\u3011\u8a71\u984c\u306e\u30de\u30a4\u30af\u30e9\u98a8\u30b5\u30f3\u30c9\u30dc\u30c3\u30af\u30b9\uff01 \u2015 Day 3 \u65b0\u30d0\u30a4\u30aa\u30fc\u30e0\u3067\u4e0a\u4f4d\u9271\u77f3\u3092\u63a2\u3057\u305f\u3044\uff01\u3010\u7345\u767d\u307c\u305f\u3093/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT2H9M43S",
       "videoId": "xgH8kD_VnqI"
+    },
+    {
+      "member": "IZURU",
+      "publishedAt": "2026-01-22T10:30:38+00:00",
+      "title": "\u3010Minecraft\u3011\u306a\u3093\u3060\u304b\u602a\u3057\u3044\u30cf\u30fc\u30c9\u30b3\u30a2\u30de\u30a4\u30af\u30e9\u3010 \u594f\u624b\u30a4\u30c5\u30eb \u3011",
+      "duration": "P0D",
+      "videoId": "Vl4jEGt5ENE"
+    },
+    {
+      "member": "PEKORA",
+      "publishedAt": "2026-01-22T16:39:37+00:00",
+      "title": "\u3010Minecraft\u30112\u4eba\u3067\u5168\u5b9f\u7e3e\u89e3\u9664\u3078\u306e\u9053\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089/\u7dba\u3005\u7f85\u3005\u30f4\u30a3\u30f4\u30a3\u3011",
+      "duration": "PT2H26M40S",
+      "videoId": "GTiGR5UVJ-g"
     }
   ],
   "craftClips": [
@@ -89299,6 +89313,14 @@
       "title": "Shishiro Botan Is The Greatest Architect | HYTALE [Hololive/Sub]",
       "duration": "PT2M49S",
       "videoId": "FoARMWfvKTQ"
+    },
+    {
+      "sourceStreams": [
+        "xgH8kD_VnqI"
+      ],
+      "title": "Shishiro Botan Can't Stop Laughing At Arrow Stopping Grass | HYTALE [Hololive/Sub]",
+      "duration": "PT1M39S",
+      "videoId": "GqfuKJTe1_I"
     }
   ]
 }
