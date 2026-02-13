@@ -17028,13 +17028,6 @@
       "videoId": "43y-Db5MYfI"
     },
     {
-      "member": "PEKORA",
-      "publishedAt": "2021-09-03T17:13:58+00:00",
-      "title": "\u3010Minecraft\u3011\u30de\u30a4\u30af\u30e9\u3084\u3089\u305b\u308d\u304a\u304a\u304a\u304a\u304a\u304a\u304a\u304a\u304a\u304a\u304a\uff01\uff01\uff01\uff01\uff01\u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
-      "duration": "PT3H18M29S",
-      "videoId": "UIHuzY32GB8"
-    },
-    {
       "member": "MATSURI",
       "publishedAt": "2021-09-03T17:42:46+00:00",
       "title": "\u3010Minecraft\u3011\u30db\u30ed\u9bd6\u306b\u4f5c\u308a\u305f\u3044\u3082\u306e\u304c\u3042\u308b\u3088\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u590f\u8272\u307e\u3064\u308a\u3011",
@@ -48205,14 +48198,6 @@
     },
     {
       "sourceStreams": [
-        "UIHuzY32GB8"
-      ],
-      "title": "Flare's Cute \"Kyaa\", Subaru Scared?, Pekora Found Out Moona's Secret",
-      "duration": "PT3M37S",
-      "videoId": "qNwczp0GoHA"
-    },
-    {
-      "sourceStreams": [
         "jSjOQP4PveM"
       ],
       "title": "(Moe) Shion's Mom Walks In and she Forgets to Mute her Mic [ENG]",
@@ -48237,8 +48222,7 @@
     },
     {
       "sourceStreams": [
-        "NM8X0yYLBk4",
-        "UIHuzY32GB8"
+        "NM8X0yYLBk4"
       ],
       "title": "[Hololive Compilation] Ritore's Translator Choice #59 [9/5]",
       "duration": "PT10M57S",
@@ -54583,35 +54567,11 @@
     },
     {
       "sourceStreams": [
-        "UIHuzY32GB8"
-      ],
-      "title": "Pekora Got Triggered By Flare Comment About Her Pandora Box Hideout | Minecraft [Hololive/Eng Sub]",
-      "duration": "PT1M5S",
-      "videoId": "YT254yjlM-4"
-    },
-    {
-      "sourceStreams": [
         "NM8X0yYLBk4"
       ],
       "title": "Shiranui Flare Start Speaking Like Princess In Front of New viewer | Minecraft [Hololive/Eng Sub]",
       "duration": "PT46S",
       "videoId": "I1TrIQykLkY"
-    },
-    {
-      "sourceStreams": [
-        "UIHuzY32GB8"
-      ],
-      "title": "Pekora Visit Id Mall n Try To Report a Golem To police | Minecraft [Hololive/Eng Sub]",
-      "duration": "PT1M",
-      "videoId": "C1o1ypMPPPk"
-    },
-    {
-      "sourceStreams": [
-        "UIHuzY32GB8"
-      ],
-      "title": "Pekora Found Out That Moona Selling Rabit Foot In Id Mall | Minecraft [Hololive/Eng Sub]",
-      "duration": "PT1M25S",
-      "videoId": "Wx2DERspXx4"
     },
     {
       "sourceStreams": [
@@ -81513,7 +81473,6 @@
     },
     {
       "sourceStreams": [
-        "UIHuzY32GB8",
         "Bk5NqIn58yI"
       ],
       "title": "Watame Talks About YAGOO Pekopeko and Her Appearance In Peko's News 4.1\u3010Hololive Eng Sub\u3011",
@@ -83219,14 +83178,6 @@
     },
     {
       "sourceStreams": [
-        "UIHuzY32GB8"
-      ],
-      "title": "Pekora's Brain  Is Really Unpredictable When She Think About Something\u3010Hololive English Sub\u3011",
-      "duration": "PT3M8S",
-      "videoId": "gWRrK3J3oUY"
-    },
-    {
-      "sourceStreams": [
         "F5Z2ghuBVsk"
       ],
       "title": "Chat Immediately Tell Rushia's Nickname After She Wants A Nickname Like Noel and Marine\u3010Hololive En\u3011",
@@ -83243,20 +83194,11 @@
     },
     {
       "sourceStreams": [
-        "UIHuzY32GB8",
         "Bk5NqIn58yI"
       ],
       "title": "Watame and Pekora Talk About The Specialty Of Their Bakudanyaki Honpo Collab Menu\u3010Hololive Eng Sub\u3011",
       "duration": "PT6M46S",
       "videoId": "Io1IKUDeyWI"
-    },
-    {
-      "sourceStreams": [
-        "UIHuzY32GB8"
-      ],
-      "title": "Pekora Plans To Stonk HoloID Mall Popularity By Opening A Stall & Extorting The Mall's Management",
-      "duration": "PT2M12S",
-      "videoId": "ulJHzFMeVZ0"
     },
     {
       "sourceStreams": [
@@ -89387,6 +89329,14 @@
       "title": "Korone thanks Subaru for filling in her spot in Fake Gamers [hololive/ENG Sub]",
       "duration": "PT1M28S",
       "videoId": "DpGCMWyLHcg"
+    },
+    {
+      "sourceStreams": [
+        "sUMSFgNs_HM"
+      ],
+      "title": "Subaru joined Su's call-in right after coming back from the dentist [hololive/ENG Sub]",
+      "duration": "PT5M9S",
+      "videoId": "E5oGXZiY2v0"
     }
   ]
 }
