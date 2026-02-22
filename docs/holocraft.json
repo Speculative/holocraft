@@ -5674,6 +5674,13 @@
       "videoId": "Oy3YsVTvHyw"
     },
     {
+      "member": "KIARA",
+      "publishedAt": "2020-10-12T18:48:25+00:00",
+      "title": "\u3010Minecraft\u3011I GOT THEM SHADERS #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6",
+      "duration": "PT4H23M31S",
+      "videoId": "oMwdp12-OIA"
+    },
+    {
       "member": "FLARE",
       "publishedAt": "2020-10-12T19:10:04+00:00",
       "title": "\u3010\u30de\u30a4\u30f3\u30af\u30e9\u30d5\u30c8/Minecraft\u3011\u30ec\u30f3\u30ac\u3067\u5ead\u3092\u9020\u308b\u3088\uff01Build a garden with bricks!\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u4e0d\u77e5\u706b\u30d5\u30ec\u30a2\u3011",
@@ -10278,13 +10285,6 @@
       "title": "\u3010Minecraft\u3011My House\ud83d\udd28\u5b9f\u5bb6\u306e\u3088\u3046\u306a\u5b89\u5fc3\u611f\u3092\u76ee\u6307\u3057\u3066\uff01\u3010\u767d\u9280\u30ce\u30a8\u30eb/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
       "duration": "PT3H35M10S",
       "videoId": "TIrQY21PQtc"
-    },
-    {
-      "member": "AKI",
-      "publishedAt": "2021-01-28T17:10:32+00:00",
-      "title": "\u3010Minecraft\u3011Day1/\u4f5c\u308a\u305f\u3044\u3082\u306e\u307f\u3064\u3051\u305f\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u30a2\u30ad\u30ed\u30bc\u3011",
-      "duration": "PT1H37M34S",
-      "videoId": "a-LYF3V5V-w"
     },
     {
       "member": "MOONA",
@@ -40557,6 +40557,14 @@
     },
     {
       "sourceStreams": [
+        "oMwdp12-OIA"
+      ],
+      "title": "OMAE WA MOU (ft. Enderman)",
+      "duration": "PT20S",
+      "videoId": "zTkocKlhfCY"
+    },
+    {
+      "sourceStreams": [
         "NS3_sNTwIRw"
       ],
       "title": "Kiara cuddles Calli for 30 seconds",
@@ -43596,7 +43604,8 @@
       "sourceStreams": [
         "3_mDtToNWLQ",
         "0Qygvs0rG50",
-        "-ayCKHL_BAw"
+        "-ayCKHL_BAw",
+        "oMwdp12-OIA"
       ],
       "title": "[Hololive EN] Gura & Amelia - Operation: \"Gura's Back(Door)\"",
       "duration": "PT17M50S",
@@ -44519,6 +44528,7 @@
         "H6lCL8ka4e4",
         "l2ENZDBQrJY",
         "f91IbFXZN1Y",
+        "oMwdp12-OIA",
         "L4FqaD9VTgo",
         "8gml7KEFVm4",
         "3Df4RVddFmU",
@@ -45774,6 +45784,7 @@
     },
     {
       "sourceStreams": [
+        "oMwdp12-OIA",
         "n4P71uiBMUc",
         "DJV62PfN_jA",
         "p7LiVj8tWmc",
@@ -48080,6 +48091,7 @@
         "0Ku9whb3LDI",
         "jj4yfUwRV-I",
         "AjrpKG9VY2o",
+        "oMwdp12-OIA",
         "f91IbFXZN1Y",
         "BBN2NdPGbGM"
       ],
@@ -56065,6 +56077,7 @@
         "7PrcEUr6PY4",
         "xGsQQSZfhOo",
         "Ll7JM_kQryc",
+        "oMwdp12-OIA",
         "uu8t0NGySzg"
       ],
       "title": "\ud835\udddb\ud835\uddfc\ud835\uddf9\ud835\uddfc\ud835\uddd8\ud835\udde1 vs \ud835\udfee\ud835\ude05\ud835\udfee vs \ud835\uddd6\ud835\uddf5\ud835\uddee\ud835\ude01",
@@ -68671,7 +68684,6 @@
     {
       "sourceStreams": [
         "J6yd9EjLmyk",
-        "a-LYF3V5V-w",
         "A1p22EzJEu8"
       ],
       "title": "Roboco Lost All Her Items, Akirose and The Season, Flare Suicide News, Miko Seeing a Beautiful View",
