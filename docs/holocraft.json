@@ -39083,6 +39083,13 @@
       "title": "\u3010Minecraft\u3011\u306e\u3093\u3073\u308a\u904e\u3054\u3057\u3066\u307e\u3063\u305f\u308a\u304a\u3057\u3083\u3079\u308a\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u3068\u304d\u306e\u305d\u3089\u3011",
       "duration": "PT2H23M10S",
       "videoId": "CG_MB49mcZg"
+    },
+    {
+      "member": "OKAYU",
+      "publishedAt": "2026-03-18T17:07:59+00:00",
+      "title": "\u3010 Minecraft \u3011\u9244\u7e1b\u308a\u30cf\u30fc\u30c9\u30b3\u30a2\u2049\ufe0f\u30a8\u30f3\u30c0\u30fc\u30c9\u30e9\u30b4\u30f3\u8a0e\u4f10\u76ee\u6307\u3059\ud83d\udd25\u3010 \u732b\u53c8\u304a\u304b\u3086/\u30db\u30ed\u30e9\u30a4\u30d6 \u3011",
+      "duration": "P0D",
+      "videoId": "OjzXTAvRFk4"
     }
   ],
   "craftClips": [
@@ -89439,6 +89446,14 @@
       "title": "Kiara talk about her first time meeting Pekora to Subaru [hololive/ENG Sub]",
       "duration": "PT1M54S",
       "videoId": "0iKxW5KqBPs"
+    },
+    {
+      "sourceStreams": [
+        "CG_MB49mcZg"
+      ],
+      "title": "Sora Was Caught Off-Guard By Kronii Malding IRL \ud83d\udc80\u3010ENG Sub Hololive\u3011",
+      "duration": "PT2M15S",
+      "videoId": "bRpXLihwnAs"
     }
   ]
 }
