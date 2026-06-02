@@ -39300,6 +39300,34 @@
       "title": "\u3010#\u30db\u30ed\u91d1\u7b56\u30b5\u30d0\u30a4\u30d0\u30eb2\u3011\u91d1\u7b56\u30de\u30a4\u30af\u30e9\u3084\u308b\u3057\u3085\u3070\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\uff01\uff01\uff01\uff01\uff01\uff01\uff1aMINECRAFT\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u5927\u7a7a\u30b9\u30d0\u30eb\u3011",
       "duration": "PT4H42M56S",
       "videoId": "DQUFkgco1RQ"
+    },
+    {
+      "member": "LUNA",
+      "publishedAt": "2026-06-02T15:25:27+00:00",
+      "title": "\u3010 #\u30db\u30ed\u91d1\u7b56\u30b5\u30d0\u30a4\u30d0\u30eb2 \u3011\u4eca\u5ea6\u3053\u305d\u30de\u30a4\u30af\u30e9FIRE\u751f\u6d3b\u3092\u76ee\u6307\u3059\u306e\u3089\uff01\uff01\uff01Day3\u3010\u59eb\u68ee\u30eb\u30fc\u30ca/\u30db\u30ed\u30e9\u30a4\u30d6\u3011",
+      "duration": "P0D",
+      "videoId": "x-LAfopJ6yU"
+    },
+    {
+      "member": "KORONE",
+      "publishedAt": "2026-06-02T15:27:54+00:00",
+      "title": "\u3010#\u30db\u30ed\u91d1\u7b56\u30b5\u30d0\u30a4\u30d0\u30eb2\u3011\u3053\u308d\u306d\u652f\u5e97 \uff5e2\u65e5\u76ee\uff5e \u3010Minecraft\u3011",
+      "duration": "PT4H16M55S",
+      "videoId": "vkO4H30zevQ"
+    },
+    {
+      "member": "PEKORA",
+      "publishedAt": "2026-06-02T15:27:54+00:00",
+      "title": "\u3010Minecraft\u3011#\u30db\u30ed\u91d1\u7b56\u30b5\u30d0\u30a4\u30d0\u30eb2 \u304a\u91d1\u3092\u7a3c\u304e\u305f\u3044( ^\u03c9^ ) DAY3 \u307a\u3053\uff01\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u514e\u7530\u307a\u3053\u3089\u3011",
+      "duration": "P0D",
+      "videoId": "gSV9jaXfW6w"
+    },
+    {
+      "member": "SUBARU",
+      "publishedAt": "2026-06-02T15:47:19+00:00",
+      "title": "\u3010#\u30db\u30ed\u91d1\u7b56\u30b5\u30d0\u30a4\u30d0\u30eb2\u3011\u30d5\u30a1\u30fc\u30de\u30fc\u3001\u899a\u609f\u306eDAY3 \u91d1\u7b56\u30de\u30a4\u30af\u30e9\u3084\u308b\u3057\u3085\u3070\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\uff01\uff01\uff01\uff01\uff01\uff01\uff1aMINECRAFT\u3010\u30db\u30ed\u30e9\u30a4\u30d6/\u5927\u7a7a\u30b9\u30d0\u30eb\u3011",
+      "duration": "P0D",
+      "videoId": "IygB_BVdUTg"
     }
   ],
   "craftClips": [
@@ -87219,6 +87247,23 @@
       "title": "Korone Gets Caught Off Guard By Stealth Master Ina [Hololive]",
       "duration": "PT4M45S",
       "videoId": "Og6puhgiMiU"
+    },
+    {
+      "sourceStreams": [
+        "vkO4H30zevQ"
+      ],
+      "title": "When Korone Found Out That FUWAMOCO Tried to Sell Off the Koronesuki That They Received as Presents",
+      "duration": "PT5M55S",
+      "videoId": "814JrUBoZng"
+    },
+    {
+      "sourceStreams": [
+        "DQUFkgco1RQ",
+        "4nSaDeXjKLI"
+      ],
+      "title": "HoloJP Keeps Ambushing Ina While She's Trying To Be Introverted\u3010Hololive\u3011",
+      "duration": "PT12M47S",
+      "videoId": "r5kja3_pudo"
     }
   ]
 }
