@@ -8,32 +8,33 @@ on:
 
 jobs:
   update:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write
 
     steps:
-      - uses: actions/checkout@v2
-        with:
-          ref: ${{ github.head_ref }}
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-python@v2
+      - uses: actions/setup-python@v7
         with:
-          python-version: 3.9
+          python-version: '3.11'
 
       - name: Install poetry
-        run: pip install poetry==1.4.2
+        run: python -m pip install poetry==1.4.2
 
       - name: Poetry get deps
-        run: poetry install
+        run: poetry install --only main --no-root --no-interaction
 
-      - name: Do the subscriber count update
+      - name: Update the Minecraft timeline
         shell: bash
         env:
           YT_API_KEY: ${{ secrets.YT_API_KEY }}
         run: poetry run python -m updater.update_holocraft "$YT_API_KEY"
 
       - name: Commit & push
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
+          file_pattern: updater/holocraft_all.json docs/holocraft.json
           commit_message: Hallo-bo! Daily minecraft update-dayo!
           commit_user_name: Roboco-san
           commit_user_email: high-spec@github.com
